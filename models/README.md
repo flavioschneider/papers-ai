@@ -13,3 +13,9 @@ pip3 install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+## Running experiment
+
+```bash
+python run.py experiment=exp_XXX
+```

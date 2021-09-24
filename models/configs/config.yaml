@@ -1,0 +1,7 @@
+defaults:
+  - _self_    # Self properties added before exp, hence exp can override e.g. seed. 
+  - exp: null 
+
+seed: 12345
+work_dir: ${hydra:runtime.cwd}  # This is the root of the project
+logs_dir: ${oc.env:DIR_SCRATCH}/logs  # This is the root for all logs

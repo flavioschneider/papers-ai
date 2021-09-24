@@ -1,0 +1,187 @@
+[
+  {
+    "paperId": "d77719ba4be4196c9a918ce8dff0edf5aa3c04e7", 
+    "title": "A Review of Challenges and Opportunities in Machine Learning for Health."
+  },
+  {
+      "paperId": "e8d330f11df9c69f38b78a7cc4b1333ebecf7c55",
+      "title": "Ethical Machine Learning in Health Care"
+  },
+  {
+      "paperId": "e7bf950be4cf8309d0df68d18fa09e77f5b2511a",
+      "title": "De-identification of patient notes with recurrent neural networks"
+  },
+  {
+      "paperId": "defeaddec92b53fc2e9787cc3652e3d8be812193",
+      "title": "Segment convolutional neural networks (Seg-CNNs) for classifying relations in clinical notes"
+  },
+  {
+      "paperId": "4554bc45be85cca73e3f94220c8cb056cf6ebf74",
+      "title": "Fast, Structured Clinical Documentation via Contextual Autocomplete"
+  },
+  {
+      "paperId": "55868b21711ff4e0020532a2e13e2046a4311baa",
+      "title": "An Artificial Intelligence Algorithm to Identify Documented Symptoms in Patients with Heart Failure who Received Cardiac Resynchronization Therapy (S717)"
+  },
+  {
+      "paperId": "4fd75d18b231f73e9c878cb6029900e4b0e327bb",
+      "title": "Intimate Partner Violence and Injury Prediction From Radiology Reports"
+  },
+  {
+      "paperId": "e21ab639b0308a71aeac643a12f59a32603d091d",
+      "title": "UPSTAGE: Unsupervised Context Augmentation for Utterance Classification in Patient-Provider Communication"
+  },
+  {
+      "paperId": "4a10dffca6dcce9c570cb75aa4d76522c34a2fd4",
+      "title": "CORD-19: The COVID-19 Open Research Dataset"
+  },
+  {
+      "paperId": "3f8d4444cd124e21d4fa47b514c8267a3d5d9649",
+      "title": "Can AI Help Reduce Disparities in General Medical and Mental Health Care?"
+  },
+  {
+      "paperId": "763297e4e80ef5df472fa7a17c5a5d045def0a40",
+      "title": "CrisisBench: Benchmarking Crisis-related Social Media Datasets for Humanitarian Information Processing"
+  },
+  {
+      "paperId": "462cc2046ef4d48d844813b66d8a1ed6dfda3bc0",
+      "title": "HumAID: Human-Annotated Disaster Incidents Data from Twitter with Deep Learning Benchmarks"
+  },
+  {
+      "paperId": "2a29f7cc10fc18ce6e031e0cf6fc307a6b85d8e9",
+      "title": "CrisisMMD: Multimodal Twitter Datasets from Natural Disasters"
+  },
+  {
+      "paperId": "2d40f76055a7c28dd30c8b8f60c31724f8991cd8",
+      "title": "The Ivory Tower Lost: How College Students Respond Differently than the General Public to the COVID-19 Pandemic"
+  },
+  {
+      "paperId": "561ede166947a8bedb8be9acff182913156e06c6",
+      "title": "Domain Adaptation with Adversarial Training and Graph Embeddings"
+  },
+  {
+      "paperId": "579914dac924d6b4a17889ea7b0dd744a62bbd74",
+      "title": "IBC-C : A Dataset for Armed Conflict Event Analysis"
+  },
+  {
+      "paperId": "3004f78d84752f3ffe8e54fa265b2ee85dac9728",
+      "title": "Text as Data for Conflict Research: A Literature Survey"
+  },
+  {
+      "paperId": "42c63d952f0cce7f89738e818fc9ab4e723bf7b6",
+      "title": "One-to-X analogical reasoning on word embeddings: a case for diachronic armed conflict prediction from news texts"
+  },
+  {
+      "paperId": "2ca0403eabc3893fed255fc119a927d83a1af739",
+      "title": "Tracing armed conflicts with diachronic word embedding models"
+  },
+  {
+      "paperId": "0cdeb238355617a640471987af36d8e09cd905c0",
+      "title": "Event Data on Armed Conflict and Security: New Perspectives, Old Challenges, and Some Solutions"
+  },
+
+  {
+      "paperId": "4ed75f35ae7343cd906f311390f572a58e36805c",
+      "title": "Enriching textbooks through data mining"
+  },
+  {
+      "paperId": "aea14f23a951975f605a981d003386e46bf8acfe",
+      "title": "A Neural Approach to Automated Essay Scoring"
+  },
+  {
+      "paperId": "0eb5872733e643f43a0c1a7ff78953dfea74dfea",
+      "title": "Automated Scoring: Beyond Natural Language Processing"
+  },
+  {
+      "paperId": "636d4c0b0fe6919abe6eb546907d28ed39bf56e6",
+      "title": "Using Natural Language Processing for Automatic Detection of Plagiarism"
+  },
+  {
+      "paperId": "bc6a4304afdf59783638a6a0d9fc2c2acb6e5b67",
+      "title": "Educational Question Answering Motivated by Question-Specific Concept Maps"
+  },
+  {
+      "paperId": "e3bfb8a9ff3fe89a8e7747a82c7c0172d275ef3a",
+      "title": "Question answering system on education acts using NLP techniques"
+  },
+  {
+      "paperId": "311381feeb6346bfcb2ba622bd8f713261a4075d",
+      "title": "Modeling the Relationship between User Comments and Edits in Document Revision"
+  },
+  {
+      "paperId": "911e61212eb26325d3fe58f454f36f4e70c54c7a",
+      "title": "Characterizing Stage-aware Writing Assistance for Collaborative Document Authoring"
+  },
+  {
+      "paperId": "f8868be52c8c0d64920e5f67870c01ba48601608",
+      "title": "Natural Language Processing and Language Learning"
+  },
+  {
+      "paperId": "81d13af7eb78725492854bb9860b57af2b2a1778",
+      "title": "Data Mining and Student e-Learning Profiles"
+  },
+  {
+      "paperId": "d114af5d3dcb3792bd9faec1476feba5aaf3617f",
+      "title": "A Multimodal Human-Computer Interaction System and Its Application in Smart Learning Environments"
+  },
+  {
+      "paperId": "9b0c9d241269b98c80f65a14d5d65263d0688d70",
+      "title": "What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations"
+  },
+  {
+      "paperId": "065332576fd9b264a5a338549239bb39e6733819",
+      "title": "Inferring Social Media Users’ Mental Health Status from Multimodal Information"
+  },
+  {
+      "paperId": "aa2bbf5a1485cc90401e4a35c04463fcb4e632f0",
+      "title": "Quantifying the Effects of COVID-19 on Mental Health Support Forums"
+  },
+  {
+      "paperId": "c278eb333c78313a3762b5b2f07ace7443582b94",
+      "title": "Expressive Interviewing: A Conversational System for Coping with COVID-19"
+  },
+  {
+      "paperId": "35112c6bfa715b2bc86fc5b6c331f8a1a0b07add",
+      "title": "Understanding and Predicting Empathic Behavior in Counseling Therapy"
+  },
+  {
+      "paperId": "55925bc2522a1d4cb007ac78273f7c2efafa3916",
+      "title": "Predicting Counselor Behaviors in Motivational Interviewing Encounters"
+  },
+  {
+      "paperId": "c151f144c2c0e8d3b176edaf2ce5369c7707bd31",
+      "title": "Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health"
+  },
+  {
+      "paperId": "b688b67aa1980225e72e81f3d971d0e97a0d5484",
+      "title": "Building a Motivational Interviewing Dataset"
+  },
+  {
+      "paperId": "c2fd13dab7a581f2f875826b204d063f42b63a8b",
+      "title": "Happiness Entailment: Automating Suggestions for Well-Being"
+  },
+  {
+      "paperId": "c239aaa2a87ea63fae666b2051f1923afaa45fc2",
+      "title": "HappyDB: A Corpus of 100, 000 Crowdsourced Happy Moments"
+  },
+  {
+      "paperId": "7cb5bc9f8bc023f1f2c94e2e83012f1d35e4e01d",
+      "title": "Ingredients for Happiness: Modeling constructs via semi-supervised content driven inductive transfer"
+  },
+  {
+      "paperId": "1b41d919b912795927109fde8383d5bc25467b3c",
+      "title": "HopeEDI: A Multilingual Hope Speech Detection Dataset for Equality, Diversity, and Inclusion"
+  },
+  {
+      "paperId": "64c68fa52491c4a815f21917e068e4c19dd404b0",
+      "title": "FERMI at SemEval-2019 Task 5: Using Sentence embeddings to Identify Hate Speech Against Immigrants and Women in Twitter"
+  },
+  {
+      "paperId": "9de154d3c886177380062be7c8d50304a335752f",
+      "title": "Fermi at SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media using Sentence Embeddings"
+  },
+  {
+      "paperId": "32bf7ad3fdda71036b48f7dc85cad407674277b7",
+      "title": "Women worry about family, men about the economy: Gender differences in emotional responses to COVID-19"
+  }
+]

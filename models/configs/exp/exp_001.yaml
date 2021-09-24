@@ -1,0 +1,10 @@
+# @package _global_
+type: script 
+
+script:
+  _target_: src.scripts.papers_abstract_to_tsne.PapersAbstractToTSNE
+  config:
+    papers_in_dir: ${work_dir}/data/papers.json
+    papers_out_dir: ${work_dir}/../ui/public/papers.json
+
+
