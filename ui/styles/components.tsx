@@ -36,7 +36,7 @@ export const Text = styled('p', {
   fontFamily: '$sans',
   fontSize: '$3',
   fontWeight: 300,
-  lineHeight: '$5',
+  lineHeight: '$4',
 
   variants: {
     type: {
@@ -46,9 +46,9 @@ export const Text = styled('p', {
         lineHeight: '$7',
       },
       subtitle: {
-        fontSize: '$4',
+        fontSize: '$5',
         fontWeight: 500,
-        lineHeight: '$4',
+        lineHeight: '$5',
       },
     },
     mono: {
@@ -57,6 +57,7 @@ export const Text = styled('p', {
         fontSize: '$2',
         fontWeight: '370',
         color: '$contrast11',
+        lineHeight: '$3',
       },
     },
   },

@@ -1,16 +1,21 @@
+import dynamic from 'next/dynamic';
 import { useEffect, useState } from 'react';
 import { Box, Text, Span, Link } from '@styles/components';
 import { styled } from '@styles/config';
 import * as Icon from 'react-feather';
 import { useTheme } from 'next-themes';
 import * as ToggleGroupPrimitive from '@radix-ui/react-toggle-group';
+import PapersPlot from '@components/PapersPlot';
+import papers from 'public/papers.json';
 
-export default function Home({ posts }) {
+export default function Home({ papers }) {
   const { setTheme, theme } = useTheme();
   const [mounted, setMounted] = useState(false);
+  const [paper, setPaper] = useState(papers[0]);
 
   function onToggleChange(value) {
-    if (value !== '') setTheme(value);
+    if (value === '') setTheme('system');
+    else setTheme(value);
   }
 
   // To avoid having `theme` undefined.
@@ -18,42 +23,61 @@ export default function Home({ posts }) {
   if (!mounted) return null;
 
   return (
-    <Box column center css={{ py: '$5' }}>
-      <Box container>
-        <Text type="title" css={{ py: '$5' }}>
-          {' '}
-          Hello World{' '}
-        </Text>
-        <Text>
-          {' '}
-          This is a dummy text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-          commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-          parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
-          eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-          aliquet nec, vulputate eget, arcu.{' '}
-        </Text>
-      </Box>
-
-      <Box container css={{ py: '$5' }}>
-        <ToggleGroup
-          type="single"
-          defaultValue={theme}
-          aria-label="Theme"
-          onValueChange={(value) => onToggleChange(value)}
+    <Box column center>
+      <Box row css={{ width: '100vw', height: '100vh' }}>
+        <Box
+          css={{
+            width: '30vw',
+            height: '100vh',
+            p: '$4',
+            py: '$5',
+            bc: '$contrast2',
+            overflow: 'scroll',
+          }}
         >
-          <ToggleGroupItem value="light" aria-label="Day">
-            <Icon.Sun size={18} />
-          </ToggleGroupItem>
-          <ToggleGroupItem value="system" aria-label="Auto">
-            AUTO
-          </ToggleGroupItem>
-          <ToggleGroupItem value="dark" aria-label="Night">
-            <Icon.Moon size={18} />
-          </ToggleGroupItem>
-        </ToggleGroup>
+          <Text type="subtitle" css={{ pb: '$4' }}>
+            {paper.title}
+          </Text>
+          <Text mono css={{ pb: '$4' }}>
+            {paper.authors.map((author) => `${author.name}, `)}
+          </Text>
+          <Text css={{ pb: '$3' }}>{paper.abstract}</Text>
+
+          <Text mono css={{ pb: '$3' }}>
+            <Link underline href={paper.url}>
+              Open in Semantic Scholar
+            </Link>
+          </Text>
+          <br />
+          <ToggleGroup
+            type="single"
+            defaultValue={theme}
+            aria-label="Theme"
+            onValueChange={(value) => onToggleChange(value)}
+            css={{ pt: '$4' }}
+          >
+            <ToggleGroupItem value="light" aria-label="Day">
+              <Icon.Sun size={18} />
+            </ToggleGroupItem>
+            <ToggleGroupItem value="dark" aria-label="Night">
+              <Icon.Moon size={18} />
+            </ToggleGroupItem>
+          </ToggleGroup>
+        </Box>
+        <PapersPlot
+          style={{ width: '70vw', height: '100vh' }}
+          papers={papers}
+          onClick={(id) => setPaper(papers[id])}
+        />
       </Box>
     </Box>
   );
+}
+
+export async function getStaticProps(context) {
+  return {
+    props: { papers }, // will be passed to the page component as props
+  };
 }
 
 const StyledToggleGroup = styled(ToggleGroupPrimitive.Root, {
