@@ -4,6 +4,8 @@ type: script
 script:
   _target_: src.scripts.papers_abstract_to_tsne.PapersAbstractToTSNE
   config:
+    from_store: true 
+    papers_store_dir: ${work_dir}/data/
     papers_in_dir: ${work_dir}/data/papers.json
     papers_out_dir: ${work_dir}/../ui/public/papers.json
 

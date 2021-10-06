@@ -183,5 +183,277 @@
   {
       "paperId": "32bf7ad3fdda71036b48f7dc85cad407674277b7",
       "title": "Women worry about family, men about the economy: Gender differences in emotional responses to COVID-19"
+  },
+  {
+    "paperId": "998039a4876edc440e0cabb0bc42239b0eb29644",
+    "title": "Tackling Climate Change with Machine Learning"
+  },
+  {
+    "paperId": "a9d09338a3a0d9102c1e623e6ad434a446c0bbfe",
+    "title": "Automatic Classification of Neutralization Techniques in the Narrative of Climate Change Scepticism"
+  },
+  {
+    "paperId": "52ef2bea83eba1575fcfd02c82b4228f7aab0bd6",
+    "title": "Cheap Talk and Cherry-Picking: What ClimateBert has to say on Corporate Climate Risk Disclosures"
+  },
+  {
+    "paperId": "bbc6486ad37365b77b9d0de8894f595d70af49ac",
+    "title": "Ask BERT: How Regulatory Disclosure of Transition and Physical Climate Risks affects the CDS Term Structure"
+  },
+  {
+    "paperId": "1d37460baded22f488085e82985419178679dce0",
+    "title": "The Climate Change Debate and Natural Language Processing"
+  },
+  {
+    "paperId": "1d7a0e8be2bbe7d148bb48a1f9de218beaea4ed5",
+    "title": "DeSMOG: Detecting Stance in Media On Global Warming"
+  },
+  {
+    "paperId": "086e6733e5fda70bbce0c7545bd06d5634918a60",
+    "title": "CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims"
+  },
+  {
+    "paperId": "134c8486ae58b421681656c85bbc48dc862f6f98",
+    "title": "ClimaText: A Dataset for Climate Change Topic Detection"
+  },
+  {
+    "paperId": "418b9f37b07a05b38798e97f57e17a6cc1048b92",
+    "title": "You are right. I am ALARMED - But by Climate Change Counter Movement"
+  },
+  {
+    "paperId": "171847842d161743f2b52dc4f85c121087ceb426",
+    "title": "Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation"
+  },
+  {
+    "paperId": "f071e7c19fc18fc4d4ab69ce13f0c4e92cfb08c4",
+    "title": "Learning Twitter User Sentiments on Climate Change with Limited Labeled Data"
+  },
+  {
+    "paperId": "29584ed6d68a06fdf91440a018f6bc83a44fd177",
+    "title": "Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases"
+  },
+  {
+    "paperId": "9b1653e3b57016958d10ff8531475eb0483d156c",
+    "title": "Social Privacy in Networked Publics: Teens’ Attitudes, Practices, and Strategies"
+  },
+  {
+    "paperId": "3475876c3f5e624587181744bc5acf4223aecd00",
+    "title": "Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings"
+  },
+  {
+    "paperId": "2547836827e0423f198320977d393f574e0fb3d6",
+    "title": "Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies"
+  },
+  {
+    "paperId": "a12d22ff91ce159a0d3558ed5aaed115115beabd",
+    "title": "Fine-Grained Analysis of Propaganda in News Articles"
+  },
+  {
+    "paperId": "546c87abc26137359c43898559884ba9d6c5ae64",
+    "title": "Predicting the Role of Political Trolls in Social Media"
+  },
+  {
+    "paperId": "9c2cab0e72f2588e857671c1fbb13b5fba8f2586",
+    "title": "Cross-Platform Disinformation Campaigns: Lessons Learned and Next Steps"
+  },
+  {
+    "paperId": "7de1c0db3b3848d1a51dbfefce8b73e89a682177",
+    "title": "Classification of Moral Foundations in Microblog Political Discourse"
+  },
+  {
+    "paperId": "08e3ce4454012d928470efa96a54aa08dd8a96b0",
+    "title": "Automatically Characterizing Targeted Information Operations Through Biases Present in Discourse on Twitter"
+  },
+  {
+    "paperId": "c0472b63d7d45d948dea42c4b5efffb6859541f9",
+    "title": "Technology, Autonomy, and Manipulation"
+  },
+  {
+    "paperId": "c0a2ee56fc80d971e920fba6179f81b515533592",
+    "title": "Historical Change in the Moral Foundations of Political Persuasion"
+  },
+  {
+    "paperId": "c152071250daab47d089d5edbe7646e8f2afd9f4",
+    "title": "Measuring Proximity Between Newspapers and Political Parties: The Sentiment Political Compass"
+  },
+  {
+    "paperId": "d89e89eac7882790b48ad73376742e7a93fea4fd",
+    "title": "Red Bots Do It Better:Comparative Analysis of Social Bot Partisan Behavior"
+  },
+  {
+    "paperId": "b83ed374ab07c781dc44af0b67be359891f7577e",
+    "title": "Acting the Part: Examining Information Operations Within #BlackLivesMatter Discourse"
+  },
+  {
+    "paperId": "c30980e5575510ebafe3604879615d98d541fcc0",
+    "title": "Potemkin Pages & Personas: Assessing GRU Online Operations, 2014-2019"
+  },
+  {
+    "paperId": "7f6c99378f8f918c06d47ac3b794a506cb647c29",
+    "title": "Blame it on Iran, Qatar, and Turkey: An analysis of a Twitter and Facebook operation linked to Egypt, the UAE, and Saudi Arabia"
+  },
+  {
+    "paperId": "d597927f78001b267304045be953679c505a78c8",
+    "title": "Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics"
+  },
+  {
+    "paperId": "9e82aba279807a6c8541c8811f049a40ebca36c1",
+    "title": "Issue Framing in Online Discussion Fora"
+  },
+  {
+    "paperId": "20a37289d0b7c90065850eb7bf96d5ac3c8a21e4",
+    "title": "Modeling Frames in Argumentation"
+  },
+  {
+    "paperId": "16981cc4ddefd3ea7655754fd83a2a8ff2203a8b",
+    "title": "Automatically Neutralizing Subjective Bias in Text"
+  },
+  {
+    "paperId": "a0a5669b310ceb3840a599bf4f27a077a643d613",
+    "title": "A Systematic Media Frame Analysis of 1.5 Million New York Times Articles from 2000 to 2017"
+  },
+  {
+    "paperId": "245bcbdfff19721c226059a5d5b1ae71b67e0572",
+    "title": "FrameAxis: Characterizing Framing Bias and Intensity with Word Embedding"
+  },
+  {
+    "paperId": "2cd74561109e2675634e0f4f0129fcfbc238a1d8",
+    "title": "Connotation Frames of Power and Agency in Modern Films"
+  },
+  {
+    "paperId": "15130cdd46ff7e3a69384e6c62ab1775c4aba96f",
+    "title": "Analyzing Framing through the Casts of Characters in the News"
+  },
+  {
+    "paperId": "92408cc19033cc4af29accef3793014ab79355c2",
+    "title": "The Media Frames Corpus: Annotations of Frames Across Issues"
+  },
+  {
+    "paperId": "2a501b074261e81b9126e80a0a308cfa5e76f8c1",
+    "title": "Linguistic Models for Analyzing and Detecting Biased Language" 
+  },
+  {
+    "paperId": "c899c6048a1bd99590972c5fb2f9fd00db8d4e18",
+    "title": "Who Falls for Online Political Manipulation?"
+  },
+  {
+    "paperId": "1778d1da6264ed4274fb94115ebbc3b4f34c9f7a",
+    "title": "Misinfo Belief Frames: A Case Study on Covid & Climate News"
+  },
+  {
+    "paperId": "9129399d6b1599508709e3a72f80defd52ef89c9",
+    "title": "The online competition between pro- and anti-vaccination views"
+  },
+  {
+    "paperId": "460986c12b9fdedc3bf9a710c429c5a84608055a",
+    "title": "Fighting the COVID-19 Infodemic in Social Media: A Holistic Perspective and a Call to Arms"
+  },
+  {
+    "paperId": "ed1c17451a23471afde91c109ecadc6aab8b2ba6",
+    "title": "A Survey on Multimodal Disinformation Detection"
+  },
+  {
+    "paperId": "38d243b9f6e2c786699dbc83513fb190372cde07",
+    "title": "Automated Fact-Checking for Assisting Human Fact-Checkers"
+  },
+  {
+    "paperId": "76de89ca66f898e8211acba7392ef2d4a7e14125",
+    "title": "Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection"
+  },
+  {
+    "paperId": "418b9f37b07a05b38798e97f57e17a6cc1048b92",
+    "title": "You are right. I am ALARMED - But by Climate Change Counter Movement"
+  },
+  {
+    "paperId": "1dad69f1fd4403aed4d3d709ab794113291d625c",
+    "title": "Fake News: Spread of Misinformation about Urological Conditions on Social Media."
+  },
+  {
+    "paperId": "29370adbf0674ad72d5e0bcc59582c22035bd0aa",
+    "title": "Coronavirus on Social Media: Analyzing Misinformation in Twitter Conversations"
+  },
+  {
+    "paperId": "1213d98f3d0a42d575bbd2c2af0309c7f76024a1",
+    "title": "Combating Fake News: A Survey on Identification and Mitigation Techniques"
+  },
+  {
+    "paperId": "c6a9ca56c93323c0199dd22631d1cf731bdd7ec1",
+    "title": "Automatic Detection of Fake News"
+  },
+  {
+    "paperId": "a1e58f89f57f57fad3c77cd558444ad5ad64b525",
+    "title": "The spread of true and false news online"
+  },
+  {
+    "paperId": "bc8c416f821b93795370524247c8a455c373ee6e",
+    "title": "Fake News: A Survey of Research, Detection Methods, and Opportunities"
+  },
+  {
+    "paperId": "8415274c8fb370cbab84ad82ab2f469786ddee72",
+    "title": "Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate"
+  },
+  {
+    "paperId": "03c294ad75bd1bac92217419ac25358227f6a901",
+    "title": "'Liar, Liar Pants on Fire': A New Benchmark Dataset for Fake News Detection"
+  },
+  {
+    "paperId": "7d3c2ff37d04914836f9cbd9ce54b6c97aa74a22",
+    "title": "Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking"
+  },
+  {
+    "paperId": "6f78b5608fed43f106da192f12e09d9edbd2fce0",
+    "title": "Social Media and Fake News in the 2016 Election"
+  },
+  {
+    "paperId": "1e3d1055fc65966bc2c64505785207d7e8d71022",
+    "title": "Rumor Cascades"
+  },
+  {
+    "paperId": "44ecb9783e43d726fc87b7ffdd580b01e13a85cb",
+    "title": "Rumors, False Flags, and Digital Vigilantes: Misinformation on Twitter after the 2013 Boston Marathon Bombing"
+  },
+  {
+    "paperId": "69116800a8a8195531d29c8e14cefb1c92cbb8a7",
+    "title": "Extractive and Abstractive Explanations for Fact-Checking and Evaluation of News"
+  },
+  {
+    "paperId": "20b2f18aaf10a9221c5edf3720d4cce7da672104",
+    "title": "That is a Known Lie: Detecting Previously Fact-Checked Claims"
+  },
+  {
+    "paperId": "9aefd614e52336151966d8dca2ed0ea62a8f30af",
+    "title": "The Limitations of Stylometry for Detecting Machine-Generated Fake News"
+  },
+  {
+    "paperId": "9e8ac8df8b46c36cad3f307f85975012479b5a32",
+    "title": "Fact or Fiction: Verifying Scientific Claims"
+  },
+  {
+    "paperId": "6f373f4711e1285bdec23069c9503d3bf77bfaef",
+    "title": "A Benchmark Dataset of Check-worthy Factual Claims"
+  },
+  {
+    "paperId": "5e0daaeceb75ffbbe23be13d34ffae830cb4e8c4",
+    "title": "Generating Fact Checking Explanations"
+  },
+  {
+    "paperId": "d8cb11d4be955f9869387a18967dee366eb851d9",
+    "title": "MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims"
+  },
+  {
+    "paperId": "ad7129af0644dbcafa9aa2f111cb76526ea444a1",
+    "title": "Defending Against Neural Fake News"
+  },
+  {
+    "paperId": "3a16c38294ac8899825c488490199b854e05473a",
+    "title": "Evaluating adversarial attacks against multiple fact verification systems"
+  },
+  {
+    "paperId": "a4947468ceac25c11a665c4f5f95a49d6dbea3cc",
+    "title": "Towards Debiasing Fact Verification Models"
+  },
+  {
+    "paperId": "b1d24e8e08435b7c52335485a0d635abf9bc604c",
+    "title": "FEVER: a Large-scale Dataset for Fact Extraction and VERification"
   }
 ]

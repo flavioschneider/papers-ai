@@ -4,3 +4,4 @@ __pycache__/
 .hydra
 logs/*
 venv/
+outputs/*

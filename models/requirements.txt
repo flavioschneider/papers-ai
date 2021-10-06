@@ -1,4 +1,5 @@
 notebook==6.4.4
+ipywidgets==7.6.5
 numpy==1.21.2
 scikit-learn==0.24.2
 pandas==1.3.3 
@@ -11,3 +12,8 @@ hydra-core==1.1.1
 transformers==4.10.3
 hdbscan==0.8.27 # Unupervised clustering 
 requests-futures==1.0.0 # Async http requests 
+setuptools==58.1.0
+spacy==3.1.3
+# python -m spacy download en_core_web_sm 
+neuralcoref==4.0
+plotly==5.3.1
