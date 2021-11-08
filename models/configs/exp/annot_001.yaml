@@ -4,6 +4,7 @@ type: script
 script:
   _target_: src.scripts.json_papers_annotate.JSONPapersAnnotate
   config:
+    device: 1
     in_dir_json: ${work_dir}/../ui/public/json
     out_json: ${work_dir}/../ui/public/annot.json
     model_settings:

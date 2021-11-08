@@ -1,6 +1,7 @@
 import os 
 import glob
 import json 
+import torch 
 from transformers import pipeline
 
 class JSONPapersAnnotate:
@@ -9,7 +10,7 @@ class JSONPapersAnnotate:
     self.config = config
     # Init model 
     model_name = "deepset/roberta-base-squad2"
-    self.pipe = pipeline('question-answering', model=model_name, tokenizer=model_name)
+    self.pipe = pipeline('question-answering', model=model_name, tokenizer=model_name, device=self.config.device)
 
   def read_json_files(self, path):
     files = sorted(glob.glob(f"{path}/*.json"), key=str.lower)
