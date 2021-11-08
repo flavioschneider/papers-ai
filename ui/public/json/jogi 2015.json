@@ -1,0 +1,605 @@
+{
+  "title": "Cross-lagged relations between math-related interest, performance goals and skills in groups of children with different general abilities \u2606",
+  "abstract": "This study examined the longitudinal relations among math-related interest, performance goals, and math skills in different ability groups. The participants were 790 Estonian children who were assessed at Grade 2 and Grade 3. The results of SEM analysis showed that previous math skills predicted positively math interest and negatively performance-avoidance goals at Grade 3. Also, Grade 2 performance-avoidance goals were negatively related to subsequent interest towards math. Comparing low-ability students with other students indicated that Grade 3 interest was positively predicted by previous skills, and negatively by performance-approach and -avoidance goals specifically in low-ability group. The results have a practical value, emphasizing the crucial role of mathrelated skills and goals in the development of young students' interest and goals in math and indicating that relations among interest, goals, and skills in math may be stronger for low-ability students.",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "text": "Students' interest and performance goals are recognized as central motivational constructs, reflecting students' purposes and reasons behind activities apparent in achievement-related situations (Wigfield & Cambria, 2010). Previous research has indicated that children's interest in academic subjects tends to be relatively high at school entry but declines during the primary grades (Fredricks & Eccles, 2002;Gottfried, Fleming, & Gottfried, 2001;Jacobs, Lanza, Osgood, Eccles & Wigfield, 2002;Watt, 2004). While decreases in academically adaptive achievement goals and increases in maladaptive achievement goals have been explored (for an overview see Wigfield, Eccles, & Rodriguez, 1998) the factors contributing to these changes in motivational constructs are not fully understood for primary grades.\nOne factor that has a role in students' later motivation is student's level of academic skills (for math skills and interest see Fisher, Dobbs-Oates, Doctoroff, & Arnold, 2012). Although the crucial role of math skills in the later school achievement in general is acknowledged (Duncan et al., 2007;Siegler et al., 2012) there is a lack of longitudinal studies focusing on the relation between math skills, interest and goals. Understanding the relations between motivational constructs and academic skills, specifically in the early school years, can help support students' later academic development. Interrelations among interest, performance goals, and academic achievement have been recently examined (e.g., Conley, 2012;Hulleman, Durik, Schweigert, & Harackiewicz, 2008), but these studies have not targeted students under the age of 10 (according to the review by Huang, 2011). Also, only a few studies have been carried out to assess the longitudinal reciprocal relationship between single motivation constructs and math skills in primary grades in recent years (Hirvonen, Tolvanen, Aunola, & Nurmi, 2012;M\u00e4gi, Lerkkanen, Poikkeus, Rasku-Puttonen, & Kikas, 2010;Viljaranta, Lerkkanen, Poikkeus, Aunola, & Nurmi, 2009). To the best of our knowledge, no studies have examined the relations between interest, achievement goals, and skills simultaneously. Integration of the most studied and somewhat overlapping theories, the treatment of interest value from expectancy-value theory (Wigfield & Eccles, 2000) and performance goals from achievement goal theory (Pintrich, 2000), enables to cover motivational patterns of young students more comprehensively than just drawing on one framework (e.g. Hulleman et al., 2008;Spinath & Spinath, 2005).\nAnother important factor to consider when studying the development of skills and motivation includes general cognitive abilities (for math see Spinath, Spinath, Harlaar, & Plomin, 2006;Taub, Floyd, Keith, & McGrew, 2008). The effect of general ability or intelligence on achievement appears to be stronger than the effect of motivational constructs (Gagn\u00e9 & St P\u00e8re, 2001;Spinath et al., 2006). Still, the effect of motivational constructs on achievement is of greater practical interest, as these constructs are more easily modifiable than abilities (e.g., Midgley, Anderman, & Hicks, 1995). Besides the direct effect of ability on achievement, relations between motivation and achievement may differ in groups of students with different general abilities. For instance, intelligence has been shown to moderate the effect of motivation-regulation strategies on achievement in high school students (Schwinger, Steinmayr, & Spinath, 2009). Relations between motivation and achievement have been examined in groups of children with different skill levels (e.g., Bodovski & Farkas, 2007). Other authors have raised questions about group differences in motivational patterns and their relations with academic skills in the context of poorer school achievement (Wentzel & Wigfield, 2007). These works pose a question of whether mutual relations between motivational constructs and academic skills differ in different general ability groups during primary grades. As low-ability students are specifically vulnerable for school failure, understanding these relations may lead to strategies supporting their academic development during the early school years.\nConsequently, the aim of the present study was to examine longitudinal interrelations among math-related interest, performance goals, and math skills in primary grades, and to examine any group differences.",
+      "n_publication_ref": 27,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Interest and math skills",
+      "text": "Interest value, in expectancy-value theory, refers to both liking being engaged in the activity and being interested in the subject matter . So, interest can be perceived as doing something because of liking and enjoyment, as it is accompanied by attention, concentration, and positive affect (Hidi, 2006). With added school years, interest in math tends to decline (Fredricks & Eccles, 2002;Frenzel, Goetz, Pekrun, & Watt, 2010), but this decline is not shown as unavoidable during the early school years (Wigfield et al., 1997). Interestingly, it is proposed that changes in math interest across the school years are related to changes in math achievement (Gottfried, Marcoulides, Gottfried, Oliver, & Guerin, 2007). Children with higher math skills might enjoy completing tasks because they get positive feedback that in turn creates positive feelings and higher selfconfidence (cf. Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002). Thus, they may also become more interested in doing math. Higher interest supports engagement, achievement and persistence in completing school tasks Renninger, Even, & Lasher, 2002). Studies have confirmed that the development of interest and skills in math are in the long term interrelatedthe children who become more interested in subject matter acquire better skills, and children with better skills become more interested in subject matter later on (e.g., Aunola, Leskinen, & Nurmi, 2006;Fisher et al., 2012;Viljaranta et al., 2009). However, some studies have not found a consistent effect of interest on subsequent math performance in primary grades (Bouffard, Marcoux, Vezeau, & Bordeleau, 2003;Gottfried, 1990). For others, the actual effects of relations found between math interest and achievement have been from nonsignificant and weak to moderate (Aunola et al., 2006;Bouffard et al., 2003;Fisher et al., 2012;Gottfried, 1990;Spinath et al., 2006;Viljaranta et al., 2009). It could be that, interest plays a higher role for children with low general ability, as they struggle with school tasks more than their abler peers. Renninger et al. (2002) argued in their qualitative study that interest might be something that helps low-ability students stay on track when learning, thereby improving their skills. So far, stronger relations between motivational constructs and achievement have been found in children with low academic pre-skills as compared with children with average or high skills. Namely, Bodovski and Farkas (2007) found that kindergarten students' effortful learning behavior (as evaluated by kindergarten teachers and related with motivation) had the largest effect on math achievement in primary grades for students in the group with the lowest preliminary math skills. However, no studies have examined whether relations between interest and achievement are different in children with low general ability as compared to other children.",
+      "n_publication_ref": 20,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Performance goals and math skills",
+      "text": "Performance goals form a part of achievement goals that guide how students perceive information and the meaning they give to the information, as well as the actions they choose (Kaplan & Maehr, 2007;Pintrich, 2000). More precisely, in achievement goal theory, students' personal goals are divided into mastery and performance goal orientations (Elliott & Dweck, 1988) with approach and avoidance dimensions (Elliot, 1999;Elliot & McGregor, 2001). Orientation to mastery goals (also called task or learning goals) refers to improving knowledge and understanding learned material as learning outcomes. Performance goals (also called ego or ability goals) focus on demonstrating one's competence, comparing oneself with others, and being concerned about giving an impression to others (Elliott & Dweck, 1988;Wigfield & Cambria, 2010). Students with performance-approach goals have a desire to obtain good results and to show that they outperform their peers. Students with performance-avoidance goals wish to avoid negative judgments and a perception of being less smart than other students (Midgley et al., 1998). These goals play a role in students' behavior, in learning situations and in learning outcomes, as early as the primary grades (Pintrich, 2003;Smiley & Dweck, 1994).\nAlthough it is an important period for developing achievement goals, only a few studies have been carried out in primary grades, involving math as a variable (Bong, 2009;M\u00e4gi, Lerkkanen et al., 2010). This may be related to difficulties of assessing goals in young children. Still, it seems important to study children's own evaluations of their goals. For instance, Ross, Shannon, Salisbury-Glennon, and Guarino (2002) showed that a three-factor structure for mastery, performanceapproach, and performance-avoidance goals holds up for both college and fourth grade students in the United States. Moreover, Bong (2009) showed that a four-factor model (mastery-performance and approach-avoidance dimensions) was applicable in Korean Grades 3-9. Still, in both studies, a developmental trend with the factors being less distinct in younger than older students was found, thus suggesting the need to be careful with interpretations. Using questionnaires, achievement goals have also been assessed in primary grades in Estonia, Germany, and Turkey (see respectively, M\u00e4gi, Lerkkanen, et al., 2010;Paulick, Watermann, & N\u00fcckles, 2013;Sungur & Senler, 2010). As in previously conducted studies in Estonia mastery goals have not been found to be related to achievement (Kikas, Peets, Palu, & Afanasjev, 2009;M\u00e4gi, Lerkkanen et al., 2010), we limited our study to examine only performance goals.\nThe findings concerning the relations between performance-approach goals and achievement have been controversial and depend on students' age (Harackiewicz, Barron, Pintrich, Elliot, & Trash, 2002;Midgley, Kaplan, & Middleton, 2001). Promoting performance approach goals at the classroom level has led to improvement of math test scores in upper elementary schools, although a negative relationship between personal approach goals and later achievement has been shown (Linnenbrink, 2005). On the other hand, Bong (2009) has suggested that performance-approach goals might become important in promoting learning starting in middle school. In primary grades, M\u00e4gi, Lerkkanen, et al. (2010) did not find any effect of performance-approach goals on math grades or skills. However, in another study, performance-approach goals were measured, without the context of a subject, and were shown to be related to students' taskavoidance behavior, which in turn predicted lower achievement (M\u00e4gi, H\u00e4idkind, & Kikas, 2010). Moreover, in middle school, students with higher performance-approach goals have been shown to set higher performance-avoidance goals for the subsequent year (Middleton, Kaplan, & Midgley, 2004). Thus, the effect of performance-approach goals on achievement may be mediated by other constructs.\nRelations between achievement and performance-avoidance goals seem to be mutual in primary grades. Performance-avoidance goals predict lower math achievement, and lower achievement predicts the setting of more performance-avoidance goals later on (M\u00e4gi, Lerkkanen et al., 2010;Seo & Taherbhai, 2009). However, a crosssectional primary school study by Bong (2009) did not show relations between performance-avoidance goals and achievement.\nTo our best knowledge, no studies have examined relations between performance goals and math skills in groups of different abilities or skill levels. We can only hypothesize about these differences indirectly from related studies. For instance, performance-approach goals facilitate better achievement in an experimental situation with university students when the task is challenging for students (Senko, Durik, Patel, Lovejoy, & Valentiner, 2013).",
+      "n_publication_ref": 30,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Relations among math-related interest, performance goals, and skills",
+      "text": "Theoretically, interest (task value) should affect goals, and goals should have influence on subsequent interest (Rawsthorne & Elliot, 1999;Wigfield & Eccles, 2000). However, this has not been studied empirically in young children. In his meta-analysis, Huang (2011) showed that interest is positively related to performance-approach goals but not to performance-avoidance goals. An earlier meta-analysis of the relations of intrinsic values and achievement goals proposed that performance-avoidance goals are related to interest negatively (Rawsthorne & Elliot, 1999). The same has been found for relations of performance-avoidance goals and intrinsic motivation in general (e.g., Elliot & Harackiewicz, 1996;Elliot & Murayama, 2008). Although recent reviews have emphasized the need for research on interests and goals in different age groups and learning contexts (Renninger & Hidi, 2011;Wigfield & Cambria, 2010), to our best knowledge, no longitudinal studies have explored the relationship of interest and performance goals with skills in math in the early school years. Moreover, according to recent reviews, interrelations between interest and performance goals as well as relations between these motivational constructs and skills are far from clear-cut even for older students (Hidi & Harackiewicz, 2000;Wigfield & Cambria, 2010).\nAmong older students, there is some evidence on the relations between interest and achievement goals and school achievement. Middle school studies have revealed that relations between interest and performance goals are still somewhat unclear. For example, Liem, Lau and Nie (2008) reported a negative relation between interest and performanceavoidance goals in English language classes. On the other hand, performance-approach goals were found to affect neither interest nor achievement, and performance-avoidance goals had a negative effect on math achievement but not on interest . Conley (2012) used a person-centered approach in studying math-related goals, task values, and later achievement and concluded that integrating goals and task value is more likely to predict achievement than is a single motivational predictor. In German secondary schools, Steinmayr and Spinath (2009) showed that when analyzed together and controlled for previous achievement, interest predicted math achievement beyond intelligence, and performance goals did not. In the primary school context, it has been shown that supporting children's interest and task-focused goals enhances math achievement, especially in children with lower previous math skills (Fuchs et al., 1997). So far, relations between interest, performance goals, and skills have not been compared in groups of children with different ability levels.",
+      "n_publication_ref": 13,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Aims and hypotheses",
+      "text": "The aims of the present study were to examine mutual relations between math-related interest, performance goals, and math skills longitudinally from Grades 2 to 3 and to compare these mutual relations between two groups of childrenlow versus average and high general ability. The specific research questions and hypotheses are as follows.\n1. How do math-related interest, performance-approach, and performance-avoidance goals mutually affect one another from second to third grades? We assumed that interest and performance goals autoregressively predict the same constructs for the next school year (Hypothesis 1a; Middleton et al., 2004;Wigfield et al., 1997). According to studies in middle and high schools, we expected to find mutual positive relations between interest and performanceapproach goals (Hypothesis 1b) and negative relations between interest and performance-avoidance goals (Hypothesis 1c; Conley, 2012;Liem, Lau, & Nie, 2008;Wigfield & Eccles, 2000). Since Bong (2009) reported a positive relation between a performance-approach and performance-avoidance goals in math in elementary school and since Middleton et al. (2004) reported that higher performance-approach goals predict higher subsequent performance-avoidance goals in middle school, we assumed that these goals might have mutually positive relations (Hypothesis 1d). 2. How do the math-related interest, performance goal and math skills mutually affect one another from second to third grades when the students' pre-skills in math in the beginning of the school year are taken into account? Previous research has led to controversial results regarding the predictive power of young students' interest on school achievement and vice versa. Studies have shown mutual relations between interest and math skills (Aunola et al., 2006;Viljaranta et al., 2009). We expected that interest and performance-approach goals predict subsequent skills positively and performanceavoidance goals predict the skills negatively (Hypothesis 2a ;Fisher et al., 2012). Math skills were expected to be positive predictors of math related interest and performance-approach goals and negative predictors of performance-avoidance goals (Hypothesis 2b ;Fisher et al., 2012;Kikas et al., 2009) when controlling for the initial level of math skills (see Aunola, Leskinen, Lerkkanen, & Nurmi, 2004;Duncan et al., 2007). 3. Do the relations between interest, performance goals, and math skills differ for children with lower abilities compared to other children? Relying on earlier related studies (Bodovski & Farkas, 2007;Fuchs et al., 1997;Renninger et al., 2002), we expected that mutual relations between skills and motivational constructs (interest, performance-approach, and performance-avoidance goals) would be stronger in the group of low ability than in the group of other children (Hypothesis 3).",
+      "n_publication_ref": 19,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Participants and procedure",
+      "text": "In total, 790 students' (53.5% boys) math pre-skills were tested at the beginning of Grade 1 (mean age was 7.46 years, SD = 0.52). Of these, 709 students (51.5% boys) were assessed on math skills in Grade 2 and 738 (51.8% boys) in Grade 3. Motivational data (i.e., interest and performance goals) were collected from 745 (51.8% boys) students in Grade 2 and from 733 (52.4% boys) students in Grade 3. In third grade, 729 (52.1% boys) students participated in the general ability test. Missing data is due to the children's absence during the particular school day, or in some cases, they had moved to other schools.\nStudents attended 33 schools (51 classes) in different urban and rural areas of Estonia. The mean number of children per classroom was 17.14 (range 7-26). The primary language in all schools and children's homes was Estonian. A total of 11.3% of the mothers had a basic level or lower level of education (up to nine years of formal education), 59.8% had secondary school education (10-12 years of formal education), and 28.9% had a college or university education (more than 12 years). The sample was representative of the Estonian general population (European Social Survey, 2008).\nData were collected as part of a larger project. First, principals of the schools were contacted and informed about the project. Principals who agreed to participate in the study informed teachers, who then invited parents to participate. All participating children received parental permission to take part in this study.\nThe assessment took place during a regular school lesson (45 min). At the beginning of the first grade (Time 1, in September-October), research assistants administered math tests in each classroom. At the end of the second (Time 2, April-May) and third grades (Time 3, April-May), class teachers administered math tests during ordinary math lessons. Research assistants administered questionnaires on motivational constructs at Time 2 and Time 3 as well as an ability test at Time 3.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    { "heading": "Measures", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Math skills",
+      "text": "Currently, no standardized cognitive and achievement tests exist in Estonia (see also Kikas, 2006). Thus, the test measuring math pre-skills was developed according to the academic demands laid out in the Estonian National Curriculum for Pre-school Education (Alushariduse raam\u00f5ppekava) (1999/2008), and the tests assessing second-and third-grade math skills were developed based on the Estonian National Curriculum for Secondary Education (P\u00f5hikooli-ja g\u00fcmnaasiumi riiklik \u00f5ppekava) (2002/2010).\nPre-skills in math were assessed with 16 tasks, including three calculation tasks (e.g., children saw a picture of six squares and were asked to draw five fewer squares), nine number sequencing tasks (e.g., \"Complete the sequence: 2, 4, \u2026, \u2026, 10, 12\"), and four word problems (e.g., \"Mati had 10 apples. He gave one apple to Pille and one apple to Ain. How many apples does he have now?\"). Second-grade math tests included 18 tasksthree calculations with units of measurement (e.g., 1 kg-400 g = \u2026 g), 12 word problems (e.g., \"The first deck of cards has 20 cards, and the second deck of cards has 34 cards. How many more cards are there in the second deck of cards?\"), and three geometrical tasks (e.g., children saw nine geometrical objects, and their task was to find triangles, quadrangles, and pentagons). Third grade math skills were assessed with 26 tasks, including 16 arithmetic calculations (e.g., \"63-29\"), six ordinary word problems (e.g., \"A binder costs 9 Kroons. The binder is twice as expensive as a notebook. How much does the notebook cost?\"), and four novel word problems (e.g., \"Write two equations using the following three numbers: 5, 9, and 14.\"). Each correct answer received one point. Sums of three subscales of all tests were used as observed variables. At every time point, general factors of skills were formed by three observed variables at each measurement point and used as a latent variable.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Interest in math",
+      "text": "Children's interest in math was assessed using the Task Value Scale for Children (TVS-C; Aunola et al., 2006;J\u00f5gi, M\u00e4gi, & Kikas, 2011) at Time 2 and Time 3. This scale was based on the ideas presented by Eccles (1983) concerning the interest that children show in relation to particular school subjects. The interest scale consisted of three items measuring children's interest in or liking of math (i.e., \"How much do you like math tasks at school?\"). Children were asked to mark one of five circles (from the smallest and lightest -I do not like it at all/I dislike doing those tasksto the largest and darkest -I like it very much/I really enjoy doing those tasks) that best reflected their thoughts.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Performance goals",
+      "text": "The questionnaire of performance goals was developed based on the Patterns of Adaptive Learning Survey (Midgley et al., 2000) and the Achievement Goal Questionnaire (Elliot & Church, 1997; see also M\u00e4gi, H\u00e4indkind et al., 2010;J\u00f5gi et al., 2011). Performanceapproach (e.g., \"I want to show the teacher that I am smarter than the other children in the math class\") and performance-avoidance goals (e.g., \"I worry that the other children might think that I am stupid if I make mistakes in the math class\") were assessed with three items each (total 6 items). Children were asked to mark one of five circles (from the smallest and lightestthe statement does not apply on meto the largest and darkestthe statement applies on me) that best reflected their thoughts.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "General ability",
+      "text": "Students' general ability was assessed at Time 3 using the D-set of Raven progressive matrices (Lynn, Allik, Pullmann, & Laidra, 2002;Raven, 1981). The set consisted of 12 tasks, and the sum of correct answers was used in the analysis. Two unequal-sized ability groups were formed. Students whose score on the ability test was lower than one standard deviation from the mean were considered low-ability students in further analyses (n = 132 students, 62.9% boys). The rest of the sample who completed the ability test (n = 597 students, 49.7% boys) formed the comparison group.\nDescriptives and internal consistencies of the scales are shown in Table 1.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Analysis strategy",
+      "text": "Descriptives, internal consistencies, and intercorrelations (see Table 1) of scales were calculated using the statistical package SPSS 18.0. All other analyses were carried out by applying structural equation modeling (SEM) using the statistical package Mplus 6.0 (Muth\u00e9n & Muth\u00e9n, 1998. We used the maximum likelihood procedure with non-normality robust standard errors to assess the model parameters because data were not normally distributed. We employed multiple fit indices, including \u03c7 2 , \u03c7 2 divided by the degrees of freedom, CFI, and RMSEA, to assess the model fitting to the data.\nTo test the invariances of measurement models at different time points and path models for different groups, we used Satorra-Bentler's calculation (Satorra & Bentler, 2001). When there are parallel data from more than one time point or group, it is possible to test the invariance of the solution by constraining any or all parameter estimates to be the same at two or more time points and/or groups. Separate tests were conducted to test the invariance of the factor loadings and path coefficients. Measurement invariance of the confirmatory factor analysis (CFA) allows drawing a conclusion if latent factor scores have the same meaning in both measured time points and for both groups under examination (Kline, 2011, pp. 251-252). Testing invariance of structural model between the groups allows testing the hypothesis about differences in effects estimated (Kline, 2011, pp. 288-289). In all cases of invariance testing, the non-constrained model was compared with the constrained model, and the \u03c7 2 difference was computed using Satorra-Bentler's calculation (Satorra & Bentler, 2001).",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Confirmatory factor analyses of measurement models",
+      "text": "We conducted separate CFA for motivational constructs and for results of skills tests to assess whether the observed measures fit the proposed factor structure. The first CFA of the unconstrained model included three motivational constructs (interest, performanceapproach goals, and performance-avoidance goals) for two time points. Interest, performance-approach and performance-avoidance goals were measured with three observed variables. The second CFA of three motivational constructs, constrained by measurement points, showed that the constrained model fit the data well (\u03c7 2 = 165.01; df = 126; p = .011; RMSEA = .019; CFI = .991), with factor loadings ranging from .53 to .90. A comparison of the constrained model and unconstrained model showed no significant difference between the two models (\u0394\u03c7 2 = 6.43; \u0394df = 6; p = .376). This indicates that the factor loadings of the constructs of interest, performance-approach goals and performance-avoidance goals were invariant across the two measurement points.\nTo assess whether the subscales that measure skills for each measured year loaded into the proposed factors and whether our data fit the proposed model, we conducted the CFA where students' results of three observed subscales, at each measurement point, loaded on one latent skills factor, underlying each measurement point (Time 1, Time 2, and Time 3). Factor loadings were not constrained by time point as there were different subscales used in different skills' tests. The model fit the data well (\u03c7 2 = 24.579; df = 24; p = .429; RMSEA = .005; CFI = 1.000). All observed values loaded on factors with standardized factor coefficients were between .43 and .87. Standardized factor loadings for math preskills were following -number sequencing = .53, calculation = .63, word problems = .59; for Grade 2 math skillscalculation = .57, word problems = .87, geometry = .43; and for Grade 3 math skills -calculation = .69, ordinal word problems = .69, novel word problems = .43. A final CFA was conducted by adding both motivational and skills constructs to the same measurement model. Factor loadings of motivational constructs were constrained to be equal across measurement time, while loadings of skills tests were left non-constrained. Tests of model fit showed that data fit the model well (\u03c7 2 = 359.973; df = 294; p = .005; RMSEA = .016; CFI = .989).\nTo assess whether items loaded on their expected factors similarly for low-ability student group compared to the rest of the sample, factors of interest, performance goals, and skills were compared considering ability groups. In the CFA of motivational constructs, the model with factor loadings that were constrained for both ability groups was compared with the model in which factor loadings were free to vary across different ability groups. Comparing constrained and nonconstrained models showed that factors that form motivational constructs did not vary across different groups (\u0394\u03c7 2 = 6.81; \u0394df = 6, p = .339). The factor structure of skills tests was compared in the same way. For different ability groups, the constrained model did not differ from the model in which skills' factors were free to vary (\u0394\u03c7 2 = 5.69; \u0394df = 6, p = .459). Lastly, both motivational constructs and the results of the skills test were included in the measurement models. Parameters of model fit did not differ between the constrained model and non-constrained model (\u0394\u03c7 2 = 12.885; \u0394df = 12, p = .377). According to these results, the constrained factor structure that considered both motivational constructs and skills tests to be the same for both low ability group and comparison group was used to compare the initial model for two groups.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Interest, performance goals, and skills",
+      "text": "At first, we constructed a structural equation model (SEM) where interest, performance goals, and skills measured at Time 2 were predictors of motivational constructs and skills at Time 3. Pre-skills measured at the beginning of the school year at Time 1 were used as a control variable predicting motivation and skills at Time 2 and indirectly at Time 3. Residual variances of motivational constructs and skills measured at the same time point were expected to correlate in the model. SEM fit indices (\u03c7 2 = 387.242; df = 298; p b .001; RMSEA = .019; CFI = .985) showed that data fit the model well. All significant regression coefficients (p b .05) are presented in Fig. 1.\nAutoregressions revealed that motivational variables were relatively stable over time. Interest at Time 2 predicted interest at Time 3 (\u03b2 = .42, p b .001), performance-approach goals at Time 2 predicted the same goals at Time 3 (\u03b2 = .40, p b .001), and performance-avoidance goals predicted subsequent performance-avoidance goals (\u03b2 = .46, p b .001). Interest or performance-approach goals measured at Time 2 did not predict any other motivational variable at Time 3. Performance-avoidance goals at Time 2 had a negative effect on interest at the next grade level (\u03b2 = \u2212.11, p = .04). Thus, students with higher performance-avoidance goals in Grade 2 showed lower interest in math in Grade 3, and conversely, those with lower performance-avoidance goals were more interested in math the following year.\nAs expected, pre-skills in Time 1 were major predictors of Time 2 math skills (\u03b2 = .82, p b .001). They also had an indirect effect on math skills at Time 3 through Time 2 math skills (standardized indirect effect = .69, p b .001). Pre-skills predicted interest positively (\u03b2 = .13, p b .022) and both performance goals negatively (\u03b2 = \u2212.18, p b .001 for performance-approach and \u03b2 = \u2212 .25, p b .001 for performanceavoidance goals). Pre-skills also predicted motivation at Time 3 indirectly through motivation at Time 2 (standardized indirect effects = .06, p = .031 for interest; \u2212.07, p = .001 for performance-approach goals; and \u2212 .12, p b .001 for performance-avoidance goals). Therefore, students with better pre-skills at the beginning of school seemed more interested and set fewer performance goals in math thereafter.\nOur analysis showed that neither interest nor performance goals showed significant power in predicting math skills from Times 2 to 3 when controlling for previous skills. Inversely, skills were found to be important predictors of interest (\u03b2 = .17, p = .001) and performanceavoidance goals (\u03b2 = \u2212 .13, p = .013), both in expected directions. Students with better skills at Time 2 were more interested in math and set less performance-avoidance goals at Time 3. No effect of Time 2 skills on Time 3 performance-approach goals was found. Obviously, math skills at Time 2 strongly predicted skills at Time 3 (\u03b2 = .84, p b .001).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Motivation and skills of students with low abilities",
+      "text": "In the next step, we compared hypothesized relations between groups of children with low abilities and the rest of the sample. At first, we compared the model with all regression and correlation paths constrained by groups with the model with all regression and correlation paths unconstrained by groups. A comparison of model fit indices showed that the two models are different (\u0394\u03c7 2 = 47.17; \u0394df = 32, p = .041). Hence, we rejected the null hypothesis that the relation between motivation and skills is similar for the group of low-ability students and for comparison group.\nNext, we tested all hypothesized correlation and regression paths in a constrained model and in a non-constrained path model separately. We found some crucial differences between low-ability children and comparison group, as shown in Fig. 2. First, Time 2 skills were a significantly stronger predictor of Time 3 interest for low-ability children (\u03b2 = .37, p = .001) compared to the rest of the sample (\u03b2 = .09, p = .097), \u0394\u03c7 2 = 4.075; \u0394df = 1, p = .044. Unlike our initial model, the results indicated a predictive relationship between Time 2 performance-approach goals and Time 3 interest in the sample of lowability students (\u03b2 = .29, p = .026) compared to the rest of the sample (\u03b2 = .03, p = .551), \u0394\u03c7 2 = 3.893; \u0394df = 1, p = .048. Both results show that performance goals and skills in primary grades have more influence on the further interest of children with lower abilities. We also found that the path from skills at Time 2 to performance-avoidance goals at Time 3 was stronger for the low-ability group than for comparison group (\u03b2 = \u2212.31, p = .017 for low-ability group, \u03b2 = \u2212.07, p = .227 for comparison group); however, comparing the models showed no significant difference.\nInterest R 2 =.02 Perf-app R 2 =.03 Perf-av R 2 =. ",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Discussion",
+      "text": "The aim of this study was to investigate the interrelations among young students' interests, performance goals, and math skills longitudinally, and to examine whether students with lower general abilities have a similar or different pattern of these interrelations when compared with the rest of the group. The results showed that higher math pre-skills were related to subsequent higher interest, and that students with lower math skills did set higher performance-avoidance goals. Moreover, lower pre-math skills in the beginning of school led to higher performance-approach goals in Grade 2. However, math skills predicted math interest only for the low-ability group. Moreover, low-ability students with high performance-approach goals in Grade 2 were more interested in math the following year.\nFirst, we were interested in the mutual relations between interest and performance goals in Grade 2 and 3. The results showed, first, that interest and performance goals in math are relatively stable from the second to the third grades. This is in accordance with previous studies on interest (Hypothesis 1a;Wigfield et al., 1997) and performance goals (M\u00e4gi, Lerkkanen et al., 2010) in primary grades. Moreover, performance-avoidance goals at Grade 2 predicted interest in math negatively in the following grade. Thus, students who wished to avoid being perceived as less smart in math class tended to be less interested in math during the following school year, even when considering their previous interest, performance-approach goals, and skills. Our results revealed a similar finding for primary grades as was shown for undergraduate students' intrinsic motivation (Elliot & Church, 1997). We also expected (Hypotheses 1b and 1c; Conley, 2012;Liem et al., 2008;Wigfield & Eccles, 2000) that students with higher math interest in Grade 2 set more performance-approach and fewer performance-avoidance goals in Grade 3. However, while higher interest was related to higher performance-approach and lower performance-avoidance goals within the school year both in Grades 2 and 3, interest did not predict goals in the subsequent year. The same pattern was evident in the relations between performance-approach and avoidance goals (Hypothesis 1d). Although, in accordance with Bong (2009), performance goals were positively related to each other within the school year, we did not find one predicting another in the next grade or vice versa. Therefore, we revisited the results of M\u00e4gi, Lerkkanen et al. (2010) of relations between achievement goals and effort.\nAs expected (Hypotheses 2b; Aunola et al., 2006;Kikas et al., 2009), math skills had a positive effect on students' subsequent interest and a negative effect on performance-avoidance goals. Additionally, higher pre-skills in the beginning of school were related to lower performance-approach goals in Grade 2. It means that poorer pre-skills are related to higher approach goals during early primary grades, as shown before for the middle school sample (Middleton & Midgley, 1997). Unexpectedly, interest and goals did not have any significant effect on math skills, and our results did not support reciprocal relations between children's interest and skills as proposed previously (Hypothesis 2a; Aunola et al., 2006;Fisher et al., 2012).\nThe present study suggests the need to pay attention and support children's early learning of math. With higher skills, children may be more self-confident and less afraid to try, even in more challenging situations. At least in early primary grades, when we control for students' previous math skills, the students' interest and performance goals play no major role in skill development. Thus, our study supports the need to consider both skills and different motivational constructs that are assessed at all measuring points in the same model when discussing interrelations and causal relations between achievement and motivation.\nOur next goal was to examine whether the longitudinal relations among interest, performance goals, and skills in math differ for students with lower general ability compared to the rest of the sample. Previous studies of learning disabilities and lower general abilities in math context have concentrated mostly on supporting the development of math skills among children with already apparent learning difficulties in math, primarily with interventional purpose (e.g., see metaanalyses of interventions studies : Baker, Gersten, & Lee, 2002;Fischer, Moeller, Cress, & Nuerk, 2013). Our results revealed two significant differences between the two groups (Hypothesis 3; Bodovski & Farkas, 2007;Fuchs et al., 1997;Renninger et al., 2002).\nFirst, comparing structural models between two groups of children revealed that lower-ability students' interest in math depended on previous skills, while other students' interest did not. It means that interest in math is higher for those low-ability students whose math skills were better in the previous school year when the prior interest is taken into account. Second, it appeared that previous performance-approach goals of students with lower abilities (but not of comparison group) have a positive influence on their interest in Grade 3. This is an interesting finding, especially considering the discussion of (mal)adaptiveness of performance-approach goals and the idea that high-achieving students might be especially vulnerable to the negative consequences of wanting to perform better compared to others and having good grades (Midgley et al., 2001). In the overall sample, performance-approach goals do not seem to influence interest. Considering our comparative results, students with lower abilities may benefit from performanceapproach goals, and these may increase their subsequent interest.\nOur work expands the studies on early math difficulties (e.g., Gersten, Jordan, & Flojo, 2005), as we are showing that promoting math skills might also increase students' interest in math. Based on the Bodovski and Farkas (2007) study about the role of engagement in promoting math skills of students with low pre-skills, as well as our finding that low-ability students' interest depends also on previous performanceapproach goals, we suggest that subject-specific motivation of young students with lower abilities should be considered as well when developing instructions for teachers on supporting low-ability students' learning math in primary grades. Students are more likely to enjoy learning math when they have acquired good basic math skills.",
+      "n_publication_ref": 22,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations, implications, and conclusions",
+      "text": "Our study has some limitations that have to be considered. Because there are no standardized achievement tests in Estonia, we used curriculum-based measures for math. Therefore, the tests contained slightly different learning contents for each grade, and the subscales of tests were not comparable between the grades. In addition, it should be noted that the present study was conducted in the educational setting of Estonia which is somewhat different than the schools in the United States. Third, the time of the measurement of general abilities was at Grade 3, as we added ability test to the study design at the last time point to check the differences in relations between motivation and skills vary for different ability groups.\nA better understanding of how young students' motivation and math skills develop and mutually affect each other has a high practical value for both instructional practice and research. Several articles have been published about specific instructional support that teachers can give, especially to low-ability students (e.g., Alfassi, 2003;Baker et al., 2002). Knowing the specifics regarding the development of motivation and its relations to the skills of students with different general abilities enables educators to plan more focused and tailored instruction and gives them an opportunity to concentrate on the most influential factors that can influence students' math achievement through supporting both their motivation and the development of skills. Our study also contributes to the further research drawing the attention that developmental differences appear in variable-centered analyses could be attributed to the individual differences that are not under observation by themselves.\nIn conclusion, our longitudinal analysis revealed that it is reasonable to integrate motivational constructs into one model because it helps clear up the relations between different constructs and learning outcomes. Results indicated that young students' interest in math depends on their previous performance-avoidance goals and skills, and the latter also predicts subsequent performance-avoidance goals. Relations between motivation and skills may be stronger for young students with lower abilities.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Promoting the will and skill of students at academic risk: An evaluation of an instructional design geared to foster achievement, self-efficacy and motivation",
+      "journal": "Journal of Instructional Psychology",
+      "year": "2003",
+      "authors": "M Alfassi"
+    },
+    {
+      "title": "Developmental dynamics of math performance from preschool to grade 2",
+      "journal": "Journal of Educational Psychology",
+      "year": "2004",
+      "authors": "K Aunola; E Leskinen; M. -K Lerkkanen; J. -E Nurmi"
+    },
+    {
+      "title": "Developmental dynamics between mathematical performance, task motivation, and teachers' goals during the transition to primary school",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2006",
+      "authors": "K Aunola; E Leskinen; J. -E Nurmi"
+    },
+    {
+      "title": "A synthesis of empirical research on teaching mathematics to low-achieving students",
+      "journal": "Elementary School Journal",
+      "year": "2002",
+      "authors": "S Baker; R Gersten; D S Lee"
+    },
+    {
+      "title": "Mathematics growth in early elementary school: The roles of beginning knowledge, student engagement, and instruction",
+      "journal": "Elementary School Journal",
+      "year": "2007",
+      "authors": "K Bodovski; G Farkas"
+    },
+    {
+      "title": "Age-related differences in achievement goal differentiation",
+      "journal": "Journal of Educational Psychology",
+      "year": "2009",
+      "authors": "M Bong"
+    },
+    {
+      "title": "Changes in self-perceptions of competence and intrinsic motivation among elementary schoolchildren",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "T Bouffard; M Marcoux; C Vezeau; L Bordeleau"
+    },
+    {
+      "title": "Patterns of motivation beliefs: Combining achievement goal and expectancy-value perspectives",
+      "journal": "Journal of Educational Psychology",
+      "year": "2012",
+      "authors": "A M Conley"
+    },
+    {
+      "title": "School readiness and later achievement",
+      "journal": "Developmental Psychology",
+      "year": "2007",
+      "authors": "G J Duncan; C J Dowsett; A Claessens; K Magnuson; A C Huston; P Klebanov"
+    },
+    {
+      "title": "Expectancies, values, and academic behaviors",
+      "journal": "Freeman",
+      "year": "1983",
+      "authors": "J S Eccles"
+    },
+    {
+      "title": "Motivational beliefs, values, and goals",
+      "journal": "Annual Review of Psychology",
+      "year": "2002",
+      "authors": "J S Eccles; A J Wigfield"
+    },
+    {
+      "title": "Approach and avoidance motivation and achievement goals",
+      "journal": "Educational Psychologist",
+      "year": "1999",
+      "authors": "A J Elliot"
+    },
+    {
+      "title": "A hierarchical model of approach and avoidance achievement motivation",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1997",
+      "authors": "A J Elliot; M A Church"
+    },
+    {
+      "title": "Approach and avoidance achievement goals and intrinsic motivation: A mediational analysis",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1996",
+      "authors": "A J Elliot; J M Harackiewicz"
+    },
+    {
+      "title": "A 2 \u00d7 2 achievement goal framework",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2001",
+      "authors": "A J Elliot; H A Mcgregor"
+    },
+    {
+      "title": "On the measurement of achievement goals: Critique, illustration, and application",
+      "journal": "Journal of Educational Psychology",
+      "year": "2008",
+      "authors": "A J Elliot; K Murayama"
+    },
+    {
+      "title": "Goals: An approach to motivation and achievement",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1988",
+      "authors": "E S Elliott; C S Dweck"
+    },
+    {
+      "title": "Estonian National Curriculum for Pre-school Education (Alushariduse raam\u00f5ppekava",
+      "journal": "",
+      "year": "1999",
+      "authors": ""
+    },
+    {
+      "title": "Estonian National Curriculum for Secondary Education (P\u00f5hikooli-ja g\u00fcmnaasiumi riiklik \u00f5ppekava",
+      "journal": "",
+      "year": "2002",
+      "authors": ""
+    },
+    {
+      "title": "Interventions supporting children's mathematics school success: A meta-analytic review",
+      "journal": "European Psychologist",
+      "year": "2008-10-12",
+      "authors": "U Fischer; K Moeller; U Cress; H. -C Nuerk"
+    },
+    {
+      "title": "Early math interest and the development of math skills",
+      "journal": "Journal of Educational Psychology",
+      "year": "2012",
+      "authors": "P H Fisher; J Dobbs-Oates; G L Doctoroff; D H Arnold"
+    },
+    {
+      "title": "Children's competence and value beliefs from childhood through adolescence: Growth trajectories in two male-sex-typed domains",
+      "journal": "Developmental Psychology",
+      "year": "2002",
+      "authors": "J A Fredricks; J S Eccles"
+    },
+    {
+      "title": "Development of mathematics interest in adolescence: Influences of gender, family, and school context",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2010",
+      "authors": "A C Frenzel; T Goetz; R Pekrun; H M G Watt"
+    },
+    {
+      "title": "Effects of task-focused goals on low-achieving students with and without learning disabilities",
+      "journal": "American Educational Research Journal",
+      "year": "1997",
+      "authors": "L S Fuchs; D Fuchs; K Karns; C L Hamlett; M Katzaroff; S Dutka"
+    },
+    {
+      "title": "When IQ is controlled, does motivation still predict achievement? Intelligence",
+      "journal": "",
+      "year": "2001",
+      "authors": "F Gagn\u00e9; F St P\u00e8re"
+    },
+    {
+      "title": "Early identification and interventions for students with mathematics difficulties",
+      "journal": "Journal of Learning Disabilities",
+      "year": "2005",
+      "authors": "R Gersten; N C Jordan; J R Flojo"
+    },
+    { "title": "", "journal": "", "year": "", "authors": "" },
+    {
+      "title": "Academic intrinsic motivation in young elementary school children",
+      "journal": "Journal of Educational Psychology",
+      "year": "1990",
+      "authors": "A E Gottfried"
+    },
+    {
+      "title": "Continuity of academic intrinsic motivation from childhood through late adolescence: A longitudinal study",
+      "journal": "Journal of Educational Psychology",
+      "year": "2001",
+      "authors": "A E Gottfried; J S Fleming; A W Gottfried"
+    },
+    {
+      "title": "Multivariate latent change modeling of developmental decline in academic intrinsic math motivation and achievement: Childhood through adolescence",
+      "journal": "International Journal of Behavioral Development",
+      "year": "2007",
+      "authors": "A E Gottfried; G A Marcoulides; A W Gottfried; P H Oliver; D W Guerin"
+    },
+    {
+      "title": "Revision of achievement goals theory: Necessary and illuminating",
+      "journal": "Journal of Educational Psychology",
+      "year": "2002",
+      "authors": "J M Harackiewicz; K E Barron; P R Pintrich; A J Elliot; T M Trash"
+    },
+    {
+      "title": "Interest: A unique motivational variable",
+      "journal": "Educational Psychology Review",
+      "year": "2006",
+      "authors": "S Hidi"
+    },
+    {
+      "title": "Motivating the academically unmotivated: A critical issue for the 21st century",
+      "journal": "Review of Educational Research",
+      "year": "2000",
+      "authors": "S Hidi; J M Harackiewicz"
+    },
+    {
+      "title": "The developmental dynamics of task-avoidant behavior and math performance in kindergarten and elementary school",
+      "journal": "Learning and Individual Differences",
+      "year": "2012",
+      "authors": "R Hirvonen; A Tolvanen; K Aunola; J. -E Nurmi"
+    },
+    {
+      "title": "Achievement goals and achievement emotions: A meta-analysis",
+      "journal": "Educational Psychology Review",
+      "year": "2011",
+      "authors": "C Huang"
+    },
+    {
+      "title": "Task values, achievement goals, and interest: An integrative analysis",
+      "journal": "Journal of Educational Psychology",
+      "year": "2008",
+      "authors": "C S Hulleman; A M Durik; S A Schweigert; J M Harackiewicz"
+    },
+    {
+      "title": "Changes in children's self-competence and values: Gender and domain differences across grades one through twelve",
+      "journal": "Child Development",
+      "year": "2002",
+      "authors": "J E Jacobs; S Lanza; D W Osgood; J S Eccles; A Wigfield"
+    },
+    {
+      "title": "Maths-specific performance goals, interest and selfconcept, and their relationship to previous task-avoidant behaviour and maths skills",
+      "journal": "Estonian studies in education",
+      "year": "2011",
+      "authors": "A. -L J\u00f5gi; K M\u00e4gi; E Kikas"
+    },
+    {
+      "title": "The contributions and prospects of goal orientation theory",
+      "journal": "Educational Psychology Review",
+      "year": "2007",
+      "authors": "A Kaplan; M L Maehr"
+    },
+    {
+      "title": "School psychology in Estonia",
+      "journal": "SAGE Publications",
+      "year": "2006",
+      "authors": "E Kikas"
+    },
+    {
+      "title": "The role of individual and contextual factors in the development of maths skills",
+      "journal": "Educational Psychology",
+      "year": "2009",
+      "authors": "E Kikas; K Peets; A Palu; J Afanasjev"
+    },
+    {
+      "title": "Principles and practice of structural equation modeling",
+      "journal": "The Guilford Press",
+      "year": "2011",
+      "authors": "R B Kline"
+    },
+    {
+      "title": "Interplay between personal goals and classroom goal structures in predicting student outcomes: A multilevel analysis of person-context interactions",
+      "journal": "Journal of Educational Psychology",
+      "year": "2008",
+      "authors": "S Lau; Y Nie"
+    },
+    {
+      "title": "The role of self-efficacy, task value, and achievement goals in predicting learning strategies, task disengagement, peer relationship, and achievement outcome",
+      "journal": "Contemporary Educational Journal",
+      "year": "2008",
+      "authors": "A D Liem; S Lau; Y Nie"
+    },
+    {
+      "title": "The dilemma of performance-approach goals: The use of multiple goal contexts to promote students' motivation and learning",
+      "journal": "Journal of Educational Psychology",
+      "year": "2005",
+      "authors": "E A Linnenbrink"
+    },
+    {
+      "title": "A study of intelligence in Estonia",
+      "journal": "Psychological Reports",
+      "year": "2002",
+      "authors": "R Lynn; J Allik; H Pullmann; K Laidra"
+    },
+    {
+      "title": "Performance-approach goals, task-avoidant behaviour and conceptual knowledge as predictors of first graders' school performance",
+      "journal": "Educational Psychologist",
+      "year": "2010",
+      "authors": "K M\u00e4gi; P H\u00e4idkind; E Kikas"
+    },
+    {
+      "title": "Relations between achievement goal orientations and math achievement in primary grades: A follow-up study",
+      "journal": "Scandinavian Journal of Educational Research",
+      "year": "2010",
+      "authors": "K M\u00e4gi; M. -K Lerkkanen; A. -M Poikkeus; H Rasku-Puttonen; E Kikas"
+    },
+    {
+      "title": "The change in middle school students' achievement goals in mathematics over time",
+      "journal": "Social Psychology of Education",
+      "year": "2004",
+      "authors": "M J Middleton; A Kaplan; C Midgley"
+    },
+    {
+      "title": "Avoiding the demonstration of lack of ability: An underexplored aspect of goal theory",
+      "journal": "Journal of Educational Psychology",
+      "year": "1997",
+      "authors": "M J Middleton; C Midgley"
+    },
+    {
+      "title": "Differences between elementary and middle school teachers and students: A goal theory approach",
+      "journal": "Journal of Early Adolescence",
+      "year": "1995",
+      "authors": "C Midgley; A Anderman; L Hicks"
+    },
+    {
+      "title": "Performance-approach goals: Good for what, for whom, under what circumstances, and at what cost?",
+      "journal": "Journal of Educational Psychology",
+      "year": "2001",
+      "authors": "C Midgley; A Kaplan; M Middleton"
+    },
+    {
+      "title": "The development and validation of scales assessing students' achievement goal orientations",
+      "journal": "Contemporary Educational Psychology",
+      "year": "1998",
+      "authors": "C Midgley; A Kaplan; M Middleton; M L Maehr; T Urdan; L H Anderman"
+    },
+    {
+      "title": "Manual for the Patterns of Adaptive Learning Scales (PALS)",
+      "journal": "",
+      "year": "2000",
+      "authors": "C Midgley; M L Maehr; L Z Hruda; E Anderman; L Anderman; K E Freeman"
+    },
+    {
+      "title": "Mplus user's guide",
+      "journal": "Muth\u00e9n & Muth\u00e9n",
+      "year": "1998",
+      "authors": "L K Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Achievement goals and school achievement: The transition to different school tracks in secondary school",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2013",
+      "authors": "I Paulick; R Watermann; M N\u00fcckles"
+    },
+    {
+      "title": "An achievement goal theory perspective on issues in motivation terminology, theory, and research",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2000",
+      "authors": "P R Pintrich"
+    },
+    {
+      "title": "A motivational science perspective on the role of student motivation in learning and teaching contexts",
+      "journal": "Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "P R Pintrich"
+    },
+    {
+      "title": "Manual for Raven's progressive matrices and Mill Hill vocabulary scales",
+      "journal": "Oxford Psychologists Press",
+      "year": "1981",
+      "authors": "J Raven"
+    },
+    {
+      "title": "Achievement goals and intrinsic motivation: A metaanalytic review",
+      "journal": "Personality and Social Psychology Review",
+      "year": "1999",
+      "authors": "L J Rawsthorne; A J Elliot"
+    },
+    {
+      "title": "Individual interest as context in expository text and mathematical word problems. Learning and Instruction",
+      "journal": "",
+      "year": "2002",
+      "authors": "K A Renninger; L Even; A K Lasher"
+    },
+    {
+      "title": "Revisiting the conceptualization, measurement, and generation of interest",
+      "journal": "Educational Psychologist",
+      "year": "2011",
+      "authors": "K A Renninger; S Hidi"
+    },
+    {
+      "title": "The patterns of adaptive learning survey: A comparison across grade levels",
+      "journal": "Educational and Psychological Measurement",
+      "year": "2002",
+      "authors": "M E Ross; D M Shannon; J D Salisbury-Glennon; A Guarino"
+    },
+    {
+      "title": "A scaled difference chi-square test statistic for moment structure analysis",
+      "journal": "Psychometrica",
+      "year": "2001",
+      "authors": "A Satorra; P M Bentler"
+    },
+    {
+      "title": "How do motivational regulation strategies affect achievement: Mediated by effort management and moderated by intelligence",
+      "journal": "Learning and Individual Differences",
+      "year": "2009",
+      "authors": "M Schwinger; R Steinmayr; B Spinath"
+    },
+    {
+      "title": "Performance-approach goal effects on achievement under low versus high challenge conditions. Learning and Instruction",
+      "journal": "",
+      "year": "2013",
+      "authors": "C Senko; A M Durik; L Patel; C M Lovejoy; D Valentiner"
+    },
+    {
+      "title": "Motivational beliefs and cognitive processes in mathematics achievement, analyzed in the context of cultural differences: A Korean elementary school example",
+      "journal": "Asia Pacific Education Review",
+      "year": "2009",
+      "authors": "D Seo; H Taherbhai"
+    },
+    {
+      "title": "Early predictors of high school mathematics achievement",
+      "journal": "Psychological Science",
+      "year": "2012",
+      "authors": "R S Siegler; G J Duncan; P E Davis-Kean; K Duckworth; A Claessens; M Engel"
+    },
+    {
+      "title": "Individual differences in achievement goals among young children",
+      "journal": "Child Development",
+      "year": "1994",
+      "authors": "P A Smiley; C S Dweck"
+    },
+    {
+      "title": "Longitudinal analysis of the link between learning motivation and competence beliefs among elementary school children. Learning and Instruction",
+      "journal": "",
+      "year": "2005",
+      "authors": "B Spinath; F M Spinath"
+    },
+    {
+      "title": "Predicting school achievement from general cognitive ability, self-perceived ability, and intrinsic value",
+      "journal": "Intelligence",
+      "year": "2006",
+      "authors": "B Spinath; F M Spinath; N Harlaar; R Plomin"
+    },
+    {
+      "title": "The importance of motivation as a predictor of school achievement",
+      "journal": "Learning and Individual Differences",
+      "year": "2009",
+      "authors": "R Steinmayr; B Spinath"
+    },
+    {
+      "title": "Students' achievement goals in relation to academic motivation, competence expectancy, and classroom environment perceptions",
+      "journal": "Educational Research and Evaluation",
+      "year": "2010",
+      "authors": "S Sungur; B Senler"
+    },
+    {
+      "title": "Effects of general and broad cognitive abilities on mathematics achievement",
+      "journal": "School Psychology Quarterly",
+      "year": "2008",
+      "authors": "G E Taub; R G Floyd; T Z Keith; K S Mcgrew"
+    },
+    {
+      "title": "Crosslagged relations between task motivation and performance in arithmetic and literacy in kindergarten. Learning and Instruction",
+      "journal": "",
+      "year": "2009",
+      "authors": "J Viljaranta; M. -K Lerkkanen; A. -M Poikkeus; K Aunola; J. -E Nurmi"
+    },
+    {
+      "title": "Development of adolescents' self-perceptions, values, and task perceptions according to gender and domain in 7th-through 11th-grade Australian students",
+      "journal": "Child Development",
+      "year": "2004",
+      "authors": "H M G Watt"
+    },
+    {
+      "title": "Motivational interventions that work: Themes and remaining issues",
+      "journal": "Educational Psychologist",
+      "year": "2007",
+      "authors": "K R Wentzel; A Wigfield"
+    },
+    {
+      "title": "Students' achievement values, goal orientations, and interest: Definitions, development, and relations to achievement outcomes",
+      "journal": "Developmental Review",
+      "year": "2010",
+      "authors": "A Wigfield; J Cambria"
+    },
+    {
+      "title": "The development of children's motivation in school contexts",
+      "journal": "Review of Research in Education",
+      "year": "1998",
+      "authors": "A Wigfield; J S Eccles; D Rodriguez"
+    },
+    {
+      "title": "Change in children's competence beliefs and subjective task values across the elementary school years: A 3-year study",
+      "journal": "Journal of Educational Psychology",
+      "year": "1997",
+      "authors": "A Wigfield; R D Harold; C Freedman-Doan; J S Eccles; K S Yoon; A J A Arbreton"
+    },
+    {
+      "title": "Expectancy-value theory of achievement motivation",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2000",
+      "authors": "A Wigfield; J S Eccles"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "12",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Fig. 1 .-Fig. 2 .12Fig. 1. Results of SEM analysis for the whole sample. Only significant paths (p b .05) are presented. Perf-appperformance-approach goals, perf-avperformance-avoidance goals. **p b .001, *p b .01, + p b .05.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Descriptives and intercorrelations among students' self-reported motivational constructs (means of scores), skills, and ability test (sums of scores).",
+      "figure_data": "MeasureM (SD)Skewness (SE) Kurtosis (SE) Crohnbach's \u03b1 Time 2Time 3Time 1 Time 2 Time 31.2.3.4.5.6.7.8.9.1. Interest Time 24.11 (0.93) \u22121.11 (0.09)0.86 (0.18) .73-2. Perf-app a Time 22.99 (1.39)0.03 (0.09)\u22121.31 (0.18) .87.21 \u204e\u204e-3. Perf-av b Time 22.19 (1.23)0.82 (0.09)\u22120.43 (0.18) .78\u2212.16 \u204e\u204e .15 \u204e\u204e-4. Interest Time 33.78 (0.99) \u22120.57 (0.09)\u22120.43 (0.18) .77.41 \u204e\u204e.11 \u204e\u2212.19 \u204e\u204e -5. Perf-app a Time 32.50 (1.22)0.41 (0.09)\u22120.89 (0.18) .88.06.36 \u204e\u204e.11 \u204e.16 \u204e\u204e-6. Perf-av b Time 32.19 (1.13)0.73 (0.09)\u22120.41 (0.18) .77\u2212.08 +.09 +.39 \u204e\u204e\u2212.18 \u204e\u204e .25 \u204e\u204e-7. Preskills Time 19.92 (3.44) \u22120.07 (0.09)\u22120.59 (0.17) .94.08 +\u2212.10 \u204e \u2212.18 \u204e\u204e .14 \u204e\u204e\u2212.07\u2212.21 \u204e\u204e -8. Skills Time 211.89 (3.90) \u22120.71 (0.09)0.04 (0.18) .91.18 \u204e\u204e\u2212.04\u2212.18 \u204e\u204e .18 \u204e\u204e\u2212.06\u2212.14 \u204e.48 \u204e\u204e\u22129. Skills Time 319.59 (4.06)1,51 (0.09)3.75 (0.18) .92.14 \u204e\u204e\u2212.08\u2212.20 \u204e\u204e .19 \u204e\u204e\u2212.07\u2212.21 \u204e\u204e .50 \u204e\u204e.53 \u204e\u204e\u221210. Ability Time 37.22 (2.72) \u22120.80 (0.09)\u22120.17 (0.18) .90.19 \u204e\u2212.01\u2212.12 \u204e.15 \u204e\u204e\u2212.10 \u204e \u2212.13 \u204e\u204e .29 \u204e\u204e.29 \u204e\u204e.36 \u204e\u204ea Perf-app -performance-approach goals.b Perf-av -performance-avoidance goals.\u204e\u204e p b .001.\u204e p b .01."
+    }
+  ],
+  "doi": "10.1016/j.lindif.2015.03.018"
+}

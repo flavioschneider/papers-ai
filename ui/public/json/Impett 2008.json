@@ -1,0 +1,665 @@
+{
+  "title": "Girls' Relationship Authenticity and Self-Esteem Across Adolescence",
+  "abstract": "Feminist psychologists have long posited that relationship authenticity (i.e., the congruence between what one thinks and feels and what one does and says in relational contexts) is integral to self-esteem and well-being. Guided by a feminist developmental framework, the authors investigated the role of relationship authenticity in promoting girls' self-esteem over the course of adolescence. Latent growth curve modeling was used to test the association between relationship authenticity and self-esteem with data from a 5-year, 3-wave longitudinal study of 183 adolescent girls. Results revealed that both relationship authenticity and self-esteem increased steadily in a linear fashion from the 8th to the 12th grade. Girls who scored high on the measure of relationship authenticity in the 8th grade experienced greater increases in self-esteem over the course of adolescence than girls who scored low on relationship authenticity. Further, girls who increased in authenticity also tended to increase in self-esteem over the course of adolescence. The importance of a feminist developmental framework for identifying and understanding salient dimensions of female adolescence is discussed.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.\n-Siddha rta Gautama (Buddha) Be content to seem what you really are.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "-Marcus Aurelius",
+      "text": "Researchers, clinicians, and lay people alike have expressed tremendous concern about girls' self-esteem as they negotiate adolescent development (e.g., Brown & Gilligan, 1992;Kling, Hyde, Showers, & Buswell, 1999;Pipher, 1994). Many studies have shown that gender differences in self-esteem emerge during early adolescence, with many more girls being plagued by low self-esteem than boys (e.g., Robins & Trzesniewski, 2005; see also meta-analyses by Kling et al., 1999;Major, Barr, Zubek, & Babey, 1999). For example, in a large Internet sample in which men's and women's self-esteem was tracked across the lifespan, girls' selfesteem dropped about twice as much as boys' self-esteem in adolescence (Robins, Trzesniewski, Tracy, Gosling, & Potter, 2002). Although research conducted by the American Association of University Women (1990) suggested that adolescent girls experience a \"free-fall in self-esteem from which they never recover\" (DeFazio, 1994, p. 276), more recent studies have shown that after age 13, many girls show a steady increase in self-esteem over the course of adolescence and young adulthood (Baldwin & Hoffmann, 2002;Kling et al., 1999). Why do some girls recover and develop healthy self-esteem whereas others do not?\nIn this article, we introduce and test relationship authenticity (i.e., the congruence between what a girl thinks and feels and what she says and does in relational contexts) as a factor that may promote increases in girls' self-esteem over the course of adolescence. We first review research on established predictors of selfesteem for boys and girls during adolescent development. Guided by our feminist developmental framework, we then review research showing that many girls begin to compromise their authenticity in early adolescence, as well as research showing how authenticity may promote a healthy sense of self-worth and wellbeing. Next, we describe a measure of relationship authenticity developed specifically for adolescent girls used in the current study. We then present the results of a 5-year longitudinal study designed to test our hypotheses about the links between relationship authenticity and self-esteem over the course of adolescence. Finally, we discuss the implications of this research for identifying and understanding salient dimensions of female adolescent development.",
+      "n_publication_ref": 11,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Established Predictors of Self-Esteem",
+      "text": "Adolescence is an especially important developmental period for the formation of self-esteem. Global self-esteem is defined as the totality of an individual's thoughts and emotions regarding the self (Rosenberg, Schooler, & Schoenbach, 1989). Self-esteem is a complex construct which is, in most cases, associated with positive youth development. Developmental studies of young adults have indicated that self-esteem is important for promoting both mental and physical health, as well as for preventing behavioral and emotional problems such as aggression and delinquent behavior (e.g., DuBois, Burk-Braxton, Swenson, Tevendale, & Hardesty, 2002;DuBois, Burk-Braxton, Swenson, Tevendale, Lockerd, et al., 2002;Trzesniewski et al., 2006).\nCommonly studied predictors of self-esteem for adolescents include race/ethnicity, socioeconomic status, educational achievement, pubertal timing, religiosity, and body satisfaction. Research has shown that socioeconomic status is positively associated with self-esteem (Gray-Little & Hafdahl, 2000;Rhodes, Roffman, Reddy, Fredriksen, & Way, 2004) and that ethnic minority youth have higher self-esteem than their White counterparts (Birndorf, Ryan, Auinger, & Aten, 2005;Carlson, Uppal, & Prosser, 2000;Gray-Little & Hafdahl, 2000;Rhodes et al., 2004). Longitudinal research has shown that higher grades in the 10th grade predict higher self-esteem in the12th grade (Schmidt & Padilla, 2003). Pubertal timing has also been linked with self-esteem, with early maturing girls reporting lower levels of self-esteem than girls who mature later in adolescence (G\u00fcre, U\u00e7anok, & Sayil, 2006;Williams & Currie, 2000). The research is less clear about the role of religiosity in promoting self-esteem. Some studies of adolescents have shown that religiosity is not associated with self-esteem (Donahue, 1995;Markstrom, 1999), whereas other studies have shown that religiosity predicts increased self-esteem among early adolescent girls (Tolman, Impett, Tracy, & Michael, 2006) as well as increased well-being in adult samples (see review by Pargament, 2002).\nBody image is also central to adolescents' self-definition, particularly for girls as they are socialized to believe that appearance is an important basis for both self-evaluation and evaluation by others (Fredrickson & Roberts, 1997). Indeed, perceptions of one's appearance and self-esteem are inextricably linked, such that satisfaction with one's body or appearance emerges as the strongest predictor of self-esteem for both male and female adolescents (Harter, 1999). Many studies have documented important links between body satisfaction and self-esteem at various points during adolescent development (e.g., Clay, Vignoles, & Dittmar, 2005;Davison & McCabe, 2006). The information provided by this research suggests that each of these established predictors of self-esteem should be considered in analyses investigating the developmental course of self-esteem in adolescence.",
+      "n_publication_ref": 21,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "A Feminist Developmental Perspective",
+      "text": "In order to understand why so many more girls than boys are plagued by low self-esteem in early adolescence, we need to consider factors that relate to the self-esteem of all youth, but also factors that may be specific to adolescent girls as they negotiate adolescent development (Tolman et al., 2006). Feminist research on the development of self-esteem has suggested that researchers consider aspects of girls' relationships with others when examining self-esteem (e.g., Brown, 2001;Way, 1998). Although many classic works in the social sciences have recognized that relationships provide a foundation for development, the mid-twentieth century produced a distilled version of human development that focused primarily on the self and emphasized independence and individuality. For example, Erikson (1968) and Mahler (1975) wrote about the importance of a child's separation from his or her mother during the early stages of childhood. This independence remains central to Erikson's (1968) theory until adulthood; only after adolescents have established an individual identity can they work to establish intimate relationships with others. The lack of focus on the role of relationships in earlier development was challenged toward the end of the twentieth century when developmental psychologists began to take relational processes more seriously and emphasized that the capacity and desire for relationships is central to human development and to women's development in particular (Gilligan, 1982;Josselson, 1992;Miller, 1976;Noam & Fischer, 1996).\nAlthough much of the work theorizing about the importance of relationships originated with feminist and object relations psychologists working with clinical populations (e.g., Bowlby, 1988;Jordan, Kaplan, Miller, Stiver, & Surrey, 1991;Mitchell & Aron, 1999), some key understandings arose from feminist research on the moral and cognitive processes of adult women (Belenky, Clinchy, Goldberger, & Tarule, 1986) and the development of adolescent girls (e.g., Brown & Gilligan, 1992;Robinson & Ward, 1991). The framework guiding much of this earlier work as well as our own research is both feminist and developmental. More specifically, our framework is predicated on an understanding of gender as socially constructed within a power hierarchy (i.e., patriarchy) that produces gender inequities in the ways that men and women are treated in this society (Connell, 1987;Hollway, 1984;Kimmel, 2000). For example, we typically expect that women will juggle family and work, although the same expectation is not always made of men (Crawford & Unger, 2004). Our framework also focuses on the way that gendered expectations differ across the life course. For example, adolescent girls are expected to be nice, kind, and polite to people at all times (Brown & Gilligan, 1992), whereas adult women are expected to be good wives and mothers who care primarily for the needs of their families (Belenky et al., 1986). The potential conflicts that ensue for girls and women of not conforming to gendered expectations are also distinct; whereas an adolescent girl risks hurting a friend, an adult woman risks losing her husband or a valued romantic relationship, one upon which she may economically depend. Although traditional approaches to the study of self-esteem link a variety of external factors (i.e., race/ethnicity or socioeconomic status) to both boys' and girls' self-esteem, our feminist developmental perspective encourages us to investigate relational contributions to self-esteem that are specific to adolescent girls and to interpret our findings in light of specific gender expectations within a socially constructed power hierarchy.",
+      "n_publication_ref": 22,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Girls' Loss of Authenticity in Early Adolescence",
+      "text": "Qualitative research that has focused on girls' own perspectives has shown that the desire to develop and maintain relationships is a primarily struggle in adolescence (e.g., Brown, 1998;Brown & Gilligan, 1992;Tolman, 2002). This healthy desire for connection unfortunately comes with a cost: the tendency to sacrifice or \"silence\" one's own needs and desires in order to please others and avoid conflict (Gilligan, 1982;Jack, 1991). Longitudinal research suggests that, with the onset of puberty in early adolescence, many girls begin to compromise their authenticity in relationships (Brown & Gilligan, 1992). Whereas in childhood girls are engaged in a rich, social world in which both good and bad feelings are spoken about directly and publicly, in early adolescence they begin to feel pressure to act in ways that are inconsistent with their actual thoughts and feelings. That is, in order to avoid any potential conflict or disharmony in relationships, they stop articulating their own needs, desires, and emotions (Brown & Gilligan, 1992;Tolman, 2002).\nRelationship authenticity is a concept emerging from feminist research on adolescence that emphasizes the importance of relational processes in development. Relationship authenticity differs from other related constructs such as self-disclosure (i.e., sharing intimate information about oneself) in that a person could easily disclose personal information to others, but that information might not be an authentic expression of what one truly thinks and feels at that particular moment in time. Relationship authenticity also differs from the construct of self-assertion (i.e., communicating one's own wants and needs to gain compliance) in that authenticity is not about influencing others, but accurately representing how one thinks and feels in relational contexts. Adolescent girls, particularly White, middle class girls, encounter the \"tyranny of the perfect girl,\" a girl who is not only smart and pretty, but nice and kind to people at all times (Brown & Gilligan, 1992). This \"perfect girl\" is supposed to develop and maintain friendships with other girls, while simultaneously competing with these other girls for a relationship with a desirable boy. Latina and Portuguese girls have been shown to encounter a comparable kind of perfect girl: a girl who is expected to maintain loyalty to her family and subsume her own needs and desires to those of her family members (Taylor, Gilligan, & Sullivan, 1996). In such rough waters, girls learn quickly that in order to maintain valued relationships, they must censor their own authentic thoughts, emotions, and behaviors, resulting in a discrepancy between what girls think and feel and what they actually say and do in relationships.\nThe importance of negotiating relational processes in adolescence is not unique to girls. Indeed, there is evidence that adolescent boys also face distinct relational struggles in adolescence such as feeling the need to \"act like a man\" to maintain relationships with peers (e.g., Tolman, Spencer, Rosen-Reynoso, Harmon, & Striepe, 2004;Way, 2001;Way & Chu, 2004). Nevertheless, research has also suggested that negotiating relationships may be especially central to girls' developing sense of identity and wellbeing (Brown, 2001;Way, 1998), and that girls in particular may begin to remove themselves from relationships in adolescence, censoring their honest thoughts and feelings to avoid potential conflict (Brown & Gilligan, 1992). Such a perspective is not without its challenges. Critics point to the lack of empirical evidence that girls suffer a \"loss of voice\" during adolescence (e.g., Harter, 1999); others are concerned with the relative weight of within versus between-gender differences (Hyde, 2006;Jaffee & Hyde, 2000). In response to these critiques, this study seeks to supply empirical evidence of the importance of authenticity to adolescent girls and to identify interindividual variability in girls' trajectories of self-esteem over the course of adolescent development.",
+      "n_publication_ref": 19,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measuring Adolescent Girls' Relationship Authenticity",
+      "text": "Our feminist developmental framework guided the development and validation of a 10-item measure of relationship authenticity created specifically for adolescent girls (Tolman & Porche, 2000;Tolman et al., 2006). This measure is conceptually rooted in Brown and Gilligan's (1992) qualitative findings that adolescent girls compromise their authenticity beginning in early adolescence. Whereas both girls and boys face relational struggles in adolescence, the nature and meaning of those struggles differ in important ways. For example, whereas boys experience pressures to \"act like a man\" by not expressing emotions with their male peers (Tolman, Spencer, et al., 2004), girls experience pressures to silence their opinions to prevent upsetting their friends (Tolman & Porche, 2000). Further, within each gender, relational struggles may be experienced differently at various points in development. For these reasons, we developed a measure of relationship authenticity created specifically for adolescent girls (Tolman & Porche, 2000) rather than using an existing measure of authenticity designed for adult samples (e.g., Jack & Dill, 1992;Kernis & Goldman, 2006;Lopez & Rice, 2006) or a gender-neutral measure designed for adolescent samples (e.g., Harter, Waters, Whitesell, & Kastelic, 1998).\nOur measure of relationship authenticity incorporates genderspecific norms and expectations about being authentic in specific relational contexts. This measure was developed using extensive focus groups with an ethnically diverse sample of girls to ensure that items are both gender-specific and representative of the developmental concerns of adolescent girls (Tolman & Porche, 2000). For example, girls respond to such statements as \"I tell my friends what I honestly think even when it is an unpopular idea\" and \"I express my opinions only if I can think of a nice way of doing it.\" Across several studies, this measure of relationship authenticity has been associated with greater mutuality in relationships, greater self-esteem, decreased depression, and increased sexual health (Impett, Schooler, & Tolman, 2006;Tolman & Porche, 2000;Tolman et al., 2006). This measure has been used in research with early adolescent (Tolman & Porche, 2000;, middle adolescent (Tolman, Impett, & Michael, 2004), and late adolescent girls (Impett et al., 2006). Whereas Harter et al.'s (1998) measure of \"level of voice,\" also developed for use with adolescents, assesses how much both boys and girls express their thoughts and opinions in a variety of different contexts (i.e., with parents, teachers, male classmates, female classmates, and close friends), our measure of relationship authenticity is genderspecific and assesses the ways in which adolescent girls bring (or fail to bring) an authentic self into relationship with others (e.g., by telling a friend that \"she hurt my feelings\" or expressing ideas to friends even when they are unpopular).",
+      "n_publication_ref": 18,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Preliminary Evidence Linking Girls' Relationship",
+      "text": "Authenticity and Self-Esteem Several studies using this measure of relationship authenticity as well as other related measures have provided initial evidence for links between adolescent girls' relationship authenticity and selfesteem. In the initial scale validation study with eighth-grade girls, relationship authenticity was positively associated with selfesteem and negatively associated with depression (Tolman & Porche, 2000). In another study of eighth-grade girls, the measure of relationship authenticity predicted higher self-esteem and lower depressed mood after controlling for a variety of other factors that have been consistently associated with positive youth development (Tolman et al., 2006). Research with other measures has supported these same conclusions. Harter and her colleagues have shown that their measure of lack of voice is associated with lower self-esteem (Harter et al., 1998). They have also demonstrated that adolescents (Harter, Marold, Whitesell, & Cobbs, 1996) and adults (Harter et al., 1997) who acknowledge that their lack of voice represents \"false self behavior\" (i.e., does not represent their true self) report more depressed affect, more hopelessness, and lower global selfesteem. Other studies of adolescents using a measure of \"selfsilencing\" that has typically been used with adult women (Jack & Dill, 1992) have shown that adolescent boys and girls who reported silencing their own authentic thoughts and feelings in dating relationships report more depressive symptoms than more authentic adolescents (Harper, Dickson, & Welsh, 2006;Harper & Welsh, 2007).\nThese findings converge with the observations of other women scholars who have stressed the importance of authenticity and mutuality within relationships (e.g., Chodorow, 1999;Harter, 2002;Jack, 1991;Jordan, 1994;Miller, 1976). Central to their arguments is the idea that genuine relatedness with others brings clarity, reality, and authenticity to the self. In contrast, an overemphasis on caregiving and pleasing others may jeopardize authenticity and the development of one's true self (Fritz & Helgeson, 1998). Suppressing one's \"true\" thoughts and feelings in relationships may lead to a loss of zest, energy, and love of life, as well as an increasing tendency to experience depressive symptoms (Jack & Dill, 1992).\nAll of the studies just reviewed provided snapshots of girls' authenticity and self-esteem at various points in adolescence. As such, they only provide evidence for associations between authenticity and self-esteem at one point in development, rather than the role of authenticity in shaping the development of self-esteem over time. Early adolescence may mark an important turning point for self-esteem, as it is during this developmental period that many girls experience a drop in self-esteem (Kling et al., 1999;Robins et al., 2002). Early adolescence is also an important time during which girls first begin to compromise their authenticity in relationships (Brown & Gilligan, 1992). Given the state of flux of girls' authenticity and their self-esteem in early adolescence, it is reasonable to expect that attitudes and practices cultivated in early adolescence might have lasting impact on well-being later in adolescence. Specifically, adolescent girls who resist the initial pressures to self-censor in early adolescence and who hold on to their sense of self and voice might, in turn, be better equipped to recover from declines in self-esteem.",
+      "n_publication_ref": 18,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Current Study",
+      "text": "The research just reviewed has suggested that relationship authenticity may be an important factor that distinguishes between girls with high and low self-esteem. We also suggest that relationship authenticity is important to the development and maintenance of self-esteem over the course of adolescence. That is, we expect that girls who are higher in relationship authenticity in early adolescence would experience greater increases in self-esteem than girls who are lower in relationship authenticity. Alternatively, it could be that having high self-esteem in early adolescence may promote the development of authenticity over the course of adolescence. We will evaluate both of these causal hypotheses with data from a 5-year, three-wave longitudinal study of adolescent girls who were surveyed in the 8th, 10th, and 12th grades.\nLatent growth curve modeling (LGM; Duncan, Duncan, & Strycker, 2006) will be used to test the proposed hypotheses linking relationship authenticity and self-esteem over the course of adolescence. LGM allows researchers to examine not only general trajectories of change in a population, but also individual variation in growth trajectories. Moreover, this approach can be used to evaluate the contribution of specific predictor variables to the rate (i.e., slope) of individuals' growth trajectories. In the current study, LGM allowed us to evaluate whether girls' self-esteem increases over the course of adolescence and, if so, whether relationship authenticity and a number of other covariates predict individual differences in these trajectories over the course of adolescence.\nThis study is concerned with the prediction of self-esteem over the course of adolescence from relationship authenticity measured early in adolescence. Because these data do not involve experimental manipulation, significant findings can only support particular causal pathways but cannot rule out the possibility that an unknown \"third variable\" accounts for significant associations among the variables. Accordingly, the proposed analyses will include multiple covariates including race/ethnicity, socioeconomic status, pubertal timing, educational achievement, religiosity, and body satisfaction.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Participants and Procedure",
+      "text": "All adolescent girls in the entire eighth grade in one northeastern urban middle school were recruited to participate in a longitudinal study of gender and adolescent health. Participants were recruited via flyers sent home by school administrators. Informed written consent was obtained from parents or guardians. Students who returned consent forms were entered into a lottery to receive gift certificates to a local mall. Participants provided assent prior to the survey administration and were reminded of confidentiality and of their freedom to discontinue participation at any time. To ensure confidentiality, students' names were removed from surveys, and students were seated apart from one another in a classroom setting monitored by survey administrators. Our collaboration with administrators and teachers produced a 93% compliance rate (158 out of 170 eighth-grade girls returned consent forms). Of these girls, only 7% of the girls' mothers declined to let their daughters participate in the study, leaving the final eighth-grade sample at 148 adolescent girls. In the eighth-grade, 23 girls (25%) reported that Spanish was the primary language used at home. Bilingual students were offered the option of completing the survey in Spanish (translated and back-translated) with a Spanish-speaking researcher present. Permission slips were translated into Spanish for this group. Students completed the surveys either in health or physical education classes in school.\nAcross three waves of data collection (i.e., in the 8th, 10th, and 12th grades), we used pencil and paper surveys to collect data from a total of 183 girls. In the 8th grade, 148 girls provided data (M age \u03ed 13.3), 143 girls provided data in the 10th grade (M age \u03ed 15.7), and 114 girls provided data in the 12th grade (M age \u03ed 17.4). Ninety-one girls (50% of the total sample) participated in all three waves of data collection, 45 girls (24%) participated in two waves, and 47 girls (26%) provided only one wave of data. Girls who entered the school system after the 8th grade were included in the study if their parents provided consent at that time (i.e., some girls only provided data in the 10th and/or 12th grades). The sample was primarily White (n \u03ed 115; 63%) and Latina (n \u03ed 49; 27%); 6 girls reported their race as African-American (3%), 4 as Brazilian or Portuguese (2%), 5 as Asian or Pacific Islander (3%), and 2 as Native American (1%), and 2 did not report their race/ethnicity (1%). Roughly half of the participants reported their mother's and/or father's level of education as some college or better. Common jobs named for mothers were teacher and office worker, and common jobs for fathers were construction worker, mechanic, teacher, and manager. The girls were not asked to report their family income.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "Participants completed a survey that included questions about friendship, dating, sexuality, and demographic characteristics.\nOnly those measures relevant to the current analyses are described below (see Table 1 for reliability coefficients for all measures).\nRelationship authenticity. The Inauthentic Self in Relationships subscale of the Adolescent Femininity Ideology Scale (AFIS; Tolman & Porche, 2000) was used to measure relationship authenticity. The AFIS was developed with and specifically for girls of varied ages in adolescence. Girls responded to such statements as \"I wouldn't change the way I do things to please someone\" and \"I tell my friends what I honestly think even when it's an unpopular idea\" on 6-point scales ranging from 1 (strongly disagree) to 6 (strongly agree). Several items were reverse-coded, and mean scores for this measure were computed, with higher scores reflecting greater authenticity in relationships. Table 1 lists means, standard deviations, ranges, and alphas for the 3 different years in which girls completed this measure.\nSelf-esteem. The 10-item Rosenberg Self-Esteem Scale (Rosenberg, 1965) was used to assess global self-esteem. Girls' responded to such statements as \"I take a positive attitude toward myself\" on 4-point scales ranging from 1 (disagree a lot) to 4 (agree a lot). Several items were reverse-coded, and all of the items were averaged to create a summary measure of global self-esteem (ranging from 1 to 4), with higher scores indicating more positive self-regard. Table 1 lists means, standard deviations, ranges, and alphas for the three different years in which girls completed this measure.\nRace. Girls chose any number of six supplied racial/ethnic categories (Black/African American/Caribbean, White, Hispanic/ Latina, Brazilian/Portuguese, Asian/Pacific Islander, or American Indian/Alaskan Native), and some supplied their own category. Although girls self-identified as belonging to a variety of racial/ ethnic categories, there were not enough girls in these groups to adequately test for group differences. For the purposes of controlling for race/ethnicity in the model, racial/ethnic group membership was coded as 0 (White) or 1 (Not White). Socioeconomic status. Each girl's mother/mother figure's education (measured in the eighth grade) was included as a proxy for socioeconomic status. Girls reported to the best of their ability the highest level of formal education achieved by their mother or female guardian (1 \u03ed did not finish high school, 2 \u03ed finished high school/obtained GED, 3 \u03ed completed some college, 4 \u03ed finished college, 5 \u03ed attended school beyond college). Maternal education has been shown to be an adequate general index of socioeconomic status (Entwisle & Astone, 1994).\nReligiosity. Religiosity was measured with a single item asked in the eighth grade: \"How important is religion in your life?\" (1 \u03ed not at all to 4 \u03ed very).\nEducational achievement. Educational achievement was assessed in the eighth grade with the question \"Compared to other students in your class, what kind of student would you say you are, in terms of grades?\" on a 5-point scale (1 \u03ed near the bottom to 5 \u03ed one of the best).\nPubertal timing. Pubertal timing was assessed with a question about age of menarche asked in the 12th grade: \"At what age did you get your first period?\" Body satisfaction. The Body Image subscale of the Self-Image Questionnaire for Young Adolescents (Petersen, 1984) was used in the eighth grade to measure body satisfaction, with higher scores indicating greater body satisfaction.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Data Analyses",
+      "text": "LGM (Duncan et al., 2006) was used to test the proposed model (see Figure 1). LGM is one approach to random-effects modeling, which is optimal for the study of change over time. LGM uses a constrained structural equation model (SEM) to model unique change trajectories for each individual. The primary advantage of using an SEM framework for random-effects modeling is that multiple growth processes can be modeled simultaneously, and relationships can be assessed among the growth processes. Other advantages of LGM include the ability to allow measurement error estimates to change over time, to simultaneously model a variable as both an independent variable and a dependent variable, the flexibility to include both time-varying and time-invariant covariates, and the availability of multiple model-fit statistics standard in SEM. With this approach, two latent factors are established with fixed loadings from repeated measures of a single variable. Under standard loadings, one latent variable models the initial intercept or baseline of the growth curve (the intercept factor), and the other factor estimates the degree of change over time (the slope factor). Change over time is estimated by fixing the factor loadings for the slope factor according to the hypothesized shape of the growth curve. In the present study, the factor loadings for the intercept factor were fixed at 1 for each assessment year (Duncan et al., 2006), yielding estimates interpreted as expected scores at baseline (i.e., eighth grade) when estimated simultaneously with a slope factor. Linear change over time was modeled across the three time points by fixing the slope factor loadings at 0, 2, and 4, which yields estimates interpreted as expected yearly change. Linear coefficients were chosen on the basis of previous research suggesting that adolescent girls may gradually increase in self-esteem and authenticity over the course of adolescence (Kling et al., 1999;Way, 1995). Intercept and slope factors were established for both relationship authenticity and self-esteem, and the control variables were all entered as time-invariant covariates measured at baseline (i.e., the eighth grade).\nOn the basis of earlier theory and research, we hypothesized that initial (8th-grade) levels of authenticity would predict initial levels of self-esteem (b 0 , Figure 1). Further, we hypothesized that initial levels of authenticity would predict changes in self-esteem over time (b 1 , Figure 1). More specifically, we predicted that girls higher in relationship authenticity in the 8th grade would report greater increases in self-esteem from the 8th to the 12th grade. We also tested the alternative hypothesis that initial levels of selfesteem would predict changes in authenticity over time (b 2 , Figure 1), specifying a cross-lagged model. Finally, we predicted that changes in authenticity would predict changes in self-esteem over time (b 3 , Figure 1). We also predicted that initial levels of both self-esteem and authenticity would influence their respective change over time, such that individuals who score high on these variables in 8th grade would exhibit less increase over time (Duncan et al., 2006). In addition, all analyses controlled for race/ ethnicity, socioeconomic status, pubertal timing, educational achievement, religiosity, and body satisfaction at baseline.\nThe computer program Mplus (Version 4.0; Muth\u00e9n & Muth\u00e9n, 2005) was used to estimate the growth curves and test the overall fit of the model. Maximum likelihood estimation with robust standard errors was used to minimize the effects of any nonnormality on the test statistics. All covariates were grand-mean cen- tered to assist with interpretation of the intercept factors. In addition to the chi-square statistic used to assess overall model-fit, we report two other fit indices commonly reported in structural equation modeling: the robust comparative fit index (CFI; Bentler, 1990) and the robust root mean-square error of approximation (RMSEA). The CFI is a common model-fit index that is forced to vary between 0 and 1, with values greater than .95 indicative of good fit (Hu & Bentler, 1999). The RMSEA is an index that represents a population-based assessment of the amount of model misfit (less dependent on the sample size and distributional properties of the sample) and that compensates for the effect of model complexity; RMSEA values of .06 and lower are indicative of good fit (Hu & Bentler, 1999).\nUnlike repeated-measures analysis of variance (ANOVA), the LGM approach does not necessitate exclusion of cases with missing values, an inevitable circumstance in longitudinal research. In LGM, participants with only one measurement can contribute to the estimation of the aggregated intercept and slope estimates. To take advantage of all of the available data, missing data were imputed via expectation maximization (EM) imputation (Dempster, Laird, & Rubin, 1977). EM imputation requires missing data to be missing-at-random (MAR); MAR assumes that data are not missing completely at random (MCAR), but that data are missing conditional upon other factors that are measured in the data (Schafer, 1997).",
+      "n_publication_ref": 10,
+      "n_figure_ref": 5
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Univariate Latent Growth Curve Models",
+      "text": "Descriptive statistics for relationship authenticity, self-esteem, and all covariates are reported in Table 1. Before testing the model in Figure 1, we estimated separate univariate growth curves for authenticity and self-esteem. One reason we conducted univariate analyses first was to ensure that significant variance in the growth parameters for each variable exists for it to predict or be predicted by the growth parameters of the other variable (Karney & Bradbury, 1995). A second reason was that we were interested in determining if mean levels of relationship authenticity and selfesteem changed significantly over the course of adolescence. The descriptive statistics shown in Table 1 show that the mean levels of both authenticity and self-esteem increased over time. The tests of the univariate growth curves, shown in Table 2, provide a formal test of these trends. The mean value of the linear slopes for both variables indicates the average rate of linear change for that variable over time, and they are interpreted as the expected increase in authenticity and self-esteem each year (.12 and .03, respectively). The variances of the slope factors reveal significant variability around the average slopes, suggesting that whereas some girls decreased in authenticity and self-esteem over time, others increased or remained relatively steady.\nFor example, for authenticity, the statistical significance of the mean value of the linear slope (.12, p \u03fd .001, in Table 2) suggests that, on average, we would expect girls to increase in relationship authenticity .12 units each year from the 8th to the 12th grade, a value consistent with the trend reported in Table 1. In other words, if a girl scores a 3.0 (out of a possible 6 points) in authenticity in the 8th grade, we would expect her authenticity score to be 3.48 by the time she reaches the 12th grade. From Table 2, we can also see that the mean levels of self-esteem increased significantly over time (.03, p \u03fd .001). In addition, the variances of the relationship authenticity intercept (.39, p \u03fd .001) and slope factor (.03, p \u03fd .001) and the self-esteem intercept (.35, p \u03fd .001) and slope factor (.02, p \u03fd .001) were significant, indicating that there was sufficient interindividual variability in the baseline and rate of change estimates for these two constructs to conduct further analyses on the associations between authenticity and self-esteem.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Testing the Multivariate Latent Growth Curve Model",
+      "text": "Figure 1 presents the estimated multivariate latent growth curve model; the control variable paths are not included in Figure 1 so that we could more clearly convey the primary findings. All of the covariates were grand-mean centered and included as predictors of all four factors: baseline and change in relationship authenticity and self-esteem. The results in Figure 1 illustrate that girls' initial levels of authenticity significantly predicted their initial levels of self-esteem in the 8th grade (\u2424 0 \u03ed .26, p \u03fd .05). That is, girls who reported being more authentic in their relationships in the 8th grade reported higher initial self-esteem than girls who were less authentic in the 8th grade. In addition, the intercept for authenticity (the initial level of authenticity in the 8th grade) predicted change in self-esteem over Grades 8 to 12 (\u2424 1 \u03ed .36, p \u03fd .01). That is, girls who reported being the most authentic in 8th grade evidenced the largest increases in self-esteem from the 8th to the 12th grade. Further, changes in self-esteem were also predicted by changes in authenticity (\u2424 3 \u03ed .64, p \u03fd .001), suggesting that girls who increased in authenticity also tended to increase in self-esteem over Grades 8 through 12. However, change in self-esteem was not predicted by baseline self-esteem (\u2424 \u03ed \u03ea.33, p \u03fe .05), which suggests that changes in self-esteem are not a function of selfesteem in the 8th grade after controlling for authenticity and the covariates. Finally, neither baseline authenticity (\u2424 \u03ed \u03ea.34, p \u03fe Because the structural paths for the LGM were specified a priori, no model modifications using the Lagrange multiplier or Wald tests were attempted. Several of the control variables significantly predicted some of the factors in the model. Pubertal timing significantly predicted baseline self-esteem (\u2424 \u03ed .14, p \u03fd .05), such that girls who entered puberty sooner tended to report lower self-esteem in eighth grade; pubertal timing did not predict any other growth factor. Body satisfaction was a strong predictor of both baseline selfesteem (\u2424 \u03ed .61, p \u03fd .001) and baseline authenticity (\u2424 \u03ed .49, p \u03fd .001). Results suggest that girls with higher body satisfaction in eighth grade reported significantly higher levels of both selfesteem and authenticity; however, baseline body satisfaction did not predict changes in either authenticity or self-esteem. Finally, mother's education, the proxy for socioeconomic status, predicted both baseline authenticity (\u2424 \u03ed \u03ea.20, p \u03fd .05) and changes in authenticity (\u2424 \u03ed .28, p \u03fd .05), such that girls with more educated mothers reported slightly less authentic feelings in eighth grade, 1 but increased more in authenticity than girls with less-educated mothers throughout high school. Mother's education did not predict baseline self-esteem or changes in self-esteem. There were no significant independent effects of eighth-grade religiosity, educational achievement, or race/ethnicity on either the authenticity or self-esteem intercept or slope factors.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 3
+    },
+    { "heading": "Discussion", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Summary of Major Findings",
+      "text": "Previous research indicates that, on average, girls experience a sharp decline in self-esteem at early adolescence followed by a gradual recovery in self-esteem over the course of adolescence (e.g., Baldwin & Hoffmann, 2002;Kling et al., 1999). Consistent with this research, we found an average increase in self-esteem across 5 years of adolescence. Our analyses also revealed a great deal of variation among girls; some girls showed an increase in self-esteem across adolescence, whereas others did not. Relationship authenticity proved to be an important factor in distinguishing between girls who did and did not experience increases in selfesteem during adolescence. Girls who, in 8th grade, were more comfortable speaking honestly and expressing their own opinions in their relationships were more likely to experience an increase in self-esteem over the next 5 years than their less authentic peers. In addition, girls who reported greater increases in relationship authenticity across Grades 8 through 12 also reported greater increases in self-esteem over this same time period. These findings suggest not only that baseline authenticity influences gains in self-esteem, but also that girls who increase their authenticity also increase their self-esteem. Therefore, if an intervention is able to increase a girl's relationship authenticity throughout her high school years, it will also be likely to increase her self-esteem.\nHarter has challenged the generality of claims about girls' loss of voice in adolescence and has urged researchers to specify particular subsets of girls and boys for whom such a loss may be statistically evident (e.g., Harter et al., 1997Harter et al., , 1998. Our work does not provide evidence of a loss of authenticity over the course of adolescence; rather, on average, girls increased in authenticity from the 8th to the 12th grade. This finding is consistent with results from a longitudinal, qualitative study of urban adolescent girls, which suggested that girls may become more authentic in their relationships from early to late adolescence. Way (1995) interviewed 12 urban, poor, and working-class adolescent girls about themselves, their relationships, and their experiences in school over a 3-year period. The ability to be outspoken or to \"speak one's mind\" was emphasized by the majority of the girls interviewed, particularly in their junior or senior years. Atlhough many of the early adolescent girls described the importance of \"keeping quiet,\" by their junior or senior years these same girls discussed being able to directly express their thoughts and feelings and described themselves as outspoken. Because loss of voice among girls has been documented during early adolescence (i.e., ages 11-12;Brown & Gilligan, 1992), it is likely that by the 8th grade, losses in voice and authenticity in our sample had already occurred. Harter (1999) has also noted the lack of research on the causes and consequences of lack of voice, as well as research on individual differences in lack of voice within each gender. The contribution our study makes to both feminist understandings of voice and Harter's work is twofold. First, by engaging in a systematic study of girls' authenticity in adolescence, our examination adds to the empirical base provided by past feminist work (e.g., Brown & Gilligan, 1992) by documenting the consequences of authenticity for the development of girls' self-esteem across adolescence. Second, as suggested by Harter, the current study examined withingender individual differences in both authenticity and self-esteem. That is, whereas girls on the whole experienced gains in selfesteem over the course of adolescence, some girls experienced decreases, whereas others retained relatively stable self-esteem. Authenticity emerged as an important (and the only) predictor of trajectories of self-esteem: Girls who reported the highest levels of authenticity in early adolescence experienced the greatest gains in self-esteem over the course of adolescent development. More generally, findings from this study provide support for claims made by many feminist theorists and qualitative researchers that, for girls and women in particular, self-esteem rests on the ability to bring oneself fully and authentically into valued relationships with others (e.g., Chodorow, 1999;Jordan, 1994;Miller, 1976).\nIn addition, our analyses indicated that associations between self-esteem and authenticity remained significant even after controlling for several relevant covariates. Consistent with previous research, girls who reached puberty at later ages and those who reported greater satisfaction with their bodies also reported greater self-esteem (e.g., Clay et al., 2005;G\u00fcre et al., 2006). Moreover, girls who were more satisfied with their bodies in the eighth grade also reported greater authenticity in relationships. Previous research has documented striking declines in body satisfaction for girls beginning in adolescence (Adams, Katz, Beauchamp, Cohen, & Zavis, 1993). Findings from the current study suggest that this sudden drop in body satisfaction may be related to drops in both authenticity and self-esteem experienced at this same time. Still, these findings indicate that body satisfaction cannot explain the gradual increase in self-esteem and authenticity experienced by some girls over the course of adolescence. Indeed, of the included variables, only authenticity predicted increases in selfesteem over the course of adolescence. It should also be noted that, although controlled for in the model, race/ethnicity did not predict any of the factors indicating that initial levels of and trajectories of both authenticity and self-esteem did not differ for the White and ethnic minority (mostly Latina) girls in the sample. Finally, girls' trajectories were differentiated by their mothers' level of education, such that girls whose mothers had more education (as reported by the girls in the eighth grade) garnered more gains in authenticity over the course of adolescence development. One possible explanation for this trend is that mothers with more education may be more informed about research suggesting a loss of self-esteem for adolescent girls and the role that authenticity may play in that loss, and may have been especially attentive to their daughters' feelings about themselves and the importance of projecting a strong sense of self regardless of the reactions of others.\nThis study also provided several important methodological advances over previous research. Whereas previous studies have examined the association between relationship authenticity and self-esteem using analytic strategies that incorporate static views of development, the present study used an analytic strategy that enabled us to evaluate change and growth. An important strength of this study was the use of multiwave assessment, which provided a more dynamic and precise picture of the relationship between authenticity and self-esteem than did cross-sectional or two-wave research designs. As a result, the current findings provide a more refined and detailed view of the interplay between authenticity and self-esteem. Specifically, these analyses suggest that relationship authenticity during early adolescence may benefit girls' selfesteem for years to come, highlighting early adolescence as a crucial period for developing a confident and empowered sense of self. At this time of transition and challenge in girls' development, being able to be authentic may mark the beginning of a path toward even greater self-esteem in late adolescence and possibly adulthood.\nAnother methodological strength of this study was the use of a variety of control factors that have been identified as important predictors of self-esteem in previous research. The findings demonstrated that even after ethnicity, socioeconomic status, religiosity, educational achievement, body satisfaction, and pubertal timing were taken into account, initial levels of authenticity predicted increases in self-esteem over the course of adolescent development. What is most striking about these findings is that the associations between authenticity and self-esteem remain even after controlling for body satisfaction-one of the strongest predictors of self-esteem for adolescent girls (e.g., Davison & Mc-Cabe, 2006;Harter, 1999).",
+      "n_publication_ref": 17,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations, Future Directions, and Implications",
+      "text": "Several limitations of this research deserve comment. One limitation concerns our limited ability to draw causal conclusions from these data. Although testing a cross-lagged model enabled us to establish support for a causal pathway that lead from authenticity to self-esteem (and not from self-esteem to authenticity), these analyses cannot rule out the possibility that an unknown, third variable caused the associations between these two variables. We did, however, control for a variety of factors that have been shown to predict self-esteem including race/ethnicity, socioeconomic status, educational achievement, pubertal timing, body satisfaction, and religiosity. Despite this limitation, we are aware of no research that has examined the bidirectional nature of the association between relationship authenticity and self-esteem.\nAlthough a strength of this study was the inclusion of a variety of factors that have been commonly linked with self-esteem for adolescent girls, many of them were assessed with only one item each (i.e., socioeconomic status, educational achievement, religiosity, and pubertal timing). For example, socioeconomic status was assessed with a question about the mother's highest level of education, and educational achievement was assessed with a question that asked participants to compare their performance in school with that of their peers. Future research on relationship authenticity should include more extensive measures of the types of factors that have been more traditionally linked with self-esteem in adolescence.\nThe measure of relationship authenticity used in this study assessed a girl's tendency to silence her own thoughts and feelings in relationships with her peers. A girl's ability to be authentic in dating relationships, in particular heterosexual relationships, may be an even more powerful predictor of her self-esteem than her ability to speak her mind with her peers. The extent to which a girl silences herself in peer relationships may or may not overlap with the degree to which she silences her voice in romantic relationships, particularly in heterosexual relationships in which power differentials are embedded. Many of the adolescent girls interviewed by Way (1995) discussed their willingness to be outspoken with their friends, teachers, and family members, but many of them seemed to change their tone when they spoke about boys. That is, relationship authenticity may depend on the type of relationship about which a girl is reporting. Thus, we suggest that the development of a comparable measure of authenticity in romantic relationships would make a useful contribution to this line of investigation. Qualitative research would be an important first step to identify which aspects of relationship authenticity are most salient for adolescent girls in romantic relationships more specifically and whether there may be differences by race, ethnicity, and socioeconomic status.\nAnother important direction for future research concerns the potential importance of relationship authenticity for boys' selfesteem. Previous research has shown that men score higher than women on a measure of self-silencing (Gratch, Bassett, & Attra, 1995;Jack & Dill, 1992). However, research remains mixed as to whether the extent to which boys and men self-silence is associated with diminished mental health. It is likely that there are different aspects of authenticity or self-silencing that are salient or relevant to adolescent boys versus girls. For instance, traditional ideas about masculinity include concerns that boys should present themselves as tough and sexually active, as well as hide feelings of vulnerability in relationships. Both of these aspects of masculinity entail hiding one's emotions and behaving inauthentically. In one study, boys who espoused traditional ideas about masculinity had lower self-esteem than boys who did not (Chu, Porche, & Tolman, 2005). In a qualitative study of early adolescent boys, some boys spoke explicitly about the difficulty in simultaneously negotiating their relationships with male friends and their romantic relationships with girls . The boys talked specifically about their desire to be themselves with their girlfriends and the pressure they felt to act \"like a man\" in relationships with their male peers. In short, espousing traditional ideas about masculinity may limit the ways that boys and men are able to express themselves in their interpersonal relationships (Pollack & Shuster, 2000).\nThe findings from this study have important implications for interventions aimed at increasing the self-esteem of adolescent girls. It is well documented that girls face a litany of risks to mental health in adolescence including depression, self-mutilation, eating disorders, and suicidality, all of which have been linked to low self-esteem (e.g., Halvorsen & Heyerdahl, 2006;Hull-Blanks, Kerr, & Kurpius, 2004;Lowenstein, 2005;Marcotte, Fortin, Potvin, & Papillon, 2002). As such, interventions designed to combat the psychological vulnerabilities of girls are often aimed at bolstering self-esteem. A major contribution of the present study is the support it provides for relationship authenticity as an important route to bolstering self-esteem. These findings highlight the importance of developing interventions that focus on encouraging authenticity in interpersonal relationships, such as interventions in which young girls are mentored by women (see, e.g., Liang, Tracy, Taylor, & Williams, 2002;Spencer, 2006), as another way to encourage self-esteem during girls' development throughout the course of adolescence.",
+      "n_publication_ref": 11,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Body dissatisfaction, eating disorders, and depression: A developmental perspective",
+      "journal": "Journal of Child & Family Studies",
+      "year": "1993",
+      "authors": "P J Adams; R C Katz; K Beauchamp; E Cohen; D Zavis"
+    },
+    {
+      "title": "Shortchanging girls, shortchanging America: Full data report",
+      "journal": "Author",
+      "year": "1990",
+      "authors": ""
+    },
+    {
+      "title": "The dynamics of self-esteem: A growth-curve analysis",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2002",
+      "authors": "S A Baldwin; J P Hoffmann"
+    },
+    {
+      "title": "Women's ways of knowing: The development of self, voice, and mind",
+      "journal": "Basic Books",
+      "year": "1986",
+      "authors": "M F Belenky; B M Clinchy; N R Goldberger; J M Tarule"
+    },
+    {
+      "title": "Comparative fit indexes in structural models",
+      "journal": "Psychological Bulletin",
+      "year": "1990",
+      "authors": "P M Bentler"
+    },
+    {
+      "title": "High self-esteem among adolescents: Longitudinal trends, sex differences, and protective factors",
+      "journal": "Journal of Adolescent Health",
+      "year": "2005",
+      "authors": "S Birndorf; S Ryan; P Auinger; M Aten"
+    },
+    {
+      "title": "A secure base: Parent-child attachment and healthy human development",
+      "journal": "Basic Books",
+      "year": "1988",
+      "authors": "J Bowlby"
+    },
+    {
+      "title": "Raising their voices: The politics of girls' anger",
+      "journal": "Harvard University Press",
+      "year": "1998",
+      "authors": "L M Brown"
+    },
+    {
+      "title": "White working class girls, femininities, and the paradox of resistance",
+      "journal": "New York University Press",
+      "year": "2001",
+      "authors": "L M Brown"
+    },
+    {
+      "title": "Meeting at the crossroads: Women's psychology and girls' development",
+      "journal": "Harvard University Press",
+      "year": "1992",
+      "authors": "L M Brown; C Gilligan"
+    },
+    {
+      "title": "Ethnic differences in processes contributing to the self-esteem of early adolescent girls",
+      "journal": "Journal of Early Adolescence",
+      "year": "2000",
+      "authors": "C Carlson; S Uppal; E C Prosser"
+    },
+    {
+      "title": "The reproduction of mothering: Psychoanalysis and the sociology of gender",
+      "journal": "University of California Press",
+      "year": "1999",
+      "authors": "N Chodorow"
+    },
+    {
+      "title": "The Adolescent Masculinity Ideology in Relationships Scale: Development and validation of a new measure for boys. Men and Masculinities",
+      "journal": "",
+      "year": "2005",
+      "authors": "J Y Chu; M V Porche; D L Tolman"
+    },
+    {
+      "title": "Body image and selfesteem among adolescent girls: Testing the influence of sociocultural factors",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2005",
+      "authors": "D Clay; V L Vignoles; H Dittmar"
+    },
+    {
+      "title": "Gender and Power",
+      "journal": "Stanford University Press",
+      "year": "1987",
+      "authors": "R W Connell"
+    },
+    {
+      "title": "Women and gender: A feminist psychology",
+      "journal": "McGraw-Hill",
+      "year": "2004",
+      "authors": "M Crawford; R Unger"
+    },
+    {
+      "title": "Adolescent body image and psychosocial functioning",
+      "journal": "Journal of Social Psychology",
+      "year": "2006",
+      "authors": "T E Davison; M P Mccabe"
+    },
+    {
+      "title": "Schoolgirls: Young women, self-esteem, and the confidence gap",
+      "journal": "Anchor Books",
+      "year": "1994",
+      "authors": "J Defazio"
+    },
+    {
+      "title": "Maximum likelihood estimation from incomplete data via the EM algorithm",
+      "journal": "Journal of the Royal Statistical Society, Series B",
+      "year": "1977",
+      "authors": "A P Demptser; N M Laird; D B Rubin"
+    },
+    {
+      "title": "Religion and the well-being of adolescents",
+      "journal": "Journal of Social Issues",
+      "year": "1995",
+      "authors": "M J Donahue"
+    },
+    {
+      "title": "Race and gender influences on adjustment in early adolescence: Investigation of an integrative model",
+      "journal": "Child Development",
+      "year": "2002",
+      "authors": "D L Dubois; C Burk-Braxton; L P Swenson; H D Tevendale; J L Hardesty"
+    },
+    {
+      "title": "Getting by with a little help from self and others: Self-esteem and social support as resources during early adolescence",
+      "journal": "Developmental Psychology",
+      "year": "2002",
+      "authors": "D L Dubois; C Burk-Braxton; L P Swenson; H D Tevendale; E M Lockerd; B L Moran"
+    },
+    {
+      "title": "An introduction to latent variable growth curve modeling: Concepts, issues, and applications",
+      "journal": "Erlbaum",
+      "year": "2006",
+      "authors": "T E Duncan; S C Duncan; L A Strycker"
+    },
+    {
+      "title": "Some practical guidelines for measuring youth's race/ethnicity and socioeconomic status",
+      "journal": "Child Development",
+      "year": "1994",
+      "authors": "D R Entwisle; N M Astone"
+    },
+    {
+      "title": "Identity, youth, and crisis",
+      "journal": "W. W. Norton",
+      "year": "1968",
+      "authors": "E Erikson"
+    },
+    {
+      "title": "Objectification theory: Toward understanding women's lived experiences and mental health risks",
+      "journal": "Psychology of Women Quarterly",
+      "year": "1997",
+      "authors": "B L Fredrickson; T.-A Roberts"
+    },
+    {
+      "title": "Distinctions of unmitigated communion from communion: Self-neglect and overinvolvement with others",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1998",
+      "authors": "H L Fritz; V S Helgeson"
+    },
+    {
+      "title": "In a different voice: Psychological theory and women's development",
+      "journal": "Harvard University Press",
+      "year": "1982",
+      "authors": "C Gilligan"
+    },
+    {
+      "title": "The relationship of gender and ethnicity to self-silencing and depression among college students",
+      "journal": "Psychology of Women Quarterly",
+      "year": "1995",
+      "authors": "L V Gratch; M E Bassett; S L Attra"
+    },
+    {
+      "title": "Factors influencing racial comparisons of self-esteem: A quantitative review",
+      "journal": "Psychological Bulletin",
+      "year": "2000",
+      "authors": "B Gray-Little; A R Hafdahl"
+    },
+    {
+      "title": "The associations among perceived pubertal timing, parental relations and self-perception in Turkish adolescents",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2006",
+      "authors": "A G\u00fcre; Z U\u00e7anok; M Sayil"
+    },
+    {
+      "title": "Girls with anorexia nervosa as young adults: Personality, self-esteem, and life satisfaction",
+      "journal": "International Journal of Eating Disorders",
+      "year": "2006",
+      "authors": "I Halvorsen; S Heyerdahl"
+    },
+    {
+      "title": "Self-silencing and rejection sensitivity in adolescent romantic relationships",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2006",
+      "authors": "M S Harper; J W Dickson; D P Welsh"
+    },
+    {
+      "title": "Keeping quiet: Self-silencing and its association with relational and individual functioning among adolescent romantic couples",
+      "journal": "Journal of Social and Personal Relationships",
+      "year": "2007",
+      "authors": "M S Harper; D P Welsh"
+    },
+    {
+      "title": "The construction of the self: A developmental perspective",
+      "journal": "Guilford Press",
+      "year": "1999",
+      "authors": "S Harter"
+    },
+    {
+      "title": "Handbook of positive psychology",
+      "journal": "Oxford University Press",
+      "year": "2002",
+      "authors": "S Harter"
+    },
+    {
+      "title": "A model of the effects of parent and peer support on adolescent false self behavior",
+      "journal": "Child Development",
+      "year": "1996",
+      "authors": "S Harter; D B Marold; N R Whitesell; G Cobbs"
+    },
+    {
+      "title": "Autonomy and connectedness as dimensions of adult relationship styles",
+      "journal": "Journal of Social and Personal Relationships",
+      "year": "1997",
+      "authors": "S Harter; P L Waters; L Pettitt; N R Whitesell; J Kofkin; J Jordan"
+    },
+    {
+      "title": "Level of voice among female and male high school students: Relational context, support, and gender orientation",
+      "journal": "Developmental Psychology",
+      "year": "1998",
+      "authors": "S Harter; P L Waters; N R Whitesell; D Kastelic"
+    },
+    {
+      "title": "Gender difference and the production of subjectivity",
+      "journal": "",
+      "year": "1984",
+      "authors": "W Hollway"
+    },
+    {
+      "title": "Cutoff criteria for fit indices in covariance structure analysis: Conventional criteria versus new alternatives",
+      "journal": "Structural Equation Modeling",
+      "year": "1999",
+      "authors": "L T Hu; P M Bentler"
+    },
+    {
+      "title": "Risk factors of suicidal ideations and attempts in talented, at-risk girls. Suicide and Life-Threatening Behavior",
+      "journal": "",
+      "year": "2004",
+      "authors": "E E Hull-Blanks; B A Kerr; S E R Kurpius"
+    },
+    {
+      "title": "The gender similarities hypothesis",
+      "journal": "American Psychologist",
+      "year": "2006",
+      "authors": "J S Hyde"
+    },
+    {
+      "title": "To be seen and not heard: Femininity ideology and adolescent girls' sexual health",
+      "journal": "Archives of Sexual Behavior",
+      "year": "2006",
+      "authors": "E A Impett; D Schooler; D L Tolman"
+    },
+    {
+      "title": "Silencing the self: Women and depression",
+      "journal": "Harvard University Press",
+      "year": "1991",
+      "authors": "D C Jack"
+    },
+    {
+      "title": "The silencing the self scale: Schemas of intimacy associated with depression in women",
+      "journal": "Psychology of Women Quarterly",
+      "year": "1992",
+      "authors": "D C Jack; D Dill"
+    },
+    {
+      "title": "Gender differences in moral orientation: A meta-analysis",
+      "journal": "Psychological Bulletin",
+      "year": "2000",
+      "authors": "S Jaffee; J S Hyde"
+    },
+    {
+      "title": "A relational perspective on self-esteem (Wellesley Centers for Women Working Paper No. 70)",
+      "journal": "Wellesley Centers for Women",
+      "year": "1994",
+      "authors": "J Jordan"
+    },
+    {
+      "title": "Women's growth in connection: Writings from the Stone Center",
+      "journal": "Guilford Press",
+      "year": "1991",
+      "authors": "J V Jordan; A G Kaplan; J B Miller; I P Stiver; J L Surrey"
+    },
+    {
+      "title": "The space between us: Exploring the dimensions of human relationships",
+      "journal": "Jossey-Bass",
+      "year": "1992",
+      "authors": "R Josselson"
+    },
+    {
+      "title": "The longitudinal course of marital quality and stability: A review of theory, method, and research",
+      "journal": "Psychological Bulletin",
+      "year": "1995",
+      "authors": "B R Karney; T N Bradbury"
+    },
+    {
+      "title": "A multicomponent conceptualization of authenticity: Theory and research",
+      "journal": "Advances in Experimental Social Psychology",
+      "year": "2006",
+      "authors": "M H Kernis; B M Goldman"
+    },
+    {
+      "title": "Gendered Society",
+      "journal": "Oxford University Press",
+      "year": "2000",
+      "authors": "M Kimmel"
+    },
+    {
+      "title": "Gender differences in self-esteem: A meta-analysis",
+      "journal": "Psychological Bulletin",
+      "year": "1999",
+      "authors": "K C Kling; J S Hyde; C J Showers; B N Buswell"
+    },
+    {
+      "title": "Mentoring college-age women: A relational approach",
+      "journal": "American Journal of Community Psychology",
+      "year": "2002",
+      "authors": "B Liang; A J Tracy; C A Taylor; L M Williams"
+    },
+    {
+      "title": "Preliminary developmental and validation of a measure of relationship authenticity",
+      "journal": "Journal of Counseling Psychology",
+      "year": "2006",
+      "authors": "F G Lopez; K G Rice"
+    },
+    {
+      "title": "Youths who intentionally practice self-harm: Review of the recent research",
+      "journal": "International Journal of Adolescent Medicine and Health",
+      "year": "2001",
+      "authors": "L F Lowenstein"
+    },
+    {
+      "title": "On the current status of the infantile neurosis",
+      "journal": "Journal of the American Psychoanalytic Association",
+      "year": "1975",
+      "authors": "M S Mahler"
+    },
+    {
+      "title": "Sexism and stereotypes in modern society: The gender science of",
+      "journal": "American Psychological Association",
+      "year": "1999",
+      "authors": "B Major; L Barr; J Zubek; S H Babey"
+    },
+    {
+      "title": "Gender differences in depressive symptoms during adolescence: Role of gender-typed characteristics, self-esteem, body image, stressful life events, and pubertal status",
+      "journal": "Journal of Emotional and Behavioral Disorders",
+      "year": "2002",
+      "authors": "D Marcotte; L Fortin; P Potvin; M Papillon"
+    },
+    {
+      "title": "Religious involvement and adolescent psychosocial development",
+      "journal": "Journal of Adolescence",
+      "year": "1999",
+      "authors": "C A Markstrom"
+    },
+    {
+      "title": "Toward a new psychology of women",
+      "journal": "Beacon Press",
+      "year": "1976",
+      "authors": "J B Miller"
+    },
+    {
+      "title": "Relational psychoanalysis: The emergence of a tradition",
+      "journal": "Analytic Press",
+      "year": "1999",
+      "authors": "S A Mitchell; L Aron"
+    },
+    {
+      "title": "Los Angeles: Author",
+      "journal": "",
+      "year": "2005",
+      "authors": "L K Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Development and vulnerability in close relationships",
+      "journal": "Erlbaum",
+      "year": "1996",
+      "authors": "G G Noam; K W Fischer"
+    },
+    {
+      "title": "The bitter and the sweet: An evaluation of the costs and benefits of religiousness",
+      "journal": "Psychological Inquiry",
+      "year": "2002",
+      "authors": "K I Pargament"
+    },
+    {
+      "title": "A Self-Image Questionnaire for Young Adolescents (SIQYA): Reliability and validity studies",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "1984",
+      "authors": "A C Petersen"
+    },
+    {
+      "title": "Reviving Ophelia: Saving the selves of adolescent girls",
+      "journal": "",
+      "year": "1994",
+      "authors": "M Pipher"
+    },
+    {
+      "title": "Real boys' voices",
+      "journal": "Penguin Books",
+      "year": "2000",
+      "authors": "W S Pollack; T Shuster"
+    },
+    {
+      "title": "Changes in self-esteem during the middle school years: A latent growth curve study of individual and contextual influences",
+      "journal": "Journal of School Psychology",
+      "year": "2004",
+      "authors": "J Rhodes; J Roffman; R Reddy; K Fredriksen; N Way"
+    },
+    {
+      "title": "Self-esteem development across the lifespan",
+      "journal": "Current Directions in Psychological Science",
+      "year": "2005",
+      "authors": "R W Robins; K H Trzesniewski"
+    },
+    {
+      "title": "Global self-esteem across the lifespan",
+      "journal": "Psychology and Aging",
+      "year": "2002",
+      "authors": "R W Robins; K H Trzesniewski; J L Tracy; S D Gosling; J Potter"
+    },
+    {
+      "title": "A belief in self far greater than anyone's disbelief\": Cultivating resistance among African American female adolescents",
+      "journal": "Women & Therapy",
+      "year": "1991",
+      "authors": "T Robinson; J V Ward"
+    },
+    {
+      "title": "Society and the adolescent self-image",
+      "journal": "Princeton University Press",
+      "year": "1965",
+      "authors": "M Rosenberg"
+    },
+    {
+      "title": "Self-esteem and adolescent problems: Modeling reciprocal effects",
+      "journal": "American Sociological Review",
+      "year": "1989",
+      "authors": "M Rosenberg; C Schooler; C Schoenbach"
+    },
+    {
+      "title": "Analysis of incomplete multivariate data",
+      "journal": "Chapman and Hall",
+      "year": "1997",
+      "authors": "J L Schafer"
+    },
+    {
+      "title": "Self-esteem and family challenge: An investigation of their effects on achievement",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2003",
+      "authors": "J A Schmidt; B Padilla"
+    },
+    {
+      "title": "Understanding the mentoring process between adolescents and adults",
+      "journal": "Youth & Society",
+      "year": "2006",
+      "authors": "R Spencer"
+    },
+    {
+      "title": "Between voice and silence: Women and girls, race and relationship",
+      "journal": "Harvard University Press",
+      "year": "1996",
+      "authors": "J M Taylor; C Gilligan; A M Sullivan"
+    },
+    {
+      "title": "Dilemmas of desire: Teenage girls talk about sexuality",
+      "journal": "Harvard University Press",
+      "year": "2002",
+      "authors": "D L Tolman"
+    },
+    {
+      "title": "Masculinity ideology in adolescent girls' and boys' beliefs about heterosexuality. Paper presented at the 2004 Annual Convention of the American Psychological Association",
+      "journal": "",
+      "year": "2004-07",
+      "authors": "D L Tolman; E A Impett; A Michael"
+    },
+    {
+      "title": "Looking good, sounding good: Femininity ideology and adolescent girls' mental health. Psychology of Women Quarterly",
+      "journal": "",
+      "year": "2006",
+      "authors": "D L Tolman; E A Impett; A J Tracy; A Michael"
+    },
+    {
+      "title": "The Adolescent Femininity Ideology Scale: Development and validation of a new measure for girls",
+      "journal": "Psychology of Women Quarterly",
+      "year": "2000",
+      "authors": "D L Tolman; M V Porche"
+    },
+    {
+      "title": "Getting close, staying cool: Early adolescent boys' experiences with romantic relationships",
+      "journal": "New York University Press",
+      "year": "2004",
+      "authors": "D L Tolman; R Spencer; M Rosen-Reynoso; T Harmon; M Striepe"
+    },
+    {
+      "title": "Low self-esteem during adolescence predicts poor health, criminal behavior, and limited economic prospects during adulthood",
+      "journal": "Developmental Psychology",
+      "year": "2006",
+      "authors": "K H Trzesniewski; M B Donnellan; T E Moffitt; R W Robins; R Poulton; A Caspi"
+    },
+    {
+      "title": "Listening to urban adolescent girls speak about their relationships",
+      "journal": "Psychology of Women Quarterly",
+      "year": "1995",
+      "authors": "N Way"
+    },
+    {
+      "title": "Everyday courage: Lives and stories of urban teenagers",
+      "journal": "New York University Press",
+      "year": "1998",
+      "authors": "N Way"
+    },
+    {
+      "title": "Using feminist research methods to explore boys' relationships",
+      "journal": "New York University Press",
+      "year": "2001",
+      "authors": "N Way"
+    },
+    {
+      "title": "Adolescent boys in context",
+      "journal": "New York University Press",
+      "year": "2004",
+      "authors": ""
+    },
+    {
+      "title": "Self-esteem and physical development in early adolescence: Pubertal timing and body image",
+      "journal": "Journal of Early Adolescence",
+      "year": "2000",
+      "authors": "J M Williams; C Currie"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Figure 1 .1Figure 1. Latent growth curve model for relationship authenticity and self-esteem. Unstandardized coefficients are shown outside the parentheses; standardized coefficients and t values are shown inside parentheses. N \u03ed 181; AUTH \u03ed relationship authenticity; SE \u03ed self-esteem. * p \u03fd .05. ** p \u03fd .01.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Means, Standard Deviations, Ranges, and Alphas for All Variables    ",
+      "figure_data": "VariablenMS DRange\u2423Authenticity (10 items)8th grade3.790.741.9-5.4.7110th grade4.150.762.3-6.0.7612th grade4.260.732.2-6.0.77Self-esteem (10 items)8th grade3.030.641.0-4.0.8810th grade3.100.641.3-4.0.9012th grade3.200.641.2-4.0.91Religiosity2.290.921-4\u2020Educational achievement2.120.911-4\u2020Pubertal timing12.391.419-16\u2020Body satisfaction2.740.711-4.85Mother's educationDid not finish high school29Finished high school46Completed some college26Finished college49Attended school beyond college15"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Univariate Growth Curves for Authenticity and Self-Esteem 05) nor baseline self-esteem (\u2424 2 \u03ed .21, p \u03fe .05) predicted change in authenticity, suggesting that changes in authenticity over Grades 8 through 12 are not necessarily dependent on baseline authenticity or self-esteem. Model-fitting parameters suggested overall good model-fit, 2 (19) \u03ed 31.83, p \u03ed .03, CFI \u03ed .97, RMSEA \u03ed .06.",
+      "figure_data": "InterceptLinear SlopeVariableMVar.MVar.2CFISRMRAuthenticity3.82 **0.39 **0.12 **0.03 **6.32 **.94.06Self-esteem3.02 **0.35 **0.03 **0.02 **0.78 **.995.03"
+    }
+  ],
+  "doi": "10.1037/0012-1649.44.3.722"
+}

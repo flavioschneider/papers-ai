@@ -1,0 +1,703 @@
+{
+  "title": "Longitudinal Effects of Student-Perceived Classroom Support on Motivation -A Latent Change Model",
+  "abstract": "This two-wave longitudinal study examined how developmental changes in students' mastery goal orientation, academic effort, and intrinsic motivation were predicted by student-perceived support of motivational support (support for autonomy, competence, and relatedness) in secondary classrooms. The study extends previous knowledge that showed that support for motivational support in class is related to students' intrinsic motivation as it focused on the developmental changes of a set of different motivational variables and the relations of these changes to student-perceived motivational support in class. Thus, differential classroom effects on students' motivational development were investigated. A sample of 1088 German students was assessed in the beginning of the school year when students were in grade 8 (Mean age = 13.70, SD = 0.53, 54% girls) and again at the end of the next school year when students were in grade 9. Results of latent change models showed a tendency toward decline in mastery goal orientation and a significant decrease in academic effort from grade 8 to 9. Intrinsic motivation did not decrease significantly across time. Student-perceived support of competence in class predicted the level and change in students' academic effort. The findings emphasized that it is beneficial to create classroom learning environments that enhance students' perceptions of competence in class when aiming to enhance students' academic effort in secondary school classrooms.",
+  "sections": [
+    {
+      "heading": "INTRODUCTION",
+      "text": "Longitudinal research has demonstrated that adolescents' motivation declines consistently across the secondary school years, reaching its nadir in grade 9, with a slight subsequent recovery (Fredricks and Eccles, 2002;Watt, 2004). According to Eccles et al. (1993) stage-environment fit theory, this motivational decline may be due to a mismatch between the needs of adolescents and the opportunities they are afforded by their classroom learning environments. When aiming to effectively enhance adolescents' academic success, it is therefore critical to examine which classroom characteristics contribute to an adaptive development of adolescents' motivation. In this context, research based on self-determination theory (Deci and Ryan, 2002) has shown that student-perceived classroom support for autonomy, competence, and relatedness positively contributes to the adaptive development of students' intrinsic motivation (e.g., Sierens et al., 2009;Jang et al., 2010). However, only few longitudinal studies investigated how student-perceived classroom characteristics are related simultaneously to the development of motivational variables that reflect the behavioral, cognitive and affective dimensions of students' motivation in secondary school (for exceptions, see Ntoumanis et al., 2009;Wang and Holcombe, 2010;Dietrich et al., 2015).\nThis longitudinal study addressed this gap and examines how student-perceived support for autonomy, competence, and relatedness predicted the developmental changes in students' mastery goal orientation, academic effort, and intrinsic motivation. The contribution of this study to current research thereby is twofold: First, the longitudinal study provides insights into the developmental change of adolescents' motivation by investigating how changes in students' mastery goal orientation, academic effort, and intrinsic motivation are interrelated. Second, the study extends current knowledge by examining whether and how student-perceived support for autonomy, competence, and relatedness predict these changes in adolescents' motivation. When investigating classroom learning environments, the study focused on students' perceptions of their classrooms as research has emphasized that socialization processes operate through individuals' perceptions of their socializers' behaviors (Eccles et al., 1983).\nStudents' motivation refers to students' beliefs, values and goal orientations that determine which tasks they choose and which effort they invest to stay on the task (Wentzel and Wigfield, 2009) and is thus central to their academic success. Motivation reflects cognitive dimensions, such as students' goals and goal orientations in learning, but also involves affective dimensions, such as the enjoyment of tasks (Eccles and Wigfield, 2002). A behavioral dimension is students' academic effort, and thus, the willingness to persist when facing task-related difficulties (Eccles and Wigfield, 1995). Based on these theoretical conceptualizations, this study examined the changes in students' achievement goal orientations, academic effort, and intrinsic motivation.\nStudents' achievement goal orientations are defined as cognitive representations that guide achievement-related behaviors (Elliot et al., 2005) and are frequently differentiated into mastery and performance goal orientations (Elliott and Dweck, 1988). A mastery goal orientation reflects a focus on learning and understanding (Pintrich et al., 2003). Performanceapproach goal orientations are directed at demonstrating competence, while performance-avoidance goal orientations are directed at avoiding the demonstration of incompetence (Elliot and Harackiewicz, 1996). This study's scope is limited to mastery goal orientation as it is particularly important for students' adaptive academic development in students' motivation (Chouinard et al., 2007;L\u00fcftenegger et al., 2016) and achievement (Castej\u00f3n et al., 2016;Valle et al., 2016).\nStudents' academic effort refers to the diligent behavior that students show within the academic setting (Dietrich et al., 2015). It can be defined as the degree of difficulty in executing academic behavior which also refers to the impediments to perform the behavior (Bagozzi et al., 1990). Academic effort is an important index of motivation to achieve (Wentzel, 1996). Students' academic effort (Trautwein, 2007;Hughes et al., 2008) is directly related to their performance in academic settings.\nIntrinsic motivation is defined as \"a natural inclination toward assimilation, mastery, spontaneous interest, and exploration\" (Ryan and Deci, 2000, p. 70). Intrinsically motivated students engage in tasks for the fun or challenge associated with the task rather than because of external consequences. Intrinsic motivation (Wigfield and Guthrie, 2000) is an important predictor for students' academic success.\nGiven their high importance for adolescents' academic development, it is alarming that students' mastery goal orientation (Anderman and Midgley, 1997), intrinsic motivation (Otis et al., 2005;Ntoumanis et al., 2009), and effort (Dietrich et al., 2015) decline substantially during high school. Thus, there is a lack of research that examines how students' perceptions of their learning environment enhance or inhibit the developmental change of different dimensions of their motivation (e.g., Gottfried et al., 2009;Dietrich et al., 2015).\nIn their stage-environment fit theory, Eccles et al. (1993) describe that maladaptive changes in a cluster of classroom variables after the transition to high school contribute decisively to the motivational decline in adolescence: For example, a decline in autonomy support and in the quality of teacherstudent relationships during high school negatively affects adolescents' motivation (Eccles and Roeser, 2009). Accordingly, self-determination theory (Deci and Ryan, 2002) proposes that students have an inherent need for autonomy, competence, and relatedness and that learning environments that support the fulfillment of these needs facilitate self-determined learning and an adaptive motivational development.\nResearch based on self-determination theory (Reeve et al., 1999;Niemiec and Ryan, 2009) indicates that the cluster of autonomy-supportive teaching styles is broad and includes behaviors such as providing choice and acknowledging students' perspective and feelings. Furthermore, autonomy-supportive teachers give the student opportunities to work in their own way, encourage the student's academic effort, are responsive to the student's questions and comments, and acknowledge the student's perspective and experiences (Reeve et al., 1999;Reeve and Jang, 2006). This study focused on student-perceived autonomy support in terms of students' feelings of being supported to work independently and in their own ways.\nResearch showed that students who perceive autonomy support in class also report high levels of intrinsic motivation (Reeve et al., 2004;Lazarides et al., 2015) and mastery goal orientation (Ciani et al., 2010). However, other studies showed that student-perceived autonomy support in class was not significantly associated with students' academic outcomes, such as their academic effort (Liukkonen et al., 2010;Raufelder et al., 2015). A possible explanation for the mixed findings may be that the effect of student-perceived autonomy support on students' motivation is moderated by students' perceptions of the structure of the classroom (Sierens et al., 2009) and by students' achievement level (Fei-Yin Ng et al., 2004). Student-perceived autonomy support, for example, has been shown to enhance students' motivation only at high levels of structuredness in class, whereby structure reflects the teacher's guidance during the process of problem solving (Sierens et al., 2009). Another essential classroom-related dimension that contributes to the development of students' motivation is students' perception of their teachers as supporting their feelings of competence. Based on self-determination theory (Ryan and Deci, 2000), learning environments can help develop feelings of competence by providing optimal challenges and feedback on ability and by promoting freedom from demeaning evaluations or by applying classroom practices that emphasize task mastery. Student-perceived competence support is positively related to intrinsic motivation (Harackiewicz, 1989;Ntoumanis et al., 2009) and academic effort . This study focused on competence support in terms of student-perceived teachers' ability feedback, teachers' praise of improvement, and emphasis in class on the mastery of tasks. Competence-support through feedback, however, is also interrelated with students' interpersonal relations to their teachers and peers (Raufelder et al., 2016a).\nAccording to self-determination theory (Deci and Ryan, 2002), another motivation-enhancing factor in students' learning environments is their perception of relatedness in class. Studentperceived relatedness in class is enhanced by teachers who are available to their students and who address their needs (Skinner and Belmont, 1993), but also by the facilitation of cooperation between students (Ntoumanis, 2005). Students in classrooms where they perceive relatedness in class tend to value their tasks (Wang, 2012), focus on the mastery of tasks (Patrick et al., 2007), and invest effort in learning (S\u00e1nchez et al., 2005). This study focused on relatedness in class in terms of student-perceived cooperativeness between students in class.\nTaken together, a large amount of studies focused on the relations between student-perceived support for autonomy, competence and relatedness in class on single aspects of students' motivation such as their interest and intrinsic motivation (Reeve et al., 2004;Lazarides et al., 2015), mastery goals (Patrick et al., 2007;Ciani et al., 2010) or effort . However, a systematic longitudinal investigation of the joint effects of student-perceived classroom support on the development of cognitive, affective and behavioral dimensions of motivation is still needed. Furthermore, only few longitudinal studies have investigated the longitudinal relations between adolescents' mastery goal orientations and the affective and cognitive dimensions of students' motivation such as effort and enjoyment (e.g., Wentzel, 1996;Pintrich, 2000;Bong, 2004).\nThe present longitudinal study thus extends prior knowledge by examining the interrelations in changes in students' mastery goal orientation, academic effort, and intrinsic motivation from grade 8 to grade 9. The study also investigates how the level and change in students' mastery goal orientation, academic effort, and intrinsic motivation is predicted by student-perceived classroom support of autonomy, competence, and relatedness. The longitudinal study focused on middle-school students in grade 8 and grade 9 because adolescents' motivation has been shown to decline consistently during high school (Eccles et al., 1998;Watt, 2004).\nWe hypothesize that students' mastery goal orientation (Anderman and Midgley, 1997), effort (Dietrich et al., 2015), and intrinsic motivation (Otis et al., 2005) would decline substantially from grade 8 to grade 9 (Hypothesis 1). It is further expected that changes in students' mastery goal orientation would be associated with changes in their academic effort and intrinsic motivation (Hypothesis 2). Additionally, we assume that studentperceived support of competence, autonomy, and relatedness in class in grade 8 would positively predict the level (grade 8) and change ( grade 9-grade 8) in students' mastery goal orientation (Patrick et al., 2007;Ciani et al., 2010), academic effort , and intrinsic motivation (Lazarides et al., 2015) (Hypothesis 3). However, because studies have demonstrated that student-perceived autonomy support in class was not significantly associated with their effort (Liukkonen et al., 2010), we expect student-perceived autonomy support in class to have weak effects on students' academic effort.",
+      "n_publication_ref": 75,
+      "n_figure_ref": 0
+    },
+    { "heading": "MATERIALS AND METHODS", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Participants",
+      "text": "Quantitative questionnaire survey data of 1,088 students from 23 public secondary schools and 71 classrooms located in the federal state of Brandenburg, Germany formed the empirical base of this study. The data were collected in the beginning of the school year when students were in grade 8 (September 2011; M age = 13.70, SD = 0.53, 54% girls) and again at the end of the next school year when students were in grade 9 (June 2013; dropout rate of 22.33%; M age = 14.86, SE = 0.57, 55% girls).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Procedure",
+      "text": "Permission to conduct the study was obtained from the Ministry of Education, Youth and Sports of Brandenburg and from participating parents and students. Schools, parents, and students were thoroughly informed about the voluntary nature of their participation. Data collection occurred in classrooms. In each session, at least two members of the research team were present to inform about the aims of the study and to clarify questions related to the data assessment.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "For all measures, the reliability of the scales was acceptable. For those measures that were assessed at both time points, reliabilities are reported for both time points. For those measures that were assessed only at Time 1, reliabilities are reported for Time 1. The scales that were used in this study were well-established scales that were already used in other studies (e.g., Raufelder et al., 2013Raufelder et al., , 2016b.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Autonomy Support",
+      "text": "Student-perceived autonomy support in class was measured by three items of a subscale developed by Prenzel et al. (1996), such as \"During class, I can work independently on tasks\" and \"During class I can follow my own schedule when working on tasks.\" Scale reliability was \u03b1 = 0.741. Items were rated on a 6-point Likert scale (1 = never; 6 = very often).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Competence Support",
+      "text": "Student-perceived competence support in class was measured by a subscale developed by Prenzel et al. (1996) containing six items, such as \"During class, the teacher tells me what I can improve\" and \"During class the teacher praises me for good performance.\" Scale reliability was \u03b1 = 0.715. Items were rated on a 6-point Likert scale (1 = never; 6 = very often).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Relatedness in Class",
+      "text": "Student-perceived relatedness in class was measured by a 4-item scale of the measure of students' social climate developed by Saldern and Littig (1987). Example items are \"Whenever students in our class face problems, they can rely on their classmates\" and \"Whenever a student does not know what to do, the other students in this class will help.\" Scale reliability was \u03b1 = 0.735. Items were rated on a 4-point Likert scale (1 = not true at all; 4 = totally true).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Effort",
+      "text": "Students' academic effort was assessed with three items of a subscale of the Achievement Motivation Questionnaire for Students (FLM) developed by Petermann and Winkel (2007), such as \"If I consider a task to be boring, I will keep working on it\" and \"I invest a lot of time to get prepared for exams.\" Scale reliability was \u03b1 = 0.777 (Time 1) and \u03b1 = 0.655 (Time 2). The answers ranged from 1 (not true at all) to 5 (absolutely true) on a 5-point Likert scale.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Mastery Goal Orientation",
+      "text": "Students' mastery goal orientation was measured using four items of a subscale of the SELLMO (scales to assess learning and achievement motivation) instrument developed by Spinath et al. (2002); e.g., \"In school it is important for me to learn something interesting\" and \"In school it is important for me to be inspired to think about things.\" Scale reliability was \u03b1 = 0.663 (Time 1) and \u03b1 = 0.700 (Time 2). Items were rated on a 4-point Likert scale (1 = not true at all; 4 = totally true).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Intrinsic Motivation",
+      "text": "Students' intrinsic motivation in school was measured with three items of a subscale of an adapted German version (M\u00fcller et al., 2007) of the Academic Self-Regulation Questionnaire (Ryan and Connell, 1989). Example items include \"I work and learn for school because I enjoy learning\" and \"I work and learn for school because I enjoy solving school-related tasks.\" Scale reliability was \u03b1 = 0.806 (Time 1) and \u03b1 = 0.737 (Time 2). Items were rated on a 5-point Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Statistical Analyses",
+      "text": "To test our hypotheses, we conducted a latent change model (LCM; Steyer et al., 1997;McArdle, 2009), which included three latent motivational constructs (mastery goal orientation, academic effort, and intrinsic motivation) at two measurement occasions. LCMs enable the study of interindividual differences in intraindividual change, because the true intraindividual change is modeled between two measurement points as the value of a latent variable (Steyer et al., 1997). Positive latent-change scores indicate an increase and negative scores indicate a decrease across time. As described in statistical literature (McArdle, 2009, p. 583), in order to be able to model the latent change score ( ), we add a set of fixed values (=1) on the specific parameters between a variable value at Time 1 and at Time 2. The change score ( ) is thereby explicitly defined. Furthermore, in order to identify the model, for each of the latent variables, the parameter between their latent change score and their level at Time 2 was set to 1 (see Figure 1; McArdle, 2009). First, an unconditional LCM was conceptualized including the three latent motivational constructs. As a next step, strong measurement invariance was tested, that is, item loadings and intercepts were held equal across time points (Byrne, 1989). Measurement invariance across time is a precondition for latent change analyses (McArdle, 2009). Chi square difference testing was conducted using the scaling correction factor indicated by Satorra and Bentler (2001). Using the LCM with strong measurement invariance, we next specified the student-perceived classroom characteristics as predictors of level and change of students' mastery goal orientation, effort, and intrinsic motivation.\nThe statistics software Mplus, version 7.0, was used for all analyses (Muth\u00e9n andMuth\u00e9n, 1998-2010), which were conducted with maximum likelihood estimation (MLR) with robust standard errors and chi-square values. To assess the reliability of the aggregated student variables, intraclass correlation coefficients (ICC) were computed for all latent variables in the model (Raudenbush and Bryk, 2002). The ICC are reported in Table 3. ICC values showed that the individual ratings were attributable to group membership for most of the variables. Only for students' academic effort, ICC values indicated that 2-4% of the variance was attributable to classroom membership. This is below the critical value of ICC \u2265 0.05 which may provide evidence of a group effect (LeBreton and Senter, 2008).\nWe were interested in students' intraindividual changes and their relationships to their individually perceived classroom learning environment rather than in their average motivation and the context of the classroom climate. Therefore, we decided to use the TYPE = COMPLEX function of Mplus to take the classroom nesting into account as it provides corrected standard errors and chi-square values regarding the nested structure of the data (grade 8: 1,088 students in 72 school classes; grade 9: 845 students in 67 school classes).\nOne case had to be excluded from the data set due to too much missing data (>80%) for the variables that were used in the analyses. Missing data were handled by using full-information maximum likelihood (FIML) estimation. Several fit criteria were employed to evaluate the goodness of fit of the models: Yuan-Bentler scaled \u03c7 2 (YB \u03c7 2 , mean-adjusted test-statistic robust to non-normality), comparative fit index (CFI), root mean square error of approximation (RMSEA), and standardized root mean residual (SRMR). Hu and Bentler's (1999) two-index strategy for determining fit was used to integrate information from the CFI and the SRMR. Models with both a CFI below 0.95 and an SRMR of greater than 0.09 are considered not to fit adequately. Other models are accepted to fit adequately. Additional, RMSEA values  5.\nwere used to evaluate the model fit and values below to 0.06 were considered to indicate a good fit, following Hu and Bentler (1999).",
+      "n_publication_ref": 14,
+      "n_figure_ref": 1
+    },
+    { "heading": "RESULTS", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Measurement Invariance Test",
+      "text": "First, to test whether students' mastery goal orientation, academic effort, and intrinsic motivation were measurement invariant across time, an unconditional LCM with no equality constraints for the latent constructs was specified (Table 1; step 1; configural invariance). The model fit of the unconditional LCM (Table 1, step 1) was acceptable: \u03c7 2 (155, N = 1087) = 434.27, p < 0.001, CFI = 0.93, TLI = 0.92; RMSEA = 0.04, 90% CI [0.04, 0.05], SRMR = 0.04. Second, the loadings were set invariant across time (Table 1; step 2; weak factorial invariance). Third, both loadings and item intercepts were set invariant across time (Table 1; step 3; strong factorial invariance). The model fit of the LCM, which included strong factorial invariance across time (Table 1, step 3), was also acceptable: \u03c7 2 (169, N = 1087) = 444.62, p < 0.001, CFI = 0.93, TLI = 0.92; RMSEA = 0.04, 90% CI [0.03, 0.04], SRMR = 0.04. Strong factorial invariance held for all latent constructs. In a fourth step, after testing measurement invariance for the motivational constructs, we included studentperceived support of autonomy, competence, and relatedness in class at grade 8 in the measurement model (Table 1, step 4). The standardized loadings from this model are reported in Table 2. Modification indices indicated that the model fit would substantially improve if the measurement error covariances of items 2 and 4 items and items 3 and 4 of the latent construct \"student-perceived competence support\" were included in the model (Byrne, 2012). After this specification, the model fit was acceptable, \u03c7 2 (477, N = 1087) = 895.97, p < 0.001, CFI = 0.94, TLI = 0.94; RMSEA = 0.03, 90% CI [0.03, 0.03], SRMR = 0.04 (Table 1, step 4a).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Descriptive Analyses",
+      "text": "Latent means and intercorrelations, which were calculated using a confirmatory factor analysis model that included strong factorial invariance (see Table 1, step 3), are reported in Table 3. Findings showed that student-perceived support for autonomy, competence, and relatedness in class was significantly positively correlated with students' mastery goal orientation, effort, and intrinsic motivation both at Time 1 and Time 2.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Latent Change Model: Change in Mastery Goal Orientation, Academic Effort, and Intrinsic Motivation",
+      "text": "It was expected in this study (Hypothesis 1) that students' mastery goal orientation, academic effort, and intrinsic motivation would decrease significantly across time. This hypothesis was partially confirmed as the findings of this study showed only a tendency toward decline in mastery goal orientation ( M = \u22120.04, p = 0.087; \u03c3 2 = 0.17, p < 0.001), but showed a significant decrease in students' academic effort from grade 8 to grade 9 ( M = \u22120.09, p < 0.05; \u03c3 2 = 0.22, p < 0.001). Intrinsic motivation did not decrease significantly across time ( M = 0.01, p = 0.977; \u03c3 2 = 0.56, p < 0.001). However, the significant variance of the change pointed to substantial differences between the participants in this study regarding the  developmental change in their intrinsic motivation (\u03c3 2 = 0.56, p < 0.001). All three latent-change scores had significant variances, indicating significant interindividual differences in the intraindividual changes.\nIn this study, it was hypothesized (Hypothesis 2) that changes in students' mastery goal orientation would be associated with changes in students' academic effort and intrinsic motivation. Latent correlations (\u03c6) showed that, as expected, the change in mastery goal orientation was positively associated with the change in effort (\u03c6 = 0.59, SE = 0.12, p < 0.001) and with the change in intrinsic motivation (\u03c6 = 0.41, SE = 0.08, p < 0.001). Additional findings showed that the change in academic effort was not significantly associated with the change in intrinsic motivation (\u03c6 = 0.16, SE = 0.10, p = 0.117). Furthermore, results showed that students' average mastery goal orientation in grade 8 was significantly and negatively associated with the change in mastery goal orientation (\u03c6 = \u22120.38, SE = 0.06, p < 0.001) and academic effort (\u03c6 = \u22120.32, SE = 0.07, p < 0.001). Both mastery goal orientation and academic effort decreased over time. Thus, these findings indicated that high levels of mastery goal orientation in grade 8 inhibited the decrease in students' mastery goal orientation and academic effort from grade 8 to grade 9.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Student-Perceived Classroom Characteristics and Change in Motivational Orientations",
+      "text": "To test Hypothesis 3, we modeled an LCM that included studentperceived support of autonomy, competence, and relatedness in class as predictors of the level and change in mastery goal orientation, effort, and intrinsic motivation. Standardized coefficients of this model are reported in Table 4. Unstandardized coefficients are reported in Table 5. Figure 1 displays the significant unstandardized coefficients.\nAs expected, student-perceived relatedness in class in grade 8 was significantly positively associated with students' level of mastery goal orientation (\u03b2 = 0.32, SE = 0.06, p < 0.001), academic effort (\u03b2 = 0.24, SE = 0.05, p < 0.001), and intrinsic motivation in grade 8 (\u03b2 = 0.14, SE = 0.05, p < 0.01). Student-perceived relatedness was furthermore significantly and positively related to the average change in students' intrinsic motivation (\u03b2 = 0.14, SE = 0.07, p < 0.05). Thus, the more the students perceived relatedness in class, the higher the increase in their intrinsic motivation.\nIn line with our assumptions, student-perceived competence support in grade 8 was significantly and positively related to their level of mastery goal orientation (\u03b2 = 0.59, SE = 0.11, p < 0.001), academic effort (\u03b2 = 0.49, SE = 0.11, p < 0.001), and intrinsic motivation in grade 8 (\u03b2 = 0.39, SE = 0.11, p < 0.001). Studentperceived competence support in class in grade 8 was significantly negatively related to their change in academic effort from grade 8 to grade 9 (\u03b2 = \u22120.39, SE = 0.17, p < 0.05). This indicated that high levels of student-perceived competence support inhibited the significant decline in students' academic effort from grade 8 to grade 9.\nIn contrast to our expectations, student-perceived autonomy support was not significantly associated with students' level of mastery goal orientation (\u03b2 = \u22120.22, SE = 0.14, p = 0.108), academic effort (\u03b2 = \u22120.21, SE = 0.11, p = 0.061), and intrinsic motivation in grade 8 (\u03b2 = \u22120.11, SE = 0.12, p = 0.372). Nor with the change in their mastery goal orientation (\u03b2 = 0.06, SE = 0.12, p = 0.597), academic effort (\u03b2 = 0.29, SE = 0.18, p = 0.088), and intrinsic motivation (\u03b2 = \u22120.06, SE = 0.12, p = 0.610) from grade 8 to grade 9.\nThe model explained significant amounts of variance in students' level of mastery goal orientation at T1 (R 2 = 0.36), academic effort (R 2 = 0.22), intrinsic motivation (R 2 = 0.16), and in the average change in students' mastery goal orientation (R 2 = 0.16), academic effort (R 2 = 0.16), and intrinsic motivation (R 2 = 0.22).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "DISCUSSION",
+      "text": "This longitudinal study aimed to examine the effects of studentperceived support of autonomy, competence, and relatedness   in class on the level and change of students' mastery goal orientation, academic effort, and intrinsic motivation. It contributes to current research by providing knowledge about the developmental changes of students' mastery goal orientation, effort, and intrinsic motivation. Furthermore, it advances prior research by showing how student-perceived support of autonomy, competence, and relatedness predicted the developmental changes in different cognitive, affective and behavioral dimensions of students' motivation.\n\u03b2 (SE) \u03b2 (SE) \u03b2 (SE) \u03b2 (SE) \u03b2 (SE) \u03b2 (SE) Level \u22120.\nIn line with our first hypothesis (Hypothesis 1) and according to previous research (Dietrich et al., 2015), the results showed a significant change in students' academic effort from grade 8 to grade 9 and a tendency toward decline in students' mastery goal orientation. Previous research has shown that students' mastery goal orientation decreased during the transition from elementary to middle school (Anderman and Midgley, 1997); thus, based on the findings of this study, we may assume that students' mastery goal orientation declines most sharply in times of educational transitions but stabilizes during the later years of high school.\nContrasting with previous results (Gottfried et al., 2001;Otis et al., 2005), our findings showed that students' intrinsic motivation did not decline significantly across time. A possible explanation for the non-significant findings may be that the decline in students' intrinsic motivation has been shown to be domain-specific with mathematics showing the greatest decline (Gottfried et al., 2001). As this study focused on students' general intrinsic motivation, the domain-specific differences in intrinsic motivation may have leveled out the declining trend of students' intrinsic motivation.\nAs expected (Hypothesis 2), the findings of this study showed that a developmental change in students' mastery goal orientation was associated with the developmental change in academic effort and intrinsic motivation across the school year. Extending current research that often focused on the developmental trends of different facets of motivation without examining their associations (e.g., Gottfried et al., 2001;Otis et al., 2005;Ntoumanis et al., 2009). Interestingly, students' developmental change in academic effort was not significantly associated with the change in intrinsic motivation. Our findings thus point to a key role of students' mastery goal orientation in the developmental processes of their motivation and provide further knowledge about the previously reported adaptive effects of mastery goal orientation in school (e.g., Elliot, 1999;Harackiewicz et al., 2000;Wolters, 2004). The findings may be interpreted as evidence that the pursuit of mastery goal orientation elicits not only developmental changes in affective processes, for example, in students' enjoyment of learning (L\u00fcftenegger et al., 2016), but also in cognitive and behavioral processes, for example, in students' academic effort (Elliot, 1999).\nOur assumption (Hypothesis 3) that student-perceived support for autonomy, competence and relatedness in class would be related to the level and change of different dimensions of students' motivation was only partly confirmed. The findings of the study showed that only student-perceived support of competence and relatedness in class in grade 8 was significantly associated with students' level of mastery goal orientation, effort, and intrinsic motivation in grade 8. In contrast to previous research (Ciani et al., 2010;Lazarides et al., 2015), our findings indicated that student-perceived autonomy support was not significantly associated with students' level of mastery goal orientation in grade 8 nor with the change in their mastery goal orientation, academic effort, and intrinsic motivation from grade 8 to grade 9. A possible explanation for this finding might be the fact that the effects of student-perceived autonomy support in class on students' motivation may depend on the structured nature of classroom teaching (Sierens et al., 2009), perceived competence (Patall et al., 2014) and on students' achievement level (Fei-Yin Ng et al., 2004). Focusing on autonomy-supportive teaching in terms of task choice, Sierens et al. (2009), for example, showed that student-perceived autonomy support enhanced students' cognitive engagement only at high levels of structure in class. Patall et al. (2014) furthermore demonstrated that only when students felt highly competent on a task, making choices further enhanced their motivation. However, when students felt less competent on a task, task choices diminished perceived intrinsic motivation. Such interaction effects thus may explain the non-significant effects of student-perceived autonomy support on students' motivation in this study and future research should take into account such interdependencies when investigating the relations between student-perceived support of autonomy, competence, and relatedness and students' motivational development in class. Another possible explanation for the non-significant effect of student-perceived autonomy support on students' motivational development may be that this study focused on autonomy-supportive teaching in terms of students' perceptions of possibilities to work independently and to follow their own schedule when working on school-related tasks. However, research based on self-determination theory (Reeve et al., 1999;Reeve, 2002) describes that autonomy-supportive teaching also includes other dimensions of teachers' behaviors, such as the acknowledgment of students' perspectives and the responsiveness to the students' questions. Further studies are needed to examine how different dimensions of autonomy support affect the development of different facets of students' motivation.\nInterestingly, in this study, student-perceived support for competence in class primarily enhances the positive development of the behavioral dimension of students' motivation, which was assessed by academic effort. Adolescents' experiences of positive relationships with teachers and peers, in turn, were related to an adaptive development of students' intrinsic motivation. This may be because competence-supportive teaching strategies may enhance students' perceptions of their own competence rather than their enjoyment in learning, whereas high levels of perceived competence may be related to a greater effort and persistence in learning (Eccles and Wigfield, 2002).\nRegarding the implications of this study for classroom instruction, the findings emphasize a differential functioning of different aspects of classroom support in the enhancement of an adaptive motivational development. While it seems to be important to implement competence-enhancing strategies when aiming to increase students' motivation at a behavioral level, the facilitation of supportive relationships with both peers and teachers in secondary school seems to be beneficial when aiming to enhance students' intrinsic motivation. Previous research based on stage-environment fit theory suggested that after the transition to secondary school, students often perceive their teachers as more distant and less supportive than teachers in elementary school (Roeser et al., 1993). Therefore, in our view, teachers should create a climate of supportiveness in class based on well-being and reciprocal aid (Ruzek et al., 2016). They should also adopt a teaching style that includes active feedback, which answers students' need for competence support (Niemiec and Ryan, 2009).",
+      "n_publication_ref": 26,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations, Strengths, and Conclusions",
+      "text": "When interpreting the current results, several limitations should be considered. First, this study was not domain-specific in its examination of either support of autonomy and competence or relatedness. Previous research (Gottfried et al., 2001) has, however, shown that the motivational development in adolescence is often domain-specific. Thus, future studies should take into account different school subjects when examining changes in students' motivation.\nSecond, it would also be fruitful to differentiate between effects on the classroom level and on the individual student level because previous research has shown that students' average motivation is predicted by teachers' interest (Schiefele and Schaffner, 2015) and support (Dietrich et al., 2015) on the classroom level.\nThird, it can be said that students' perceived support of relatedness was based only on their peers in class. On the other hand, one strength of this study may be its examination of both student-perceived support from peers (relatedness) and teachers' support (support for student autonomy and competence).\nFourth, in this study, only students' self-reported perceptions of their classroom characteristics were assessed. Previous research (Gniewosz and Noack, 2012) has demonstrated that socializers' beliefs and behaviors affect adolescents' beliefs only if those beliefs are consciously perceived by the adolescent. However, by using only student self-reports, the examined relations between students' perceptions of their classroom characteristics and their motivation may be biased due to shared variance attributable to the same method effect (Chan, 2009). To validate the findings of this study, future research should include teacher reports of classroom characteristics or external observer ratings (Holzberger et al., 2013;Praetorius et al., 2014). However, previous studies that focused on students' motivation have shown that teacher and student self-reports were not highly correlated (see Skinner and Belmont, 1993;Wentzel et al., 2010) and that, compared to teacher reports, students' reports of their classroom characteristics more strongly predicted the development of students' motivation (Clausen, 2002).\nFifth, there are limitations in the psychometric quality of the variables that were used in this study. This instruments assessing students' perceptions of support for autonomy, competence and relatedness in class, which proved to have good psychometric qualities when used with other populations (0.85-0.94; Prenzel et al., 1996). The same applies for the scales assessing mastery goal orientation (0.81; Sch\u00f6ne et al., 2004) and intrinsic motivation (0.92; M\u00fcller et al., 2007). However, the scales showed restricted psychometric qualities in the present population. Because of their substantial contribution to the model, we decided not to remove the variables.\nDespite these limitations, the study has several strengths. The simultaneous examination of the predictive effects of different student-perceived classroom characteristics on different motivational aspects extends current research about the social antecedents of adolescents' academic development in secondary school classrooms.\nFurthermore, the complex statistical analyses are based on data from a large sample of adolescent students and allow a finegrained analysis of the developmental changes in adolescents' motivation during high school.\nOverall, the findings provide an essential insight into developmental changes that occur in early adolescents' motivation-predicted by student-perceived support of autonomy, competence, and relatedness in class.",
+      "n_publication_ref": 13,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "CONCLUSION",
+      "text": "The current findings suggest that student-perceived support for competence and relatedness in secondary classrooms are essential starting points to prevent students' motivational decline that often begins in early adolescence. The support of competence inhibits maladaptive student development and bolsters students' effort to persist in later years of high school, whereas the support of relatedness enhances a positive developmental trend in students' intrinsic motivation.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "ETHICS STATEMENT",
+      "text": "This study was carried out in accordance with the recommendations of the guidelines of the Ministry of Education, Youth and Sports of Brandenburg (http://bravors.brandenburg.de/ verordnungen/wissuv_1998) with written informed consent from all subjects. All subjects gave written informed consent in accordance with the Declaration of Helsinki. The protocol was approved by the Ministry of Education, Youth and Sports of Brandenburg.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "AUTHOR CONTRIBUTIONS",
+      "text": "All authors agree to be accountable for the content of the work. RL did the statistical analyses and wrote the main part of the paper. DR reviewed the paper, contributed decisively to the discussion part and added comments on the manuscript throughout the process of manuscript development.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "FUNDING",
+      "text": "The research reported in this paper was supported by a grant from The Volkswagen Foundation (Schumpeter Fellowship II/84 452).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "ACKNOWLEDGMENT",
+      "text": "We acknowledge the support of the Deutsche Forschungsgemeinschaft and Open Access Publishing Fund of University of Potsdam.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conflict of Interest Statement:",
+      "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.\nCopyright \u00a9 2017 Lazarides and Raufelder. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Changes in achievement goal orientations, perceived academic competence, and grades across the transition to middle-level schools",
+      "journal": "Contemp. Educ. Psychol",
+      "year": "1997",
+      "authors": "E M Anderman; C Midgley"
+    },
+    {
+      "title": "The level of effort required for behaviour as a moderator of the attitude-behaviour relation",
+      "journal": "Eur. J. Soc. Psychol",
+      "year": "1990",
+      "authors": "R P Bagozzi; Y Yi; J Baumgartner"
+    },
+    {
+      "title": "Academic motivation in self-efficacy, task value, achievement goal orientations, and attributional beliefs",
+      "journal": "J. Educ. Res",
+      "year": "2004",
+      "authors": "M Bong"
+    },
+    {
+      "title": "Multigroup comparisons and the assumption of equivalent construct validity across groups: Methodological and substantive issues",
+      "journal": "Multivariate Behav. Res",
+      "year": "1989",
+      "authors": "B M Byrne"
+    },
+    {
+      "title": "A Primer of LISREL: Basic Applications and Programming for Confirmatory Factor Analytic Models",
+      "journal": "Springer Science & Business Media",
+      "year": "2012",
+      "authors": "B M Byrne"
+    },
+    {
+      "title": "Differences in learning strategies, goal orientations, and self-concept between overachieving, normalachieving, and underachieving secondary students",
+      "journal": "Front. Psychol",
+      "year": "2016",
+      "authors": "J L Castej\u00f3n; R Gilar; A Veas; P Mi\u00f1ano"
+    },
+    {
+      "title": "So why ask me? Are self-report data really that bad",
+      "journal": "",
+      "year": "2009",
+      "authors": "D Chan"
+    },
+    {
+      "title": "Relations among competence beliefs, utility value, achievement goals, and effort in mathematics",
+      "journal": "Br. J. Educ. Psychol",
+      "year": "2007",
+      "authors": "R Chouinard; T Karsenti; Roy ; N "
+    },
+    {
+      "title": "Buffering against performance classroom goal structures: the importance of autonomy support and classroom community",
+      "journal": "Contemp. Educ. Psychol",
+      "year": "2010",
+      "authors": "K D Ciani; M J Middleton; J J Summers; K M Sheldon"
+    },
+    {
+      "title": "Unterrichtsqualit\u00e4t: Eine Frage der Perspektive? [Quality of Classroom Learning Environments -A Question of Perspective?",
+      "journal": "M\u00fcnster: Waxmann",
+      "year": "2002",
+      "authors": "M Clausen"
+    },
+    {
+      "title": "Handbook of Self-Determination Research",
+      "journal": "University Rochester Press",
+      "year": "2002",
+      "authors": "E L Deci; R M Ryan"
+    },
+    {
+      "title": "Teacher support and its influence on students' intrinsic value and effort: Dimensional comparison effects across subjects",
+      "journal": "Learn. Instruc",
+      "year": "2015",
+      "authors": "J Dietrich; A.-L Dicke; B Kracke; P Noack"
+    },
+    {
+      "title": "Expectancies, values and academic behaviors",
+      "journal": "Freeman",
+      "year": "1983",
+      "authors": "J S Eccles; T F Adler; R Futterman; S B Goff; C M Kaczala; J Meece"
+    },
+    {
+      "title": "Development during adolescence. The impact of stageenvironment fit on young adolescents' experiences in schools and in families",
+      "journal": "Am. Psychol",
+      "year": "1993",
+      "authors": "J S Eccles; C Midgley; A Wigfield; C M Buchanan; D Reuman; C Flanagan"
+    },
+    {
+      "title": "Schools, academic motivation, and stageenvironment fit",
+      "journal": "Wiley",
+      "year": "2009",
+      "authors": "J S Eccles; R W Roeser"
+    },
+    {
+      "title": "In the mind of the actor: The structure of adolescents' achievement task values and expectancy-related beliefs",
+      "journal": "Pers. Soc. Psychol. Bull",
+      "year": "1995",
+      "authors": "J S Eccles; A Wigfield"
+    },
+    {
+      "title": "Motivational beliefs, values, and goals",
+      "journal": "Annu. Rev. Psychol",
+      "year": "2002",
+      "authors": "J S Eccles; A Wigfield"
+    },
+    {
+      "title": "Motivation to succeed",
+      "journal": "Wiley",
+      "year": "1998",
+      "authors": "J S Eccles; A Wigfield; U Schiefele"
+    },
+    {
+      "title": "Approach and avoidance motivation and achievement goals",
+      "journal": "Educ. Psychol",
+      "year": "1999",
+      "authors": "A J Elliot"
+    },
+    {
+      "title": "A conceptual history of the achievement goal construct",
+      "journal": "",
+      "year": "2005",
+      "authors": "A J Elliot; A Elliot; C Dweck"
+    },
+    {
+      "title": "Approach and avoidance achievement goals and intrinsic motivation: a mediational analysis",
+      "journal": "J. Pers. Soc. Psychol",
+      "year": "1996",
+      "authors": "A J Elliot; J Harackiewicz"
+    },
+    {
+      "title": "Goals: an approach to motivation and achievement",
+      "journal": "J. Pers. Soc. Psychol",
+      "year": "1988",
+      "authors": "E S Elliott; C S Dweck"
+    },
+    {
+      "title": "Children's achievement moderates the effects of mothers' use of control and autonomy support",
+      "journal": "Child Dev",
+      "year": "2004",
+      "authors": "Fei-Yin Ng; F Kenney-Benson; G A Pomerantz; E M "
+    },
+    {
+      "title": "Children's competence and value beliefs from childhood through adolescence: growth trajectories in two male-sex-typed domains",
+      "journal": "Dev. Psychol",
+      "year": "2002",
+      "authors": "J A Fredricks; J S Eccles"
+    },
+    {
+      "title": "What you see is what you get: the role of early adolescents' perceptions in the intergenerational transmission of academic values",
+      "journal": "Contemp. Educ. Psychol",
+      "year": "2012",
+      "authors": "B Gniewosz; P Noack"
+    },
+    {
+      "title": "Continuity of academic intrinsic motivation from childhood through late adolescence: a longitudinal study",
+      "journal": "J. Educ. Psychol",
+      "year": "2001",
+      "authors": "A E Gottfried; J S Fleming; A W Gottfried"
+    },
+    {
+      "title": "A latent curve model of parental motivational practices and developmental decline in math and science academic intrinsic motivation",
+      "journal": "J. Educ. Psychol",
+      "year": "2009",
+      "authors": "A E Gottfried; G A Marcoulides; A W Gottfried; P H Oliver"
+    },
+    {
+      "title": "Performance evaluation and intrinsic motivation processes: the effects of achievement orientation and rewards",
+      "journal": "Springer",
+      "year": "1989",
+      "authors": "J M Harackiewicz"
+    },
+    {
+      "title": "Short-term and long-term consequences of achievement goals: predicting interest and performance over time",
+      "journal": "J. Educ. Psychol",
+      "year": "2000",
+      "authors": "J M Harackiewicz; K E Barron; J M Tauer; S M Carter; A J Elliot"
+    },
+    {
+      "title": "How teachers' self-efficacy is related to instructional quality: a longitudinal analysis",
+      "journal": "J. Educ. Psychol",
+      "year": "2013",
+      "authors": "D Holzberger; A Philipp; M Kunter"
+    },
+    {
+      "title": "Cutoff criteria for fit indexes in covariance structure analysis: conventional criteria versus new alternatives",
+      "journal": "Struct. Equ. Mod",
+      "year": "1999",
+      "authors": "L Hu; P M Bentler"
+    },
+    {
+      "title": "Teacher-student support, effortful engagement, and achievement: a 3-year longitudinal study",
+      "journal": "J. Educ. Psychol",
+      "year": "2008",
+      "authors": "J N Hughes; W Luo; O.-M Kwok; L K Loyd"
+    },
+    {
+      "title": "Engaging students in learning activities: it is not autonomy support or structure but autonomy support and structure",
+      "journal": "J. Educ. Psychol",
+      "year": "2010",
+      "authors": "H Jang; J Reeve; E L Deci"
+    },
+    {
+      "title": "The role of classroom characteristics for students' motivation and career exploration",
+      "journal": "Educ. Psychol",
+      "year": "2015",
+      "authors": "R Lazarides; S Rohowski; S Ohlemann; A Ittel"
+    },
+    {
+      "title": "Answers to 20 questions about interrater reliability and interrater agreement",
+      "journal": "Organ. Res. Methods",
+      "year": "2008",
+      "authors": "J M Lebreton; J L Senter"
+    },
+    {
+      "title": "Motivational climate and students' emotional experiences and effort in physical education",
+      "journal": "J. Educ. Res",
+      "year": "2010",
+      "authors": "J Liukkonen; V Barkoukis; A Watt; T Jaakkola"
+    },
+    {
+      "title": "Students' achievement goals, learning-related emotions and academic achievement",
+      "journal": "Front. Psychol",
+      "year": "2016",
+      "authors": "M L\u00fcftenegger; J Klug; K Harrer; M Langer; C Spiel; B Schober"
+    },
+    {
+      "title": "Latent variable modeling of differences and changes with longitudinal data",
+      "journal": "Annu. Rev. Psychol",
+      "year": "2009",
+      "authors": "J J Mcardle"
+    },
+    {
+      "title": "Skalen zur motivationalen regulation beim lernen von sch\u00fclerinnen und sch\u00fclern. adaptierte und erg\u00e4nzte version des academic self-regulation questionnaire (SRQ-A) nach Ryan & Connell. [Scales for the assessment of students' motivational regulation in learning processes. Adapted and expanded version of the Academic Self-Regulation Questionnaire (SRQ-A) by Ryan & Connell]",
+      "journal": "",
+      "year": "2007",
+      "authors": "F H M\u00fcller; B Hanfstingl; Andreitz ; I "
+    },
+    {
+      "title": "Mplus User's Guide",
+      "journal": "Muthen & Muthen",
+      "year": "1998",
+      "authors": "L Muth\u00e9n; B Muth\u00e9n"
+    },
+    {
+      "title": "Autonomy, competence, and relatedness in the classroom applying self-determination theory to educational practice",
+      "journal": "Theory Res. Educ",
+      "year": "2009",
+      "authors": "C P Niemiec; R M Ryan"
+    },
+    {
+      "title": "A prospective study of participation in optional school physicl education using a self-determination theory framework",
+      "journal": "J. Educ. Psychol",
+      "year": "2005",
+      "authors": "N Ntoumanis"
+    },
+    {
+      "title": "Developmental trajectories of motivation in physical education: course, demographic differences, and antecedents",
+      "journal": "J. Educ. Psychol",
+      "year": "2009",
+      "authors": "N Ntoumanis; V Barkoukis; C Th\u00f8gersen-Ntoumani"
+    },
+    {
+      "title": "Latent motivational change in an academic setting: a 3-year longitudinal study",
+      "journal": "J. Educ. Psychol",
+      "year": "2005",
+      "authors": "N Otis; F M Grouzet; L G Pelletier"
+    },
+    {
+      "title": "The role of competence in the effects of choice on motivation",
+      "journal": "J. Exp. Soc. Psychol",
+      "year": "2014",
+      "authors": "E A Patall; B J Sylvester; C.-W Han"
+    },
+    {
+      "title": "Early adolescents' perceptions of the classroom social environment, motivational beliefs, and engagement",
+      "journal": "J. Educ. Psychol",
+      "year": "2007",
+      "authors": "H Patrick; A M Ryan; A Kaplan"
+    },
+    {
+      "title": "Fragebogen zur Leistungsmotivation f\u00fcr Sch\u00fcler der 7. bis 13. Klasse: (FLM 7-13)",
+      "journal": "",
+      "year": "2007",
+      "authors": "F Petermann; S Winkel"
+    },
+    {
+      "title": "Multiple goals, multiple pathways: the role of goal orientation in learning and achievement",
+      "journal": "J. Educ. Psychol",
+      "year": "2000",
+      "authors": "P R Pintrich"
+    },
+    {
+      "title": "Current issues in achievement goal theory and research",
+      "journal": "Int. J. Educ. Res",
+      "year": "2003",
+      "authors": "P R Pintrich; A M Conley; T M Kempler"
+    },
+    {
+      "title": "One lesson is all you need? Stability of instructional quality across lessons",
+      "journal": "Learn. Instruc",
+      "year": "2014",
+      "authors": "A.-K Praetorius; C Pauli; K Reusser; K Rakoczy; E Klieme"
+    },
+    {
+      "title": "Selbstbestimmt motiviertes und interessiertes lernen in der kaufm\u00e4nnischen erstausbildung [Self-determined and interested learning in business training]",
+      "journal": "Franz Steiner",
+      "year": "1996",
+      "authors": "M Prenzel; A Kristen; P Dengler; R Ettle; T Beer"
+    },
+    {
+      "title": "Hierarchical Linear Modeling. Applications and Data Analysis Methods. Thousands Oaks",
+      "journal": "Sage",
+      "year": "2002",
+      "authors": "S W Raudenbush; A S Bryk"
+    },
+    {
+      "title": "Does feedback-related brain response during reinforcement learning predict socio-motivational (in-) dependence in adolescence?",
+      "journal": "Front. Psychol",
+      "year": "2016",
+      "authors": "D Raufelder; R Boehme; L Romund; S Golde; R C Lorenz; T Gleich"
+    },
+    {
+      "title": "The interplay of perceived stress, self-determination and school engagement in adolescence",
+      "journal": "School Psychol. Int",
+      "year": "2013",
+      "authors": "D Raufelder; F Kittler; S R Braun; A L\u00e4tsch; R P Wilkinson; F Hoferichter"
+    },
+    {
+      "title": "Does self-determination predict the school engagement of four different motivation types in adolescence?",
+      "journal": "Educ. Psychol",
+      "year": "2015",
+      "authors": "D Raufelder; N Regner; K Drury; M Eid"
+    },
+    {
+      "title": "Does selfdetermination predict the school engagement of four different motivation types in adolescence?",
+      "journal": "Educ. Psychol",
+      "year": "2016",
+      "authors": "D Raufelder; N Regner; K Drury; M Eid"
+    },
+    {
+      "title": "Self-determination theory applied to educational settings",
+      "journal": "University of Rochester Press",
+      "year": "2002",
+      "authors": "J Reeve"
+    },
+    {
+      "title": "Autonomy-supportive teachers: how they teach and motivate students",
+      "journal": "J. Educ. Psychol",
+      "year": "1999",
+      "authors": "J Reeve; E Bolt; Y Cai"
+    },
+    {
+      "title": "What teachers say and do to support students' autonomy during a learning activity",
+      "journal": "J. Educ. Psychol",
+      "year": "2006",
+      "authors": "J Reeve; H Jang"
+    },
+    {
+      "title": "Enhancing students' engagement by increasing teachers' autonomy support",
+      "journal": "Motiv. Emot",
+      "year": "2004",
+      "authors": "J Reeve; H Jang; D Carrell; S Jeon; J Barch"
+    },
+    {
+      "title": "Classroom experience and change in upper elementary students' self and task beliefs in reading and math",
+      "journal": "Child Dev",
+      "year": "1993",
+      "authors": "R W Roeser; P Blumenfeld; J Eccles; R D Harold; A Wigfield"
+    },
+    {
+      "title": "How teacher emotional support motivates students: the mediating roles of perceived peer relatedness, autonomy support, and competence",
+      "journal": "Learn. Instruc",
+      "year": "2016",
+      "authors": "E A Ruzek; C A Hafen; J P Allen; A Gregory; A Y Mikami; R C Pianta"
+    },
+    {
+      "title": "Perceived locus of causality and internalization: examining reasons for acting in two domains",
+      "journal": "J. Pers. Soc. Psychol",
+      "year": "1989",
+      "authors": "R M Ryan; J P Connell"
+    },
+    {
+      "title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being",
+      "journal": "Am. Psychol",
+      "year": "2000",
+      "authors": "R M Ryan; E L Deci"
+    },
+    {
+      "title": "Landauer Skalen zum Sozialklima",
+      "journal": "Beltz",
+      "year": "1987",
+      "authors": "M V Saldern; K.-E Littig"
+    },
+    {
+      "title": "The role of sense of school belonging and gender in the academic adjustment of Latino adolescents",
+      "journal": "J. Youth Adolesc",
+      "year": "2005",
+      "authors": "B S\u00e1nchez; Y Col\u00f3n; P Esparza"
+    },
+    {
+      "title": "A scaled difference chi-square test statistic for moment structure analysis",
+      "journal": "Psychometrika",
+      "year": "2001",
+      "authors": "A Satorra; P M Bentler"
+    },
+    {
+      "title": "Teacher interests, mastery goals, and self-efficacy as predictors of instructional practices and student motivation",
+      "journal": "Contemp. Educ. Psychol",
+      "year": "2015",
+      "authors": "U Schiefele; E Schaffner"
+    },
+    {
+      "title": "Zielorientierung und bezugsnormorientierung: zum zusammenhang zweier konzepte",
+      "journal": "Z. P\u00e4dagog. Psychol",
+      "year": "2004",
+      "authors": "C Sch\u00f6ne; O Dickh\u00e4user; B Spinath; J Stiensmeier-Pelster"
+    },
+    {
+      "title": "The synergistic relationship of perceived autonomy support and structure in the prediction of self-regulated learning",
+      "journal": "Br. J. Educ. Psychol",
+      "year": "2009",
+      "authors": "E Sierens; M Vansteenkiste; L Goossens; B Soenens; F Dochy"
+    },
+    {
+      "title": "Motivation in the classroom: reciprocal effects of teacher behavior and student engagement across the school year",
+      "journal": "J. Educ. Psychol",
+      "year": "1993",
+      "authors": "E A Skinner; M J Belmont"
+    },
+    {
+      "title": "Skalen zur Erfassung der Lern-und Leistungsmotivation (SELLMO) [Scales to Assess Learning and Achievement Motivation",
+      "journal": "Hogrefe",
+      "year": "2002",
+      "authors": "B Spinath; J Stiensmeier-Pelster; C Sch\u00f6ne; O Dickh\u00e4user"
+    },
+    {
+      "title": "Modeling true intraindividual change: true change as a latent variable",
+      "journal": "Methods Psychol. Res. Online",
+      "year": "1997",
+      "authors": "R Steyer; M Eid; P Schwenkmezger"
+    },
+    {
+      "title": "The homework-achievement relation reconsidered: Differentiating homework time, homework frequency, and homework effort",
+      "journal": "Learn. Instruc",
+      "year": "2007",
+      "authors": "U Trautwein"
+    },
+    {
+      "title": "Predicting homework motivation and homework effort in six school subjects: the role of person and family characteristics, classroom factors, and school track",
+      "journal": "Learn. Instruc",
+      "year": "2009",
+      "authors": "U Trautwein; O L\u00fcdtke"
+    },
+    {
+      "title": "Different forces, same consequence: conscientiousness and competence beliefs are independent predictors of academic effort and achievement",
+      "journal": "J. Pers. Soc. Psychol",
+      "year": "2009",
+      "authors": "U Trautwein; O L\u00fcdtke; B W Roberts; I Schnyder; A Niggli"
+    },
+    {
+      "title": "Academic goals, student homework engagement, and academic achievement in elementary school",
+      "journal": "Front. Psychol",
+      "year": "2016",
+      "authors": "A Valle; B Regueiro; J C N\u00fa\u00f1ez; S Rodr\u00edguez; I Pi\u00f1eiro; P Ros\u00e1rio"
+    },
+    {
+      "title": "Educational and career interests in math: a longitudinal examination of the links between classroom environment, motivational beliefs, and interests",
+      "journal": "Dev. Psychol",
+      "year": "2012",
+      "authors": "M.-T Wang"
+    },
+    {
+      "title": "Adolescents' perceptions of school environment, engagement, and academic achievement in middle school",
+      "journal": "Am. Educ. Res. J",
+      "year": "2010",
+      "authors": "M.-T Wang; R Holcombe"
+    },
+    {
+      "title": "Development of adolescents' self-perceptions, values, and task perceptions according to gender and domain in 7th-through 11th-grade Australian students",
+      "journal": "Child Dev",
+      "year": "2004",
+      "authors": "H M G Watt"
+    },
+    {
+      "title": "Social and academic motivation in middle school concurrent and long-term relations to academic effort",
+      "journal": "J. Early Adolesc",
+      "year": "1996",
+      "authors": "K R Wentzel"
+    },
+    {
+      "title": "Social supports from teachers and peers as predictors of academic and social motivation",
+      "journal": "Contemp. Educ. Psychol",
+      "year": "2010",
+      "authors": "K R Wentzel; A Battle; S L Russell; L B Looney"
+    },
+    {
+      "title": "Introduction, \" in Handbook of Motivation at School",
+      "journal": "",
+      "year": "2009",
+      "authors": "K R Wentzel; A Wigfield"
+    },
+    {
+      "title": "Engagement and motivation in reading",
+      "journal": "",
+      "year": "2000",
+      "authors": "A Wigfield; Guthrie ; J T "
+    },
+    {
+      "title": "Advancing achievement goal theory: using goal structures and goal orientations to predict students' motivation, cognition, and achievement",
+      "journal": "J. Educ. Psychol",
+      "year": "2004",
+      "authors": "C A Wolters"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "FIGURE 1 |1FIGURE 1 | Student-perceived classroom characteristics and students' motivational change. Relations between student-perceived classroom characteristics and students' level and change in mastery goal orientation, effort, and intrinsic motivation. Unstandardized coefficients are reported. Only significant effects are depicted. Non-significant effects are reported in Table5.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "38 * * * (0.07) \u22120.24 * * (0.09) \u22120.49 * * * (0Unstandardized coefficients from the latent change model including student-perceived classroom characteristics as predictors of the level and change of students' motivation. * * * (0.08) \u22120.02 (0.07) 0.20 * * (0.07) 0.21 * (0.10) * * * p < 0.001, * * p < 0.01, * p < 0.05; Autonomy = student-reported support of autonomy in class; Competence = student-reported support of competence in class; Relatedness = student-reported relatedness in class.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Model fit indices for measurement invariance testing of the latent change model. No constraints but configural invariance; 2 = loadings invariant across time; 3 = loadings and intercepts invariant across time; 4 = measurement model including time invariance restrictions and classroom-related latent constructs; 4a = model 4 including the correlations of the measurement error variances of four items of the latent construct 'competence support'.",
+      "figure_data": "\u03c7 2df\u03c7 2dfCFITLIRMSEA90% CISRMR1434.27155--0.930.920.040.04, 0.050.042436.771624.0270.930.920.040.04, 0.040.043444.621696.5970.930.920.040.03, 0.040.0441082.364730.920.910.030.03, 0.040.044a885.914710.940.940.030.03, 0.030.041 ="
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Range of standardized factor loadings for latent factors.",
+      "figure_data": "Latent factorGrade 8Grade 9Autonomy0.41 -0.75Competence0.43 -0.66Relatedness0.41 -0.75Mastery goal orientation0.54 -0.640.59 -0.66Academic Effort0.47 -0.740.51 -0.72Intrinsic motivation0.66 -0.760.72 -0.80"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Latent means, standard errors, and latent correlations.",
+      "figure_data": "ConstructM (SE)ICC23456789(1) Mastery goal orientation grade 83.10 (0.03)0.180.64  *  *  *0.52  *  *0.30  *  *  *0.50  *  *  *0.39  *  *  *0.36  *  *  *0.51  *  *  *0.41  *  *  *(2) Mastery goal orientation grade 93.06 (0.03)0.140.34  *  *  *0.46  *  *  *0.32  *  *  *0.56  *  *  *0.23  *  *  *0.29  *  *  *0.30  *  *  *(3) Academic effort grade 83.11 (0.04)0.040.79  *  *  *0.20  *  *  *0.23  *  *  *0.27  *  *  *0.40  *  *  *0.31  *  *  *(4) Academic effort grade 93.02 (0.04)0.020.090.22  *  *  *0.21  *  *  *0.24  *  *  *0.24  *  *  *(5) Intrinsic motivation grade 83.96 (0.04)0.100.49  *  *  *0.25  *  *  *0.35  *  *  *0.21  *  *  *(6) Intrinsic motivation grade 93.96 (0.04)0.110.18  *  *  *0.22  *  *  *0.22  *  *  *(7) Autonomy grade 82.86 (0.04)0.100.76  *  *  *0.38  *  *  *(8) Competence grade 83.96 (0.04)0.100.29  *  *  *(9) Relatedness grade 84.22 (0.04)0.31-*  *  *  p < 0.001,  *  *  p < 0.01,"
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Standardized coefficients from the latent change model including student-perceived classroom characteristics as predictors of the level and change of students' motivation.",
+      "figure_data": "Mastery goal orientationAcademic effortIntrinsic motivationLevelChangeLevelChangeLevelChange"
+    }
+  ],
+  "doi": "10.3389/fpsyg.2017.00417"
+}

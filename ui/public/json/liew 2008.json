@@ -1,0 +1,659 @@
+{
+  "title": "Adaptive and Effortful Control and Academic Self-efficacy Beliefs on Achievement: A Longitudinal Study of 1 st through 3 rd Graders",
+  "abstract": "The linkages between self-regulatory processes and achievement were examined across three years in 733 children beginning at 1 st grade (M = 6.57 years, SD = .39 at 1 st grade) who were identified as lower achieving in literacy. Accounting for consistencies in measures (from one year prior) and for influences of child's age, gender, IQ, ethnicity and economic adversity on achievement, results indicate that adaptive/effortful control at 1 st grade contributed to both academic self-efficacy beliefs at 2 nd grade, and reading (but not math) achievement at 3 rd grade. Although academic self-efficacy did not partially mediate the linkage between adaptive/effortful control and achievement, academic self-efficacy beliefs were positively correlated with reading and math. Results support the notion that early efforts to promote children's self-regulatory skills would enhance future academic selfbeliefs and achievement, particularly in literacy. Early childhood education has historically emphasized the preparation of children for the \"3 R's of school,\" or in more current terminology: literacy and math skills (Freeman & Hatch, 1989). However, there is growing consensus that social and emotional competencies enable children to succeed academically (Duncan et al., 2007;Raver & Knitzer, 2002). Despite such emerging evidence that socioemotional and self-regulatory skills contribute to achievement (Duncan et al., 2007), schools often feel pressured to de-emphasize the development of nonacademic (e.g., socioemotional and attentional) skills in the current era of standards-based accountability. Yet, academic and non-academic development are likely intertwined, and early efforts to promote children's social and emotional learning positively influence their concurrent and future academic success (e.g., Rimm-Kaufman, Fan, Chiu, & You, 2007;Zins, Bloodworth, Weissberg, & Walberg, 2004). Thus, there is little need to partition school readiness skills along academic and non-academic lines as both aspects are important for achievement (Duncan et al., 2007). The present study aims to further explore the linkages in the early elementary grades between a) non-academic self-regulatory skills, b) academic selfefficacy beliefs, and c) academic achievement. Specifically, we hypothesized that adaptive/ effortful control at 1 st grade will contribute to academic self-efficacy beliefs at 2 nd grade which, in turn, contribute to reading and/or math achievement at 3 rd grade.",
+  "sections": [
+    {
+      "heading": "Theoretical Rationale",
+      "text": "Social cognitive theory (Bandura, 1986) has shaped the conceptualization and empirical knowledge of how self-beliefs relate to personal agency and how efficacy influences academic motivation, learning, and achievement (Bandura, Caprara, Barbaranelli, Gerbino, & Pastorelli, 2003;Wigfield, Eccles, Schiefele, Roeser, & Davis-Kean, 2006). According to social cognitive theory, self-efficacy refers to whether a person perceives herself or himself as capable of mobilizing and maintaining effort needed to achieve a goal (Bandura, 1991;Bandura & Jourden, 1991). Thus, self-efficacy beliefs are especially important for attainment of long-term and challenging goals.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Academic self-efficacy beliefs and achievement",
+      "text": "Academic achievement is a developmental or cumulative process (Duncan et al., 2007), and extensive research has explored the role of general and domain-specific self-efficacy beliefs in self-regulated learning and achievement, especially in adolescents and adults (see Denissen, Zarret, & Eccles, 2007;Multon, Brown, & Lent, 1991;Pajares, 1996;Wigfield et al., 2006;Zimmerman, Bandura, & Martinez-Pons, 1992). In short, such research indicates that selfefficacy beliefs serve as one of the self-regulatory mechanisms that govern a person's motivation, action, and cognitive processing (Eccles & Wigfield, 2002;Pajares, 1996;Wigfield & Eccles, 2000) as well as affective processes, such as anxiety, that can hinder achievement (Bandura et al., 2003;Cervone, Kopp, Schaumann, & Scott, 1994). For example, a capable but not very confident reader might read a passage from a book aloud to her parents at home with ease and accuracy, but struggle doing so in front of the teacher and classmates.",
+      "n_publication_ref": 11,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "(Non-academic) effortful control and achievement",
+      "text": "The notion that academic self-efficacy beliefs influence academic performance is likely obvious, but it may be less apparent that non-academic factors such as a child's effortful control could also directly or indirectly influence academic achievement. Particularly with very young children, the framework of temperament as an individual's innate behavioral style has been foundational in the study of self-regulation (Kagan, 1994;Kopp, 1982;Rothbart, Ahadi & Hershey, 1994;Rothbart & Derryberry, 1981), with effortful control being defined as the ability or capacity to voluntarily inhibit a dominant response to activate a subdominant response (Murray & Kochanska, 2002;Rothbart & Bates, 1998). Effortful control can often be observed through a child's inhibitory control (e.g., waiting for his or her turn to speak in the class) and attention or executive control, and ability to follow rules or instructions (Duncan et al., 2007;Kieras, Tobin, Graziano, & Rothbart, 2005;Kochanska, Murray & Harlan, 2000;Liew, Eisenberg, & Reiser, 2004;Rothbart & Bates, 2006).\nA related but separate concept, ego-resiliency, is also considered part of an individual's disposition (e.g., temperament or personality) and refers to an individual's \"dynamic capacity to contextually modify one's level of control in response to situational demands and affordances\" (Letzring, Block, & Funder, 2005, p. 396; also see Block & Block, 1980). For example, a child with high ego-resiliency could easily adapt and be flexible with unexpected or uncontrollable changes in the classroom schedule whereas a child with low ego-resiliency might become flustered and \"fall apart\" under similar circumstances. A child who adapts and \"bounces back\" after challenges is more likely to persist or persevere than a child who \"falls apart\" and gives up on long-term and challenging goals. Ego-resiliency is likely associated with effortful control because ego-resiliency emphasizes the flexible, adaptive, and voluntary aspects of control (Eisenberg et al., 2005;Eisenberg, Spinrad, & Morris, 2002). Thus, we include both measures of ego-resiliency and observed effortful control in the present study. While the majority of research on ego-resiliency tends to focus on psychosocial adjustment, preliminary evidence indicates that ego-resiliency is also associated with early and later academic achievement in childhood and adolescence (Aken, 2006;Bursik & Martin, 2006;Kwok, Hughes, & Luo, 2007).\nIn one of the relatively few studies on effortful control and academic achievement, Blair and Razza (2007) examined the contributions of various aspects of self-regulation, including the contribution of Head Start preschoolers' effortful control on early math and literacy skills.\nEffortful control was assessed with teachers' and parents' ratings using subscales from the Children's Behavior Questionnaire (Putnam & Rothbart, 2006). Their results indicate that effortful control contributed to preschool math and literacy skills (Blair & Razza, 2007). In another study using behavioral measures of self-regulation that tapped primarily inhibitory control (but also attention and working memory), McClelland and colleagues (2007) found that preschoolers' behavioral self-regulation was associated with early math and literacy skills. Also, gains in behavioral self-regulation predicted gains in emergent literacy and math skills. In further support that effortful control contributes to achievement, Duncan and colleagues (2007) found that attention-related skills such as task persistence and self-regulation at kindergarten predicted their reading and math achievement at 3 rd grade. Thus, emerging evidence supports the view that inhibitory and effortful control contribute to academic functioning in preschoolers. However, much remains to be learned regarding the role of effortful control on school-related competencies across the elementary school years (Valiente, Lemery-Chalfant, & Castro, 2007).",
+      "n_publication_ref": 24,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Potential association between effortful control and self-efficacy beliefs",
+      "text": "Although the temperamental construct of effortful control is aligned with the social cognitive constructs of (task-specific) self-efficacy and (general) perceived control (Pajares, 1996;Pintrich, Roeser, & De Groot, 1994;Trautwein, Ludtke, Kastens, & Koller, 2006;Wentzel & Wigfield, 1998;Wigfield et al., 2006;Wigfield & Eccles, 2000), previous studies have generally not tested potential relations between effortful control and self-efficacy beliefs. Importantly, although effortful control and self-efficacy or perceived control both pertain to human agency, they are conceptually and theoretically distinct and do not necessarily co-occur. For example, a person can have the ability or skills for successful performance (i.e., high effortful control), but doubt their ability (i.e., have low self-efficacy) or lack the motivation to perform (e.g., under-perform or under-achieve). Conversely, a person can be overly confident when they actually lack the necessary skills for successful performance. To further delineate the two concepts, effortful control describes an individual's ability or capacity for voluntary inhibition of a primary response to activate a secondary one. In contrast, self-efficacy describes an individual's belief that they can exercise voluntary action to bring about desired goals (Bandura, Barbaranelli, Caprara, & Pastorelli, 1996). In the study of self-regulation, it is imperative not to confuse or equate an individual's temperament (e.g., behavioral style) with an individual's beliefs. Furthermore, there are likely temperamental and social cognitive constructs related to volition, ability, effort, persistence, and motivation that influence one another across time (Caprara, Steca, Cervone, & Artistico, 2003;Cervone, Shadel, Smith, Fiori, 2006;Lerner, 1991).\nWe believe children's temperamental aspects of self-regulation (e.g., adaptive/effortful control) at entrance to first grade contribute to their approach to learning. Approaches to learning are considered distinct, observable behaviors such as attention and persistence that indicate ways children become academically engaged or motivated (Fantuzzo et al., 2007). Because adaptive/effortful control allows children to pay attention or follow instructions in the classroom, we expect adaptive/effortful control to contribute to successful, daily experiences in the classroom as well as to achievement. Successful experiences in the classroom will likely elicit positive feedback from teachers, parents, or peers and bolster children's academic selfefficacy beliefs. Furthermore, children who believe that they can be successful at school are likely to remain attentive and persistent in school even in the face of learning new or challenging material that ultimately contributes to academic achievement. Thus, in the present study, we test a partial mediation model by which adaptive/effortful control at 1 st grade contributes to academic self-efficacy beliefs at 2 nd grade, which then contribute to literacy or math achievement at 3 rd grade.",
+      "n_publication_ref": 11,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Method Participants",
+      "text": "Participants were 733 first grade children (53% male) participating in a longitudinal study examining the impact of grade retention on academic achievement from three school districts (one urban, two small cities) in Central and Southeast Texas. Participants were relatively low achieving in literacy for their individual school districts, scoring below the median on a state approved district-administered measure of literacy taken in either May of kindergarten or September of first grade. In addition, participants spoke either English or Spanish, were not served by special education, and had not previously been retained in first grade. The sample consisted of 37% White Hispanic, 34% White non-Hispanic, 23% African American, 4% Asian or Pacific Islander, and 2% Other. At entrance to first grade, children's mean age was 6.57 (SD = .39) years. The children's IQ as measured with the Universal Nonverbal Intelligence Test (Bracken & McCallum, 1998) was 92.91 (SD = 14.62). Based on family income, 61.3% of participants were eligible for free or reduced lunch. Our level of missing data appeared reasonable for a longitudinal study (Ns ranged from 733 to 621 on the major variables across the 3 years) with 85% of participants having data even for the variable with the most missing data. More importantly, across attrition analyses for each study variable, no significant differences were found between participants with and without complete data and suggest that data may be missing at random (Little & Rubin, 1987). Due to missing data on some variables, analyses were conducted with MPLUS (v3.13, Muth\u00e9n & Muth\u00e9n, 2004) that uses maximum likelihood to estimate models with missing data.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "During November through March of each yearly assessment, research staff individually administered child measures (effortful control and achievement). In March of each year, teachers were monetarily compensated for rating each participant's ego-resiliency using questionnaires that were mailed.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Adaptive and Effortful control",
+      "text": "Adaptive/effortful control was indexed by teacher-reported ego-resiliency and by observations of children's inhibitory control on two effortful control tasks.\nEgo-resiliency-Ego-resiliency was rated by teachers using four items (e.g., \"persistent; does not give up easily\" and \"resourceful in initiating activities\"; \u03b1s at 1 st grade (Wave 1) and one year later (Wave 2) = .86 and .84, respectively). These items are from the ego-resiliency subscale that was adapted from the California Child Q-set (Block & Block, 1980;Caspi, Block, Block, & Klopp, 1992). Items were averaged to arrive at a score for ego-resiliency at Wave 1 and at Wave 2.\nEffortful and inhibitory control-Effortful control was observed when children were in 1 st and 2 nd grades with two tasks (Walk-a-Line and Star) selected from a behavioral battery designed by Kochanska and colleagues to assess inhibitory and effortful control (Kochanska, Murray, & Coy, 1997;Kochanska, Murray, Jacques, Koenig, & Vandegeest, 1996;Murray & Kochanska, 2002). These tasks have been found to be reliable and valid measures of inhibitory and effortful control for toddlers through early grade school children (Murray & Kochanska, 2002) and have also been used by a number of researchers examining inhibitory or effortful control and social behaviors (Dennis & Brotman, 2003;Kieras et al., 2005;Kochanska & Knaack, 2003). In the Walk-a-Line task, children were asked to walk along a (12 ft. long by 2.5 in. wide) ribbon that was taped onto the floor. In the Star task, children were asked to use a pencil and trace geometric figures without going outside the lines of the figures (i.e., the star). Children's behaviors were observed and recorded by trained research assistants who individually administered the assessments in the schools. Research assistants received three hours of training and were tested on their knowledge of research protocol and skill in data collection prior to administrating assessments in the schools.\nFrom the effortful control tasks, scores for inhibitory control were derived by the duration (in seconds) that it took children to complete the Walk-a-Line and the Star tasks when they were given instructions to complete tasks as slowly as possible. Prior to inhibitory control assessment, baseline measures were assessed when children were asked to complete tasks, but without instructions to modulate or slow their behaviors. Research assistants individually timed children's behaviors using stopwatches as children completed the tasks (i.e., in real time). Because a single research assistant administered tasks for each child at the school and assessments were not video-recorded, calculations of reliability for timings used for measures of inhibitory control are not available. Scores were significantly positively correlated for inhibitory control across the two tasks at Waves 1 and 2, rs(dfs = 728 and 667) = .55 and .49, ps < .001, respectively. Similarly, the corresponding baseline responses were significantly positively correlated across the two tasks at Waves 1 and 2, rs(dfs = 728 and 569) = .29 and . 15, ps < .001, respectively. Thus, composites for inhibitory control and for baseline inhibitory control were computed by averaging the standardized scores across the 2 tasks, respectively, at Wave 1 and at Wave 2. Note that inhibitory control (not the baseline measure) was a primary variable in this study. However, we expected that the baseline measure would be directly linked to inhibitory control and thus, modeled that in our structural equation model (SEM).",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Academic Self-efficacy Beliefs",
+      "text": "Children provided self-reports on their academic self-efficacy beliefs using six items (\u03b1s at Wave 1 and Wave 2 = .77 and .71, respectively) from the cognitive competence subscale that emphasizes self-beliefs about academic performance from the Perceived Competence Scale for Children (Harter, 1982). Items included whether children believed that they \"are good at numbers,\" \"know a lot in school,\" \"can read alone,\" \"are good at writing words,\" \"are good at spelling,\" and \"are good at adding\". Items were averaged to compute a score for children's academic self-efficacy beliefs at Wave 1 and at Wave 2.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Academic Achievement",
+      "text": "Children's reading and math achievement scores across three years (at Waves 1, 2, and 3) were based on children's yearly performance on the Broad Reading and Broad Math portions of the Woodcock Johnson-III Tests of Achievement (WJ-III; Woodcock, McGrew, & Mather, 2001). Within the Broad Reading portion of the test were three subtests that assessed children's letter-word identification, reading fluency, and passage comprehension. Similarly, the Broad Math portion of the test included three subtests to assess children's calculations, math fluency, and math calculation skills. Children whose dominant language was Spanish, based on performance on the Woodcock-Mu\u00f1oz Language Proficiency Test (2001) were administered the Bater\u00eda Woodcock-Mu\u00f1oz: Pruebas de aprovechamiento -Revisada (Bater\u00eda-R; Woodcock & Mu\u00f1oz-Sandoval, 1996). Standard scores from the Bater\u00eda -R are considered equivalent to standard scores from the Woodcock Johnson Psychoeducational Battery-Revised (Woodcock & Johnson, 1989), the predecessor of the WJ-III. At the time this study began, the Bater\u00eda III (Mu\u00f1oz-Sandoval, Woodcock, McGrew, & Mather, 2005) was not yet available. In the present study, we focused on early grade school across three years, but we collected data on these children at years 4 and 5 (not included as part of the present study). However, at years 4 and 5 when the Bateria III became available, we administered both the Bater\u00eda III and the Bater\u00eda-R to a random sub-sample of 31 Spanish-dominant study participants. The two versions were very highly correlated, rs(dfs = 29) = .95 and .95, for Broad Reading and for Broad Math, respectively. Thus, results suggest that scores across the WJ III and Bateria-R are comparable in our sample and age standard scores from the WJ III or Bateria-R were used in our analyses.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Child and Family Influences Related to Achievement",
+      "text": "Previous research indicates that factors such as age, gender, IQ, ethnicity and economic adversity are correlated with achievement in school-age children (Asbury, 1974;Stanovich, Cunningham, & Feeman, 1984). Because the present study focuses on the contributions of behavioral self-regulation and academic self-efficacy beliefs on academic achievement, we accounted for the influences of age, gender, IQ, ethnicity, and economic adversity when testing our primary hypotheses.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Cognitive ability (IQ)-",
+      "text": "Children were individually tested at school with the Universal Nonverbal Intelligence Test (UNIT; Bracken & McCallum, 1998) at 1 st grade. The UNIT is a nationally standardized non-verbal measurement of the general intelligence and cognitive abilities of children and adolescents. The UNIT is administered with the use of culturally and linguistically universal hand and body gestures without any use of receptive or expressive language. It assesses general intelligence by measuring complex memory and reasoning abilities. We used the Abbreviated version of the UNIT that yields a full scale IQ which is highly correlated with scores obtained with the full battery (r=.91) and has demonstrated good test-retest and internal consistency reliabilities as well as construct validity (Bracken & McCallum, 1998;Hooper, 2003).\nEconomic adversity-This dichotomous variable was based on the child's income eligibility for free or reduced school lunch at 1 st grade. A score of 0 indicated the child was not eligible, and a score of 1 indicated the child was eligible. This information was provided by the child's school.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Plan of Analyses",
+      "text": "Descriptive and preliminary analyses were first conducted, and differences in children's age, gender, IQ, ethnicity and economic adversity on the major variables of this study were examined. Correlational analyses were then conducted to examine within and across time relations between measures of adaptive/effortful control (i.e., inhibitory control and egoresiliency), academic self-efficacy beliefs, and reading and math achievement. Using SEM, the potential direct and indirect influences of Wave 1 adaptive/effortful control on Wave 2 selfefficacy beliefs and Wave 3 reading or math achievement were tested.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Preliminary Analyses",
+      "text": "Descriptive statistics were conducted and the means and standard deviations for the major variables for the total sample, girls and boys, are presented in Table 1. Major variables that were included in the correlational analysis were first screened for normality and outliers. None of the major variables were skewed according to the cutoff values of 2 for skewness and 7 for kurtosis (West, Finch, & Curran, 1995). Furthermore, no outliers were detected based on the frequencies and distribution of the major variables (Barnett & Lewis, 1994).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Relations of Age, Gender, IQ, Ethnicity, and Economic Adversity to Major Variables",
+      "text": "Demographic variables that are associated with both the predictors and the outcomes are included as covariates in the structural models in order to reduce the likelihood that omitted third variables account for the observed relationships. Consistent with previous research (Asbury, 1974;Stanovich et al., 1984), we found that children's age, gender, IQ, ethnicity, and economic adversity associated with the major variables in this study. Because demographic variables are not the focus of the present study and relations are generally consistent with previous literature, we summarize significant relations that were found between demographic and major variables rather than providing all the statistical findings.\nAge or IQ and major variables-To examine if age and IQ were associated with major variables, zero-order correlations were conducted. The pattern of correlations indicates that age was only negatively correlated with reading and math achievement (see Table 2). Age was also marginally positively associated with adaptive/effortful control. IQ was positively correlated with all major variables except academic self-efficacy beliefs (see Table 2 for details).\nGender and major variables-To examine if boys and girls differed on the major variables, single-factor (gender) multivariate analyses of variance (MANOVAs) were conducted on the measures for Wave 1, Wave 2, and Wave 3. At each of the three yearly assessments, girls obtained higher scores in reading than boys (also see Johnson, 1973). In addition, at Waves 1 and 2, girls were rated by teachers as higher than boys on ego-resiliency.\nEconomic adversity and major variables-Parallel to analyses on gender differences, MANOVAs were conducted to examine differences on major variables for children with and without economic adversity. With the exception of academic self-efficacy beliefs where there were no significant differences found, follow-up univariate analyses revealed that children with economic adversity scored at least marginally lower than those without economic adversity on all major measures.\nEthnicity and major variables-MANOVAs were conducted to examine differences on major variables for Caucasian (n = 267) and non-Caucasian (n = 517) children. At Wave 1, Caucasians scored higher on math, but non-Caucasians reported higher academic self-efficacy beliefs. At Wave 2, Caucasians scored at least marginally higher than non-Caucasians on all measures except for academic self-efficacy beliefs for which no differences were found. At Wave 3, Caucasians scored higher than non-Caucasians in reading and math assessments.\nRelations among predictors of achievement-Correlations were conducted to examine relations among measures of adaptive/effortful control and academic self-efficacy beliefs within and across Waves 1 and 2 (Table 3). Generally, there were significant relations among predictors in the expected directions with the exception that inhibitory control was unrelated to academic self-efficacy beliefs within and across Waves 1 and 2. In addition, ego-resiliency at Wave 1 was unrelated to inhibitory control at Wave 2.\nRelations among measures of achievement-Correlations were conducted to examine relations among measures of academic achievement within and across Waves 1 and 2. All measures of achievement were positively correlated with one another within and across Waves 1 and 2 (see Table 3).\nRelations between predictors and achievement-Correlations were conducted to examine relations between the predictor variables (i.e., inhibitory control, ego-resiliency, and academic self-efficacy beliefs) and academic achievement within and across Waves 1 and 2. Generally, inhibitory control, ego-resiliency, and academic self-efficacy beliefs were positively correlated with a majority of the achievement variables within and across Waves 1 and 2 (see Table 3).",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Primary Analyses",
+      "text": "Structural equation modeling was used to test the hypothesis that Wave 2 academic selfefficacy beliefs would partially mediate the linkage between Wave 1 adaptive/effortful control and Wave 3 reading or math achievement, above and beyond any contributions from children's age, gender, IQ, ethnicity and economic adversity on achievement. For measures at Waves 2 and 3, the structural models accounted for consistencies in all measures (from one year prior). The structural models were tested utilizing maximum likelihood estimation with robust standard errors and a mean-adjusted chi-square statistic test (MLR; Muth\u00e9n & Muth\u00e9n, 2004). To account for potential dependency among the observations (children) within clusters (classrooms), analyses were conducted using the \"complex analysis\" feature in Mplus (v.3.13, Muth\u00e9n & Muth\u00e9n, 2004), which accounts for the nested structure of the data by adjusting the standard errors of the estimated coefficients. To assess how well the models fit the data, we included information from 3 different model fit indices (i.e., SRMR or standardized root mean square residual, CFI or comparative fit index, and RMSEA or root mean square error of approximation) as recommended by a number of methodologists (see Bentler, 2007;McDonald & Ho, 2002).\nSEM with and without self-efficacy as a partial mediator-The mediational model with self-efficacy as a mediator provided good fit to the data, \u03c7 2 (23, N = 784) = 57.00, p =.00; CFI = .98; RMSEA = .04; SRMR = .02. Adaptive/effortful control was the latent construct with multiple indicators of teacher-rated ego-resiliency and observed inhibitory control, and the model-estimated loadings were significant and in the expected directions for both indicators. As recommended by the modification indices, the residual variances between math scores at Waves 2 and 3 were allowed to correlate and made theoretical sense given that they were both math tests completed by the same person. However, Sobel tests indicate that the indirect paths were not significant for W3 reading achievement (z = 1.04, ns) and W3 math achievement (z = .70, ns). We then tested a model without indirect paths which also provided good fit to the data, \u03c7 2 (23, N = 784) = 56.10, p =.00; CFI = .98; RMSEA = .04; SRMR = .02. Furthermore, chi-square difference test using the Satorra-Bentler scaled chi-square (Satorra, 2000) indicated that there was no difference between models without and with indirect paths, \u03c7 2 (2) = .85, ns. Thus, we present model results without indirect paths in Figure 1. Independent of consistencies in measures from one year prior and children's age, gender, IQ, ethnicity and economic adversity on achievement at Wave 3, model paths indicate that adaptive/effortful control at Wave 1 was predictive of academic self-efficacy at Wave 2 and reading achievement at Wave 3 (Figure 1).",
+      "n_publication_ref": 5,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Discussion",
+      "text": "This is the first study, to our knowledge, to empirically examine the contributions of temperamental effortful control and self-efficacy beliefs simultaneously on academic achievement. Our findings demonstrate that adaptive/effortful control at 1 st grade contributed to positive academic self-efficacy beliefs at 2 nd grade, and contributed to literacy (but not math) two years later. Although academic self-efficacy did not partially mediate the linkage between adaptive/effortful control and achievement in the early grades, academic self-efficacy beliefs were associated with high literacy and math at Waves 1 and 2 (see Table 3; also see Denissen et al., 2007;Wigfield et al., 2006;Zimmerman et al., 1992). Importantly, although we found that Wave 2 academic self-efficacy was positively correlated with Wave 3 reading and math, above contributions from covariates (i.e., age, gender, IQ, ethnicity and economic adversity) and Wave 1 adaptive/effortful control, Wave 2 academic self-efficacy did not make an independent contribution to Wave 3 reading. Overall, our findings are consistent with the notion (e.g., Pajares, 2005, p. 353) that early self-regulatory abilities and skills appear to foster both school-related confidence and competence in the early grades.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Effortful Control and Self-efficacy",
+      "text": "Our findings are consistent with Pajares (2005) who advocated that teachers and parents need to emphasize skill development and praising of effort and persistence while noting that \"selfefficacy is not so much about learning how to succeed as it is about learning how to persevere when one does not succeed\" (p. 345). Because effortful control is an aspect of temperament that contributes to attention, effort, and persistence, it is not surprising that early effortful control would contribute to later academic self-efficacy beliefs (Bandura et al., 1996;Denissen et al., 2007;Fantuzzo et al., 2007). Furthermore, these findings speak to the need for parents and for school-based programs to attend to children's development of self-regulatory skills (e.g., Greenberg, Kam, & Kusche, 2004;Greenberg, Kusche, Cook, & Quamma, 1995) that could enhance children's school readiness and successful school experiences while shaping a positive academic self-concept.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Effortful Control and Academic Achievement",
+      "text": "Consistent with previous research that examined attention or behavioral aspects of selfregulation (e.g., Blair & Razza, 2007;McClelland et al., 2007), adaptive/effortful control was positively correlated with reading and math achievement within and across-time (Table 3). Furthermore, independent of age, gender, IQ, ethnicity and economic adversity and across time consistencies in achievement, (non-academic) adaptive/effortful control at 1 st grade continued to provide unique prediction of literacy 2 years later. However, adaptive/effortful control at 1 st grade did not provide unique contribution to math achievement at 3 rd grade. A potential explanation for the discrepancy between reading and math in our findings might be associated with the fact that our sample consisted of children who were selected with the criteria of being below the 50 th percentile in their school district for reading skills. At Wave 1, our sample scored in the low average range on reading (M = 96.47, SD = 18.01) and in the average range on math (M = 100.76, SD = 14.28). For students who are lower achieving in literacy, our results indicate that fostering early self-regulatory skills appears beneficial to future literacy achievement.\nGroup versus individual work in reading and math-Despite controversy over potential social ramifications of grouping by ability, in-class ability grouping within the primary grades remains a common practice for reading (Chorzempa & Graham, 2006), perhaps based on literacy research that consistently indicates that ability grouping is most effective for teaching early literacy skills (e.g., McCoach, O'Connell, & Levitt, 2006). Given the social nature of group work, children need to use their social and emotional skills (e.g., waiting or turn-taking, managing conflict or disappointment, and cooperation). Thus, children who are able to inhibit their impulses and recover from set-backs (i.e., exhibit adaptive and effortful control) are likely able to adapt well to learning in group settings. In early reading instruction, children are often organized into small groups and asked to take turns reading aloud in a roundrobin or otherwise fashion while the teacher assesses each student's progress and offers immediate feedback. The use of small groups in reading instruction (in comparison to typical mathematics instruction) is effective for the oral nature of early reading and allows for timely assessment. However, this practice also highlights the need for children to demonstrate adaptive and effortful control.\nIn contrast to reading, grouping (ability grouping or otherwise) for mathematics instruction at the elementary school remains relatively uncommon in the United States (e.g., Mason & Good, 1993;Slavin & Karweit, 1985). Therefore, mathematics instruction is generally whole class instruction followed by independent \"seat work\" that is more self-paced in nature. However, that is not to say that mathematics or individualized work does not require self-regulatory skills. Rather, independent work might emphasize a different set of self-regulatory skills such as selfmonitoring and staying on-task compared to group work that might emphasize recovery from set-back and peer conflicts, waiting, and turn-taking. Thus, as suggested by our findings, the mechanisms that involve self-regulation and self-efficacy underlying reading achievement across the early school grades likely differ from that for math achievement.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Study Limitations and Future Directions",
+      "text": "This study had several limitations. Note that reliability for timings used for measures of observed inhibitory control were not available in the present study. Although not always feasible, future studies that are conducted in naturalistic settings such as schools could videorecord participants during assessments to allow for fine-grained data coding and calculations of reliabilities on observed measures. Importantly, our measures of inhibitory control and egoresiliency were significantly, albeit moderately, positively correlated with one another. Thus, our measure of inhibitory control appears to be a reasonable measure of adaptive/effortful regulatory processes. Of interest is that our measures of inhibitory control and academic selfefficacy beliefs were not significantly associated with one another. Thus, adaptive/effortful control contributes to academic self-efficacy beliefs but the contribution might be primarily from ego-resiliency. Future research could focus on differentiating the roles of specific selfregulatory components that contribute to specific aspects of learning and achievement. Because our sample were children selected on the basis of scoring below the median on a measure of literacy at entrance to 1 st grade, caution should be taken in the interpretation and generalization of findings. Recall that adaptive/effortful control at 1 st grade continued to predict reading (but not math) achievement two years later. Future studies could examine if a similar finding is found for math in a sample of students who are lower achieving in math (rather than literacy) skills. Furthermore, is it important to examine if such relations between effortful control, academic self-efficacy beliefs, and achievement operate similarly for non-low achieving students. Finally, our potential explanations for why adaptive and effortful control at 1 st grade predicted literacy, but not math, achievement at 3 rd grade were derived from national trends in instruction rather than from direct classroom observations. Future studies could consider how adaptive/effortful control and self-efficacy beliefs operate on achievement in conjunction with contextual factors such as classroom practices.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Implications for Policy and Practice",
+      "text": "There is relatively long-standing and national consensus (as indicated by the No Child Left Behind legislation) that 3rd grade is a pivotal year for assessing whether all children are meeting the minimum academic standards (Fantuzzo et al., 2007;Lloyd, 1978;Slavin, 1998). Literacy education typically follows a stage-like model where instruction prior to 3 rd grade focuses on learning to read and instruction after 3rd grade focuses on reading to learn (e.g., Chall, 1996;Spear-Swerling & Sternberg, 1997). Consequentially, students who have yet to achieve proficiency in reading by 3 rd grade typically receive little instruction toward that goal in subsequent grades without special intervention. Our findings underscore the need for increased attention on examining the role of early social and emotional factors on later learning and achievement, particularly in literacy (Duncan et al., 2007;Fantuzzo et al., 2007;McTigue, Washburn, & Liew, in press).\nImplications for educators-In conclusion, our findings indicate that for meeting the critical 3 rd grade benchmarks in reading, early adaptive/effortful control is one of the precursors to academic self-efficacy beliefs and to literacy achievement. Thus, preschool and early childhood programs that help students develop emotional and behavioral self-regulatory skills (while also teaching early literacy skills) will be most effective in developing a literate society. One example of school-based programs to enhance children's self-regulatory skills is the PATHS (Promoting Alternative Thinking Strategies) curriculum which has shown success in sustained improvements on children's social and emotional adjustment (Greenberg et al., 2004;Greenberg et al., 1995) while simultaneously fostering pre-K literacy development. Recent educational practices toward high-stakes, standardized testing may place an even greater premium on learners to pay attention, inhibit their impulses, and to bounce back after set-backs (Johnston, 2005). Additionally, students may benefit from evaluations of their academic self-efficacy beliefs in order to identify students who may be at risk for academic challenges. Recall that academic self-efficacy was positively correlated with reading and math achievement within and across time. However, there are relatively few validated methods to assess children's self-efficacy and motivation for reading at the early grades (McTigue, Beckman, & Kadervak, 2007) which provides an area warranting additional research. Our results add to a growing body of research indicating that students' socio-emotional factors influence literacy outcomes. Furthermore, our findings highlight the bridge between developmental or educational research and effective educational practice by offering teachers concrete and applicable information to enhance children's academic self-beliefs and achievement. Prediction model. \u03c7 2 (23, N = 784) = 56.10, p =.00; CFI = .98; RMSEA = .04; SRMR = .02. Path coefficients of covariates (i.e., children's age, gender, IQ, ethnicity and socioeconomic status) on 3 rd grade reading and math and across-time consistency path coefficients of selfefficacy beliefs, reading, and math from one year prior are presented in Table 4. For simplicity of figure, correlations amongst exogenous variables were not included in figure. The coefficients above parentheses are unstandardized loadings; the coefficients in parentheses are standard errors for the model-estimated loadings. ** p < .01, *** p < .001.    Early Child Res Q. Author manuscript; available in PMC 2009 January 23. Early Child Res Q. Author manuscript; available in PMC 2009 January 23.",
+      "n_publication_ref": 12,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "The development of general competence and domain-specific competencies",
+      "journal": "European Journal of Personality",
+      "year": "2006",
+      "authors": "Mag Aken"
+    },
+    {
+      "title": "Selected factors influencing over-and under-achievement in young school-age children",
+      "journal": "Review of Educational Research",
+      "year": "1974",
+      "authors": "C A Asbury"
+    },
+    {
+      "title": "Social foundations of thought and action: A social cognitive theory",
+      "journal": "Prentice Hall",
+      "year": "1986",
+      "authors": "A Bandura"
+    },
+    {
+      "title": "Social cognitive theory of self-regulation",
+      "journal": "Organizational Behavior and Human Decision Processes",
+      "year": "1991",
+      "authors": "A Bandura"
+    },
+    {
+      "title": "Multifaceted impact of self-efficacy beliefs on academic functioning",
+      "journal": "Child Development",
+      "year": "1996",
+      "authors": "A Bandura; C Barbaranelli; G V Caprara; C Pastorelli"
+    },
+    {
+      "title": "Role of affective self-regulatory efficacy in diverse spheres of psychosocial functioning",
+      "journal": "Child Development",
+      "year": "2003",
+      "authors": "A Bandura; G V Caprara; C Barbaranelli; M Gerbino; C Pastorelli"
+    },
+    {
+      "title": "Self-regulatory mechanisms governing the impact of social comparison on complex decision making",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1991",
+      "authors": "A Bandura; F J Jourden"
+    },
+    {
+      "title": "Outliers in statistical data",
+      "journal": "Wiley",
+      "year": "1994",
+      "authors": "V Barnett; T Lewis"
+    },
+    {
+      "title": "On tests and indices for evaluating structural models",
+      "journal": "Personality and Individual Differences",
+      "year": "2007",
+      "authors": "P M Bentler"
+    },
+    {
+      "title": "Relating effortful control, executive function, and false belief understanding to emerging math and literacy ability in kindergarten",
+      "journal": "Child Development",
+      "year": "2007",
+      "authors": "C Blair; R P Razza"
+    },
+    {
+      "title": "Development of cognition, affect, and social relations: The Minnesota symposia on child psychology",
+      "journal": "Erlbaum",
+      "year": "1980",
+      "authors": "J H Block; J Block"
+    },
+    {
+      "title": "Universal Nonverbal Intelligence test examiner's manual. Itsaka, IL: Riverside Publishing",
+      "journal": "",
+      "year": "1998",
+      "authors": "B A Bracken; R S Mccallum"
+    },
+    {
+      "title": "Ego development and adolescent academic achievement",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2006",
+      "authors": "K Bursik; T A Martin"
+    },
+    {
+      "title": "The contribution of self-efficacy beliefs to dispositional shyness: On social-cognitive systems and the development of personality dispositions",
+      "journal": "Journal of Personality",
+      "year": "2003",
+      "authors": "G V Caprara; P Steca; D Cervone; D Artistico"
+    },
+    {
+      "title": "A \"common-language\" version of the California Q-Set for personality assessment",
+      "journal": "Psychological Assessment",
+      "year": "1992",
+      "authors": "A Caspi; J Block; J H Block; H Klopp"
+    },
+    {
+      "title": "Mood, self-efficacy, and performance standards: Lower moods induce higher standards for performance",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1994",
+      "authors": "D Cervone; D A Kopp; L Schaumann; W D Scott"
+    },
+    {
+      "title": "Self-regulation: Reminders and suggestions from personality science",
+      "journal": "Applied Psychology: An International Review",
+      "year": "2006",
+      "authors": "D Cervone; W G Shadel; R E Smith; M Fiori"
+    },
+    {
+      "title": "Stages of reading development. 2. Fort Worth, TX: Harcourt Brace",
+      "journal": "",
+      "year": "1996",
+      "authors": "J S Chall"
+    },
+    {
+      "title": "Primary-grade teachers' use of within-class ability grouping in reading",
+      "journal": "Journal of Educational Psychology",
+      "year": "2006",
+      "authors": "B F Chorzempa; S Graham"
+    },
+    {
+      "title": "I like to do it, I'm able, and I know I am: Longitudinal couplings between domain-specific achievement, self-concept, and interest",
+      "journal": "Child Development",
+      "year": "2007",
+      "authors": "Jja Denissen; N R Zarrett; J S Eccles"
+    },
+    {
+      "title": "Effortful control, attention and aggressive behavior in preschoolers at risk for conduct problems",
+      "journal": "Annals of the New York Academy of Sciences",
+      "year": "2003",
+      "authors": "T Dennis; L M Brotman"
+    },
+    {
+      "title": "School readiness and later achievement",
+      "journal": "Developmental Psychology",
+      "year": "2007",
+      "authors": "G J Duncan; C J Dowsett; A Claessens; K Magnuson; A C Huston; P Klebanov"
+    },
+    {
+      "title": "Motivational beliefs, values, and goals",
+      "journal": "Annual Review of Psychology",
+      "year": "2002",
+      "authors": "J S Eccles; A Wigfield"
+    },
+    {
+      "title": "Regulation, resiliency, and quality of social functioning",
+      "journal": "Self and Identity",
+      "year": "2002",
+      "authors": "N Eisenberg; T L Spinrad; A S Morris"
+    },
+    {
+      "title": "Relations among positive parenting, children's effortful control, and externalizing problems: A three-wave longitudinal study",
+      "journal": "Child Development",
+      "year": "2005",
+      "authors": "N Eisenberg; Q Zhou; T L Spinrad; C Valiente; R A Fabes; J Liew"
+    },
+    {
+      "title": "Investigation of dimensions of social-emotional classroom behavior and school readiness for low-income urban preschool children",
+      "journal": "School Psychology Review",
+      "year": "2007",
+      "authors": "J Fantuzzo; R Bulotsky-Shearer; P Mcdermott; C Mcwayne; P Staci; D Frye"
+    },
+    {
+      "title": "What schools expect young children to know and do: An analysis of kindergarten report cards",
+      "journal": "Elementary School Journal",
+      "year": "1989",
+      "authors": "E B Freeman; A J Hatch"
+    },
+    {
+      "title": "Sustained effects of the PATHS curriculum on the social and psychological adjustment of children in special education",
+      "journal": "Journal of Emotional and Behavioral Disorders",
+      "year": "2004",
+      "authors": "M T Greenberg; C Kam; C A Kusche"
+    },
+    {
+      "title": "Promoting emotional competence in school-aged children: The effects of the PATHS Curriculum",
+      "journal": "Development and Psychopathology",
+      "year": "1995",
+      "authors": "M T Greenberg; C A Kusche; E T Cook; J P Quamma"
+    },
+    {
+      "title": "The perceived competence scale for children",
+      "journal": "Child Development",
+      "year": "1982",
+      "authors": "S Harter"
+    },
+    {
+      "title": "Concurrent and predictive validity of the Universal Nonverbal Intelligence Test and the Leiter International Performance Scale -revised",
+      "journal": "Dissertation Abstracts International Section A: Humanities and Social Sciences",
+      "year": "2003",
+      "authors": "V S Hooper"
+    },
+    {
+      "title": "Sex differences in reading across cultures",
+      "journal": "Reading Research Quarterly",
+      "year": "1973",
+      "authors": "D D Johnson"
+    },
+    {
+      "title": "Literacy assessment and the future",
+      "journal": "Reading Teacher",
+      "year": "2005",
+      "authors": "P Johnston"
+    },
+    {
+      "title": "On the nature of emotion. The development of emotion regulation: Biological and behavioral considerations",
+      "journal": "",
+      "year": "",
+      "authors": "J Kagan"
+    },
+    {
+      "title": "You can't always get what you want: Effortful control and children's responses to undesirable gifts",
+      "journal": "Psychological Science",
+      "year": "2005",
+      "authors": "J E Kieras; R M Tobin; W G Graziano; M K Rothbart"
+    },
+    {
+      "title": "Effortful control as a personality characteristic of young children: Antecedents, correlates, and consequences",
+      "journal": "Journal of Personality",
+      "year": "2003",
+      "authors": "G Kochanska; A Knaack"
+    },
+    {
+      "title": "Inhibitory control as a contributor to conscience in childhood: From toddler to early school age",
+      "journal": "Child Development",
+      "year": "1997",
+      "authors": "G Kochanska; K Murray; K C Coy"
+    },
+    {
+      "title": "Effortful control in early childhood: Continuity and change, antecedents, and implications for social development",
+      "journal": "Developmental Psychology",
+      "year": "2000",
+      "authors": "G Kochanska; K T Murray; E T Harlan"
+    },
+    {
+      "title": "Inhibitory control in young children and its role in emerging internalization",
+      "journal": "Child Development",
+      "year": "1996",
+      "authors": "G Kochanska; K Murray; T Y Jacques; A L Koenig; K A Vandegeest"
+    },
+    {
+      "title": "Antecedents of self-regulation: A developmental perspective",
+      "journal": "Developmental Psychology",
+      "year": "1982",
+      "authors": "C B Kopp"
+    },
+    {
+      "title": "Role of resilient personality on lower achieving first grade students' current and future achievement",
+      "journal": "Journal of School Psychology",
+      "year": "2007",
+      "authors": "O Kwok; J N Hughes; W Luo"
+    },
+    {
+      "title": "Changing organism-context relations as a basic process of development: A developmental contextual perspective",
+      "journal": "Developmental Psychology",
+      "year": "1991",
+      "authors": "R M Lerner"
+    },
+    {
+      "title": "Ego-control and ego-resiliency: Generalization of self-report scales based on personality descriptions from acquaintances, clinicians, and the self",
+      "journal": "Journal of Research in Personality",
+      "year": "2005",
+      "authors": "T D Letzring; J Block; D C Funder"
+    },
+    {
+      "title": "Preschoolers' effortful control and negative emotionality, immediate reactions to disappointment, and quality of social functioning",
+      "journal": "Journal of Experimental Child Psychology",
+      "year": "2004",
+      "authors": "J Liew; N Eisenberg; M Reiser"
+    },
+    {
+      "title": "Statistical Analysis with Missing Data",
+      "journal": "J. Wiley & Sons",
+      "year": "1987",
+      "authors": "Rja Little; D B Rubin"
+    },
+    {
+      "title": "Prediction of school failure from third-grade data",
+      "journal": "Educational and Psychological Measurement",
+      "year": "1978",
+      "authors": "N Lloyd"
+    },
+    {
+      "title": "Effects of two-group and whole-class teaching on regrouped elementary students' mathematics achievement",
+      "journal": "American Educational Research Journal",
+      "year": "1993",
+      "authors": "D A Mason; T L Good"
+    },
+    {
+      "title": "Links between behavioral regulation and preschoolers' literacy, vocabulary, and math skills",
+      "journal": "Developmental Psychology",
+      "year": "2007",
+      "authors": "M M Mcclelland; C E Cameron; C M Connor; C L Farris; A M Jewkes; F J Morrison"
+    },
+    {
+      "title": "Ability grouping across kindergarten using an early childhood longitudinal study",
+      "journal": "Journal of Educational Research",
+      "year": "2006",
+      "authors": "D Mccoach; A A O'connell; H Levitt"
+    },
+    {
+      "title": "Principles and practice in reporting structural equation analyses",
+      "journal": "Psychological Methods",
+      "year": "2002",
+      "authors": "R P Mcdonald; M R Ho"
+    },
+    {
+      "title": "Assessing literacy, motivation, and orientation",
+      "journal": "Plural Publishing",
+      "year": "2007",
+      "authors": "E M Mctigue; A R Beckman; J N Kadaravek"
+    },
+    {
+      "title": "Academic resilience and reading: Building successful readers. The Reading Teacher",
+      "journal": "",
+      "year": "",
+      "authors": "E M Mctigue; E K Washburn; J Liew"
+    },
+    {
+      "title": "Relation of self-efficacy beliefs to academic outcomes: A metaanalytic investigation",
+      "journal": "Journal of Counseling Psychology",
+      "year": "1991",
+      "authors": "K D Multon; S D Brown; R W Lent"
+    },
+    {
+      "title": "",
+      "journal": "Riverside Publishing",
+      "year": "2005",
+      "authors": "A F Mu\u00f1oz-Sandoval; R W Woodcock; K S Mcgrew; N Mather;  Bater\u00eda;  Woodcock-Mu\u00f1oz"
+    },
+    {
+      "title": "Effortful control: Factor structure and relation to externalizing and internalizing behaviors",
+      "journal": "Journal of Abnormal Child Psychology",
+      "year": "2002",
+      "authors": "K T Murray; G Kochanska"
+    },
+    {
+      "title": "Mplus: The comprehensive modeling program for applied researchers -users guide",
+      "journal": "Muth\u00e9n & Muth\u00e9n",
+      "year": "2004",
+      "authors": "L Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Self-efficacy beliefs in academic settings",
+      "journal": "Review of Educational Research",
+      "year": "1996",
+      "authors": "F Pajares"
+    },
+    {
+      "title": "Self-efficacy during childhood and adolescence: Implications for teachers and parents",
+      "journal": "",
+      "year": "2005",
+      "authors": "F Pajares"
+    },
+    {
+      "title": "Classroom and individual differences in early adolescents' motivation and self-regulated learning",
+      "journal": "Journal of Early Adolescence",
+      "year": "1994",
+      "authors": "P R Pintrich; R W Roeser; De Groot; E V "
+    },
+    {
+      "title": "Development of short and very short forms of the Children's Behavior Questionnaire",
+      "journal": "Journal of Personality Assessment",
+      "year": "2006",
+      "authors": "S P Putnam; M K Rothbart"
+    },
+    {
+      "title": "Ready to enter: What research tells policymakers about strategies to promote social and emotional school readiness among three-and four-year-old children",
+      "journal": "",
+      "year": "2002",
+      "authors": "C C Raver; J Knitzer"
+    },
+    {
+      "title": "The contribution of the responsive classroom approach on children's academic achievement: Results from a three year longitudinal study",
+      "journal": "Journal of School Psychology",
+      "year": "2007",
+      "authors": "S E Rimm-Kaufman; Fan X Chiu; Y You; W "
+    },
+    {
+      "title": "Temperament and social behavior in childhood",
+      "journal": "Merrill-Palmer Quarterly",
+      "year": "1994",
+      "authors": "M K Rothbart; S A Ahadi; K L Hershey"
+    },
+    {
+      "title": "Social, emotional, and personality development",
+      "journal": "Series",
+      "year": "1998",
+      "authors": "M K Rothbart; J E Bates; W Temperament ; Damon; N Eisenberg"
+    },
+    {
+      "title": "Social, emotional, and personality development",
+      "journal": "Wiley",
+      "year": "2006",
+      "authors": "M K Rothbart; J E Bates; W Temperament ; Damon; R M Lerner; N Eisenberg"
+    },
+    {
+      "title": "Development of individual differences in temperament",
+      "journal": "",
+      "year": "1981",
+      "authors": "M K Rothbart; D Derryberry"
+    },
+    {
+      "title": "Scaled and adjusted restricted tests in multi-sample analysis of moment structures",
+      "journal": "Kluwer Academic Publishers",
+      "year": "2000",
+      "authors": "A Satorra; Rdh Heijmans; Dsg Pollock; A Satorra"
+    },
+    {
+      "title": "Effects of whole class, ability grouped, and individualized instruction on mathematics achievement",
+      "journal": "American Educational Research Journal",
+      "year": "1985",
+      "authors": "R E Slavin; N L Karweit"
+    },
+    {
+      "title": "Reading by nine: What will it take?",
+      "journal": "Peabody Journal of Education",
+      "year": "1998",
+      "authors": "R E Slavin"
+    },
+    {
+      "title": "Off track: When poor readers become learning disabled",
+      "journal": "Westview Press",
+      "year": "1997",
+      "authors": "L C Spear-Swerling; R J Sternberg"
+    },
+    {
+      "title": "Intelligence, cognitive skills, and early reading progress",
+      "journal": "Reading Research Quarterly",
+      "year": "1984",
+      "authors": "K E Stanovich; A E Cunningham; D J Feeman"
+    },
+    {
+      "title": "Effort on homework in grades 5-9: Development, motivational antecedents, and the association with effort on classwork",
+      "journal": "Child Development",
+      "year": "2006",
+      "authors": "U Trautwein; O Ludtke; C Kastens; O Koller"
+    },
+    {
+      "title": "Children's effortful control and academic competence",
+      "journal": "Merrill-Palmer Quarterly",
+      "year": "2007",
+      "authors": "C Valiente; K Lemery-Chalfant; K S Castro"
+    },
+    {
+      "title": "Academic and social motivational influences on students' academic performance",
+      "journal": "Educational Psychology Review",
+      "year": "1998",
+      "authors": "K R Wentzel; A Wigfield"
+    },
+    {
+      "title": "Structural equation models with non-normal variables: Problems and remedies",
+      "journal": "",
+      "year": "1995",
+      "authors": "S G West; J F Finch; P J Curran"
+    },
+    {
+      "title": "Expectancy-value theory of achievement motivation",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2000",
+      "authors": "A Wigfield; J S Eccles"
+    },
+    {
+      "title": "Social, emotional, and personality development",
+      "journal": "Wiley",
+      "year": "2006",
+      "authors": "A Wigfield; J S Eccles; U Schiefele; R W Roeser; P Davis-Kean; W Damon; R M Lerner; N Eisenberg"
+    },
+    {
+      "title": "WJ-R Tests of Cognitive Ability",
+      "journal": "Riverside Publishing",
+      "year": "1989",
+      "authors": "R W Woodcock; M B Johnson"
+    },
+    {
+      "title": "",
+      "journal": "Riverside Publishing",
+      "year": "2001",
+      "authors": "R W Woodcock; K S Mcgrew; N Mather;  Woodcock-Johnson"
+    },
+    {
+      "title": "Pruebas de aprovechamiento-Revisada",
+      "journal": "",
+      "year": "1996",
+      "authors": "R W Woodcock; Af Bater\u00eda Mu\u00f1oz-Sandoval;  Woodcock-Munoz"
+    },
+    {
+      "title": "Self-motivation for academic attainment: The role of selfefficacy beliefs and personal goal setting",
+      "journal": "American Educational Research Journal",
+      "year": "1992",
+      "authors": "B J Zimmerman; A Banudra; M Martinez-Pons"
+    },
+    {
+      "title": "Building academic success on social and emotional learning: What does the research say?",
+      "journal": "Teachers College Press",
+      "year": "2004",
+      "authors": "J E Zins; M R Bloodworth; R P Weissberg; H J Walberg; J E Zins; R P Weissberg; M C Wang; H J Walberg"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Figure 1.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Means and Standard Deviations of Major Variables for Total Sample and by GenderNote: W1 = 1st grade, W2 = 1 year after W1, W3 = 2 years after W1.Early Child Res Q. Author manuscript; available in PMC 2009 January 23.",
+      "figure_data": "Girls (n = 356-293)SD15.1220.34.92.85.92.8518.2117.1213.2014.0812.2812.18Mean30.2333.613.443.453.443.4598.7898.9197.31100.5499.98100.75Boys (n = 397-328)SD19.1024.40.93.90.54.4517.6016.8514.7714.4813.3112.58Mean31.1436.543.233.313.443.4794.4195.0493.85100.96100.78100.52Total Sample (N = 733-621)Mean SD30.70 17.3135.13 22.573.33 .393.38 .883.43 .543.48 .4596.47 18.0196.88 17.0895.45 14.16100.76 14.28100.40 12.83100.62 12.39W1W2W1W2W1W2W1W2W3W1W2W3VariablesInhibitory controlEgo-resiliencyAcademic self-efficacyReadingMath"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Relations between Age and IQ with Major Variables",
+      "figure_data": "Variables"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Zero-order Correlations among Major Variables",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Path Coefficients for Covariates and for Consistency Paths in the Hypothesized Models",
+      "figure_data": "Model PathStandardized CoefficientStandard ErrorAge \u2192 W3 Reading Age \u2192 W3 Math\u22123.84 ** \u2212.211.39 2.62Gender \u2192 W3 Reading Gender \u2192 W3 Math\u2212.22 \u2212.48.65 .92IQ \u2192 W3 Reading IQ \u2192 W3 Math\u2212.003 .04.03 .03Ethnicity \u2192 W3 Reading Ethnicity \u2192 W3 Math.94 \u2212.03.37 .40SES \u2192 W3 Reading SES \u2192 W3 Math\u2212.28 \u2212.04.63 1.31W1 Efficacy \u2192 W2 Efficacy W2 Reading \u2192 W3 Reading W2 Math \u2192 W3 Math.27 *** .54 *** .85 ***.04 .04 .20+ Note: p \u2264 .10,* p \u2264 .05,"
+    }
+  ],
+  "doi": "10.1016/j.ecresq.2008.07.003"
+}

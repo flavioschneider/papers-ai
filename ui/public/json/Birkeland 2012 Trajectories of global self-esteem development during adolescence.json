@@ -1,0 +1,561 @@
+{
+  "title": "Trajectories of global self-esteem development during adolescence",
+  "abstract": "Based on data from a 17-year longitudinal study of 1083 adolescents, from the ages of 13 to 30 years, the average development of self-reported global self-esteem was found to be high and stable during adolescence. However, there is considerable inter-individual variance in baseline and development of global self-esteem. This study used latent growth mixture modelling to characterize three trajectory classes of global self esteem between ages 14 and 23 years: consistently high, chronically low, and U-shaped. The respondents in three classes showed statistically significant different levels of life satisfaction, depressive mood, somatic complaints and insomnia at age 30. Attempts to predict trajectories from age 13 were only partially successful, with body image, relations with parents and frequency of physical activity as the significant predictors.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Inter-individual differences in development of global self-esteem Huang (2010) proposed that global self-esteem may change when people are going through changes in their lives, and that global self-esteem may increase when people succeed in confronting the developmental challenges of maturation and environmental changes in adolescence. According to the self-determination theory (Ryan & Brown, 2006), genuine and true global self-esteem develops as a result of the satisfaction of three fundamental human needs for autonomy, competence, and relatedness. Need satisfaction is dependent on a supportive environment that provides the appropriate opportunities. It is likely that for most adolescents, the support provided by significant others, in particular their families, is quite high and stable during adolescence. Thus, their global self-esteem may also be high and stable during this age period (Huang, 2010). However, some individuals may not receive the support they need, thereby disabling them to confront developmental challenges in an appropriate way. These adolescents may experience a trajectory of decreasing global self-esteem into adulthood. Block and Robins (1993) noted that although they found no age differences in the mean levels of global self-esteem during adolescence, about 60% of the participants showed either an increase or a decrease in global self-esteem of at least one standard deviation. Baldwin and Hoffman (2002) used growth curve modelling to estimate intra-individual changes in global self-esteem from early adolescence (age 11 years) to young adulthood (age 21 years). They found that the mean level of global self-esteem changed in a non-linear way during adolescence, and that these changes varied significantly among individuals. Furthermore, a three-wave longitudinal study focusing on young adulthood (ages 23-28 years) found few normative changes but consistent evidence of individual differences in these changes (Donnellan, Trzesniewski, Conger, & Conger, 2007). This indicates that there are considerable individual differences in development of self-esteem during adolescence. Hirsch and DuBois (1991) analyzed longitudinal data from 128 American adolescents in grades 7-9 (aged 12-14 years). Global self-esteem was measured at four points in time within two years, and cluster analysis extracted a four-class solution. They designated the classes \"consistently high\" (35%), \"chronically low\" (13%), \"steeply declining\" (21%), and \"small increase\" (31%). Zimmerman, Copeland, Shope, and Dielman (1997) replicated this study with 1160 American adolescents from the sixth to the tenth grades (aged 11-15) and identified four trajectories: \"consistently high\" (48%), \"moderate and rising\" (19%), \"steadily decreasing\" (20%), and \"consistently low\" (13%). In the study by Deihl, Vicary, and Deike (1997) of American adolescents in grades 7-10 (aged 12-15 years), three distinct trajectories were identified: \"consistently high\" (47%), \"small increase\" (37%), and \"chronically low\" (16%). These studies examined relatively short time periods and identified changes over only 2-4 years during early adolescence. These studies are all cluster analysis, which divides data sets into multiple partitions either by maximizing between-group variance or by minimizing within-group variance (similar to factor analysis).",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Early correlates of global self-esteem development among adolescents",
+      "text": "If there are different trajectories of global self-esteem, it should be possible to distinguish between them on phenomena such as body image and social relations. Perception of physical appearance or body image is one of the strongest sources of self-esteem in adolescence (Donnellan et al., 2007;Harter, 1999). Body dissatisfaction and negative global self-esteem seem to be strongly related among nearly all groups of adolescents (van den Berg, Mond, Eisenberg, Ackard, & Neumark-Sztainer, 2010).\nParticipation in leisure activities such as physical activity may also influence self-esteem development through perceptions of physical competence and physical acceptance (Sonstroem & Morgan, 1989). According to several reviews, high global self-esteem seems to be related to participation in physical activity (Biddle, Whitehead, O'Donovan, & Nevill, 2005;Seefeldt, Malina, & Clark, 2002;Van der Horst, Paw, Twisk, & Van Mechelen, 2007). Furthermore, positive global self-esteem seems to be an outcome of physical activity (Schmalz, Deane, Birch, & Davison, 2007).\nYet another important source of global self-esteem is healthy social relations (Leary et al., 1995). Having close supportive relations with parents seems to be especially important, but also relations with peers seem to have positive effects on global self-esteem (Laible, Carlo, & Roesch, 2004).",
+      "n_publication_ref": 10,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Late correlates of global self-esteem development among adolescents",
+      "text": "Regarding outcomes of global self-esteem, Baumeister et al. (2003) and Swann, Chang-Schneider, and McClarty (2007) have made a convincing case that global self-esteem is associated with general happiness-related measures such as life satisfaction and depressive symptoms, but to a lesser degree with specific adaptive behaviors. Global self-esteem and life satisfaction show correlations in the range of 0.40-0.60 (Gilman & Huebner, 2003). Another global measure of psychological adjustment is depressive symptoms. In a study of two samples of adolescents between the ages of 15 and 21 years and 18 and 21 years, low global self-esteem predicted subsequent levels of depression, but depression did not predict subsequent levels of global self-esteem (Orth, Robins, & Roberts, 2008).\nLongitudinal studies have found global self-esteem to be predictive of somatic complaints among adolescents (Poikolainen, Aalto-Setala, Marttunen, Tuulio-Henriksson, & Lonnqvist, 2000). Low self-esteem may also be associated with other signs of psychological distress, for example insomnia. A study found that people with low self-esteem were more susceptible to insomnia after experiencing abusive supervision in the workplace (Rafferty, Restubog, & Jimmieson, 2010).\nPrevious studies have suggested that males report higher levels of global self-esteem than females, and that girls to a greater extent than boys report decrease and fluctuation in self-esteem (Baldwin & Hoffmann, 2002;Kling, Hyde, Showers, & Buswell, 1999). Thus, there may be gender differences in the development of global self-esteem during adolescence. Socioeconomic status (SES) may act as an indicator of status within social groups and correspond with levels of global self-esteem (Twenge & Campbell, 2002). However, socioeconomic status may not have the same meaning or salience as a source of global self-esteem in every group at every age. Therefore, SES may be associated with different levels and different development of global self-esteem.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Research questions and hypotheses",
+      "text": "The main aims of the present study are to examine and describe development in global self-esteem by examining: 1) How does average global self-esteem change between ages 14 and 23 years? 2) What is the most succinct way of describing trajectories of global self-esteem between ages 14 and 23 years? 3) To what extent does development in global self-esteem relate to socio-economic status, life satisfaction, depressive mood, somatic complaints and insomnia at age 30? 4) To what extent do gender, levels of socio-economic status, body image, and relations with parents and peers at age 13 predict trajectories of global self-esteem development from age 14-23?",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    { "heading": "Methods", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Design and sample",
+      "text": "The data used in this study were taken from the Norwegian Longitudinal Health Behaviour Study (NLHB). The 1195 seventh-graders at 22 randomly selected secondary schools in the county of Hordaland in western Norway were invited to participate during the autumn of 1990. Written informed consent was obtained from 927 students and their parents. This represented 78% of the total sample. The baseline sample was followed up after one, two, three, five, six, eight, 10, and 17 years. In this study, the data collected in 1990, 1991, 1992, 1995, 1998, 2000, and 2007 were used, and the mean ages were 13.3, 14.3, 15.3, 18.3, 21.3, 23.3 and 30.3. The data were collected through self-administered questionnaires delivered at school during the first years of the study, and in later years, by ordinary mail at the same time of year as the previous data collections. During the first data collections done at school, any new pupils in the classes were invited to participate. The total number of pupils that participated at least once was 1242.\nStrict procedures were followed to ensure confidentiality and the Norwegian Data Inspectorate approved the study.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "Cronbach's a for all scales at all time points is shown in Table 1.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Global self-esteem",
+      "text": "Global self-esteem was measured with a revised version of Rosenberg's Self-Esteem Scale called the Global Negative Self-Evaluation Scale. This scale is comparable to well-known scales of global self-esteem, such as Rosenberg's and Harter's scales (Alsaker & Olweus,1986). The six items are: \"At times I think I am no good at all\", \"I feel I do not have much to be proud of\", \"I certainly feel useless at times\", \"All in all, I am inclined to feel that I am a failure\", \"I would like to change many things about myself\", and \"I have often wanted to be someone else\". The response categories ranged from \"applies exactly\" (1) to \"does not apply at all\" (6).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Socio-economic status",
+      "text": "Parent's socio-economic status was measured by the fathers' reports of their yearly income in 1997. Two indicators of SES at age 30 years were used: the participant's self-reported family income in the previous year and the number of years of education undertaken after secondary school.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Body image",
+      "text": "Four items comprised the body image scale developed by Alsaker (1992). The items are: \"I would like to change a good deal about my body\"; \"By and large, I am satisfied with my looks\"; \"I would like to change a good deal about my looks\", and \"By and large, I am satisfied with my body\". The response categories ranged from \"applies exactly\" (1) to \"does not apply at all\" (6). Two of the items were recoded, so that high scores indicate a positive body image.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Leisure-time physical activity",
+      "text": "Leisure-time physical activity at age 13 years was measured by the number of times per week each participant performed activities that caused them to sweat or become breathless: \"Outside school/work hours, how often do you do sports or exercise until you are out of breath or sweating?\" The seven response categories were: \"every day\" (7.0), \"4-6 times per week\" (5.0), \"2-3 times per week\" (2.5), \"once a week\" (1.0), \"1-3 times per month\" (.5), \"less than once a month\" (0), and \"never\" (0). The recoded values express the real frequency per week. The frequency of sweat-inducing physical activity correlates well with maximal oxygen uptake, which is a widely used measure of physical fitness (Siconolfi, Lasater, Snow, & Carleton, 1985). A test-retest study of this question showed an inter-rater reliability ranging from .60 to .80 in different age and gender groups (Vuori, 2005). ",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Relations with parents",
+      "text": "Relation with parents was measured by the Parent-adolescent relationship scale (Alsaker, Dundas, & Olweus, 1991, April). The items were: \"My mother and I understand each other well\", \"My father and I understand each other well\", \"My parents praise and encourage me\", \"There is good cohesiveness in my family\", and \"I enjoy myself when I am together with my parents\". The response categories for three of the items ranged from \"applies exactly\" (6) to \"does not apply at all\" (1), and for the remaining two ranged from \"very often\" (6) to \"seldom or never\" (1).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Relations with peers",
+      "text": "Relation with peers was measured by five items: \"I am doing fine with others at my age\", \"My peers seem to like me\", \"Many of my classmates want to be together with me in the breaks\", \"Many of my classmates want to be my friend\" and \"I think most of my classmates like me\". The six response categories ranged from \"applies exactly\" (6) to \"does not apply at all\" (1).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Life satisfaction",
+      "text": "Life satisfaction at age 30 was measured using Diener's Satisfaction with Life Scale (Diener, Emmons, Larsen, & Griffin, 1985). The Satisfaction with Life Scale is considered a reliable and relatively valid scale for measuring well-being and life satisfaction in Western countries such as Norway (Vitters\u00f8, 2009). The five items are: \"In most ways, my life is close to my ideal\", \"The conditions of my life are excellent\", \"I am satisfied with my life\", \"So far, I have gotten the important things I want in life\", and \"If I could live my life over, I would change almost nothing\". The seven response categories ranged from \"strongly disagree\" (1) to \"strongly agree\" (7).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Depressed mood",
+      "text": "A seven-item inventory developed by Alsaker et al. (1991) was applied to measure general depressed mood at age 13 and 30 years. The participants were asked to indicate how much they agreed with the following items: \"I often feel depressed without knowing why\"; \"Sometimes I think everything is so hopeless that I don't feel like doing anything\"; \"I don't think I have anything to look forward to\"; \"Sometimes I am just so depressed that I feel like staying in bed for the whole day\"; \"I am often sad without seeing any reason for it\"; \"I think my life is mostly miserable\"; and \"Sometimes I think my life is not worth living\". The six response categories ranged from \"applies exactly\" (6) to \"does not apply at all\" (1). The correlation between this scale and the Center for Epidemiological Studies Depression Scale (CES-D) measured in 1996 was .72, and refined analysis with latent variables revealed a correlation of .82 (Holsen, Kraft, & Vitters\u00f8, 2000).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Insomnia",
+      "text": "Insomnia was measured by the Bergen insomnia scale, which has shown good psychometric properties (Pallesen et al., 2008). The items are: \"During the past month, how many days a week has it taken you more than 30 min to fall asleep after the light was switched off?\", \"During the past month, how many days a week have you been awake for more than 30 min between periods of sleep?\", \"During the past month, how many days a week have you awakened more than 30 min earlier than you wished without managing to fall asleep again?\", \"During the past month, how many days a week have you felt that you have not had enough rest after waking up?\", \"During the past month, how many days a week have you been so sleepy/ tired that it has affected you at school/work or in your private life?\" and \"During the past month, how many days a week have you been dissatisfied with your sleep?\".",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Somatic complaints",
+      "text": "Somatic complaints at age 30 years were measured with a checklist that assesses the occurrence of subjective and psychological health complaints, namely headache, stomach-ache, back pain, pain in arms or legs, nausea, bad appetite, colds, fatigue, dizziness, diarrhoea, and sleeping difficulties. The respondents were asked to indicate how frequently during the preceding three months they had experienced each of the symptoms. The response categories were: very often (2), sometimes (1), and rarely or never (0). The symptoms were summed to a single \"somatic complaints\" variable. Studies of similar checklists have shown acceptable validity and reliability (Haugland & Wold, 2001).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Attrition analysis and drop-out analysis",
+      "text": "Of the 1242 participants, 157 did not respond or provided very incomplete answers on global self-esteem, and were excluded. Therefore, the total number of participants (N) in this study was 1083. More boys than girls dropped out through the years, but as the sample initially had more boys than girls, the sample consisted of 53% women in 2007.\nAnalysis of the variance in global self-esteem at ages 14, 15, 18, 21, and 23 years between those who dropped out and those who still participated when they were 30 years old showed no significant difference between those who dropped out and those who stayed in the study.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Data analysis",
+      "text": "The data analysis and modelling were performed with PASW Statistics 17.0 and Mplus Version 5.2 (Muth\u00e9n & Muth\u00e9n, 2007). Because the distributions of global self-esteem showed skewness and high kurtosis, a maximum likelihood estimation with robust standard errors was used.\nMplus 5.2 utilizes full information maximum likelihood (FIML) estimation under the assumption of data missing at random (MAR) with robust standard errors, which is widely regarded as appropriate in this context (Enders, 2001).\nFirst, a conventional latent growth curve of global self-esteem from early adolescence (14 years) to young adulthood (23 years) was identified. Latent growth curve modelling (LGM) may be used to model quantitative individual differences in continuous developmental change in a population. LGM assumes that individual differences in development can be accurately described by continuous variability of trajectory properties as intercepts, slopes, and quadratic slopes in the population.\nThe individual differences in self-esteem may also be described by two or more trajectories that place individuals who resemble each other in the same subgroup. Cluster analysis and newer methods such as latent class growth analysis (LCGA) and growth mixture modelling (GMM) may be used for these purposes. LCGA estimates mean growth curves of a given number of classes, where no individual variation around the mean growth curves is allowed. To allow for more flexibility, Muth\u00e9n and Muth\u00e9n (2000) proposed GMM, which combined features of LGM and LCGA. GMM estimates mean growth curves for each class and permits individual variation around these growth curves. Cluster analysis, LCGA and GMM have all been criticized for being a structure-imposing rather than structure-seeking procedure and because the extracted sub-groups are not necessarily discrete (Beauchaine & Marsh, 2006). Heterogeneity in the sample does not necessarily indicate presence of sub-populations (Bauer, 2007). In GMM, it is assumed that 1) the observed distribution is non-normal, and consists of a finite mixture of unobserved non-identical distributions, and 2) the unobserved distribution has a known distributional form (e.g. normal distribution). If either or both these assumptions are not met, the number of classes may be over-extracted. These assumptions are important to keep in mind when searching for true and qualitatively different classes of development. However, there are different ways to interpret the extracted classes. The different classes may also be viewed as approximations of distributions, as a way to depict and describe some of the most typical developmental trajectories within a continuum without stating that these are qualitatively different classes (Johnson, Hicks, McGue, & Iacono, 2007). These models may be seen as summaries of the data with classes that do not have to correspond to psychologically meaningful categories that are qualitatively different. It is likely that developmental trajectories of global self-esteem are fairly continuous in nature, and that the boundaries between them are fuzzy. The use of GMM to detect developmental groupings is in this case a systematic approach to explore the nature and extent of heterogeneity in developmental patterns experienced by the majority of people. It is a comprehensible way to sort various developmental experiences into different types, which may shed new light on typical trajectories and predictors and consequences of them. In the present study, GMM is used to describe distinct developmental patterns in global self-esteem from age 14-23 years. The validity and number of the trajectory classes were determined by examining the available indicators of goodness of fit. Furthermore, each individual was assigned to the latent class with the developmental profile that best fitted their trajectory.\nThe utility of these classes was then tested by examining the relationships between class memberships and relevant correlates at age 13 and 30. This was done by exporting the latent class memberships of the trajectories of global self-esteem age 14-23 years to PASW Statistics 17.0, and using class membership as the independent variable in the analysis of the covariances of the late correlate variables: family income at age 30, years of education after secondary school at age 30, life satisfaction, depressed mood, somatic complaints and insomnia.\nFinally, a discriminant function analysis with socio-economic status, body image, and relations with parents and peers at age 13 as predictors was conducted to predict membership in the three trajectory classes.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Descriptive statistics",
+      "text": "The number of respondents, mean scores, standard deviations and correlations for all the involved measures is shown in Table 1. This table shows that the mean global self-esteem increased during adolescence. Furthermore, as shown in Table 1, there were moderate to high correlations between the global self-esteem measured at the different time points, and there were small to moderate correlations between global self-esteem during adolescence and the other variables, except father's income and the young adult's years of education at age 30.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Distributions of self-esteem over time",
+      "text": "A distribution that shows non-normality (skewness), a small number of outliers and systematic heteroscedasticity in individual growth curves, indicates that more than one distribution is likely (Stoolmiller, Kim, & Capaldi, 2005). Examination of plots and descriptives with Levene's test indicates that the conditions depart from the standard linear growth curve structure and are consistent with population heterogeneity, which indicates that latent trajectory classes of development of self-esteem may be a fruitful way to describe the individual differences.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Estimation of the growth curve model (LGM)",
+      "text": "First, a conventional single-class latent growth curve for the development of global self-esteem from age 14 years-23 years, describing the normative developmental trajectory, was identified. Both linear and quadratic models were tested. A quadratic model fitted the data best, with a comparative fit index (CFI) of 0.958 and root mean square error of approximation (RMSEA) of 0.074. Including gender in the model did not improve the goodness of fit. The observed mean global self-esteem in boys and girls was fairly stable, with a slight increase between ages 14 and 23 years. The interclass correlation (ICC) global self-esteem within respondents was 0.522, which means that the respondents, on average, report relatively stable global self-esteem.\nHowever, as shown in Table 3, the random estimates for the linear and quadratic slopes in the one-class conventional growth curve model were substantial, meaning that the one-class model was not sufficient to explain the variance in development and that the stability of development varied considerably between individuals.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Estimation of the GMM",
+      "text": "The optimal number of latent classes was identified and the best possible model was selected according to the recommendations of Jung and Wickrama (2008) and Ram and Grimm (2009). The fitting procedure was repeated at least 200 times with different sets of random starting values and 50 final optimizations. The number of initial stage iterations was 10. Because of computational difficulties, the variances of the quadratic slopes were constrained to zero. The variances in the intercepts and linear slopes were unconstrained.\nThe models were then compared using relative fit information criteria: Bayesian information criterion (BIC), Akaike's information criterion (AIC), sample-size adjusted BIC. Table 2 shows that all these indicators decreased steadily as classes were added and two-, three-, four-, five-, and six-class solutions were tested. As shown in Table 2, the entropy was above 0.80 for the all the solutions, and the 2-and 3-class solutions provided the highest values.\nFurthermore, the models were compared using the Lo-Mendell-Rubin likelihood ratio test (LMR-LRT). Consistent with the recommendations of Tofighi and Enders (2008), the classes were reordered in such a way that the largest class was the last class, if possible. As shown in Table 2, LMR-LRT indicated that the three-class solution seemed to be the best and most succinct solution.\nTo validate the selection of number of classes, other sets of models with fewer and more restrictions (e.g., LCGA) were tested, with similar results. Furthermore, it has been argued that no classes should contain fewer than 1% of the total participants (Jung & Wickrama, 2008) and as the smallest class contains 5.5% of the population, the three-class solution fits this criterion. Table 3 shows the sizes and specifications of the one-and three-class solutions. The last and very important criterion in selecting a model is whether it makes theoretical sense and shows the classes to have qualitatively different trajectories. Because the three classes are indeed different, both at the baseline level of global self-esteem and in their trajectories, this criterion is considered to be fulfilled. Fig. 1 show the observed mean developments of global self-esteem from 14 years to 23 years for the three classes. 87% of the sample fitted best a consistently high and somewhat increasing trajectory of global self-esteem, 5.5% fitted best a chronically low and somewhat decreasing trajectory of global self-esteem, whereas 7.5% fitted best a U-shaped trajectory which seems to have a turning point at age 18.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Class differences in correlates at age 30",
+      "text": "Table 4 shows the demographic profiles and correlates of the three classes at age 30. No significant differences in socioeconomic indicators at age 30 were found. The consistently high class reported significantly higher levels of life satisfaction and lower levels of somatic complaints than the chronically low and the U-shaped classes. Regarding depressed mood, all classes scored significantly differently from each other, with the consistently high class reporting the lowest and the Ushaped class reporting the highest levels of depressed mood. Finally, the chronically low class reported significantly higher levels of insomnia than both the consistently high and the U-shaped classes.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Discriminant function analysis of correlates at age 13",
+      "text": "A discriminant function analysis was conducted to predict membership in the three trajectory classes. Predictor variables were gender, father's income, body image, frequency of physical activity, and relations with friends and parents at age 13. Significant mean differences were observed for body image, relations with parents and frequency of physical activity (see Table 5). Box M indicates that the assumption of equality of covariance matrices was not violated. Two discriminative functions were computed, where the first revealed a significant association between class membership and body image, relations with parents and frequency of physical activity, accounting for 8.5% of between-group variability. The second discriminative function did not show significant association with the predictors. The significant function is displayed in Table 6 and, as can be seen, the most powerful discriminators are body image and relations with parents. This function successfully discriminated between the chronically low class and the other two, but not between the consistently high and the U-shaped classes. The cross-validated classification showed that overall, 88.8% were correctly classified.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    { "heading": "Discussion", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Average development of global self-esteem",
+      "text": "Consistent with earlier studies (Baldwin & Hoffmann, 2002;Donnellan et al., 2007;Robins, Trzesniewski, Tracy, Gosling, & Potter, 2002), the present study indicates that the mean level of global self-esteem is quite stable and increases slowly and steadily from age 14 years to age 23 years. Furthermore, the non-linear growth curve model fitted the data better than the linear growth curve model, which is consistent with the findings of Baldwin and Hoffmann (2002).",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Consistently high global self-esteem",
+      "text": "Approximately 87% of the adolescents in this study reported high global self-esteem throughout adolescence, between the ages of 14 and 23 years. Previous studies have also identified relatively large classes of adolescents with stable high global self-esteem throughout adolescence, ranging from 35% to 48% (Deihl et al., 1997;Hirsch & DuBois, 1991;Zimmerman et al., 1997). However, these classes are still considerably smaller than the 87% found in the present study. The main reason for this may be that in the earlier studies, global self-esteem was measured over a time-span of 2-4 years and only in early adolescence, from about 11 to 15 years of age. The present study had a broader scope, and because its duration was longer and the number of measurements higher, certain differences from the other studies should be expected.\nThat 87% follow a consistently high trajectory of global self-esteem may indicate that most adolescents experience that their psychological needs postulated by self-determination theory (Ryan & Brown, 2006) are satisfied, and that they master the developmental challenges they are confronting.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Chronically low global self-esteem",
+      "text": "Approximately 6% of the sample consistently reported low levels of global self-esteem. Other trajectory studies have also identified a class with a generally low level of global self-esteem. In those studies, the size of this class was 12.5% (Hirsch & DuBois, 1991) 13% (Zimmerman et al., 1997) or 16% (Deihl et al., 1997). As already noted, the discrepancies may be attributable to the different age periods studied, different numbers of classes ascribed, and different methods used. These 6% of the sample may not get their needs satisfied and/or do not have the resources and support to master the developmental challenges in this age period.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "U-shaped trajectory of global self-esteem",
+      "text": "Approximately 7% of the sample reported changes in their global self-esteem, demonstrating a U-shaped trajectory of global self-esteem during adolescence. Because of the short time-spans evaluated, none of the previous studies of global selfesteem development in sub-groups had the opportunity to identify a U-shaped developmental trajectory. These individuals may have experienced a period of lower support, need satisfaction and coping during adolescence. This class has their lowest level of self-esteem in late adolescence around age 18. Previous findings regarding drop in self-esteem in adolescence appear to be particularly robust, but there is a lack of consensus about at what age the lowest scores are reported. The present study replicated the findings of Robins et al. (2002), which provided data on self-esteem from childhood through adulthood and found declining scores during adolescence with the lowest mean score reported in the group of young adults (ages 18-22), followed by a gradual rise in adulthood. It is possible that this class of adolescents may experience increasing problems threatening their self esteem at high school (12-5), and even more increasing problems at secondary high school (16)(17)(18)(19). At 19, about half of Norwegian adolescents quit school and start working, as well as moving out from their parent's home. Such life transitions offer new opportunities that may contribute to an increase in self esteem, for example by enabling adolescents to choose a job that they like and master, as well as feeling better about themselves because they can make their own living arrangements.  ",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Differences in young adulthood",
+      "text": "At 30 years old, the individuals who had been in the consistently high global self-esteem class during adolescence reported significantly higher levels of life satisfaction and significantly lower levels of somatic complaints than those in the chronically low and U-shaped classes. This finding indicates that even when there was an improvement in the way the individuals in the U-shaped class evaluated themselves in their early twenties, by age 30, they still experienced more negative outcomes than those in the consistently high global self-esteem class. In addition, all classes scored significantly differently on depressed mood. A possible implication is that a U-shaped trajectory of global self-esteem during adolescence may have long-term effects. This assumption is consistent with the \"scar\" hypothesis (Rohde, Lewinsohn, & Seeley, 1994), which proposes that during a period of depression and low global self-esteem, individuals acquire characteristics that persist after the period of low global self-esteem has passed. Furthermore, the class with chronically low global self-esteem reported significantly higher levels of insomnia than those in the consistently high and U-shaped classes. Perhaps there is a dose-response relationship between number of years with low global self-esteem and mental distress such as high levels of depressed mood, high levels of insomnia and low levels of life satisfaction. Orth et al. (2008) asserted that low global self-esteem is a risk factor for development of depression, especially in the face of major life stressors.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Differences in young adolescence",
+      "text": "The discriminant function analysis was only partially able to discriminate between the classes. The significant function only accounted for 8.5% of the between-group variability, where body image, relations with parents and frequency of physical activity were the significant contributors. Gender, socio-economic status and relations with friends did not discriminate between the classes of global self-esteem development.\nThe variables could not separate the consistently high and U-shaped global self-esteem trajectory. Perhaps there are no differences at age 13, and that the adolescents following the U-shaped trajectory subsequently may experience difficult life events (such as school-related problems) that culminate upon leaving school at age 18-19. Another explanation may be that there may be differences in other characteristics that are not measured in the present study. Some individuals (e.g. those in the U-shaped class) may have a vulnerability that reveals itself when they confront changes and difficult developmental challenges. This is in line with Kernis' theory about fragile global self-esteem ( 2003), which posits that there are two qualitatively different types of global high self-esteem; stable high global self-esteem and unstable high global self-esteem. Unstable global self-esteem that fluctuates in line with positive and negative experiences will make individuals vulnerable to threats, while individuals with stable high global self-esteem will be more resistant to the effects of negative events and failures. Originally, Kernis conceptualized this theory for short-term fluctuations in self-esteem, but it may also be relevant with long-term fluctuations that may come as consequences of the physical, psychological, and contextual changes during this age period.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations",
+      "text": "The measure of self-esteem used in this study was based on self-reports of how an individual felt about his/her own value or worth. It is unclear whether some of the participants in this study who reported feeling good about themselves were overly narcissistic, or if they answered in a self-defensive way, over-reporting their global self-esteem.\nThe scale measuring global self-esteem used in this study consisted of only negatively formulated items. Absence of negative self-evaluation may not necessarily reflect genuine global self-esteem. However, as the scale has yielded results that are generally comparable with the results in other studies, with corresponding scales of global self-esteem such as Rosenberg's Self-Esteem Scale and Harter's Perceived Competence scale, it is assumed that it is a valid measure of individuals' global self-esteem.\nThe GMM is still a new and controversial method of extracting classes of developmental trajectories. Some researchers have argued that the GMM extracts multiple trajectory classes even when there is no real taxonomic structure to be found, and maintain that the GMM has been overused with data that violate the underlying assumptions (Sterba & Bauer, 2010). These exploratory model estimation algorithms seek to find the best representation of the data, given the specifications of the models. This means that the specifications of the models must be considered, with adherence to the predictions of the theory and of common sense. Moreover, when the GMM is used in studies of class differences, it is important to acknowledge that the class memberships are based on the most probable class memberships. Also, the small class sizes of the chronically low and Ushaped trajectories should be noted when interpreting the results.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Consistent with previous studies, the present study's findings suggest that the majority (87%) of the participants perceived high global self-esteem throughout adolescence. Whereas previous studies tended to examine a rather narrow age range, this study adds to our knowledge of the normative changes in global self-esteem by providing data over a 9-year period.\nThe results also indicate that there is considerable individual variation in the changes in global self-esteem from early adolescence to young adulthood, suggesting a significant amount of heterogeneity in the trajectories of global self-esteem. Therefore, the inclusion of individual differences in development may give a more interesting and more accurate picture of such trajectories. In this study, three trajectories (consistently high, chronically low, and U-shaped) appear to provide the most succinct representation of the variation in the changes in global self-esteem between individuals.\nThe findings suggest that the three main global self-esteem trajectories identified in this study are associated with different levels of both early correlates at age 13 such as body image, relations with parents and frequency of physical activity, and late correlates at age 30 such as life satisfaction, somatic complaints, depressed mood, and insomnia.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Implications",
+      "text": "One of the main implications of the present study is that while most adolescents seem to report high global self-esteem, others have diverging trajectories. GMM is an analysis method that may reveal non-typical trajectories that are often forgotten when dealing with longitudinal data. However, one has to be careful when interpreting the extracted classes. In this study, the classes are interpreted as a way to allow data reduction and describe development, and not as qualitatively distinct classes. About 7% of adolescents appear to experience a period of low global self-esteem and seem to carry scars into adulthood. A class of 6% of adolescents also seems to have chronic problems related to their global self-esteem. Determining the predictors of these problems may allow these individuals to be identified and provided with support that can help them into a more positive developmental trajectory.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Pubertal timing, overweight, and psychological adjustment",
+      "journal": "Journal of Early Adolescence",
+      "year": "1992",
+      "authors": "F Alsaker"
+    },
+    {
+      "title": "A growth curve approach to the study of parental relations and depression of adolescence",
+      "journal": "",
+      "year": "1991-04",
+      "authors": "F Alsaker; I Dundas; D Olweus"
+    },
+    {
+      "title": "Assessment of global negative self-evaluations and perceived stability of self in Norwegian preadolescents and adolescents",
+      "journal": "Journal of Early Adolescence",
+      "year": "1986",
+      "authors": "F Alsaker; D Olweus"
+    },
+    {
+      "title": "The dynamics of self-esteem: a growth-curve analysis",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2002",
+      "authors": "S Baldwin; J Hoffmann"
+    },
+    {
+      "title": "Observations on the use of growth mixture models in psychological research",
+      "journal": "Multivariate Behavioral Research",
+      "year": "2007",
+      "authors": "D Bauer"
+    },
+    {
+      "title": "Does high self-esteem cause better performance, interpersonal success, happiness, or healthier lifestyles?",
+      "journal": "Psychological Science",
+      "year": "2003",
+      "authors": "R Baumeister; J Campbell; J Krueger; K Vohs"
+    },
+    {
+      "title": "The link between body dissatisfaction and self-esteem in adolescents: similarities across gender, age, weight status, race/ethnicity, and socioeconomic status",
+      "journal": "",
+      "year": "2006",
+      "authors": "T P Beauchaine; P ; P A Marsh; J Mond; M Eisenberg; D Ackard; D Neumark-Sztainer"
+    },
+    {
+      "title": "Correlates of participation in physical activity for adolescent girls: a systematic review of recent literature",
+      "journal": "Journal of Physical Activity and Health",
+      "year": "2005",
+      "authors": "S Biddle; S Whitehead; T O'donovan; M Nevill"
+    },
+    {
+      "title": "A longituidinal study of consistency and change in self-esteem from early adolescence to early adulthood",
+      "journal": "Child Development",
+      "year": "1993",
+      "authors": "J Block; R Robins"
+    },
+    {
+      "title": "Longitudinal trajectories of self-esteem from early to middle adolescence and related psychosocial variables among rural adolescents",
+      "journal": "Journal of Research on Adolescence",
+      "year": "1997",
+      "authors": "L Deihl; J Vicary; R Deike"
+    },
+    {
+      "title": "The satisfaction with life scale",
+      "journal": "Journal of Personality Assessment",
+      "year": "1985",
+      "authors": "E Diener; R Emmons; R Larsen; S Griffin"
+    },
+    {
+      "title": "A three-wave longitudinal study of self-evaluations during young adulthood",
+      "journal": "Journal of Research in Personality",
+      "year": "2007",
+      "authors": "M Donnellan; K Trzesniewski; K Conger; R Conger"
+    },
+    {
+      "title": "A primer on maximum likelihood algorithms available for use with missing data",
+      "journal": "Structural Equation Modeling",
+      "year": "2001",
+      "authors": "C K Enders"
+    },
+    {
+      "title": "A review of life satisfaction research with children and adolescents",
+      "journal": "School Psychology Quarterly",
+      "year": "2003",
+      "authors": "R Gilman; E Huebner"
+    },
+    {
+      "title": "The construction of the self: A developmental perspective",
+      "journal": "The Guilford Press",
+      "year": "1999",
+      "authors": "S Harter"
+    },
+    {
+      "title": "Subjective health complaints in adolescence -reliability and validity of survey methods",
+      "journal": "Journal of Adolescence",
+      "year": "2001",
+      "authors": "S Haugland; B Wold"
+    },
+    {
+      "title": "Self-esteem in early adolescence -the identification and prediction of contrasting longitudinal trajectories",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "1991",
+      "authors": "B Hirsch; D Dubois"
+    },
+    {
+      "title": "Stability in depressed mood in adolescence: results from a 6-year longitudinal panel study",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2000",
+      "authors": "I Holsen; P Kraft; J Vitterso"
+    },
+    {
+      "title": "Mean-Level change in self-esteem from childhood through adulthood: meta-analysis of longitudinal studies",
+      "journal": "Review of General Psychology",
+      "year": "2010",
+      "authors": "C Huang"
+    },
+    {
+      "title": "Most of the girls are alright, but some aren't: personality trajectory groups from ages 14 to 24 and some associations with outcomes",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2007",
+      "authors": "W Johnson; B Hicks; M Mcgue; W Iacono"
+    },
+    {
+      "title": "An introduction to latent class growth analysis and growth mixture modeling. Social and Personality Psychology Compas",
+      "journal": "",
+      "year": "2008",
+      "authors": "T Jung; K Wickrama"
+    },
+    {
+      "title": "Toward a conceptualization of optimal self-esteem",
+      "journal": "Psychological Inquiry",
+      "year": "2003",
+      "authors": "M Kernis"
+    },
+    {
+      "title": "Gender differences in self-esteem: a meta-analysis",
+      "journal": "Psychological Bulletin",
+      "year": "1999",
+      "authors": "K Kling; J Hyde; C Showers; B Buswell"
+    },
+    {
+      "title": "Pathways to self-esteem in late adolescence: the role of parent and peer attachment, empathy, and social behaviours",
+      "journal": "Journal of Adolescence",
+      "year": "2004",
+      "authors": "D Laible; G Carlo; S Roesch"
+    },
+    {
+      "title": "Self-esteem as an interpersonal monitor -the sociometer hypothesis",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1995",
+      "authors": "M Leary; S Terdal; E Tambor; D Downs"
+    },
+    {
+      "title": "Integrating person-centered and variable-centered analyses: growth mixture modeling with latent trajectory classes",
+      "journal": "Alcoholism -Clinical and Experimental Research",
+      "year": "2000",
+      "authors": "B Muth\u00e9n; L Muth\u00e9n"
+    },
+    {
+      "title": "Mplus. Los Angeles: Muth\u00e9n and Muth\u00e9n",
+      "journal": "",
+      "year": "2007",
+      "authors": "L K Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Low self-esteem prospectively predicts depression in adolescence and young adulthood",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2008",
+      "authors": "U Orth; R Robins; B Roberts"
+    },
+    {
+      "title": "A new scale for measuring insomnia: the Bergen Insomnia Scale",
+      "journal": "Perceptual and Motor Skills",
+      "year": "2008",
+      "authors": "S Pallesen; B Bjorvatn; I Nordhus; B Sivertsen; M Hjornevik; C Morin"
+    },
+    {
+      "title": "Predictors of somatic symptoms: a five year follow up of adolescents",
+      "journal": "Archives of Disease in Childhood",
+      "year": "2000",
+      "authors": "K Poikolainen; T Aalto-Setala; M Marttunen; A Tuulio-Henriksson; J Lonnqvist"
+    },
+    {
+      "title": "Youth life satisfaction: a review of the literature",
+      "journal": "Journal of Happiness Studies",
+      "year": "2009",
+      "authors": "C Proctor; P Linley; J Maltby"
+    },
+    {
+      "title": "Losing sleep: examining the cascading effects of supervisors' experience of injustice on subordinates' psychological health",
+      "journal": "Work and Stress",
+      "year": "2010",
+      "authors": "A Rafferty; S Restubog; N Jimmieson"
+    },
+    {
+      "title": "Growth mixture modeling: a method for identifying differences in longitudinal change among unobserved groups",
+      "journal": "International Journal of Behavioral Development",
+      "year": "2009",
+      "authors": "N Ram; K Grimm"
+    },
+    {
+      "title": "Global self-esteem across the life span",
+      "journal": "Psychology and Aging",
+      "year": "2002",
+      "authors": "R Robins; K Trzesniewski; J Tracy; S Gosling; J Potter"
+    },
+    {
+      "title": "Are adolescents changed by an episode of major depression",
+      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "year": "1994",
+      "authors": "P Rohde; P Lewinsohn; J Seeley"
+    },
+    {
+      "title": "Society and the adolescent self-image",
+      "journal": "Princeton University Press",
+      "year": "1965",
+      "authors": "M Rosenberg"
+    },
+    {
+      "title": "What is optimal self-esteem? The cultivation and consequences of contingent vs. true self-esteem as viewed from the selfdetermination theory perspective",
+      "journal": "Psychology Press",
+      "year": "2006",
+      "authors": "R Ryan; K Brown"
+    },
+    {
+      "title": "A longitudinal assessment of the links between physical activity and self-esteem in early adolescent non-hispanic females",
+      "journal": "Journal of Adolescent Health",
+      "year": "2007",
+      "authors": "D Schmalz; G Deane; L Birch; K Davison"
+    },
+    {
+      "title": "Factors affecting levels of physical activity in adults",
+      "journal": "Sports Medicine",
+      "year": "2002",
+      "authors": "V Seefeldt; R Malina; M Clark"
+    },
+    {
+      "title": "Self-reported physical activity compared with maximal oxygen uptake",
+      "journal": "American Journal of Epidemiology",
+      "year": "1985",
+      "authors": "S Siconolfi; T Lasater; R Snow; R Carleton"
+    },
+    {
+      "title": "Exercise and self-esteem -rationale and model",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "year": "1989",
+      "authors": "R Sonstroem; W Morgan"
+    },
+    {
+      "title": "Matching method with theory in person-oriented developmental psychopathology research",
+      "journal": "Development and Psychopathology",
+      "year": "2010",
+      "authors": "S Sterba; D Bauer"
+    },
+    {
+      "title": "The course of depressive symptoms in men from early adolescence to young adulthood: identifying latent trajectories and early predictors",
+      "journal": "Journal of Abnormal Psychology",
+      "year": "2005",
+      "authors": "M Stoolmiller; H Kim; D Capaldi"
+    },
+    {
+      "title": "Do people's self-views matter? Self-concept and self-esteem in everyday life",
+      "journal": "American Psychologist",
+      "year": "2007",
+      "authors": "W Swann; C Chang-Schneider; K Mcclarty"
+    },
+    {
+      "title": "Identifying the correct number of classes in growth mixture models",
+      "journal": "Information Age Publishing",
+      "year": "2008",
+      "authors": "D Tofighi; C Enders"
+    },
+    {
+      "title": "Self-esteem and socioeconomic status: a meta-analytic review",
+      "journal": "Personality and Social Psychology Review",
+      "year": "2002",
+      "authors": "J Twenge; W Campbell"
+    },
+    {
+      "title": "A brief review on correlates of physical activity and sedentariness in youth",
+      "journal": "Medicine and Science in Sports and Exercise",
+      "year": "2007",
+      "authors": "K Van Der Horst; M Paw; J Twisk; W Van Mechelen"
+    },
+    {
+      "title": "Satisfaction with life scale. Tidsskrift for Norsk Psykologforening",
+      "journal": "",
+      "year": "2009",
+      "authors": "J Vitters\u00f8"
+    },
+    {
+      "title": "Pilot study among Finnish 11, 13 and 15-year-old school children",
+      "journal": "",
+      "year": "2005",
+      "authors": "M Vuori"
+    },
+    {
+      "title": "A longitudinal study of self-esteem: implications for adolescent development",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "1997",
+      "authors": "M Zimmerman; L Copeland; J Shope; T Dielman"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Fig. 1 .1Fig. 1. Observed development of global self-esteem age 14-23 years, by 3 classes.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Correlations, alphas and descriptive data of global self-esteem aged 14-23 years, and correlates at age 13 and 30 years.",
+      "figure_data": "Variable1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.1. Global Self-Esteem 14.88 a2. Global Self-Esteem 15.67**.90 a3. Global Self-Esteem 18.47**.54**.88 a4. Global Self-Esteem 21.38**.42**.66**.89 a5. Global Self-Esteem 23.39**.40**.53**.64**.92 aEarly correlates at age 13:6. Father's income0.040.080.070.04.14** -7. Body image.56**.47**.37**.31**.28**.11*.83 a8. Physical activity.010**.14**.10*.13**.12**0.07.16** -9. Relation with parents.28**.27**.23**.27**.24**0.08.41**.17**.79 a10. Relation with friends.24**.20**.19**.24**.19**.15**.37**.20**.45**.80 aLate correlates at age 30:11. Family income.11*.15**.15**.12*.16**.13*.10*.17**.19**.18** -12. Years of education.10*0.050.06.12.13**.22**0.070.00.12*.13*.14** -13. Life satisfaction.13**.12*.28**.29**.38**.25**0.070,00.13**0.10.20**.16**.87 a14. Depressed mood\u00c0.26**\u00c0.27**\u00c0.40**\u00c0.45**\u00c0.52**\u00c00.06\u00c0.19** \u00c00.06\u00c0.19**\u00c0.15**\u00c0.15** \u00c00.04\u00c0.57**.92 a15. Somatic complaints\u00c0.20**\u00c0.22**\u00c0.27**\u00c0.33**\u00c0.38**\u00c00.08\u00c0.14**\u00c0.13** \u00c00.03\u00c00.07\u00c0.17**\u00c0.12**\u00c0.30**.51**.75 a16. Insomnia\u00c0.13**\u00c0.10*\u00c0.18**\u00c0.29**\u00c0.35**\u00c00.07\u00c00.04\u00c00.07\u00c00.06\u00c00.07\u00c0.17** \u00c00.03\u00c0.18**.36**.48**.80 aN943939776585629545791912781720534532534532526532Mean4.424.294.494.895.004008253.843.184.514.043311793.755.071.733.821.73SD1.161.201.11.93.951171201.171.95.98.891481591.321.16.843.141.43"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Goodness of fit for solutions with different number of classes. a Homogenous variance, with variance in quadratic slope set to zero.",
+      "figure_data": "ModelN ParametersAIC bBIC cSaBIC dEntropyLMR-LRT e (p)1-class1110104.82510159.68710124.749--2-class159834.9639909.7769862.1320.8550.00443-class199684.7699779.5319719.1830.8380.00094-class239549.4869664.1989591.1460.8070.10085-class f279492.7359627.3979541.6390.8180.09616-class f319477.1099631.7219533.2590.8220.0962"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Specification and distributions of 1-and 3-class-solutions.",
+      "figure_data": "InterceptSlopeQuadmeanSEmeanSEmeanSE%Fixed effects1-class1004.3440.0380.1310.1670.6810.1663-classConsistently high87.14.4920.0520.7300.1580.1230.153Chronically low5.52.7960.2322.1820.779\u00c02.8310.934U-shaped7.44.2200.223\u00c08.7531.05410.3601.128NRandom effects1-class10831.0880.0737.7831.5735.6121.7673-classConsistently high9430.7630.0840.8740.09400Chronically low60U-shaped80"
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Means (SD) and ANOVA results, Correlates at Age 30.",
+      "figure_data": "Consistently high (1) Chronically low (2) U-shaped (3)F (p)Scheffe's post hoc R 2N4673531N boys (% of class total)230 (49%)7 (19%)13 (42%)Family income (NKR)336666 (144790)288571 (192921)291935 (132349)2.870-Mean years of education after secondary school3.77 (1.32)3.29 (1.46)3.90 (1.00)2.545-Life satisfaction5.19 (1.09)4.04 (1.41)4.54 (1.27)20.877** 1 > 2,3.073Depressed mood1.60 (.68)2.89 (1.24)2.35 (1.23)56.719** 1 < 3<2.177Somatic complaints3.46 (2.81)7.09 (3.85)5.37 (4.27)28.148** 1 < 2,3.098Insomnia1.61 (1.34)3.02 (1.63)2.11 (1.80)17.815** 1,3 < 2.063***p < .001."
+    },
+    {
+      "figure_label": "5",
+      "figure_type": "table",
+      "figure_id": "tab_4",
+      "figure_caption": "Means (SD) and ANOVA results, Correlates at Age 13.",
+      "figure_data": "Consistently high (1)Chronically low (2)U-shaped (3)F (p)Scheffe's post hocN9007859N boys (% of class total)507 (56%)28 (36%)29 (49%)Father's incomeBody image3.93 (1.10)2.94 (1.44)3.63 (1.20)20.450**2 < 1,3Frequency of physical activity3.24 (1.94)2.54 (1.86)2.95 (1.70)4.432*1 > 2Relation with parents4.57 (.94)4.05 (1.14)4.28 (1.18)8.617**1 > 2Relation with friends4.06 (.88)3.79 (1.01)4.04 (.93)1.875-"
+    },
+    {
+      "figure_label": "6",
+      "figure_type": "table",
+      "figure_id": "tab_5",
+      "figure_caption": "Discriminant function analysis of self-esteem trajectories by predictors at age 13.",
+      "figure_data": "VariablesStandardized coefficientsGender.044Father's income.107Body image.638Frequency of physical activity.366Relation with parents.565Relation with friends\u00c0.334GroupCentroidsConsistently high.097Chronically low\u00c01.182U-shaped\u00c0.310N \u00bc 375."
+    }
+  ],
+  "doi": "10.1016/j.adolescence.2011.06.006"
+}

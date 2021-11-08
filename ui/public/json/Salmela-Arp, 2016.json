@@ -1,0 +1,486 @@
+{
+  "title": "The Dark Side of Internet Use: Two Longitudinal Studies of Excessive Internet Use, Depressive Symptoms, School Burnout and Engagement Among Finnish Early and Late Adolescents",
+  "abstract": "Recent research shows an increased concern with well-being at school and potential problems associated with students' use of socio-digital technologies, i.e., the mobile devices, computers, social media, and the Internet. Simultaneously with supporting creative social activities, socio-digital participation may also lead to compulsive and addictive behavioral patterns affecting both general and school-related mental health problems. Using two longitudinal data waves gathered among 1702 (53 % female) early (age 12-14) and 1636 (64 % female) late (age 16-18) Finnish adolescents, we examined crosslagged paths between excessive internet use, school engagement and burnout, and depressive symptoms. Structural equation modeling revealed reciprocal crosslagged paths between excessive internet use and school burnout among both adolescent groups: school burnout predicted later excessive internet use and excessive internet use predicted later school burnout. Reciprocal paths between school burnout and depressive symptoms were also found. Girls typically suffered more than boys from depressive symptoms and, in late adolescence, school burnout. Boys, in turn, more typically suffered from excessive internet use. These results show that, among adolescents, excessive internet use can be a cause of school burnout that can later spill over to depressive symptoms.",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "text": "Recent research shows an increased concern with wellbeing at school and potential problems associated with compulsive use of socio-digital technologies, i.e., computers, social media, and the Internet (OECD 2015). Today's early and middle adolescents are among the first cohorts of young people who have grown up using mobile devices and social media; ubiquitous access to digital technologies enables them to be in constant contact with their peers and engage in various social activities, such as playing games, creating media, and sharing knowledge. Partially because of the social embeddedness of digital activities, their intensive use may also lead to compulsive and addictive behavioral patterns affecting both general and school-related mental health (Kaltiala-Heino et al. 2004). The socio-digital participation of adolescents can thus have both bright and dark sides (Hakkarainen et al. 2015). In the present investigation, we address the latter.\nSpecifically, this study examined the longitudinal crosslagged paths between excessive internet use and both general mental health problems (depressive symptoms) and contextual school-related burnout and engagement using two-wave longitudinal data gathered among both early (age 12-14 years) and late (age 16-18 years) Finnish adolescents. Problematic use of digital technologies has most often been described as compulsive or addicted patterns of playing computer games, using social media, and hanging out on the Internet (Kaltiala-Heino et al. 2004). The American Psychiatric Association has acknowledged such problems for the first time by including an appendix, Internet Use Disorder, to the fifth edition of the Diagnostic and Statistical Manual for Mental Disorders. However, in the present study, excessive internet use does not denote a clinical diagnosis, but a potentially pathological behavioral pattern characterized by the presence of the following symptoms: (1) a loss of control over the behavior, (2) conflict (internal and interpersonal), (3) preoccupation with the Internet, (4) use of the Internet to modify mood, and (5) withdrawal symptoms (Meerkerk et al. 2009). Previous research on adolescents' excessive internet use and mental health problems (e.g., depressive symptoms) has mostly been cross-sectional. One recent longitudinal study among late adolescents showed that excessive internet use predicted impaired mental health (depressive symptoms) later on (Ciarrochi et al. 2016). Similarly, excessive media exposure in adolescence increases the odds of depressive symptoms in early adulthood, particularly among young men (Primack et al. 2009). However, the previous longitudinal research on excessive internet use and depressive symptoms has not studied young people at different ages. Moreover, previous studies on the associations between excessive internet use and mental health have focused solely on general mental health and not examined the role of contextual, school-related mental health. Our aim was to contribute to filling these important gaps in the literature by examining the longitudinal crosslagged paths between excessive internet use, depressive symptoms and school burnout and engagement among both early and late adolescents. Is excessive internet use an antecedent of school-related and/or depressive symptoms, or vice versa, or is there a reciprocal influence? We were particularly interested in the role of school engagement and school burnout, as these might be the key variables through which excessive internet use and depressive symptoms develop among adolescents (Salmela-Aro et al. 2009a, b). School burnout might mediate the relationship between excessive internet use and depressive symptoms, whereas school engagement might buffer against the effect. Most importantly, the present study could help us determine the extent to which emotional engagement and school burnout predict adolescent excessive internet use, knowledge of potential value in designing targeted interventions and pedagogical practices.",
+      "n_publication_ref": 7,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Excessive Internet Use and Mental Health Among Digital Youth",
+      "text": "The current adolescent generation is immersed in sociodigital technologies from the very beginning of their lives (Prensky 2001;2012;also Bennett et al. 2008;Hakkarainen et al. 2015;Palfrey and Gasser 2011). Socio-digital technologies mediate, more or less profoundly, all the personal and social activities of adolescents, many of whom make intensive use of such technologies outside school on a daily basis (European Parliament 2015;Ito et al. 2010;Jenkins et al. 2009;OECD 2015). Yet, young people's patterns of socio-digital participation are heterogeneous. In their yearlong ethnographic study, Ito and her colleagues (2010) distinguished friendship-driven hanging out with friends from the more complex and potentially creative interestdriven pattern of socio-digital participation. Their investigation indicated that only a minority of adolescents engaged in such interest-driven socio-digital mediated activities as seeking knowledge on the Internet, cultivating advanced computer or media skills or actively participating in various network communities that are likely to provide meaningful, socio-digitally mediated learning experiences. The majority of adolescents instead used social media for hanging out in extended networks of peers and engaging only in relatively shallow social activities, such as repeatedly updating their status or exchanging instant messages. A study carried out by Li et al. (in press) revealed similar pattern among a sample of Finnish adolescents.\nCompulsive use of socio-digital technologies partially reflects their affordances. Many digital applications and programs used by adolescents are designed to be addictive, to require sustained participation, for example to reach a new game level, find contextually relevant fresh information, or maintain satisfactory reciprocal social relations. Such activities may foster sustained investment efforts and training of attentional competencies and memory as well as social sharing of experiences (Gee 2007;Gee and Hayes 2011). Simultaneously, however, there is also a danger that some adolescents will become addicted to immersive socio-digital activities. Excessive socio-digital participation competes with school work and may disturb daily life in general and, in particular, balanced circadian rhythms of waking and sleeping (Kaltiala-Heino et al. 2004). Moreover, many mobile applications are intrusive in their use of default alerts about new media events, continuously interrupting ongoing activities and hooking many vulnerable adolescents onto repeated online activities (Carr 2011). Multi-tasking behaviour may hinder learning, memory performance and the development of attentional capabilities; weakly developed attentional competencies may lead to socio-digital activities that are both shallow and compulsive (Carrier et al. 2015). Learning and creativity, in contrast, require sustained attention across extended periods of time rather than repeated switching of attention from one situation to the next. Socio-digital practices might be driven by harmonious passions (Vallerand et al. 2007), leading adolescents to develop their skills and competencies and gradually engage in more complex activities (Ito et al. 2010). Computer games as well as social media provide ample opportunities for seeking, building, and sharing personal and collaborative knowledge and media (Hakkarainen et al. 2015).\nOften, however, young people, especially those with motivational problems combined with limited adult guidance and control, develop an obsessive digital passion (Vallerand et al. 2007), or even addiction, involving repeated participation in monotonous and compulsive activities related to social-media usage or computer gaming (Kaltiala-Heino et al. 2004). Although heavy use of sociodigital technologies may be symptom of addiction, we consider an inability to exert control over internet use to be a significant criteria of addiction. Although adolescents may become addicted to computer or video games that do not involve real-time use of the Internet, their digital activities are more and more often socially mediated through it, for this reason, we examine the compulsive use of socio-digital technologies as a uniform construct, using the term excessive internet use (Hakkarainen et al. 2015).\nRecent studies have shown that excessive internet use is associated with general mental health problems such as depressive symptoms, loneliness, anxiety and low self-esteem (Ceyhan and Ceyhan 2008;Gamez 2014;Kim et al. 2009;Lam and Peng 2010). What begins with instant messaging in adolescence may lead to excessive internet use and mental health problems later on (van den Eijnden et al. 2008). Lam and Peng (2010) found that excessive internet use predicted psychopathology 9 months later. In their recent review of the cross-sectional research, Carli et al. (2012) found an association between depressive symptoms and excessive internet use among adolescents. They concluded that there was a pressing need for longitudinal studies and studies conducted separately among early, mid, and late adolescents. From the perspective of causality, it may be that depressive symptoms lead to excessive internet use, or that excessive internet use leads to poor mental health, such as depressive symptoms, or that the influence between the two is reciprocal. Only a few longitudinal studies have examined the relationships between excessive internet use and mental health among adolescents (Ciarrochi et al. 2016;Gamez 2014;Ko et al. 2009; Thorsteinsson and Davey 2014;van den Eijnden et al. 2008). Ciarrochi et al. (in press) found clear support for the view that compulsive internet use was an antecedent to the development of general mental health problems such as depressive symptoms among mid and late adolescents (see also Selfhout et al. 2009). However, the role of schoolrelated mental health in excessive internet use, and vice versa, has been neglected. School is a key context during adolescence, and for this reason we would argue that school-related mental health plays a key role in adolescents' excessive internet use (Salmela-Aro et al. in press).\nThis study was designed to address this issue. We expected, in particular, to find reciprocal relationships between excessive internet use and school burnout.",
+      "n_publication_ref": 36,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Emotional Engagement and School Burnout Among Finnish Adolescents",
+      "text": "Finnish schools practice heterogeneous grouping, meaning that all students, regardless of their academic ability level receive instruction together in the same classroom. This approach has been shown to have significant benefits for low-performing students and is often attributed to the low disparity in Finland between the highest-and lowest-performing students. Furthermore, Finnish culture values education and academic achievement and Finnish students have been highly ranked academically in the PISA (Program for International Assessment) assessments. However, recent PISA (OECD 2015) results revealed that Finnish students are less likely to be engaged and to like school than adolescents in most of the other OECD countries: Finland was ranked 60th among the 65 countries on the survey item measuring students' liking of school. Although Finnish schools are relatively well equipped with information and communication technologies, digital technologies are not intensively used in Finnish classrooms, causing students who make the most intensive use of socio-digital technologies to feel alienated and even bored (Salmela-Aro et al. in press). Research shows that many Finnish students report feeling academically inadequate, exhausted by school, and cynical about the value of school. Taken together, these are symptoms of school burnout (Salmela-Aro et al. 2009a, b). Recently school engagement has been examined as a positive, fulfilling study-related state of mind (Salmela-Aro and Upadyaya 2012). In line with this approach, we define school engagement as a combination of energy, dedication and absorption, thereby highlighting its affective component. In this framework, energy refers to high levels of vigour and energy while studying. Dedication is characterized by a positive cognitive attitude towards studying in general, a perception of studying as meaningful, and experiencing a sense of significance, enthusiasm, challenge, and inspiration. Absorption is characterized by being fully concentrated and happily engrossed in one's studying so that time passes quickly. These dimensions have been found to correlate highly with each other (Salmela-Aro and Upadyaya 2012).\nRecently, psychometric work suggests that the positive and negative features of emotional engagement are both consequential and structurally distinguishable (Skinner et al. 2008). Thus, disengagement is not considered solely to reflect the absence of engagement, but rather it is a separate and distinct psychological process that contributes uniquely to student outcomes in school settings.\nConsequently, disengagement has recently been explored in relation to school burnout (Salmela-Aro et al. 2009a, b), which comprises three separate dimensions: exhaustion due to school demands, a cynical and detached attitude toward school, and feelings of inadequacy as a student. Exhaustion refers to being tired, to ruminating on school-related issues and to sleep problems (Salmela-Aro et al. 2009a, b). Cynicism is manifested as an indifferent or distal attitude toward studying in general, a loss of interest in studying and not seeing studying as meaningful (Salmela-Aro et al. 2009a, b). Sense of inadequacy refers to a diminished feeling of competence, achievement and accomplishment as a student (Salmela-Aro et al. 2009a, b). School burnout has been studied as a continuous process that influences students' engagement with schoolwork, well-being, and later adjustment (Salmela-Aro and Upadyaya 2012). The negative emotional processes measured in the construct of school burnout conceptually mirror those of positive emotional engagement and align well with the concept of emotional disengagement in school, which influences academic and psychological functioning. Studies have rarely examined emotional engagement and school burnout simultaneously (for exceptions, see Tuominen-Soini and Salmela-Aro 2014; Salmela-Aro and Upadyaya 2014) which shows that school burnout leads to decreased school engagement later on, despite research findings indicating that positive and negative emotional processes are distinct and may differently affect adolescents' academic and emotional wellbeing (Janosz et al. 2008). A longitudinal three-wave cross-lagged study among adolescents showed that school burnout predicted depressive symptoms later on rather than vice versa (Salmela-Aro et al. 2009a, b). School engagement and burnout have not previously been studied in the context of excessive internet use. A recent study (Salmela-Aro et al. in press) revealed that many adolescents high in cynicism toward school had advanced selfreported socio-digital competencies. The active socio-digital participants reported that they would be more engaged at school if that they were allowed to use the new information and communication technologies more intensively in the classroom. The results suggested that adolescents immersed deeply in the use of socio-digital technologies may experience discontinuity, and thus a gap, between their in-and out-of-school experiences. They might be at risk for excessive internet use, if educational institutions do not meet their needs and provide structured opportunities for incorporating creative ways to use of socio-digital technologies in learning (Salmela-Aro et al. in press).\nStage-environment fit theorists posit that students' motivation and engagement are largely determined by the extent to which schools provide educational and social environments that meet adolescents' needs for relatedness, autonomy, and competence (Eccles et al. 1993). Meeting the developmental needs of digital adolescents appears to entail that educational institutions provide richer opportunities for cultivating creative and collaborative competences in the use of socio-digital technologies for learning. For instance, engaging adolescents in the pursuit of complex collaborative study projects results in increased engagement and improved learning results (Bransford et al. 1999). Fulfilling adolescents' socio-cognitive and emotional needs can lead to an increase in their emotional engagement, in turn positively influencing their academic achievement and learning and protecting them from excessive internet use (Park et al. 2012). In the case of Finnish students, research suggests that students' emotional engagement is linked to contextual features such as the school climate, support from the school, and teachers able to motivate their students (Salmela-Aro et al. 2009a, b). These contextual features have been linked to positive student perceptions of school (Haapasalo et al. 2010). However, while some studies have reported that Finnish students enjoy school and find learning valuable, there is mounting evidence that students also have negative feelings about school. From the 7th to 9th grade, students experience a significant decline in looking forward to school, and find school increasingly exhausting (Haapasalo et al. 2010). The trend toward motivational decline is the most marked among students who choose the academic track during the transition to upper secondary education. Within a year and a half after entering high school, Finnish students on the academic track feel significantly burned out (Salmela-Aro and Tynkkynen 2012). Finland has only one high-stake test, i.e., the matriculation examination taken at the end of high school. In order to gain access to higher education, students on the academic track strive to be successful in schoolwork that is not only more challenging and strenuous but also is carried out an educational environment that is oriented more towards peer comparison and competition than was the case in their years of basic education (Salmela-Aro and Tynkkynen 2012). When their developmental needs for competency, relatedness, and autonomy are not met, students may become emotionally disaffected from school and withdraw, a process which might also lead to excessive internet use (Eccles et al. 1993;Ryan and Deci 2000). In today's world, students' developmental needs may include possibilities for taking part in guided practices on the use of socio-digital technologies specifically for learning, knowledge seeking, and other creative purposes. It is possible that the same student who feels competent outside school, using the latest digital tools in order to cultivate relations with her/his peers, may feel inadequate and isolated at school when such tools are not available (Salmela-Aro et al. in press). This reflects the potential gap between practices and needs inside and outside school. Furthermore, the ways in which the quality of students' emotional involvement in school influences excessive internet use might be complex and not yet completely understood. On the one hand, students who are socialized to self-directed, agentic and collaborative activities on the Internet (Gee and Hayes 2011) may become disengaged at school when faced with teacher-centered and externally controlled activities. Socio-digital participation may provide many adolescents with experiences of competence, belonging and autonomy (Salmela-Aro et al. in press). On the other hand, excessive immersion in monotonous and largely meaningless socio-digital activities may consume an adolescents' cognitive and time resources, making it harder to fully concentrate on learning and schoolwork (OECD 2015). Both low emotional engagement and school burnout are linked to poor academic and psychological functioning. Specifically, school burnout in Finnish students has been linked to substance use (Haapasalo et al. 2010), low academic achievement (Salmela-Aro et al. 2009a, b) and depressive symptoms during the school years and beyond (Salmela-Aro et al. 2009a, b), and thus might also lead to excessive internet use. Yet, while overall school satisfaction among Finnish students is low, highachieving students are at the greatest risk for experiencing adverse levels of stress and depressive symptoms (Tuominen-Soini and Salmela-Aro 2014). Moreover, gender might play a role, as research has usually shown excessive internet use to be more prevalent among males than females (Dhir et al. 2015;Morrison and Gore 2010;Willoughby 2008), whereas school burnout and depressive symptoms are more typical among females than males (Salmela-Aro and Tynkkynen 2012). Thus, possible gender differences in excessive internet use and depressive symptoms were investigated further in the present study.",
+      "n_publication_ref": 27,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Present Study",
+      "text": "Digital technologies have transformed many aspects of human life. At the center of these transformations are today's digital adolescents (Prensky 2001), who have been immersed with socio-digital technologies from the very beginning of their lives. Although socio-digital participation provides adolescents with access to diverse epistemic, social, and cultural resources supporting positive development, internet use can, however, have its dark side, such as addiction to repeated, monotonous, and largely meaningless use of digital technologies. In this study, we examined the longitudinal paths between excessive internet use, depressive symptoms, school burnout and engagement. Excessive use of the Internet has been associated with depressive symptoms (e.g., Meerkerk et al. 2009). However, the existing research is mostly cross-sectional, which means that the possible longitudinal cross-lagged paths between depressive symptoms and problematic internet use have been little studied. Moreover, there is no research on the cross-lagged pathways between these possible reciprocal paths between school burnout, school engagement, depressive symptoms and excessive internet use. Specifically, we examined whether excessive internet use leads to both depressive symptoms and/or school-related burnout, or vice versa, or whether the influence is reciprocal. We examined these questions by studying twowave longitudinal data on both early and late adolescents. We thus report two longitudinal two-wave studies among early (age 12-14 years, Study 1) and late (age 16-18 years, Study 2) adolescents on the possible cross-lagged paths between excessive internet use and both depressive symptoms and school burnout.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Study 1 Method",
+      "text": "The Mind-the-Gap Survey Millennium target population (born in 2000) comprised all the 6th public grade elementary school students in the City of Helsinki. The sample contained 1 702 elementary school students from 33 schools (Males = 720, Females = 906, information about gender was missing for 76 students). Of these students, 461 participated in the study at both measurement times, whereas 760 students participated only at Time 1 and 1403 students participated only at Time 2. Only 10 % of the participants had an immigrant background, and were therefore somewhat under represented. At the two time points [Time 1 (spring 2013) at age 12-13; Time 2 (spring 2014) at age 13-14], participants completed a questionnaire measuring school burnout, school engagement, depressive symptoms, excessive internet use and various background variables. The questionnaire was administered during school hours and took about an hour to complete. Participation was voluntary, and informed consent forms were collected from both the students and their parents. The study protocol was approved by the University of Helsinki Ethical Review Board in the Humanities and Social and Behavioral Sciences.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    { "heading": "Measures", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "School Engagement",
+      "text": "School engagement was assessed at both time points with the Schoolwork Engagement Inventory (EDA; Salmela-Aro and Upadyaya 2012). The EDA measures energy (3 items, e.g., ''When I study, I feel that I am bursting with energy''), dedication (3 items, e.g., ''I am enthusiastic about my studies''), and absorption (3 items, e.g., ''Time flies when I'm studying'') in relation to school. Participants rated all items on a 7-point Likert-type scale ranging from 0 (Never) to 6 (Every day). The sum score of school engagement was used, and yielded a Cronbach's alpha reliability of 0.93 and 0.95.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "School Burnout",
+      "text": "School burnout was assessed at both time points with the School Burnout Inventory (SBI; Salmela-Aro et al. 2009a, b). The inventory consists of three subscales: exhaustion (4 items, e.g., ''I feel overwhelmed by my studies''), cynicism toward the meaning of studying (3 items, e.g., ''I feel that I am losing interest in my studies''), and sense of inadequacy as a student (2 items, e.g., ''I often have feelings of inadequacy in my studies''). Participants rated all items on a 6-point Likert-type scale ranging from 1 (Completely disagree) to 6 (Completely agree). Composite scores were computed separately for the three subscales. The Cronbach alpha reliabilities were between 0.89 and 0.91 on both occasions.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Depressive Symptoms",
+      "text": "Depressive symptoms were measured by seven items drawn from the DEPS Depression Scale (Salokangas et al. 1995). Sample items were: ''I feel sad,'' ''I do not enjoy my life,'' and ''The future is hopeless.'' Items were rated on a 4-point scale, ranging from 1 (not at all) to 4 (very much). The Cronbach's alpha reliabilities for the sum scores were 0.92 and 0.92.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Grade Point Average",
+      "text": "In Finland, at the end of each academic year, all students receive an overall Grade Point Average (GPA), calculated on a scale from 4-10, for all the courses they have taken that year. Participants were asked to report their GPAs for each of the two study years.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Excessive Internet Use",
+      "text": "Excessive Internet use was evaluated by 7 (Time 1) and 5 (Time 2) statements concerning the respondent's desire to use information and communication technologies (ICTs) that is harmful and compulsive in nature (Kaltiala-Heino et al. 2004), e.g., ''I have a powerful urge to use ICT all the time.''; ''Using ICT causes me to neglect my schoolwork.''; and ''I use ICT late at night when it is possible.'', each rated on a 5-point Likert-type scale ranging from 1 (Completely disagree) to 5 (Completely agree) (Cronbach Alpha 0.72 and 0.80).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Demographic Measures",
+      "text": "Participants' gender and family socioeconomic status (SES) were included in our analyses as covariates. Gender was coded as 0 (boy) or 1 (girl). Family SES was indicated by parental occupation. Each parent's occupation was first coded according to the Classification of socio-economic groups issued by Statistics Finland (1989). This measure was further recoded as 1 (blue collar), 2 (lower white collar) and 3 (upper white collar). If both parents were working, the higher SES of either parent was taken as the indicator of the family's SES. Regardless of the participants' family SES, only 2 % of the students did not have access to the Internet at home.\nAttrition between the measurements was analyzed by comparing students who participated the study at both measurement times (N = 720) with those who had missing data at one measurement time (N = 906). The attrition analyses were carried out for students' engagement, burnout, depressive symptoms, excessive internet use, and GPA. The results indicated that students who participated the study at both measurement times showed lower levels of burnout (M = 2.52, SD = 1.00) and depressive symptoms (M = 1.49, SD = 0.58) at Time 2 than students who participated in the study only once (M = 2.66, SD = 1.08, t (1407) = 2.28, p \\ .05 for burnout and M = 1.60, SD = 0.63, t (1390) = 3.11, p \\ .01 for depressive symptoms).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Analysis Strategy",
+      "text": "The research questions were analysed using autoregressive cross-lagged path models. The first model included stability coefficients for engagement, burnout, excessive internet use, and depressive symptoms, as well as crosslagged paths from each variable at Time 1 to each subsequent variable at Time 2. All the endogenous variables were allowed to covary. Gender and family SES were included in the model as antecedents. To identify the final model, all statistically non-significant paths were set to zero. The results of this initial model indicated that engagement and family SES were not significantly associated with any other variables, and thus these variables were omitted from the final model. The second model included stability coefficients for the three separate burnout dimensions (e.g., exhaustion, cynicism, and feelings of inadequacy) and excessive internet use, as well as crosslagged paths from each variable at Time 1 to each subsequent variable at Time 2. All the endogenous models were allowed to covary and gender was included in the model as an antecedent. To identify the final model, all statistically non-significant paths were set to zero.\nThe statistical analyses were performed using Mplus Version 6 (Muth\u00e9n andMuth\u00e9n 1998-2016) with the missing data method. The missing data method uses all the available data in order to estimate the model without imputing data. Because the distributions of the variables were skewed, the model parameters were estimated using the MLR estimator (Muth\u00e9n andMuth\u00e9n 1998-2016). Goodness-of-fit was evaluated using five indicators: v 2 test, Comparative Fit Index (CFI), Tucker-Lewis Index (TLI), Root Mean Square Error of Approximation (RMSEA), and the Standardized Root Mean Square Residual (SRMR).",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Results",
+      "text": "Means, variances and correlations between the variables are shown in Table 1. After the non-significant paths were set to zero, the final model fitted the data well (Table 2; Fig. 1). First, among the early adolescents, the variables school engagement, school burnout, excessive internet use and depressive symptoms all showed statistically significant stability between Time 1 and Time 2. Second, the results revealed reciprocal positive cross-lagged paths between excessive internet use and school burnout: excessive internet use predicted later school burnout, and school burnout predicted later excessive internet use. Third, school burnout also predicted later depressive symptoms. Finally, the results showed that girls suffered more than boys from depressive symptoms, and that boys suffered more than girls from excessive internet use.\nThe second model examined the cross-lagged paths between excessive internet use and the three components of school burnout. After all non-significant paths were set to zero, the final model fitted the data well (Table 2; Fig. 2). The results showed stability among all three components of school burnout from Time 1 to Time 2. Second, the crosslagged paths between cynicism and feelings of inadequacy were statistically significant: cynicism predicted later inadequacy and inadequacy predicted later cynicism toward school. Finally, exhaustion, in particular, increased subsequent excessive internet use. Excessive internet use, cynicism, and feelings of inadequacy were more typical among boys than girls, whereas exhaustion was more typical among girls.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Study 2 Method",
+      "text": "The Mind-the-Gap Survey High school target population (born in 1997) comprised all the 1st grade public high school students from the City of Helsinki. The sample consisted of 1636 high school students from 18 schools (Males = 528, Females = 1047; for 53 students, data on gender were missing). At two time points [Time 1 (spring 2014) at age 16-17 (N = 1261); Time 2 (spring 2015) at age 17-18 (N = 902)], participants completed the same questionnaire as in Study 1. Of these students, 580 participated at both measurement times. The questionnaire was administered during school hours and took about an hour to complete. Participation was voluntary, and informed consent forms were collected from both the students and their parents. The study protocol was approved by the University of Helsinki Ethical Review Board in the Humanities and Social and Behavioral Sciences.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "All the measures were the same as in Study 1. The Cronbach alphas for school engagement, school burnout, depressive symptoms and excessive internet use were between 0.85 and 0.92.\nAttrition analyses were carried out to examine attrition between the measurements by comparing students who participated the study at both measurement times (N = 580) with those who had missing data at one measurement time (N = 1056). The attrition analyses were carried out for students' engagement, burnout, depressive symptoms, excessive internet use, and GPA. The results indicated that students who participated the study at both measurement times showed higher engagement (M = 4.83, SD = 1.16) and a lower level of depressive symptoms (M = 1.64, SD = 0.52) at Time 1 than students who participated the study only once (M = 4.53, SD = 1.26, t (1338) = -4.55, p \\ .001 for engagement and M = 1.71, SD = 0.60, t (1337) = 2.44, p \\ .05 for depressive symptoms).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Results",
+      "text": "Means, variances and correlations between variables are shown in Table 2. After all the non-significant paths were set to zero, the final model fitted the data well (Table 2; Fig. 3). Among the late adolescents, all the variables showed statistically significant stability from Time 1 to Time 2. Second, the results revealed reciprocal cross-lagged paths between excessive internet use and school burnout: excessive internet use predicted later school burnout and school burnout predicted later excessive internet use. There was also a negative path between school burnout and engagement. Depressive symptoms, in turn, was predicted by school burnout. Reciprocal paths between school burnout and depressive symptoms were also observed. Girls suffered more than boys from depressive symptoms and school burnout, and boys suffered more than girls from excessive internet use. Moreover, fathers' high  The second model examined the cross-lagged associations between the three components of school burnout and excessive internet use. After non-significant paths were set to zero, the final model fitted the data well (Table 2; Fig. 4). As in Study 1, reciprocal paths were indicated between cynicism and feelings of inadequacy. In addition, feelings of inadequacy predicted later exhaustion. Moreover, excessive internet use led to an increase in all three components of school burnout, whereas only exhaustion led to an increase in subsequent excessive internet use. Feelings of exhaustion and inadequacy were more typical among girls than boys, whereas excessive internet use was more typical among boys (Table 3).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Discussion",
+      "text": "Previous research has shown that compulsive and excessive internet use is positively associated with impaired mental health, depressive symptoms, loneliness, anxiety and low self-esteem (Ciarrochi et al. 2016;Gamez 2014;Lam and Peng 2010). Similarly, excessive media use may lead to mental health problems later on (Primack et al. 2009). However, longitudinal research examining the possible reciprocal influences between excessive internet use and general and school-related mental health is lacking. Moreover, the associations between excessive internet use and mental health may vary according to the age of the participants. Thus, there is a need for studies to examine these associations among early, mid, and late adolescents (Carli et al. 2012). This is the first study to examine longitudinal crosslagged paths between excessive internet use, school engagement and burnout, and depressive symptoms among early and late adolescents. Interestingly, the two longitudinal studies reported here revealed reciprocal positive cross-lagged paths between excessive internet use and school burnout in both groups. According to these results, excessive internet use leads to later school burnout and school burnout leads to later excessive internet use. The results show that, among adolescents, contextual schoolrelated mental health, in particular, is affected by excessive internet use, which later on can spill over to depressive symptoms. Many of the digital youth targeted in the present studies are highly experienced in working with sociodigital technologies outside of school on an everyday basis   (Gee and Hayes 2011). However, while socio-digital participation may provide rewarding cognitive and social experiences outside school, many adolescents appear to be at risk for addiction to excessive use of socio-digital technologies as a consequence of disengaging from educational experiences that do not motivate or interest them. Excessive internet use relates not only to individual behaviors, but also to the way socio-digital technologies are designed to function (constantly advertising new social events, repeatedly updating information, opening new levels only after iterative efforts, constantly interrupting activity and actively calling for attention) (Hakkarainen et al. 2015). Constant activation of seemingly relevant social messages may hook vulnerable adolescents with motivational problems onto compulsive, repeated digital activities. Such experiences may gradually lead to excessive internet use. Sometimes, intensive socio-digital participation can be driven by harmonious passions (Vallerand et al. 2007) that lead adolescents to cultivate their skills and competencies and engage in gradually more complex digital activities (Ito et al. 2010); however, some young people develop an obsessive passion (Vallerand et al. 2007), or even addiction, involving repeated participation in monotonous activities such as those related to computer gaming and/or social media use (Kaltiala-Heino et al. 2004). Our previous understanding of the younger generation's excessive internet use and mental health is limited in part by the fact that most of the literature on the topic focuses on adolescents in the USA, where many students experience a decline in emotional engagement, as well as in academic and psychological outcomes, over the course of secondary school (Eccles et al. 1993). Studying the course and consequences of emotional engagement and burnout in relation to excessive internet use in a country like Finland, where students attain consistently high levels of academic achievement throughout their school career, despite recent evidence showing that students may not enjoy school, can yield some unique insights regarding the associations of student emotional school engagement and burnout with excessive internet use. Our results contribute to the literature by revealing that it is contextual, school-related mental health problems, in particular, that predict later excessive internet use, and vice versa, rather than general mental health problems, such as depressive symptoms. It might be that detrimental school-related mental health is the first step to excessive internet use, later spilling over to general mental health in the form of, e.g., depressive symptoms. Our results reveal the first signs of these spirals among both early and late adolescents. These are very important initial findings. If young people are not engaged at school, then they will find new objects of engagement outside of school. Although such interests may be developmentally beneficial, they may also lead to excessive and possibly addictive narrow engagement with the Internet. In support of earlier studies, we also found a negative path between school burnout and engagement (Salmela-Aro and Upadyaya 2014). Depressive symptoms, in turn, was predicted by school burnout and vice versa (Salmela-Aro et al. 2009a, b).\nStage-environment fit theorists argue that students' motivation and engagement are largely determined by the extent to which schools provide educational and social environments that meet adolescents' needs for relatedness, autonomy, and competence (Eccles et al. 1993). Accordingly, fulfilling adolescents' social and emotional needs can lead to an increase in their emotional engagement (Park et al. 2012) and positively influence their academic achievement and so prevent excessive internet use. However, our results revealed that school engagement was not related to, or buffered against, excessive internet use, but rather it was the negative side of engagement, that is, school burnout, that was associated with excessive internet use. This is an important finding, as it points to the different relations attaching to engagement and burnout in the school context. However, the results also showed that burnout can later spill over to engagement, impairing the latter in high school. This trend toward a decline in motivation is most marked among students who choose an academic track during their transition to upper secondary education. This might be related to stress induced by academic demands (Salmela-Aro and Tynkkynen 2012). With university studies as their goal, upper secondary students on the academic track strive to be successful in high school, which presents a more challenging and strenuous educational environment, oriented more toward social comparison and peer competition, than lower secondary school (Salmela-Aro and Tynkkynen 2012). When they feel pressured and their developmental needs for competency, relatedness, and autonomy are not met, students may withdraw and become emotionally disaffected from school. This, in turn, could lead to excessive internet use (Eccles et al. 1993;Ryan and Deci 2000). Adolescents might resort to socio-digital technologies because, unlike the latter, school does not support their needs for competency, relatedness and autonomy (Salmela-Aro et al. in press).\nThe results revealed that, among early adolescents in lower secondary school, later excessive internet use was predicted, in particular, by the burnout component of cynical attitude toward school and studies. These cynical young people at the age of 12 and 13 might feel that school no longer has any meaning or value for them and so seek meaning and value outside of school and, among other things, develop an addiction to such technology-mediated activities as excessive gaming and social media use. There is a risk that this can later lead to a cynical and negative attitude toward society as a whole and dropout from school (Bask and Salmela-Aro 2013). For high school students on an academic track, it was rather the component of exhaustion that leads to excessive internet use. These results point to the importance of finding ways to incorporate socio-digital practices that are meaningful for youth into their school work, to serve learning and not just as entertainment outside school.\nAs found in earlier studies, girls in general reported suffering more than boys from depressive symptoms and, in late adolescence, from school burnout, whereas boys more typically suffered from excessive internet use. SES did not predict any of these variables. Similarly, depressive symptoms were followed by an increase in burnout symptoms in both girls and boys in high school. Among boys, while excessive internet use was more frequent than among girls, it was also linked to increased subsequent burnout symptoms. Thus, the present results suggest that the symptoms related to mental health problems and their causes and consequences may be partially different for boys and girls. Early identification and treatment of these would benefit all students and prevent further symptoms from accumulating (e.g., early depressive symptoms among girls may lead to burnout in high school).",
+      "n_publication_ref": 20,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations",
+      "text": "This study has its limitations. Both longitudinal studies were based on only two waves and the retention rate could be better. To gain a more nuanced understanding of excessive internet use, data on adolescents' digitally mediated activities and interests and associated addictive experiences and symptoms are needed. Moreover, future studies should further examine the development of internet addition. It would be important to collect more data on various aspects of excessive internet use, not only on its developmental effects but also on its actual content, processes and qualities. Excessive internet use is a complex phenomenon that may confound both obsessive and harmonious passions. In order to assess its cognitive implications, we need to collect data on adolescents' sociodigital activities. This is important for distinguishing the less developmental and more negative (as well as positive, see also Willoughby 2008) aspects of socio-digital participation and using the potential opened up by complex technology-mediated practices for improving the pedagogic practices of schools. Making meaningful suggestions for preventing excessive internet use (beyond reducing time on the Internet), requires a sophisticated and concrete understanding of the associated psychological processes. Finally, the present studies are limited in that they did not examine contextual factors. Future studies could examine features of the educational and family context to help us understand which aspects of different educational systems and cultures contribute to the development of excessive internet use, emotional engagement and school burnout (Wang and Degol 2014). Further studies are needed, for instance, to reveal gaps and discontinuities between adolescents' out-of-school learning experiences and the practices used in schools to promote learning and engagement.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Implications",
+      "text": "Our results have strong practical implications. The present results can help us to design targeted interventions. The lower secondary school years might be the most critical time to intervene. To engage students in school and not allow them to be burned out might be the most successful way to prevent excessive internet use and promote mental health. Internet use may be addictive, but it may also offer creative personal and social experiences providing important gratifications that are useful in later studies and working life (Dhir et al. 2015). The bright side of socio-digital participation should also be examined. For instance, international experiences of computer-supported collaborative learning indicate that participation in student-centered but structured technology-mediated learning motivates adolescents and produces good learning results (e.g., Hakkarainen et al. 2015). Numerous investigations reveal that, supported by proper instruction and collaborative technologies, primaryand lower secondary school students are able to pursue challenging inquiries. Such approaches highlight the importance of the active personal and collaborative engagement of students in their learning processes (shared objectives, team-produced artifacts, self-reflection, and peer review). Pedagogically meaningful use of socio-digital technologies would not only engage adolescents in constructing in-depth understanding of scientific principles but also motivate their participation in building and using scientific and technological knowledge in an experimental way in meaningful contexts. The relevance of such pedagogic innovations are highlighted by recent changes in the Finnish national curriculum for comprehensive and high-school education that require 20 % of studies to be taken as phenomenon-based projects that involve integrating several subject domains and student collaboration and participation in the project design (Schneider et al. 2016).\nBy making learning a more meaningful and social experience, it would be possible to promote learning engagement also in students who already show signs of a cynical attitude to school. Engaging a larger proportion of adolescents in general, and males in particular, entails a substantial transformation in prevailing educational practices to bring them in line with the personal and social needs and emerging capabilities of digital youth. The present research findings also have a number of implications for prevention and treatment. In terms of prevention, identification of specific variables associated with excessive internet use helps in targeting potential at-risk individuals. These adolescents and their parents may then be approached by teachers and educated about the potential problems posed by extensive internet use. Raising awareness and providing education for adolescents, their parents and, in particular, schools and teachers are clearly key themes in prevention. Thus far, socio-digital technologies are not systematically used in Finnish schools for learning purposes. While adolescents rely on spontaneously emerging socio-digital practices of maintaining their social relations and pursuing their interests, they are in danger of excessive participation in repeated meaningless activities and, ultimately, of excessive internet use. In order to solve the problem, adolescents should be provided with opportunities to take part in structured activities that guide and facilitate complex and creative ways of using the new technologies (see Schneider et al. 2016).",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusion",
+      "text": "The present study despite its limitations adds to our understanding of adolescents' excessive internet use from the perspective of emotional engagement in school and school burnout. Emotional engagement, school burnout and depressive symptoms were found to function as distinct psychological processes each of which makes a unique contribution to adolescent excessive internet use. Furthermore, the quality of students' emotional involvement in school may influence excessive internet use through multiple pathways. Students who burn out at school are at risk for excessive internet use and depressive symptoms, which in turn can affect various measures of their academic success later on. Promoting student engagement has become a global concern, and the present findings from Finnish students, who are among the highest performing students in the world, shed light on the role of students' emotional engagement and school burnout in shaping excessive internet use by young people.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Acknowledgements",
+      "text": "Authors Contributions K S. A. conceived the Mind-the-Gap study, designed the current study and coordinated and drafted the manuscript. K. U. performed the statistical analyses and contributed to the writing of the manuscript. K. H. conceived the Mind-the-Gap study, and helped to draft the manuscript. K. L. conceived the Mind-the-Gap study, and helped to draft the manuscript. K. A. conceived the Mindthe-Gap study and helped to draft the manuscript. All authors read and approved the final manuscript.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Funding",
+      "text": "The study has been supported by the Academy of Finland Grants 263328 Mind-the-Gap Lonka, Hakkarainen, Alho and Salmela-Aro and 273872 LEAD Salmela-Aro.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conflict of interest",
+      "text": "The authors report no conflict of interests.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Ethical Approval",
+      "text": "The study protocol was approved by the University of Helsinki Ethical Review Board in the Humanities and Social and Behavioral Sciences.\nInformed Consent Participation was voluntary, and informed consent forms were collected from both the students and their parents. ",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Burned out to drop out: Exploring the relationship between school burnout and school dropout",
+      "journal": "European Journal of Psychology of Education",
+      "year": "2013",
+      "authors": "M Bask; K Salmela-Aro"
+    },
+    {
+      "title": "The 'digital natives' debate: A critical review of the evidence",
+      "journal": "British Journal of Educational Technology",
+      "year": "2008",
+      "authors": "S Bennett; K Maton; L Kervin"
+    },
+    {
+      "title": "How people learn: Brain, mind, and school",
+      "journal": "National Academy Press",
+      "year": "1999",
+      "authors": "J Bransford; A N Brown; R Cocking"
+    },
+    {
+      "title": "The association between pathological internet use and comorbid psychopathology: A systematic review",
+      "journal": "Psychopathology",
+      "year": "2012",
+      "authors": "V Carli; T Durkee; D Wasserman; G Hadlaczky; R Despalins; E Kramarz; M Kaess"
+    },
+    {
+      "title": "The shallows: What the internet is doing to our brains",
+      "journal": "W. W. Norton & Company",
+      "year": "2011",
+      "authors": "N Carr"
+    },
+    {
+      "title": "Causes, affects and practicalities of everyday multitasking",
+      "journal": "Developmental Review",
+      "year": "2015",
+      "authors": "L Carrier; L Rosen; N Cheever; A Lim"
+    },
+    {
+      "title": "Loneliness, depression, and computer self-efficacy as predictors of problematic internet use",
+      "journal": "CyberPsychology & Behavior",
+      "year": "2008",
+      "authors": "A A Ceyhan; E Ceyhan"
+    },
+    {
+      "title": "The development of compulsive internet use and mental health: A four year study of adolescence",
+      "journal": "Developmental Psychology",
+      "year": "2016",
+      "authors": "J Ciarrochi; P Parker; S Baljinder; S Marshall; C Jackson; A Gloster; P Heaven"
+    },
+    {
+      "title": "Predicting adolescent Internet addiction: The roles of demographics, technology accessibility, unwillingness to communicate and sought Internet gratifications",
+      "journal": "Computers in Human Behavior",
+      "year": "2015",
+      "authors": "A Dhir; S Chen; M Nieminen"
+    },
+    {
+      "title": "Development during adolescence: The impact of stage-environment fit on young adolescents' experiences in schools and in families",
+      "journal": "American Psychologist",
+      "year": "1993",
+      "authors": "J S Eccles; C Midgley; A Wigfield; C M Buchanan; D Reuman; C Flanagan; D Mac Iver"
+    },
+    {
+      "title": "Depressive symptoms and problematic internet use among adolescents: An analysis of the longitudinal relationships from the cognitive-behavioural model",
+      "journal": "Cyberpsychology, Behaviour and Social Networking",
+      "year": "2014",
+      "authors": "M Gamez"
+    },
+    {
+      "title": "What video games have to teach us about learning and literacy",
+      "journal": "",
+      "year": "2007",
+      "authors": "J P Gee"
+    },
+    {
+      "title": "Language and learning in the digital age",
+      "journal": "Routledge",
+      "year": "2011",
+      "authors": "J P Gee; E R Hayes"
+    },
+    {
+      "title": "How comprehensive school students perceive their psychosocial school environment",
+      "journal": "Scandinavian Journal of Educational Research",
+      "year": "2010",
+      "authors": "I Haapasalo; R V\u00e4limaa; L Kannas"
+    },
+    {
+      "title": "Socio-digital revolution: Digital natives vs digital immigrants",
+      "journal": "Elsevier",
+      "year": "2015",
+      "authors": "K Hakkarainen; L Hietaj\u00e4rvi; K Alho; K Lonka; K Salmela-Aro"
+    },
+    { "title": "", "journal": "J Youth Adolescence", "year": "", "authors": "" },
+    {
+      "title": "Hanging out, messing around, and geeking out",
+      "journal": "MIT Press",
+      "year": "2010",
+      "authors": "M Ito; S Baumer; M Bittandi; D Boud; R Cody"
+    },
+    {
+      "title": "School engagement trajectories and their differential predictive relations to dropout",
+      "journal": "Journal of social Issues",
+      "year": "2008",
+      "authors": "M Janosz; I Archambault; J Morizot; L S Pagani"
+    },
+    {
+      "title": "Confronting the challenges of participatory culture: Media education for 21st century",
+      "journal": "MacArthur",
+      "year": "2009",
+      "authors": "H Jenkins; K Clinton; R Purushotma; A Robison; M Wiegel"
+    },
+    {
+      "title": "Internet addiction? Potentially problematic use of the Internet in a population of 12-18 year-old adolescents",
+      "journal": "Addiction Research & Theory",
+      "year": "2004",
+      "authors": "R Kaltiala-Heino; T Lintonen; A Rimpel\u00e4"
+    },
+    {
+      "title": "Loneliness as the cause and the effect of problematic Internet use: The relationship between Internet use and psychological well-being",
+      "journal": "CyberPsychology & Behavior",
+      "year": "2009",
+      "authors": "J Kim; R Larose; W Peng"
+    },
+    {
+      "title": "The associations between aggressive behaviors and Internet addiction and online activities in adolescents",
+      "journal": "Journal of Adolescent Health",
+      "year": "2009",
+      "authors": "C H Ko; J Y Yen; S C Liu; C F Huang; C F Yen"
+    },
+    {
+      "title": "Effect of pathological use of the internet on adolescent mental health: A prospective study",
+      "journal": "Archives of Pediatrics and Adolescent Medicine",
+      "year": "2010",
+      "authors": "L T Lam; Z W Peng"
+    },
+    {
+      "title": "Adolescents' networks: Exploring different patterns of socio-digital participation",
+      "journal": "Scandinavian Journal of Educational Research",
+      "year": "",
+      "authors": "S Li; L Hietaj\u00e4rvi; T Palonen; K Salmela-Aro; K Hakkarainen"
+    },
+    {
+      "title": "The compulsive internet use scale (CIUS): Some psychometric properties",
+      "journal": "CyberPsychology & Behavior",
+      "year": "2009",
+      "authors": "G J Meerkerk; R Van Den Eijnden; A A Vermulst; H F L Garretsen"
+    },
+    {
+      "title": "The relationship between excessive Internet use and depression: A questionnaire-based study of 1,319 young people and adults",
+      "journal": "Psychopathology",
+      "year": "2010",
+      "authors": "C M Morrison; H Gore"
+    },
+    {
+      "title": "Mplus. User's guide",
+      "journal": "Muth\u00e9n & Muth\u00e9n",
+      "year": "1998",
+      "authors": "L Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Students, computers and learning",
+      "journal": "OECD",
+      "year": "2015",
+      "authors": " Oecd"
+    },
+    {
+      "title": "Reclaiming an awkward term: What we might learn from ''Digital Natives",
+      "journal": "Routledge",
+      "year": "2011",
+      "authors": "J Palfrey; U Gasser"
+    },
+    {
+      "title": "What makes students engaged in learning? A time-use study of within-and between-individual predictors of emotional engagement in low-performing high schools",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2012",
+      "authors": "S Park; S D Holloway; A Arendtsz; J Bempechat; J Li"
+    },
+    {
+      "title": "Innovative schools: Teaching and learning in the digital era-workshop documentation",
+      "journal": "European Parliament",
+      "year": "2015",
+      "authors": ""
+    },
+    {
+      "title": "Digital natives, digital immigrants",
+      "journal": "",
+      "year": "2001",
+      "authors": "M Prensky"
+    },
+    {
+      "title": "From digital natives to digital wisdom: Hopeful essays from 21st century learning",
+      "journal": "Sage",
+      "year": "2012",
+      "authors": "M Prensky"
+    },
+    {
+      "title": "Association between media use in adolescence and depression in young adulthood: A longitudinal study",
+      "journal": "Archives of General Psychiatry",
+      "year": "2009",
+      "authors": "B A Primack; B Swanier; A M Georgiopoulos; S R Land; M J Fine"
+    },
+    {
+      "title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and wellbeing",
+      "journal": "American Psychologist",
+      "year": "2000",
+      "authors": "R M Ryan; E L Deci"
+    },
+    {
+      "title": "School burnout inventory (SBI): Reliability and validity",
+      "journal": "",
+      "year": "2009",
+      "authors": "K Salmela-Aro; N Kiuru; E Leskinen; J.-E Nurmi"
+    },
+    {
+      "title": "School Burnout and Engagement Profiles among Digital Natives in Finland: A person-oriented approach",
+      "journal": "",
+      "year": "",
+      "authors": "K Salmela-Aro; J Muotka; K Hakkarainen; K Alho; K Lonka"
+    },
+    {
+      "title": "Depressive symptoms and school burnout during adolescence: Evidence from two cross-lagged longitudinal studies",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2009",
+      "authors": "K Salmela-Aro; H Savolainen; L Holopainen"
+    },
+    {
+      "title": "Gendered pathways in school burnout among adolescents",
+      "journal": "Journal of Adolescence",
+      "year": "2012",
+      "authors": "K Salmela-Aro; L Tynkkynen"
+    },
+    {
+      "title": "The schoolwork engagement inventory: Energy, dedication and absorption (EDA)",
+      "journal": "",
+      "year": "2012",
+      "authors": "K Salmela-Aro; K Upadyaya"
+    },
+    {
+      "title": "",
+      "journal": "European Journal of Psychological Assessment",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "School burnout and engagement in the context of demands-resources model",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2014",
+      "authors": "K Salmela-Aro; K Upadyaya"
+    },
+    {
+      "title": "Screening for depression in primary care Development and validation of the Depression Scale, a screening instrument for depression",
+      "journal": "",
+      "year": "1995",
+      "authors": "R K R Salokangas; O Poutanen; E Steng\u00e5rd"
+    },
+    { "title": "", "journal": "Acta Psychiatrica Scandinavica", "year": "", "authors": "" },
+    {
+      "title": "Investigating optimal learning moments in U.S. and Finnish science classes",
+      "journal": "Journal of Research in Science Teaching",
+      "year": "2016",
+      "authors": "B Schneider; J Krajick; J Lavonen; K Salmela-Aro"
+    },
+    {
+      "title": "Different types of Internet use, depression, and social anxiety: The role of perceived friendship quality",
+      "journal": "Journal of Adolescence",
+      "year": "2009",
+      "authors": "M H Selfhout; S J Branje; M Delsing; T F Ter Bogt; W H Meeus"
+    },
+    {
+      "title": "Engagement and disaffection in the classroom: Part of a larger motivational dynamic",
+      "journal": "Journal of Educational Psychology",
+      "year": "2008",
+      "authors": "E Skinner; C Furrer; G Marchand; T Kindermann"
+    },
+    {
+      "title": "Adolescents' compulsive Internet use and depression: A longitudinal study",
+      "journal": "Open Journal of Depression",
+      "year": "2014",
+      "authors": "E B Thorsteinsson; L Davey"
+    },
+    {
+      "title": "Schoolwork engagement and burnout among Finnish high school students and young adults: Profiles, progressions, and educational outcomes",
+      "journal": "Developmental Psychology",
+      "year": "2014",
+      "authors": "H Tuominen-Soini; K Salmela-Aro"
+    },
+    {
+      "title": "Online communication, compulsive Internet use, and psychosocial well-being among adolescents: A longitudinal study",
+      "journal": "Developmental Psychology",
+      "year": "2007",
+      "authors": "R Vallerand; S.-J Salvy; G Margeau; A Elliot; P Denis; F Grouzet; C Blanhauet; R J Van Den Eijnden; G J Meerkerk; A A Vermulst; R Spijkerman; R C Engels"
+    },
+    {
+      "title": "Staying engaged: Knowledge and research needs in student engagement",
+      "journal": "Child Development Perspectives",
+      "year": "2014",
+      "authors": "M T Wang; J Degol"
+    },
+    {
+      "title": "A short-term longitudinal study of Internet and computer game use by adolescent boys and girls: Prevalence, frequency of use, and psychosocial predictors",
+      "journal": "Developmental Psychology",
+      "year": "2008",
+      "authors": "T Willoughby"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Fig. 11Fig. 1 Cross-lagged associations between 6 and 7th grade students' burnout, excessive internet use, and depressive symptoms. Note: *p \\ .05; **p \\ .01; ***p \\ .001",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Fig. 33Fig. 2 Cross-lagged associations between 6 and 7th grade students' exhaustion, cynicism, feelings of inadequacy, and excessive internet use. Note: *p \\ .05; **p \\ .01; ***p \\ .001",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_2",
+      "figure_caption": "Fig.4Cross-lagged associations between 6 and 7th grade students' exhaustion, cynicism, feelings of inadequacy, and excessive internet use. Note: *p \\ .05; **p \\ .01; ***p \\ .001",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Study 1: means and variances of variable values and correlations between variables Associations between the separate school burnout dimensions and excessive internet use",
+      "figure_data": "1234567891 01 11. School burnout a2. School burnout b.51***3. Depressive symptoms a.59***.37***4. Depressive symptoms b.40***.53***.49***5. Excessive internet use a.43***.32***.32***.23***6. Excessive internet use b.30***.30***.24***.24***.42***7. School engagement a-.44*** -.25*** -.01.04-.07-.068. School engagement b-.26*** -.31*** -.03.01-.06-.04.58***9. Gender.03-.02-.10**-.16***.13***.08**.00-.0110. Fathers' SES.08.08-.00-.02-.190.02.17-.03.0611. Mothers' SES.25**-.01.10.05.03.05-.15-.04 -.03.21**M2.502.621.671.581.992.254.474.221.44 1.171.46Var1.101.240.430.380.640.712.032.300.25 0.170.26a Time 1, b Time 2* p \\ .05; ** p \\ .01; *** p \\ .001Table 2 Goodness-of-fit summary for the tested modelsNv 2dfpCFITLIRMSEASRMRModel 1Study 1170231.1870.000.980.930.050.03Study 2163551.54260.000.990.980.030.03Model 2Study 1170232.31120.000.990.980.030.02Study 2163537.51100.000.990.970.040.04Model 1 = Associations between school engagement, burnout, depressive symptoms, and excessiveinternet useModel 2 ="
+    }
+  ],
+  "doi": "10.1007/s10964-016-0494-2"
+}

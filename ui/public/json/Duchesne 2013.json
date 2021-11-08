@@ -1,0 +1,771 @@
+{
+  "title": "Developmental Trajectories of Achievement Goal Orientations During the Middle School Transition: The Contribution of Emotional and Behavioral Dispositions",
+  "abstract": "This longitudinal study builds on research addressing changes in achievement goal orientations (AG) across the transition to middle school. We had two objectives. The first was to identify and describe different development trajectories of AG (mastery, performance-approach, and performanceavoidance) from the last year of elementary school (Grade 6) to the third year of middle school (Grade 9, or Secondary 3). The second was to determine whether these trajectories depend on individual dispositions such as anxiety, depression, aggressiveness, and inattention. A sample of 378 French-speaking students from the province of Quebec and their mothers participated in a 4-year longitudinal study. Results showed three trajectories for mastery goals (High, Moderate, and Moderate-declining) and four trajectories for performance-approach (High, Moderate-declining,",
+  "sections": [
+    {
+      "heading": "",
+      "text": "In the field of education psychology, achievement goal theory has long been the predominant approach to understanding the motivational dynamics of learning (Anderman & Patrick, 2012;Elliot, 2005). Achievement goal orientations (AG) are cognitive representations that guide individual conceptions of competence as well as the criteria for judging that competence (Dweck & Leggett, 1988;Nicholls, 1984). They form a tacit agenda, a meaning system (Dweck & Grant, 2008), that conditions how individuals approach a task, are motivated to accomplish the task and engage in it, and their emotional, cognitive, and behavioral responses while performing it . Although many empirical studies support a strong association between AG and learning (Harackiewicz, Barron, Tauer, Carter, & Elliot, 2000), few have traced chronological changes in these goals or sought to more deeply understand individual differences in goal orientation development. Consequently, it has yet to be determined whether developmental changes in AG follow a homogeneous trajectory or whether different subgroups of students follow distinct developmental trajectories.\nA variety of cross-sectional and short-term longitudinal studies have associated behavioral and emotional dispositions with AG orientations Kaplan & Maehr, 1999). However, none to date has determined the contribution of these dispositions to AG development. Given the effects of these goals on academic engagement and success, it would appear critical to gain a better understanding of how AG endorsement fluctuates over the years in distinct subgroups of students and to identify the personal dispositions associated with these changes. This longitudinal study had two objectives: (a) to identify and describe development trajectories associated with high AG using yearly surveys from the end of elementary school (Grade 6) to the third year of middle school (Grade 9); and (b) to verify whether individual variations are predicted by specific behavioral (aggressiveness, attention problems) and emotional (anxiety and depression) dispositions measured at the end of elementary school.",
+      "n_publication_ref": 7,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Achievement Goals: Conceptualization, Consequences, and Continuity",
+      "text": "Seminal work on achievement goal theory (Dweck & Leggett, 1988;Nicholls, 1984) has highlighted the mastery and performance approach goal orientations. Mastery goals focus on the development of abilities and task mastery. Students who adopt these goals typically have autonomous motivations for engaging in a task (i.e., based on pleasure and importance) and judge their successes and setbacks by their own standards. In contrast, performance goals are oriented toward a comparative demonstration of abilities. Students who adopt these goals have more controlled motivations for engaging in a task or activity (i.e., to demonstrate ability or conceal inability), and they judge their abilities based on social comparison. In the 1990s, Elliot and his colleagues (Elliot, 1999;Elliot & Harackiewicz, 1996) proposed a distinction between approach and avoidance-performance goals. The desire to demonstrate ability, outperform others, and attain success and recognition was indicative of performance-approach goals, whereas the desire to avoid appearing incompetent indicated performance-avoidance goals. The same distinction was made for mastery goals, with the addition of mastery-avoidance goals (Elliot, 1999(Elliot, , 2005. Although these goals represent a drive to develop and improve one's competence, there is also the fear that these competences could stagnate or decline with time. However, the present study focuses on the trichotomous AG framework (i.e., mastery-approach, performance-approach, and performance-avoidance goals), which has dominated in recent years (Pekrun, Elliot, & Maier, 2009). A significant body of research has investigated the associations between AG and various indicators of student learning. Mastery goals have been associated with positive outcomes such as self-efficacy (Middleton & Midgley, 1997), self-regulated learning (Pintrich, Zusho, Schiefele, & Pekrun, 2001), cognitive engagement (Pintrich & Schrauben, 1992), learning motivation Poulin, Duchesne, & Ratelle, 2010), deep-processing strategies (Elliot, McGregor, & Gable, 1999), and in some cases, performance (Linnenbrink-Garcia, Tyson, & Patall, 2008). In the case of performance goals, the positive consequences (e.g., self-efficacy, task engagement, and performance) have been associated mainly with pursuing performance-approach goals, whereas the negative consequences (e.g., reluctance to seek help, avoidance of challenging tasks, superficial processing strategies, low performance) have been attributed to pursuing performance-avoidance goals (for a review, see Patrick, 2012, andElliot, 2005).\nWhile researchers have explored learning outcomes in relation to AG, the ways in which these goals change over time have remained largely unstudied. The middle school transition provides an informative window on this question, given the many changes that take place during this period (e.g., school structure, curriculum, teaching practices, classroom groupings, assessment systems), which are likely to affect students' motivational dynamics (Eccles & Roeser, 2011). Though scant, the data to date largely support the idea that goals change during this period. For example, in a two-stage study conducted over a 1-year interval with students in Grades 5 and 6, Anderman and Midgley (1997) reported a decline in mastery goals while performanceapproach goals remained stable. In another study that focused on the same school years, Anderman and Anderman (1999) showed that mastery goals decreased and performance-approach goals increased. More recently, Shim, Ryan, and Anderson (2008) assessed AG from autumn to spring in sixth-and seventh-grade students and found a significant decline in all types of goals (mastery, performance-approach, and performance-avoidance).\nAlthough these studies suggest that AG endorsement could fluctuate around the middle school transition, other avenues of inquiry are needed to deepen our understanding of this issue. First, these studies used analytical strategies (e.g., analyses of variance and growth curves) that assumed similar fluctuation patterns across individuals (Raudenbush, 2001). This dimensional, or variable-centered, approach does not allow the identification of distinct developmental patterns. However, research that examined motivational development using a person-centered approach demonstrated that learning motivation assumes heterogeneous trajectories in the middle school transition (Duchesne, Larose, Guay, Vitaro, & Tremblay, 2005;Ratelle, Guay, Larose, & Sen\u00e9cal, 2004). Accordingly, we expect trajectories of AG to be heterogeneous, that is, not all students should report decreased goal endorsement, and that developmental trajectories for each goal may vary differently across subgroups of students. For example, some students might report a stable trajectory (e.g., high mastery orientation before and after the transition), whereas others might experience a declining (e.g., markedly reduced performance-approach goals) or an ascending trajectory (e.g., gradually increasing performance-avoidance goals). In the present study, group-based trajectory modeling (Nagin, 1999(Nagin, , 2005 was applied to developmental trajectories of goal endorsement to test this hypothesis.\nSecond, it is unknown whether the discontinuity observed across the middle school transition indicates a trend that will persist in the following years. Time points were incorporated after the first year of middle school, not only to examine changes in students' AG after the transition (e.g., Anderman & Midgley, 1997), but also to identify, if applicable, whether declining goals are followed by a return to baseline (before the transition), stabilized, or retained, and for how many students. Finally, none of the studies that examined fluctuations in goal endorsement across the transition to middle school considered the contribution of students' behavioral and emotional dispositions to predict AG trajectories. Yet studies have suggested that behaviors and emotions contribute to students' goal orientation (e.g., Kaplan & Maehr, 1999;). If we could characterize AG trajectories according to specific behavioral and emotional dispositions present at the end of elementary school, the identification of students at risk for engaging in learning patterns that jeopardize their success in middle school would be facilitated.",
+      "n_publication_ref": 26,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Achievement Goal Orientations, Behaviors, and Emotions",
+      "text": "The research on the determinants of AG has generated a growing number of empirical studies in recent years. Whereas most have addressed individual dispositions with respect to fear of failure, the conception of intelligence, and perceived competence (Cho, Weinstein, & Wicker, 2011;Cury, Elliot, Da Fonseca, & Moller, 2006;Elliot, Sheldon, & Church, 1997;Leondari & Gialamas, 2002), a few have examined these dispositions from the perspective of temperament or personality. These latter studies have shown that traits such as hope, extraversion, conscientiousness, and positive affect were associated with approach goals (mastery and performance), whereas neuroticism and negative affect were associated with both approach and avoidance performance goals (Chen & Zhang, 2011;Daniels, Stupnisky, Pekrun, Haynes, Perry, & Newall, 2009;Elliot & Thrash, 2002). Relationships have also been found between behavioral activation system (BAS) and approach goals, and between behavioral inhibition system (BIS) and performance-avoidance goals (Elliot & Thrash, 2002). In general, research suggests that AG partly result from complementary dispositions that orient behavior toward seeking positive stimuli (approach behavior) and avoiding negative stimuli (avoidance behavior).\nIn the wake of these studies, we propose to examine the role of certain individual dispositions that are closely associated with temperament and personality traits. We pay particular attention to the expression of attention problems, aggressiveness, anxiety, and depression. These problems have been associated with certain basic traits such as effortful control, negative affect, and extraversion (see Rothbart, 2007). We believe that these individual dispositions play a similar role to temperament and personality traits in motivational orientations for learning. The next paragraphs describe these dispositions and their proposed relationship to AG.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Inattention",
+      "text": "Attention problems manifest as cognitive deficits in areas such as working memory, interference control, flexibility, and planning (American Psychiatric Association, 2000; Barkley, 2006;Burns et al., 2001;Sergeant, Geurts, & Oosterlaan, 2002). A number of studies have shown that children with symptoms of inattention, accompanied or not by hyperactivity and impulsivity, were more easily frustrated when performing school tasks (Milich, 1994;Milich & Okazaki, 1991) and less likely to persevere in these tasks (Hoza, Pelham, Waschbusch, Kipp, & Owens, 2001;Milich & Okazaki, 1991). In addition, at least two studies have provided direct support for a relationship between attention problems and AG (see also Johnson & Reid, 2011). Specifically, Carlson, Booth, Shin, and Canu (2002) showed that children with attention deficit/hyperactivity disorder (ADHD) were perceived by their parents and teachers as being less oriented toward mastery and performanceapproach goals than children without ADHD. Children with ADHD were also less likely to select challenging tasks and more likely to judge their performance in light of external feedback. Furthermore, Barron, Evans, Baranik, Serpell, and Buvinger (2006) found that students with ADHD were more oriented toward performance-avoidance than performance-approach goals and less oriented toward performance-approach goals than students without ADHD.\nIn the present study, we examine the relationship between inattention and AG trajectories. Students with certain attention problems were expected to have (a) a higher probability of belonging to trajectories characterized by high performance-avoidance goals; and (b) a lower probability of belonging to trajectories characterized by higher approach goals (mastery and performance). Students with attention problems usually have difficulty concentrating and organizing complex tasks, and are more likely to be motivated toward such tasks, to disengage from them, and to experience failure (e.g., Barkley, 2006). The combination of attention and learning problems could progressively encourage them to adopt performance-avoidance goals (orientation toward negative stimuli) rather than mastery or performance-approach goals (orientation toward positive stimuli).",
+      "n_publication_ref": 11,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Aggressiveness",
+      "text": "Aggressiveness is generally expressed through hostile behaviors toward other people, including threats, insults, and physical assaults (Dodge, Coie, & Lynam, 2006;Gendreau & Archer, 2005;McMahon & Kotler, 2006). These behaviors have frequently been associated with a cascade of negative events, such as rejection by conventional peers (Boivin, Vitaro, & Poulin, 2005;Dishion, Piehler, & Myers, 2008) and poor performance (Duchesne et al., 2005;Hinshaw, 1992;Rumberger, 1995). Furthermore, aggressiveness dimensions have been related to AG. For example, Kaplan and Maehr (1999) showed that mastery goals were positively related to impulse control (e.g., being calm and in control) and negatively to classroom disruptive behaviors (e.g., fooling around and making teachers angry), whereas performance-approach goals were associated with impulsivity and disruption. Cheung, Ma, and Shek (1998) found that antisocial behaviors (e.g., disobeying parents) were positively associated with performance-approach goals, particularly in young girls. They also reported that students who were mastery oriented tended to help, cooperate, and share more, whereas performance-oriented students were less likely to help their peers.\nAccording to this literature, students who exhibit aggressive behaviors would be more likely to belong to high performance-approach and performanceavoidance goal trajectories and less likely to belong to a high mastery goal trajectory. It has been proposed that children who are more concerned about social relationships, reputation, and comparisons with others would report a strong endorsement of performance-approach goals (Anderman & Anderman, 1999;Kaplan & Maehr, 2007;Maehr & Midgley, 1991). Students whose behaviors are detrimental to the quality of their interpersonal relationships might conceivably be concerned about the social image they project. They might consequently seek to validate their abilities (performance-approach goals) in an attempt to improve their image or to show that they can succeed without others' help. In addition, as these students are also at greater risk for learning problems, they would also approach learning situations with a concern to limit the risks of failure and humiliation (performance-avoidance goals).",
+      "n_publication_ref": 13,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Anxiety and Depression",
+      "text": "Anxiety is a response to danger, and may be expressed through fear and avoidance (Hankin, Abramson, & Siler, 2001;Kendall, Hedtke, & Aschenbrand, 2006). Depression refers to feelings of sadness and hopelessness, accompanied by lack of interest, feelings of worthlessness, and so on (American Psychiatric Association, 2000). These emotions affect memory, concentration, executive functions, and motivation (see Castaneda, Tuulio-Henriksson, Marttunen, Suvisaari, & L\u00f6nnqvist, 2008), and they predict poorer learning in middle school (e.g., Duchesne et al., 2005;Fr\u00f6jd et al., 2008). At the same time, a few studies have reported associations between emotions and AG. For example, anxiety (e.g., worries, test anxiety) has been positively associated with performance-approach and performance-avoidance goals but unrelated to mastery goals Linnenbrink, 2005;Middleton & Midgley, 1997). Depressive symptoms have been negatively related to mastery goals but positively to performance-approach and performance-avoidance goals Dykman, 1998). In addition, mastery goals have been related to increased positive affects (e.g., happiness) and decreased negative affect (e.g., sadness), whereas performance-avoidance goals have been associated with increased negative affect and performance-approach goals have been associated with both positive and negative affect (Daniels et al., 2009;Kaplan & Maehr, 1999;Linnenbrink, 2005;Pekrun et al., 2009).\nIn the present study, we expected that students who presented a personality disposition to anxiety and depression would be more likely to belong to high performance-approach and performance-avoidance goal trajectories and less likely to belong to a high mastery goal trajectory. One the one hand, the cognitive and motivational problems that usually coexistent with these emotions could predispose these students to adopt performance goals (approach and avoidance) and not mastery goals due to negative self-perceptions, problematic information processing, lack of interest in tasks, and negative outcome expectations (e.g., . On the other hand, more anxious or depressed students might impose higher standards of success on themselves, and therefore pursue performance-approach goals to obtain recognition of their abilities. Attaining standards and obtaining recognition would help relieve their emotional distress and restore their self-worth (see Boekaerts, 1993;.",
+      "n_publication_ref": 13,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Present Study",
+      "text": "This study had two objectives. The first was to identify naturally occurring developmental AG trajectories using group-based trajectory modeling (Nagin, 1999(Nagin, , 2005. This analytical strategy allows grouping students according to their naturally occurring similarities and differences in terms of AG fluctuations during and after the middle school transition. Given the exploratory nature of this objective, no explicit hypotheses were formulated regarding the number and configuration of the obtained trajectories. The second was to examine the role of behavioral and emotional dispositions in predicting AG trajectories, while controlling for students' gender, performance, and perceptions of academic competence, which were found to predict AG (see Hyde & Durik, 2005, Kaplan, Middleton, Urdan, & Midgley, 2002, and Senko, Hulleman, & Harackiewicz, 2011. Particular attention was paid to gender as a potential moderator of the relationship between behavioral and emotional dispositions and AG trajectories, because boy and girls have frequently been found to differ on these variables. For example, other things being equal, girls tend to have more emotional problems than boys (Duchesne, Ratelle, Poitras, & Drouin, 2009;Kendall et al., 2006) but fewer behavioral problems (see McMahon & Kotler, 2006). Girls are also more concerned about how adults judge their academic performance (Pomerantz, Altermatt, & Saxon, 2002), more mastery-oriented, and less performance-oriented (e.g., Bouffard, Boisvert, Vezeau, & Larouche, 1995;Middleton & Midgley, 1997;Poulin et al., 2010). Thus, the strength of associations among individual dispositions and AG trajectories may be greater for girls than for boys for anxiety and depression but not for inattention and aggressiveness. Due to the exploratory nature of the potential moderating effect of gender, no specific hypotheses were formulated.",
+      "n_publication_ref": 12,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Participants and Procedure",
+      "text": "We used data obtained from the first four waves of a longitudinal study on students' school adaptation and persistence from the end of elementary to the end of high school in the province of Quebec, Canada. The present study began when the students were in the last year of elementary school (Grade 6). The sample for the present study (n = 378) included 155 boys and 210 girls (13 unspecified) with an average age of 11.84 years (SD = .44). Most of the students were born in the province of Quebec (92.83%), spoke French at home (97.18 %), and grew up in intact families (70.89%). The mother of each participating child was also asked to participate. The average age of mothers was 40.38 years (SD = 4.76) and the mean reported family income was from CAD$50,000 to CAD$59,000. The mean household income in Quebec at that time was CAD$59,000 (Statistics Canada, 2010).\nAll participants were recruited in collaboration with the Quebec Ministry of Education, Leisure, and Sports (MELS). The aim was to obtain a representative sample of boys and girls enrolled in Grade 6 in a public, Frenchspeaking elementary school in Quebec during the 2006 to 2007 school year. The sample was stratified according to gender, socioeconomic status, and geographic location (rural vs. urban). Once the parent gave consent, a communication was mailed, including (a) a written consent form for the parent to sign, indicating agreement to participate in the study, (b) a written consent form for the child to complete, (c) a prestamped self-addressed return envelope, and (d) two questionnaires: a parent version and a student version. Mothers and their children could also choose to complete an electronic Journal of Early Adolescence XX(X) version of questionnaire, for which they were given a confidential access code to a secure website. These data collection instruments were mailed on four separate occasions, in April 2007April , 2008April , 2009April , and 2010.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Missing Data",
+      "text": "Missing data on the variables from Time 1 to Time 4 ranged from 0.29% (aggressiveness and inattention at Time 1) to 39.53% (achievement goals at Time 4). It is recognized that missing data can wield a considerable impact on the results and their interpretation (e.g., West, 2001). In the present study, the missing data on the predictive variables at Time 1 were estimated with Multiple Imputation, which is based on the Expectation-Maximization algorithm, using SAS statistical software (Version 9.2). The procedure used to analyze AG trajectories (PROC TRAJ; see the Results section) accommodates missing data as long as at least two observations are available for each individual (Jones, Nagin, & Roeder, 2001). Moreover, this procedure allows tracing trajectories measured at three different time points (Dup\u00e9r\u00e9, Lacourse, Vitaro, & Tremblay, 2007;Jones et al., 2001).",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "Achievement Goal Orientations-Grade 6 (Time 1) to Grade 9 (Time 4). AG were measured annually using a shortened version of the Patterns of Adaptive Learning Scales (PALS; Midgley et al., 2000). This questionnaire contains three subscales: Mastery Goals (five items), Performance-Approach Goals (five items), and Performance-Avoidance Goals (four items). Students were asked to indicate the degree to which each statement corresponded to their intentions on a 5-point Likert scale ranging from 1 (very little or not at all) to 5 (very much). The Mastery Goals subscale measured the extent to which students engaged in learning activities in order to develop competence (e.g., \"It is important to me that I improve my skills this year\"). The performanceapproach subscale assessed how important it was for students to outperform their peers (e.g., \"One of my goals is to show others that I'm good at my class work\"). The performance-avoidance subscale measured the extent to which students were concerned with hiding the fact that they were less competent than their peers (e.g., \"It's important to me that my teacher doesn't think that I know less than others in class\"). Previous research (e.g., Midgley et al., 2000; supports the psychometric qualities of these subscales. In the current study, the internal consistency coefficients (Cronbach's \u03b1) at each of the assessment periods are as follows: mastery goals (Grade 6 \u03b1 = .78; Grade 7 = .85; Grade 8 = .87; and Grade 9 = .83), performance-approach goals (Grade 6 = .82; Grade 7 = .88; Grade 8 = .88; and Grade 9 = .89), and performance-avoidance goals (Grade 6 = .76; Grade 7 = .79; Grade 8 = .83; and Grade 9 = .84).\nDepression-Grade 6 (Time 1). The presence of depressive symptoms at the end of elementary school was measured using items from the Children's Depression Inventory (CDI; Kovacs, 1992), a self-reported measure. Five items assessed symptoms that are typically found in depressed children and adolescents (e.g., loneliness, self-deprecation, rumination). For each item, students were asked to choose the statement that best corresponded to their feelings in the last 2 weeks (e.g., 1 = I don't feel lonely, or 2 = I often feel lonely, or 3 = I always feel lonely). A study conducted in Quebec (Saint-Laurent, 1990) validated the psychometric qualities (validity and reliability) of the French version of the CDI. In the present study, the coefficient of internal consistency (Cronbach's \u03b1) for this abridged version was .69.\nAnxiety-Grade 6 (Time 1). Students' anxiety symptoms were assessed with the Worry/Oversensitivity subscale of the Revised Children's Manifest Anxiety Scale (R-CMAS; Reynolds & Richmond, 1997). This self-reported subscale targets youths from 6 to 19 years old and contains 12 items (e.g., \"I get nervous when things do not go the right way for me\"). Students were asked to respond either \"Yes\" or \"No\" to each statement. A large number of \"Yes\" responses indicates a high degree of anxiety. The French-Canadian version of the Worry/Oversensitivity subscale yielded a Cronbach's \u03b1 of .81 and a test-retest Pearson correlation coefficient of .61 after 6 months (Turgeon & Chartrand, 2003). The Cronbach's \u03b1 coefficient in the present study was .73.\nAggressiveness and Inattention-Grade 6 (Time 1). Students' behavioral and cognitive dispositions were assessed by their mothers using the Aggressive behavior and Attention problems subscales of the Child Behavior Checklist (CBCL; Achenbach, 1991). Three items were retained for the Aggressive behavior subscale (threatens people; cruelty, bullying, or meanness to others; gets in many fights) and three for the Attention problems subscale (can't concentrate, can't pay attention for long; impulsive or acts without thinking; poor school work). Each item was assessed using a 3-point scale ranging from 0 (never applies) to 2 (frequently applies). Item scores for each subscale were summed to obtain two scores (Aggressiveness and Inattention). These subscales have been tested for reliability and validity (Achenbach, 1991). In this study, the internal consistency coefficient (Cronbach's \u03b1) was .71 for Aggressiveness and .66 for Inattention.\nAcademic Characteristics-Grade 6 (Time 1). Three indicators were used to measure students' academic characteristics: perceived academic competence, and grades in French and in mathematics. Perceived academic competence was measured by a subscale of the Perceived Life Competencies Scale (Losier, Vallerand, & Blais, 1993). This subscale includes three items (e.g., \"I usually have problems with my schoolwork\") and is rated on a 7-point Likerttype scale ranging from 1 (Completely disagree) to 7 (Completely agree). Losier et al. (1993) reported a coefficient of internal consistency (Cronbach's \u03b1) of .81 for this subscale and a test-retest reliability coefficient of .84 after 1 month. In the present study, the Cronbach's \u03b1 was .70. Grades in French and mathematics were self-reported by students at the end of Grade 6, and the average mark was 83.53% (SD = 9.95) in French and 85.06% (SD = 9.98) in mathematics. Given the size of the correlation coefficient between grades in French and Mathematics (r = .61, p < .001), an overall score (academic achievement) was used as a covariable.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Preliminary Analyses",
+      "text": "Bivariate correlations were computed to explore the relationships among all variables. As shown in Table 1, most of the variables were significantly correlated and in the expected direction. These results indicated that AG were relatively stable over time, with correlation coefficients ranging from .43 (mastery goals at Time 1 and Time 2) to .68 (performance-approach goals at Time 3 and Time 4). Nevertheless, this apparent stability could be misleading for certain student subgroups, for whom these goals fluctuated from high to low within the time window studied. Moreover, the analysis also revealed that the magnitude of the relationships between performance-approach and performance-avoidance goals was strong and positive at each measuring time (Time 1: r = .78; Time 2: r = .80; Time 3: r = .84; Time 4: r = .83), suggesting that these goals tend to co-occur, at least in this sample.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Trajectories of Achievement Goals",
+      "text": "The first objective of this study was to identify developmental trajectories for mastery, performance-approach, and performance-avoidance goals from the end of elementary school to the third year of middle school. We used the PROC TRAJ procedure (Jones et al., 2001;Jones & Nagin, 2007) to estimate a model with the optimal number of trajectories. The Bayesian Information Criterion (BIC) was used as a first empirical criterion for determining both the optimal number of groups and the shape of their trajectories. Because BIC values are negative, the higher values are the least negative one. A second criterion is membership probability. For each trajectory group, each student received a belonging probability score, ranging from 0 (low) to 1 (high). A probability of .70 or higher is deemed acceptable (Nagin, 2005).\nFor each goal type, mixture models for one, two, three, four, and five groups were estimated, with each trajectory described by a second-order polynomial function (i.e., constant only, linear, and quadratic trends). The quadratic trend was specified for each developmental trajectory. When this trend was found to be nonsignificant, we considered the lower order significant trends, starting with the linear trend and, if appropriate, constant only (see Nagin, 2005). The BIC scores for mastery goals were \u22121,468.08 (2 groups), \u22121,458.51 (3 groups), \u22121,464.24 (4 groups), and \u22121,469.55 (5 groups). The model solutions for performance-approach goals showed the following BIC scores: \u22121,724.10 (2 groups), \u22121,712.99 (3 groups), \u22121,713.18 (4 groups), and \u22121,799.40 (5 groups). The BIC scores for performance-avoidance goals were \u22121,839.28 (2 groups), \u22121,832.18 (3 groups), \u22121,832.43 (4 groups), and \u22121,851.45 (5 groups). A difference >3 in BIC scores between two models strongly indicates a difference between the two models (Nagin, 1999(Nagin, , 2005. For models tested with mastery goals, the BIC scores suggested that the optimal solution includes three groups. However, for the performance-approach and performance-approach goals, the BIC scores did not clearly distinguish between the three-and four-group models. In such cases, it is recommended to decide on the basis of more subjective criteria such as knowledge of the domain, purpose of the analysis, practical utility of the model, class size, and interpretable results (see Dup\u00e9r\u00e9 et al., 2007;Nagin, 2005;Nagin & Odgers, 2010). Thus, we retained the four-group model, as it allowed describing trajectories that were at once distinct and opposed, unlike the three-group model, which contained very similar trajectories.\nFigures 1, 2, and 3 illustrate the estimated trajectories. Solid lines represent actual trajectories and dotted lines represent predicted trajectories calculated using the model's estimated coefficients. Students within each group shared similar patterns of variation and AG level. The probability of belonging to each group, conditional on assignment by the maximum probability rule, varied from .61 to .85 (see Table 2).\nMastery Goals. The first group (High-Stable) comprised 26.20% of the sample (66.70% girls). The linear parameter of this trajectory (estimate = \u2212.16, SE = .04, p < .01) indicates that this group pursued mastery goals at a high level before, during, and after the middle school transition, but that these goals also diminished slightly over this period. The second group, (Moderate-Stable) accounted for 59.80% of the sample (56.22% girls). The linear parameter of the trajectory was statistically significant (estimate = \u2212.13, SE = .03, p < .01), revealing a slight decline over time. Compared to the High group, this group endorsed mastery goals at a lower level. The third group (Moderate-Declining) accounted for 14% of the sample (46.15% girls). The quadratic parameter (estimate = .26, SE = .06, p < .01) suggested that this group pursued mastery goals at a relatively high level before entering middle school, but the level declined progressively up to the second year and stabilized in the third year of middle school.\nPerformance-Approach Goals. The first group (Low; 39.90% of the sample; 66.90% girls) comprised students who showed a linear decline (linear parameter estimate = \u2212.12, SE = .05, p < .01) between Grade 6 and Secondary 3. The second group (Low-Increasing; 12%; 76.19% girls) comprised students whose performance-approach goals started at a low level and then increased until Secondary (linear parameter estimate = .32, SE = .14, p < .05). The third group (Moderate-Declining; 31.10%; 52.63% girls) started at a moderate level of performance-approach goals and then diminished steadily until Secondary 3 (linear parameter estimate = \u2212.41, SE = .08, p < .01). The fourth group (High-Stable; 17%; 32.26% girls) comprised students who pursued performance-approach goals at a relatively high and stable level throughout the 4-year period they were surveyed (constant parameter estimate = 3.39, SE = .10, p < .01).\nPerformance-Avoidance Goals. The first group (Low; 22.50% of the sample; 66.27% girls) included students who were unlikely to pursue performanceavoidance goals in Grade 6, and even less inclined over the first 3 years of middle school (linear parameter estimate = \u2212.39, SE = .08, p < .01). The second group (Moderate-Stable; 24.90%; 62.22% girls) included students who were moderately inclined to pursue performance-avoidance goals from the end of elementary school until the end of Secondary 3 (constant parameter estimate = 2.49, SE = .13, p < .01). The third group    Journal of Early Adolescence XX(X) (High-Declining; 27%; 60.61% girls) comprised students who pursued performance-avoidance goals at a relatively high level in Grade 6 and then diminished markedly during the transition to middle school until Secondary 3 (linear parameter estimate = \u2212.55, SE = .09, p < .01). The fourth group (High; 25.70%; 41.94% girls) was inclined to pursue performanceavoidance goals from Grade 6 onwards. However, the level of endorsement diminished each year and reached a low in Secondary 3 (linear parameter estimate = \u2212.20, SE = .07, p < .01). We performed \u03c7 2 tests to examine the contingency among AG trajectories group membership. The results revealed that students were not randomly distributed in the trajectories associated with the three goal types. Thus, 81% of the students in the high performance-approach goal trajectory were also in the high performance-avoidance goal trajectory (\u03c7 2 = 240.77, df = 9, p < .01, Cramer's V = .46). Moreover, students in the high mastery goal trajectory were overrepresented in the high-declining and high performance-avoidance goal trajectories (31.3% and 29.3%, respectively; \u03c7 2 = 14.51, df = 6, p < .05, Cramer's V = .14) and in the moderate-declining performance-approach goals trajectory (36.7%; \u03c7 2 = 14.22, df = 6, p < .05, Cramer's V = .14).",
+      "n_publication_ref": 9,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Predicting Developmental Trajectories of Achievement Goals",
+      "text": "We ran a multinomial logistic regression to determine whether students' behavioral and emotional dispositions at the end of elementary school could predict their membership in AG trajectories, controlling for gender and academic characteristics. The analysis was modeled to compare a given trajectory (or group) with a reference group. For each goal type, the group with the lowest trajectory was used as a reference group. The predictive variables were entered in three steps: Step 1-control variables (gender and academic characteristics); Step 2-behavioral and emotional dispositions; and Step 3-interaction terms: gender by (a) depression, (b) anxiety, (c) aggressiveness, and (d) attention problems. Results are summarized in Tables 3 and 4.\nMastery Goals. Results of the multinomial logistic regression showed that the odds of belonging to the high-stable group were 2.15 times higher for girls than boys (p < .05). Students with higher perceived competence (odds ratio = 1.87, p < .01) and students who reported certain anxiety symptoms (odds ratio = 1.63, p < .01) were also more likely to belong to the high-stable group. However, depressive symptoms decreased the odds of belonging to this group (odds ratio = .45, p < .01). Aggressiveness, attention problems, and gender \u00d7 individual dispositions did not predict trajectory group membership. Finally, none of the variables retained distinguished between the Moderate-Stable and Low groups.\nPerformance-Approach Goals. Results of the second analysis series revealed that girls were significantly less likely than boys to belong to the High-Stable or Moderate-Declining group (odds ratios = .24, p < .01 and .58, p < .05, respectively). In addition, anxiety increased the odds of belonging to the High (odds ratio = 2.21, p < .01) and Moderate-Declining groups (odds ratio = 1.58, p < .01), above and beyond gender and academic characteristics. In addition, perceived competence increased the odds of belonging to the Low-Increasing group (odds ratio = 1.74, p < .01). On the other hand, aggressiveness decreased the odds of belonging to the Low-Increasing group (odds ratio = .40, p < .01).\nPerformance-Avoidance Goals. The results on the contribution of gender revealed that girls were significantly less likely than boys to belong to the High performance-avoidance group (odds ratio = .37, p < .01). In addition, anxiety in Grade 6 increased the odds of belonging to the High (odds ratio = 2.33, p < .01) and High-Declining groups (odds ratio = 1.88, p < .01). Furthermore, in the comparison between the Moderate-Stable and Low groups, an interaction effect with attention problems was found (odds ratio = 2.12, p < .05). Specifically, girls who presented symptoms of inattention in Grade 6 were more likely than boys to belong to the Moderate-Stable group (see Figure 4). ",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Discussion",
+      "text": "The two objectives of this longitudinal study were to identify heterogeneous developmental trajectories of AG during and after the middle school transition and to examine the contribution of behavioral and emotional dispositions such as depression, anxiety, aggressiveness, and inattention to predict these different trajectories. As expected, multiple trajectories of AG were identified, based on yearly assessments from Grade 6 to Secondary 3. Moreover, students' behavioral and emotional dispositions predicted these developmental trajectories fairly coherently. These results are reviewed and discussed in detail in the following paragraphs. ",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Developmental Trajectories of AG",
+      "text": "We hypothesized that the development of mastery goals was not homogenous during the transition to middle school. This hypothesis was supported by our findings of three distinct groups of students pursuing independent trajectories over the 4-year period. Almost nine out of 10 students endorsed mastery goals (High and Moderate groups), diminishing only slightly over time.\nStudents in the third group followed a more steeply declining trajectory, with the lowest level reached in Secondary 2. Although these results are consistent with the decline in mastery goals previously reported for this age group (Anderman & Anderman, 1999;Anderman & Midgley, 1997;Shim et al., 2008), the decline we observed appears more pronounced for students who were already less inclined to endorse mastery goals in Grade 6. ",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Journal of Early Adolescence XX(X)",
+      "text": "Trajectories for performance-approach and performance-avoidance goals presented a more complex picture, with four distinct developmental trajectories. Three trajectories for the two goal types showed a relatively similar pattern: (a) the first group pursued performance-approach and performanceavoidance goals at higher levels than their peers before, during, and after the middle school transition; (b) the second group adopted a high level of performance-approach and performance-avoidance goals at the end of elementary school, which decreased dramatically by Secondary 3; and (c) the third group showed little inclination for either performance-approach or performance-avoidance goals. However, a notable difference was observed for the fourth trajectory group: this group initially showed low levels of performance-approach goals but with a steady increased over time. The fourth trajectory for performance-avoidance goals was moderate and stable.\nOn the whole, these results concur with those of studies that have documented goal fluctuations during the transition from elementary to middle school (e.g., Shim et al., 2008). They also deepen our understanding of the process. First, students' endorsement of performance-approach goals did not appear to be stable during the transition to middle school, as only a small subgroup showed a relatively stable trajectory (High group). Second, the results suggest that performance-approach goals become increasingly prevalent, but only for some students (about one in eight students). Third, most students showed a decline in both performance-approach and performanceavoidance goals. Nevertheless, there are substantial gaps before their initial levels (i.e., upon entering secondary school), and even though these gaps tended to diminish, they may still be present in Secondary 2 and 3. Thus, some students appeared to high in their levels of performance-approach and performance-avoidance goal.\nIn addition, contingency analyses revealed that the vast majority of students who followed a high performance-approach goal trajectory also followed a high performance-avoidance goal trajectory. This result concurs with previous studies that reported strong correlations between these two goal types ; see Urdan & Mestas, 2006). This could be explained by the fact that both goal types are preceded by fear of failure, which is based on social comparison, and the fact that it is difficult to detect subtle differences between them using a written questionnaire (see Anderman & Patrick, 2012;Murayama, Elliot, & Yamagata, 2011). The results also showed that students in the high mastery goal trajectory were more likely to belong to higher performance-avoidance goal trajectories. This might signal the presence of a subgroup of students who adopted mastery-avoidance goals (Elliot, 1999(Elliot, , 2005 such that they would focus on developing competence and at the same time fear to losing their competence.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Emotions and Developmental Trajectories of AG",
+      "text": "The presence of anxiety at the end of elementary school increased the odds of belonging to the High mastery goal trajectory as well as the High performanceapproach and performance-avoidance goal trajectories. Recall that the comparison groups comprised students in the low trajectories for these goals. While we cannot rule out the possibility that these counterintuitive findings might be explained by students endorsing mastery-avoidance goals, it might more have to do with them pursuing multiple goals (e.g., Poulin et al., 2010). Our findings also suggest a long-term association between anxiety and performance-approach and performance-avoidance goals. Given that these goals tend to co-occur and that they both stem from fear of failure (Murayama et al., 2011), it is possible that an anxious disposition would orient the motivational intentions of students according to whether or not they anticipate failure or have high personal standards of performance . In the case of anticipated success, anxiety could be felt as an internal pressure (e.g., \"I must be the best\"), which would drive students to engage in the task in order to demonstrate their knowledge and outperform other students, to achieve social recognition for example (performance-approach). Inversely, if failure is anticipated or the outcome is unpredictable, anxious thoughts could orient intentions toward actions designed to preserve one's social image and psychological well-being (performance-avoidance).\nDisposition to anxiety at the end of elementary school also predicted the odds of belonging to the Moderate-Declining performance-approach and High-Declining performance-avoidance trajectories. Certain factors present in the school environment from the beginning of secondary school could account for these relationships. In fact, a recent study (Duchesne, Ratelle, & Roy, 2012) showed that the fact of being exposed to a mastery goal classroom structure in first year secondary school contributed positively to later adjustment, regardless of the degree of anxiety surrounding the transition to secondary school. On the other hand, exposure to a performance goal classroom structure predicted adjustment problems in second year for students who expressed anxiety about entering secondary school. Based on these data, we might assume that, despite their tendency to worry, some adolescents could feel a decreasing need to demonstrate their competence or to mask their incompetence if they felt that they were making progress in a class headed by an autonomy-supportive teacher who recognized their efforts and conveyed the message that errors are part and parcel of the learning process (mastery goal structure).\nThe results also showed that students who reported some depressive symptoms in Grade 6 had lower odds of belonging to the High mastery goal trajectory compared to the Low group. Depressive symptoms (e.g.,",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Journal of Early Adolescence XX(X)",
+      "text": "self-deprecation) can affect feelings of self-worth, motivation, and control of cognitive functions when carrying out new and complex tasks (e.g., Castaneda et al., 2008). We could therefore assume that students who are sadder would less spontaneously engage in a task with the aim of understanding and mastering the material, acquiring knowledge, making an effort, and making progress (mastery orientation).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Behaviors and Developmental Trajectories of AG",
+      "text": "Students' aggressive behaviors, as reported by their mothers, were associated with lower odds of belonging to the increasing performance-approach trajectory than the Low performance-approach goal trajectory. This finding should be interpreted with caution, however, because it runs contrary to the limited data available (Cheung et al., 1998;Kaplan & Maehr, 1999). Nevertheless, it has been established that less aggressive students have more harmonious relationships with their peers and are more likely to be motivated and to perform tasks well (e.g., Boivin et al., 2005;Duchesne et al., 2005). Over time, students build a positive self-image through these experiences, which can drive them to approach learning situations with a desire to perform, possibly more for intrapersonal reasons (e.g., being proud of oneself) than for interpersonal reasons (e.g., appearing competent to others; see Senko et al., 2011, andMestas, 2006).\nIn addition, students who were perceived by their mother as having limited attention capacity were more likely to belong to the moderate performanceavoidance trajectory group than the low group, with a greater risk for girls than for boys. Although this finding might initially appear intriguing, it is in line with the finding that young girls seem to be more concerned about pleasing their parents and teachers with their school performance (Pomerantz et al., 2002). Girls who found it more difficult to concentrate on and complete complex tasks might be more liable than boys to worry about the social consequences of being incompetent (e.g., disappointing significant adults). These concerns might direct their motivational agenda toward intentions to protect their projected social image. These intentions could in turn promote the adoption of avoidance behaviors and strategies (e.g., putting in less effort, not seeking help), which could serve as excuses for anticipated low performance and problems (see Urdan, Ryan, Anderman, & Gheen, 2002).",
+      "n_publication_ref": 8,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Gender, Academic Characteristics, and Developmental Trajectories of AG",
+      "text": "Although the results did not reveal a significant contribution of academic achievement, they showed that, compared to boys, girls' motivation to succeed was directed more toward developing competence than toward intentions to outperform others or to hide their incompetence. These gender differences are not surprising, being well documented in the literature (e.g., Poulin et al., 2010). Our results also indicate that academic competence was positively associated with the High mastery goal trajectory and the Low-Increasing performance-approach goal trajectory. Similar to other researchers (e.g., Elliot, 1999; see also Senko et al., 2011), we feel that perceived competence could drive motivational processes toward competence (e.g., working harder to accomplish difficult tasks, aiming to be at the top of the class). The relationship between competence and the Low-Increasing trajectory could also reflect students' perceptions of their position vis-\u00e0-vis their peer group (Shunk & Meece, 2006;Wigfield & Wagner, 2005). Once they get to secondary school, students who feel as competent and accomplished as their peers might tend to raise their own standards, or even aspire to excellence.\nThis study contributes to the literature on achievement goals by specifying the role of certain emotional and behavioral dispositions in students' goal orientations from the end of elementary school to the end of middle school. The strengths of this study lie in the methodology (accounting for three types of learning goals; analysis over a 4-year period; use of both student's and mother's perspective; control for academic characteristics), some limitations must also be considered. First, the sample was relatively homogenous in terms of ethnicity (Caucasian), language (French), and socioeconomic status (middle class). Further studies should be conducted in samples that include youth with clinical symptoms of anxiety, depression, aggressiveness, and inattention, and/or with varying ethnic origins and socioeconomic status. Second, AG was measured as a general disposition to engage in a task regardless of subject area. Further studies are needed to determine whether the trajectories identified here differ according to subject. Third, students' dispositions were assessed at the beginning of the goal trajectories. Consequently, we could not determine reciprocal effects between these dispositions and goal orientations. Given that emotional and behavioral dispositions may be present at a very early age (e.g., Duchesne, Vitaro, Larose, & Tremblay, 2008), future studies could assess these dispositions even before school age to more precisely identify the relationship direction. Finally, the fact that the students' dispositions did not allow distinguishing the Moderate mastery goal trajectory from the Low trajectory raises the need to consider the social context. Certain parental behaviors as well as goal structures in the classroom have been related to AG (e.g., Wolters, 2004). The interplay between such external factors and students' personal dispositions should be considered in order to better understand the motivational dynamics at play in the transition to middle school.",
+      "n_publication_ref": 7,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Implications for Practice",
+      "text": "Many studies have shown that mastery goals were related to a cluster of positive cognitive and socioacademic characteristics, that avoidance-performance goals hinder learning, and that the effects of performance-approach goals on learning are divided (e.g., Elliot, 2005). However, in the present study, students who were more mastery oriented during and after the middle school transition were slightly more anxious but also less depressed and inattentive at the end of elementary school than their less mastery-oriented peers. Furthermore, students who belonged to high performance-approach and avoidance-performance trajectories were more aggressive (performanceapproach) and anxious (performance-approach and performance-avoidance) in Grade 6. Attention problems also appeared to progressively orient the students, particularly girls, toward adopting performance-avoidance goals in secondary school. Whereas the role of anxiety in mastery goals orientation needs further investigation, interventions could target emotional dispositions such as anxiety and depressive symptoms, aggressive behaviors, and inattention so that school professionals can act proactively to foster appropriate goals and academic engagement at the beginning of secondary school. Thus, teachers in Grade 6 and Secondary 1 could play a critical role by being on the lookout for atypical behaviors in class, applying measures to deal with these problems, or referring students to the appropriate resources so that they could receive adequate support.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Declaration of Conflicting Interests",
+      "text": "The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Funding",
+      "text": "The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This research was entirely supported by grants from the Social Sciences and Humanities Research Council and the Fonds Qu\u00e9becois de Recherche sur la Soci\u00e9t\u00e9 et la Culture.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Author Biographies",
+      "text": "St\u00e9phane Duchesne is a professor in educational psychology at Laval University (Qu\u00e9bec City, Canada). His main fields of research and teaching are adolescents' problem behaviors, family relationships, school transitions, and academic adjustment. Since 2004, he has been the principal investigator of longitudinal studies on the roles of individual and sociofamilial factors in high school dropouts.\nCatherine F. Ratelle is a professor of educational psychology at Laval University. Her main areas of work are school motivation and family relationships. More specifically, she studies relational dynamics within families and their role in predicting students' motivational processes as well as academic persistence and adjustment.\nBei Feng is statistician at the Research Unit on Children's Psychosocial Maladjustment.\nAll in-text references underlined in blue are linked to publications on ResearchGate, letting you acc",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": ") Note: MG = Mastery goals. PG = Performance-approach goals. AvG = Performance-avoidance goals. Girls serve as the reference group. Correlations greater than or equal to",
+      "journal": "",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Manual for the Child Behavior Checklist/4-18 and 1991 profile",
+      "journal": "",
+      "year": "1991",
+      "authors": "T M Achenbach"
+    },
+    {
+      "title": "Social predictors of changes in students' achievement goal orientations",
+      "journal": "Contemporary Educational Psychology",
+      "year": "1999",
+      "authors": ""
+    },
+    {
+      "title": "Changes in achievement goal orientations and perceived classroom goal structures across the transition to middle level schools",
+      "journal": "Contemporary Educational Psychology",
+      "year": "1997",
+      "authors": "E M Anderman; C Midgley"
+    },
+    {
+      "title": "Achievement goal theory, conceptualization of ability/intelligence, and classroom",
+      "journal": "",
+      "year": "2012",
+      "authors": "E M Anderman; H Patrick"
+    },
+    {
+      "title": "Handbook of research on student engagement",
+      "journal": "Springer",
+      "year": "",
+      "authors": "Wylie "
+    },
+    {
+      "title": "Attention deficit hyperactivity disorder: A handbook for diagnosis and treatment",
+      "journal": "Guilford Publications",
+      "year": "2006",
+      "authors": "R A Barkley"
+    },
+    {
+      "title": "Achievement goals of students with ADHD",
+      "journal": "Learning Disability Quarterly",
+      "year": "2006",
+      "authors": "K E Barron; S W Evans; L E Baranik; Z N Serpell; E Buvinger"
+    },
+    {
+      "title": "Being concerned with well-being and with learning",
+      "journal": "Educational Psychologist",
+      "year": "1993",
+      "authors": "M Boekaerts"
+    },
+    {
+      "title": "Peer relationships and the development of aggressive behavior in early childhood",
+      "journal": "Guilford Press",
+      "year": "2005",
+      "authors": "M Boivin; F Vitaro; F Poulin"
+    },
+    {
+      "title": "The impact of goal orientation on self-regulation and performance among college students",
+      "journal": "British Journal of Educational Psychology",
+      "year": "1995",
+      "authors": "T Bouffard; J Boisvert; C Vezeau; C Larouche"
+    },
+    {
+      "title": "Attention deficit and disruptive behavior disorder symptoms: Usefulness of a frequency count rating procedure to measure these symptoms",
+      "journal": "European Journal of Psychological Assessment",
+      "year": "2001",
+      "authors": "G L Burns; J A Walsh; D R Patterson; C S Holte; R Sommers-Flanagan; C M Parker"
+    },
+    {
+      "title": "Parent-, teacher-, and self-rated motivational styles in ADHD subtypes",
+      "journal": "Journal of Learning Disabilities",
+      "year": "2002",
+      "authors": "C L Carlson; J E Booth; M Shin; W H Canu"
+    },
+    {
+      "title": "A review on cognitive impairments in depressive and anxiety disorders with a focus on young adults",
+      "journal": "Journal of Affective Disorders",
+      "year": "2008",
+      "authors": "A E Castaneda; A Tuulio-Henriksson; M Marttunen; J Suvisaari; J L\u00f6nnqvist"
+    },
+    {
+      "title": "Temperament, personality and achievement goals among Chinese adolescent students",
+      "journal": "Educational Psychology",
+      "year": "2011",
+      "authors": "C Chen; L F Zhang"
+    },
+    {
+      "title": "Conceptions of success: Their correlates with prosocial orientation and behaviour in Chinese adolescents",
+      "journal": "Journal of Adolescence",
+      "year": "1998",
+      "authors": "C P Cheung; K H Ma; D T L Shek"
+    },
+    {
+      "title": "Perceived competence and autonomy as moderators of the effects of achievement goal orientations",
+      "journal": "Educational Psychology",
+      "year": "2011",
+      "authors": "Y Cho; C E Weinstein; F Wicker"
+    },
+    {
+      "title": "The social-cognitive model of achievement motivation and the 2 X 2 achievement goal framework",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2006",
+      "authors": "F Cury; A J Elliot; D Da Fonseca; A C Moller"
+    },
+    {
+      "title": "A longitudinal analysis of achievement goals: From affective antecedents to emotional effects and achievement outcomes",
+      "journal": "Journal of Educational Psychology",
+      "year": "2009",
+      "authors": "L M Daniels; R H Stupnisky; R Pekrun; T L Haynes; R P Perry; N E Newall"
+    },
+    {
+      "title": "Understanding peer influence in children and adolescents",
+      "journal": "Guilford Press",
+      "year": "2008",
+      "authors": "T J Dishion; T F Piehler; M W Myers"
+    },
+    {
+      "title": "Aggression and antisocial behavior in youth",
+      "journal": "Wiley",
+      "year": "2006",
+      "authors": "K A Dodge; J D Coie; D Lynam"
+    },
+    {
+      "title": "The transition from elementary to high school: The pivotal role of family and child characteristics in explaining trajectories of academic functioning",
+      "journal": "International Journal of Behavioral Development",
+      "year": "2005",
+      "authors": "S Duchesne; S Larose; F Guay; F Vitaro; R E Tremblay"
+    },
+    {
+      "title": "Parental behaviors and adolescents' achievement goals at the beginning of middle school: Emotional problems as potential mediators",
+      "journal": "Journal of Educational Psychology",
+      "year": "2010",
+      "authors": "S Duchesne; C F Ratelle"
+    },
+    {
+      "title": "Early adolescent attachment to parents, emotional functioning and worries about the middle school transition",
+      "journal": "Journal of Early Adolescence",
+      "year": "2009",
+      "authors": "S Duchesne; C F Ratelle; S C Poitras; \u00c9 Drouin"
+    },
+    {
+      "title": "Worries about the middle school transition and subsequent adjustment: The role of classroom goal structure",
+      "journal": "Journal of Early Adolescence",
+      "year": "2012",
+      "authors": "S Duchesne; C F Ratelle; A Roy"
+    },
+    {
+      "title": "Trajectories of anxiety during elementary-school years and prediction of high school noncompletion",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2008",
+      "authors": "S Duchesne; F Vitaro; S Larose; R E Tremblay"
+    },
+    {
+      "title": "Longitudinal methods based on individual development trajectories-Parametric and non parametric mixed models",
+      "journal": "Bulletin of Sociological Methodology",
+      "year": "2007",
+      "authors": "V Dup\u00e9r\u00e9; \u00c9 Lacourse; F Vitaro; R E Tremblay"
+    },
+    {
+      "title": "The handbook of motivational science",
+      "journal": "Guilford",
+      "year": "2008",
+      "authors": "C S Dweck; H Grant"
+    },
+    {
+      "title": "A social-cognitive approach to motivation and personality",
+      "journal": "Psychological Review",
+      "year": "1988",
+      "authors": "C S Dweck; E Leggett"
+    },
+    {
+      "title": "Integrating cognitive and motivational factors in depression: Initial tests of a goal-orientation approach",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1998",
+      "authors": "B M Dykman"
+    },
+    {
+      "title": "Schools as developmental contexts during adolescence",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2011",
+      "authors": "J S Eccles; R W Roeser"
+    },
+    {
+      "title": "Approach and avoidance motivation and achievement goals",
+      "journal": "Educational Psychologist",
+      "year": "1999",
+      "authors": "A J Elliot"
+    },
+    {
+      "title": "A conceptual history of the achievement goal construct",
+      "journal": "Guilford Press",
+      "year": "2005",
+      "authors": "A J Elliot"
+    },
+    {
+      "title": "A hierarchical model of approach and avoidance achievement motivation",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1997",
+      "authors": "A J Elliot; M A Church"
+    },
+    {
+      "title": "Approach and avoidance achievement goals and intrinsic motivation: A mediational analysis",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1996",
+      "authors": "A J Elliot; J M Harackiewicz"
+    },
+    {
+      "title": "Test anxiety and the hierarchical model of approach and avoidance achievement motivation",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1999",
+      "authors": "A Elliot; H Mcgregor"
+    },
+    {
+      "title": "Achievement goals, study strategies, and exam performance: A mediational analysis",
+      "journal": "Journal of Educational Psychology",
+      "year": "1999",
+      "authors": "A J Elliot; H A Mcgregor; S L Gable"
+    },
+    {
+      "title": "Avoidance personal goals and subjective well-being",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "1997",
+      "authors": "A J Elliot; K M Sheldon; M A Church"
+    },
+    {
+      "title": "Approach-avoidance motivation personality: Approach and avoidance temperaments and goals",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2002",
+      "authors": "A J Elliot; T M Thrash"
+    },
+    {
+      "title": "Depression and school performance in middle adolescent boys and girls",
+      "journal": "Journal of Adolescence",
+      "year": "2008",
+      "authors": "S A Fr\u00f6jd; E S Nissinen; M U I Pelkonen; M J Marttunen; A M Koivisto; R Kaltiala-Heino"
+    },
+    {
+      "title": "Subtypes of aggression in humans and animals",
+      "journal": "The Guilford Press",
+      "year": "2005",
+      "authors": "P L Gendreau; J Archer"
+    },
+    {
+      "title": "A prospective test of the hopelessness theory of depression in adolescence",
+      "journal": "Cognitive Therapy and Research",
+      "year": "2001",
+      "authors": "B L Hankin; L Y Abramson; M Siler"
+    },
+    {
+      "title": "",
+      "journal": "",
+      "year": "2000",
+      "authors": "J M Harackiewicz; K E Barron; J M Tauer; S M Carter; A J Elliot"
+    },
+    {
+      "title": "Short-term and long-term consequences of achievement goals: Predicting interest and performance over time",
+      "journal": "Journal of Educational Psychology",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Externalizing behavior problems and academic underachievement in childhood and adolescence: Causal relationships and underlying mechanisms",
+      "journal": "Psychological Bulletin",
+      "year": "1992",
+      "authors": "S P Hinshaw"
+    },
+    {
+      "title": "Academic task persistence of normally achieving ADHD and control boys: Performance, self-evaluations, and attributions",
+      "journal": "Journal of Consulting and Clinical Psychology",
+      "year": "2001",
+      "authors": "B Hoza; W E Pelham; D A Waschbusch; H Kipp; J S Owens"
+    },
+    {
+      "title": "Gender, competence, and motivation",
+      "journal": "",
+      "year": "2005",
+      "authors": "J S Hyde; A M Durik"
+    },
+    {
+      "title": "Overcoming executive function deficits with students with ADHD. Theory Into Practice",
+      "journal": "",
+      "year": "2011",
+      "authors": "J Johnson; R Reid"
+    },
+    {
+      "title": "Advances in group-based trajectory modeling and an SAS procedure for estimating them",
+      "journal": "Sociological Methods & Research",
+      "year": "2007",
+      "authors": "B L Jones; D S Nagin"
+    },
+    {
+      "title": "A SAS procedure based on mixture models for estimating developmental trajectories",
+      "journal": "Sociological Methods and Research",
+      "year": "2001",
+      "authors": "B Jones; D S Nagin; K Roeder"
+    },
+    {
+      "title": "Achievement goals and student well-being",
+      "journal": "Contemporary Educational Psychology",
+      "year": "1999",
+      "authors": "A Kaplan; M L Maehr"
+    },
+    {
+      "title": "The contribution and prospects of goal orientation theory",
+      "journal": "Educational Psychology Review",
+      "year": "2007",
+      "authors": "A Kaplan; M L Maehr"
+    },
+    {
+      "title": "Achievement goals and goals structures",
+      "journal": "Lawrence Erlbaum",
+      "year": "2002",
+      "authors": "A Kaplan; M J Middleton; T Urdan; C Midgley"
+    },
+    {
+      "title": "Anxiety disorders",
+      "journal": "Guilford Press",
+      "year": "2006",
+      "authors": "P C Kendall; K A Hedtke; S G Aschenbrand"
+    },
+    {
+      "title": "Children's depression inventory",
+      "journal": "Multi-Health Systems",
+      "year": "1992",
+      "authors": "M Kovacs"
+    },
+    {
+      "title": "Implicit theories, goal orientations, and perceived competence: impact on students' achievement behavior",
+      "journal": "Psychology in Schools",
+      "year": "2002",
+      "authors": "A Leondari; V Gialamas"
+    },
+    {
+      "title": "The dilemma of performance-approach goals: The use of multiple goal contexts to promote students' motivation and learning",
+      "journal": "Journal of Educational Psychology",
+      "year": "2005",
+      "authors": "E A Linnenbrink"
+    },
+    {
+      "title": "When are achievement goals orientations beneficial for academic achievement? A closer look at main effects and moderating factors",
+      "journal": "International Review of Social Psychology",
+      "year": "2008",
+      "authors": "L Linnenbrink-Garcia; D F Tyson; E A Patall"
+    },
+    {
+      "title": "Construction et validation de l'\u00e9chelle des perceptions de comp\u00e9tence dans les domaines de vie [Construction and validation of the perceived competence toward life domains scale",
+      "journal": "Science et comportement",
+      "year": "1993",
+      "authors": "G R Losier; R J Vallerand; M R Blais"
+    },
+    {
+      "title": "Enhancing student motivation: A schoolwide approach",
+      "journal": "Educational Psychologist",
+      "year": "1991",
+      "authors": "M L Maehr; C Midgley"
+    },
+    {
+      "title": "Conduct problems",
+      "journal": "Guilford Press",
+      "year": "2006",
+      "authors": "R J Mcmahon; J S Kotler"
+    },
+    {
+      "title": "Avoiding the demonstration of lack of ability: An under-explored aspect of goal theory",
+      "journal": "Journal of Educational Psychology",
+      "year": "1997",
+      "authors": "M J Middleton; C Midgley"
+    },
+    {
+      "title": "Manual for the patterns of adaptive learning scales (PALS)",
+      "journal": "",
+      "year": "2000",
+      "authors": "C Midgley; M L Maehr; L Z Hruda; E Anderman; L Anderman; K E Freeman; T Urdan"
+    },
+    {
+      "title": "The response of children with ADHD to failure: If at first you don't succeed, do you try, try, again?",
+      "journal": "School Psychology Review",
+      "year": "1994",
+      "authors": "R Milich"
+    },
+    {
+      "title": "An examination of learned helplessness among attention-deficit hyperactivity disordered boys",
+      "journal": "Journal of Abnormal Child Psychology",
+      "year": "1991",
+      "authors": "R Milich; M Okazaki"
+    },
+    {
+      "title": "Separation of performanceapproach and performance-avoidance goals: A broader analysis",
+      "journal": "Journal of Educational Psychology",
+      "year": "2011",
+      "authors": "K Murayama; A J Elliot; S Yamagata"
+    },
+    {
+      "title": "Analyzing developmental trajectories: A semi-parametric, group-based approach",
+      "journal": "Psychological Methods",
+      "year": "1999",
+      "authors": "D S Nagin"
+    },
+    {
+      "title": "Group-based modeling of development",
+      "journal": "Harvard University Press",
+      "year": "2005",
+      "authors": "D S Nagin"
+    },
+    {
+      "title": "Group-based trajectory modeling in clinical research",
+      "journal": "Annual Review of Clinical Psychology",
+      "year": "2010",
+      "authors": "D S Nagin; C L Odgers"
+    },
+    {
+      "title": "Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance",
+      "journal": "Psychological Review",
+      "year": "1984",
+      "authors": "J G Nicholls"
+    },
+    {
+      "title": "Achievement goals and achievement emotions: Testing a model of their joint relations with academic performance",
+      "journal": "Journal of Educational Psychology",
+      "year": "2009",
+      "authors": "R Pekrun; A J Elliot; M A Maier"
+    },
+    {
+      "title": "Students' motivational beliefs and their cognitive engagement in classroom academic tasks",
+      "journal": "Lawrence Erlbaum",
+      "year": "1992",
+      "authors": "P R Pintrich; B Schrauben"
+    },
+    {
+      "title": "Goal orientation and selfregulated learning in the college classroom: A cross-cultural comparison",
+      "journal": "",
+      "year": "2001",
+      "authors": "P Pintrich; A Zusho; U Schiefele; R Pekrun"
+    },
+    {
+      "title": "Student motivation: The culture and context of learning",
+      "journal": "Plenum",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Making the grade but feeling distressed: Gender differences in academic performance and internal distress",
+      "journal": "Journal of Educational Psychology",
+      "year": "2002",
+      "authors": "E M Pomerantz; E R Altermatt; J L Saxon"
+    },
+    {
+      "title": "Profils de buts d'apprentissage et caract\u00e9ristiques personnelles des \u00e9l\u00e8ves au d\u00e9but du secondaire",
+      "journal": "",
+      "year": "2010",
+      "authors": "R Poulin; S Duchesne; C F Ratelle"
+    },
+    {
+      "title": "",
+      "journal": "Canadian Journal of Behavioural Science",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Family correlates of trajectories of academic motivation during a school transition: A semiparametric group-based approach",
+      "journal": "Journal of Educational Psychology",
+      "year": "2004",
+      "authors": "C F Ratelle; F Guay; S Larose; C Sen\u00e9cal"
+    },
+    {
+      "title": "Comparing personal trajectories and drawing causal inferences from longitudinal data",
+      "journal": "Annual Review of Psychology",
+      "year": "2001",
+      "authors": "S W Raudenbush"
+    },
+    {
+      "title": "What I think and feel: A revised measure of children's manifest anxiety",
+      "journal": "Journal of Abnormal Child Psychology",
+      "year": "1997",
+      "authors": "C R Reynolds; B O Richmond"
+    },
+    {
+      "title": "Temperament, development, and personality",
+      "journal": "Current Directions in Psychological Science",
+      "year": "2007",
+      "authors": "M K Rothbart"
+    },
+    {
+      "title": "Dropping out of middle school: A multilevel analysis of students and schools",
+      "journal": "American Educational Research Journal",
+      "year": "1995",
+      "authors": "R W Rumberger"
+    },
+    {
+      "title": "Achievement goal theory at the crossroads: Old controversies, current challenges, and new directions",
+      "journal": "Educational Psychologist",
+      "year": "2011",
+      "authors": "C Senko; C S Hulleman; J M Harackiewicz"
+    },
+    {
+      "title": "How specific is a deficit of executive functioning for attention-deficit/hyperactivity disorder?",
+      "journal": "Journal of Early Adolescence XX",
+      "year": "2002",
+      "authors": "J A Sergeant; H Geurts; J Oosterlaan"
+    },
+    {
+      "title": "Achievement goals and achievement during early adolescence: Examining time-varying predictor and outcome variables in growth-curve analysis",
+      "journal": "Journal of Educational Psychology",
+      "year": "2008",
+      "authors": "S S Shim; A M Ryan; C J Anderson"
+    },
+    {
+      "title": "Self-efficacy development in adolescence",
+      "journal": "",
+      "year": "2006",
+      "authors": "D H Shunk; J L Meece"
+    },
+    {
+      "title": "Psychometric study of Kovacs's children's depression inventory with a French-speaking sample",
+      "journal": "Canadian Journal of Behavioural Science",
+      "year": "1990",
+      "authors": ""
+    },
+    {
+      "title": "Reliability and validity of the revised children's manifest anxiety scale in a French-Canadian sample",
+      "journal": "Psychological Assessment",
+      "year": "2003",
+      "authors": "L Turgeon; E Chartrand"
+    },
+    {
+      "title": "The goals behind performance goals",
+      "journal": "Journal of Educational Psychology",
+      "year": "2006",
+      "authors": "T Urdan; M Mestas"
+    },
+    {
+      "title": "Goals, goal structures, and avoidance behaviors",
+      "journal": "Lawrence Erlbaum",
+      "year": "2002",
+      "authors": "T Urdan; A Ryan; E M Anderman; M H Gheen"
+    },
+    {
+      "title": "New approaches to missing data in psychological research: Introduction to the special section",
+      "journal": "Psychological Methods",
+      "year": "2001",
+      "authors": "S G West"
+    },
+    {
+      "title": "Competence, motivation, and identity development during adolescence",
+      "journal": "Guilford Press",
+      "year": "2005",
+      "authors": "A Wigfield; A L Wagner"
+    },
+    {
+      "title": "Advancing achievement theory: Using goal structures and goal orientations to predict students' motivation, cognition, and achievement",
+      "journal": "Journal of Educational Psychology",
+      "year": "2004",
+      "authors": "C A Wolters"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Figure 1 .1Figure 1. Developmental trajectories of mastery goals.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Figure 2 .2Figure 2. Developmental trajectories of performance-approach goals.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "",
+      "figure_id": "fig_2",
+      "figure_caption": "Figure 3 .3Figure 3. Developmental trajectories of performance-avoidance goals.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "",
+      "figure_id": "fig_3",
+      "figure_caption": "Figure 4 .4Figure 4. Probability of belonging to the moderate-stable performance-avoidance group as a function of gender and attention problems.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Means, Standard Deviations, and Correlations Between Variables.    ",
+      "figure_data": "Mean (SD)"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Mean Assignment Probabilities for Group Trajectories.",
+      "figure_data": "X \u2500SD"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Multinomial Logistic Regression Analyses Predicting Mastery GoalsTrajectories.",
+      "figure_data": "High groupModerate groupMastery goals aBSE Odds pBSE Odds pControl variablesGender.77.362.15 .03 .34 .31 1.40 .28Academic competence (A) .63.171.87 .00 .12 .13 1.13 .37Academic achievement (A) .01.031.01 .61 .04 .02 1.04 .09Behavioral and emotional dispositionsDepression (A)\u2212.79.21.45 .03 \u2212.26 .16 .77.10Anxiety (A).49.201.63 .00 .27 .17 1.31 .11Aggressiveness (A)\u2212.29.19.74 .61 \u2212.13 .13 .88.31Attention problems (A)\u2212.19.20.82 .61 \u2212.17 .15 .85.27"
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_4",
+      "figure_caption": "Multinomial Logistic Regression Analyses Predicting Performance-Approach and Performance-Avoidance Goals Trajectories.",
+      "figure_data": ""
+    }
+  ],
+  "doi": "10.1177/0272431613495447"
+}

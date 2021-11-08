@@ -1,0 +1,626 @@
+{
+  "title": "Trajectories of change in students' self-concepts of ability and values in math and college major choice",
+  "abstract": "This study extends previous research on the long-term connections between motivation constructs in expectancy-value theory and achievement outcomes. Using growth mixture modelling, we examined trajectories of change for 421 students from 4th grade through college in their self-concept of ability (SCA) in math, interest in math, and perceived importance of math. We also assessed how these trajectories relate to choice of college major, focusing on math-intensive and non-intensive majors. Gender, parental income, and initial achievement were included as covariates in the analyses. A 3-class solution best represented underlying trajectories of change for each of the 3 constructs. A latent class relatively high in math self-concept, interest, and importance emerged for each construct respectively, and individuals in these high classes were most likely to choose a math-intensive college major. Interpretations and implications of the trajectories of change and their influence on college major classification are discussed.",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "text": "Expectancy-value theory is a motivational theory that focuses on how individuals' beliefs and values develop and predict academic outcomes and choices. Research based in expectancy-value theory has established that students' domain-specific self-concepts of their ability (SCA), expectancies for success, and achievement task values are related to achievement outcomes in those domains, such as classroom grades (Meece, Wigfield, & Eccles, 1990), and choices, such as the number and type of courses students choose to take in that subject area in high school and college (Eccles, Vida, & Barber, 2004;Nagy, Trautwein, Baumert, K\u00f6ller, & Garrett, 2006;Watt, 2006). In the math domain, studies have found that SCA, interest, and perceived importance of math (aspects of task values, see below) measured in elementary school predict how many math courses students elect to take in high school (Simpkins, Davis-Kean, & Eccles, 2006). Students' self-concept of their ability in math and their value for math measured in high school also predicts their plans to pursue a math-intensive career or course of study in college (Nagy et al., 2006;Watt, 2006). These studies establish that individuals' SCA and values in math can be used to predict future choices. The present study builds on this work by looking at longterm prediction of activity choice; that is, how students' math SCA and values measured in elementary and high school predict their ultimate choice of a college major.\nAlong with relations of motivational variables to choice, researchers studying students' domain-specific SCA and values and other motivational characteristics have investigated how they change over time (Archambault, Eccles, & Vida, 2010;Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002), and whether the changes vary across different students. The general pattern of change in beliefs, values, and intrinsic motivation is one of decline (Jacobs et al., 2002; see Wigfield et al., in press, for a review); however, several studies have found that the trajectory of motivational changes differs across students (Archambault et al., 2010;Gottfried, Marcoulides, Gottfried, Oliver, & Guerin, 2007;Marcoulides, Gottfried, Gottfried, & Oliver, 2008).\nTo date, no study has examined how long-term change in students' SCA and values in math relate to outcomes in the future, such as choice of college major. Such work would provide an important advance in the literature, as choice likely is based more on how beliefs and values change rather than on their level at one time point. In the present study, we focused on the math-\"intensiveness\" of students' college major choices. Examining students' choice in this area is particularly important given that math-intensive degrees are associated with higher prestige careers (Ma & Johnson, 2008) and national needs for math and science professionals are currently not being met (National Science Board, 2012). Understanding the long-term trajectories of changes in motivational constructs in expectancy-value theory may provide insight into the likelihood of students selecting a certain college major.\nBy examining underlying trajectories of changes in students' SCA and values in math over time and exploring how they relate to students' choice of a college major, we connect two major strands of research based in Eccles-Parsons et al.'s (1983) expectancy-value theoretical model: change over time in SCA, expectancies, and values in math; and how these variables (specifically, change in them) relate to choices individuals make. This model and research stemming from it are described next.",
+      "n_publication_ref": 18,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Theoretical framework: defining key terms",
+      "text": "The current study is grounded in Eccles-Parsons et al.'s (1983) expectancy-value model of achievement performance and choice. They defined students' expectancies as beliefs or expectations about how well they will do on a given task. Individuals' SCA is their belief about how good they are at activities in a given domain; thus, Eccles and colleagues focus on the \"Me\" or objective part of the self (see also Harter, 2006). Domain specificity is an important component of the theory, and the work in this area generally examines students' beliefs in a particular domain; math in the current study. Eccles and Wigfield (1995) found that expectancies and self-concept ability are strongly related empirically (see Wigfield, Tonks, & Klauda, 2009, for a detailed review of this work). In the present study, we examined SCA for math rather than expectancies for success in math because many of the studies in this theoretical tradition that have looked at relations of beliefs to outcomes examined SCA in a particular domain rather than expectancies for success in that domain (Durik, Vida, & Eccles, 2006;Nagy et al., 2006;Simpkins et al., 2006).\nValues are defined as qualities or incentives that influence whether or not students want to complete a task in a particular domain. Eccles and her colleagues defined three aspects of task value: interest value, importance or attainment value, and utility value or usefulness of the activity (Eccles-Parsons et al., 1983). Interest task value, as its name implies, is how 344\nL. E. Musu-Gillette et al.\nmuch the individual likes or enjoys the task; attainment value is how important it is to the individual to do well on the task, and utility value is how useful it is to him or her. Interest and importance reflect more intrinsic characteristics of the valuing of a task, whereas usefulness has more to do with how the task meets other needs.\nFor the current study, students' valuing of math is differentiated into two components, importance/usefulness and interest. We collapsed importance and usefulness in this study because several other researchers utilizing the same expectancy-value framework have done so, in part because the two components are strongly related (Durik et al., 2006;Simpkins et al., 2006). Researchers have continued to include interest value as a separate predictor in several empirical studies and found that it individually predicts students' academic choices (Durik et al., 2006;Simpkins et al., 2006;Watt, 2006). We continue that tradition here, in part because interest value (and its close conceptual ties to intrinsic motivation) is conceptually distinct from the importance and utility aspects of task value.",
+      "n_publication_ref": 13,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "SCA, values, and choice",
+      "text": "As noted above, researchers have shown that students' domain-specific SCA and values predict achievement-related choices that students make later (Nagy et al., 2008;Nagy et al., 2006;Updegraff, Eccles, Barber, & O'Brien, 1996;Watt, 2006Watt, , 2008. Watt (2006) surveyed Australian youth and found that students' choice to take higher level math courses in 11th and 12th grade in high school was predicted by measures of students' SCA in math and interest in math collected in their 9th-grade year of high school. Additionally, perceived usefulness of math in the 9th grade predicted students' desire for a mathintensive future career. Nagy et al. (2006) found that German 10th-grade students' interest and SCA in math predicted their future high school course enrolment. Students with higher interest and high SCA in math were more likely to choose challenging math courses (Nagy et al., 2006). In both studies, SCA and values were individually predictive of future choices.\nAdditionally, children's SCA and task values differentially predict performance, intentions, and choice. Meece et al. (1990) found that middle school students' math ability beliefs directly predicted their later math performance but not their intentions to continue taking math. In contrast, the importance students gave to math directly predicted their intentions but not their performance. With respect to career choices, Durik et al. (2006) found that students' SCA, interest, and perceived importance of literacy measured in 4th grade related positively to these same variables measured in 10th grade. Children's SCA and ratings of importance in turn predicted students' increased likelihood of desiring a career where reading comprehension would be important, such as becoming a lawyer or editor (the relations between reading importance and career likelihood were especially strong). Interest did not relate to the career variables. Simpkins et al. (2006) found that students' SCA, interest in, and perceived importance of math in 6th grade was related to levels of the same constructs in 10th grade. However, they found that students' SCA and interest in math measured in 10th grade predicted their decisions to take more challenging math courses in 11th and 12th grade, but math importance did not. Eccles et al. (2004) found that plans to attend college measured in sixth grade and selfconcept of academic ability in sixth grade predicted the decision to go to college. However, these relations were mediated by high school course selection such that those students who planned to attend college in sixth grade took \"college prep\" courses in high school and high school course taking then predicted students' choice to enrol in college. Eccles et al.'s results indicate that decisions about college likely begin long before the college transition, as early as sixth grade. Given that previous work shows that students' domain-specific Educational Research and Evaluation SCA, interest, and importance differentially predict achievement outcomes and choices in those domains, it is essential to understand the unique influence each of these variables may have on students' academic choices. Additionally, we added the important new dimension of examining how change in each of the SCA and value for math variables related to college major choice.\nHow change in motivation relates to outcomes Gottfried, Marcoulides, Gottfried, and Oliver (2013) found that change in intrinsic motivation in math over time is predictive of educational attainment, measured in number of years of school; however, this relation was fully mediated by the number and difficulty level of math courses elected. While both Gottfried et al. (2013) and Eccles et al. (2004) showed that earlier SCA and interest in math are important for college outcomes overall, measured by the choice to attend college or the number of years of schooling, neither Eccles et al. nor Gottfried et al. looked specifically at choice of college major. Our study extends this line of research by examining students' choice of a major once they have enrolled in college.",
+      "n_publication_ref": 17,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "College major choice",
+      "text": "Choosing a major is a critical choice for college students. A college major is usually indicative of the career trajectory a student will follow, and most students likely put a great deal of thought into the decision. In addition, earlier success in a domain, future career aspirations, and current interests likely all factor into a students' final decision of what major to choose. As noted above, longitudinal studies have shown that SCA and certain values variables in math predict math achievement and math-related choices such as enrolling in more math courses in high school (Simpkins et al., 2006;Updegraff et al., 1996;Watt, 2006), which could impact college major choice.\nTo date, the work on the relations of motivational beliefs and values to college major choice primarily has been done with college students. Larson, Wu, Bailey, Borgen, and Gasser (2010) found that college students' confidence and interest in a domain of study is associated with their choice of a major in that domain (see also Eccles, 2007). Similarly, 1st-year college students' achievement goals and self-efficacy in an introductory psychology course were predictive of their choice to pursue further coursework in psychology (Harackiewicz, Barron, Tauer, & Elliot, 2002). In addition, college students' SCA and interest in a domain of study predict whether or not they will change majors (Malgwi, Howe, & Burnaby, 2005). These studies indicate that students' motivation is related to college major and coursework choice in the short term.\nFewer studies have addressed how students' SCA and values for a particular subject or domain measured at earlier points in time influence a student's decision to pursue a particular course of study in college. Allen and Robbins (2008) found that interest in a subject in high school as reported on the interest inventory of the US college readiness ACT assessment was predictive of major choice in college. Participation in a math and science summer camp in middle school predicted the overall likelihood of majoring in math and science areas in college (Li, Alfeld, Kennedy, & Putallaz, 2009) providing evidence that experiences in middle school can have long-term impact on choice. These studies did not, however, focus on different trajectories of change in children's ability beliefs and values and their relation to choice of a college major.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "346",
+      "text": "L. E. Musu-Gillette et al.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Changes in SCA and values over time",
+      "text": "As noted earlier, a major focus of research stemming from Eccles-Parsons et al.'s (1983) expectancy-value model is how students' motivational beliefs and values change over time.\nMean-level decreases in students' SCA, achievement values, and intrinsic motivation have been found in a variety of studies coming from this theoretical model and others (see Wigfield et al., in press, for a review). The declines are especially pronounced in the math domain (Gottfried, Fleming, & Gottfried, 2001;Jacobs et al., 2002;Spinath & Spinath, 2005). However, Gottfried et al. (2007) and Marcoulides et al. (2008), in their studies of students' intrinsic motivation, found that the trajectory and steepness of declines differed across students, with high achievers declining less. These latter two studies indicate that there are perhaps different underlying classes or trajectories of change in regard to students' motivation. These studies only examined students' intrinsic motivation in math and not SCA as well.\nResearchers have gone beyond the examination of mean-level change to look at different trajectories of change in SCA and values. Archambault et al. (2010) examined trajectories in 1st-through 12th-grade students' literacy SCA and task value (operationalized as importance and usefulness), using growth mixture modelling. They identified seven underlying classes representing different trajectories of change in self-concept and task value for literacy over time. The trajectories for all the classes showed a decline in both variables over time, with the exception of what they called the \"Low Trajectory\". This group (2.5% of the sample) declined through middle school but then increased through high school, returning to their original levels. The declines varied in the steepness of their slopes. For the \"declining\" classes, the slopes of the decline varied. For instance, students in one trajectory (called the High Trajectory) began with high literacy SCA and values and declined only slightly. Another started declining steeply and quite early in elementary school, with some recovery during the high school years. The present study is the first to examine such trajectories in math, and we will compare our findings to Archambault and colleagues' findings.",
+      "n_publication_ref": 8,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Predictors of trajectory differences in SCA and task values",
+      "text": "Researchers also have examined variables that impact change in students' self-concepts of ability and values. Archambault et al. (2010) found that gender and achievement were strong predictors of trajectories of change in literacy SCA and values, and also class membership; boys and lower achievers were more likely to be in declining trajectories. The finding for gender is not surprising given that the study was done in the literacy domain. In addition, several studies have found that gender is an important moderator variable in the relations of adolescents' self-concepts of ability and values to their mathematics aspirations (Eccles, Barber, & Jozefowicz, 1999;Frome, Alfeld, Eccles, & Barber, 2006;Nagy et al., 2006;Watt, 2006). These studies show that for girls only those with high self-concepts of ability and value have high aspirations in the fields of science, technology, engineering, and mathematics (STEM); boys with moderate beliefs and values can have such aspirations. Finally, Archambault et al. also found that latent classes that showed steeper declines in SCA and task value were more likely to be associated with low household income. Given these findings, in the present study gender, achievement, and parent income were included as covariates in the analyses.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The current study",
+      "text": "This study extends previous research by examining in a sophisticated longitudinal correlational study whether change from fourth grade to college in children's math SCA, interest, Educational Research and Evaluation and values can be portrayed by latent classes representing differential patterns of change that underlie the data. Further, the current study examines whether initial achievement, gender, and household income differ across latent classes. We also examined how the latent classes in which students were classified impacted their choice of college major.\nSpecifically, we sought to answer three broad research questions:\n(1) How many latent classes represent the trajectories of change in students' SCA, interest, and values, and what is the nature or shape of those trajectories of change? (2) How does class membership differ by students' gender, academic achievement, and family income? (3) How does class membership relate to students' choice of a major in college?\nWe do not have specific predictions about the number of classes that would emerge in the analyses, but anticipated there would be several. Based on previous work such as that of Archambault et al. (2010), we expected the trajectories of change primarily would show a decline in math SCA, interest, and values. Overall, we predict that higher levels of SCA, interest, and importance in math will be predictive of students' choices of a math-intensive major (Larson et al., 2010;Nagy et al., 2008;Nagy et al., 2006;Watt, 2006). In addition, we expected that students whose SCA and valuing of math decreased more substantially would be less likely to choose a math-intensive career.\nAlthough students' SCA and values relate positively to one another (e.g., Eccles & Wigfield, 1995;Meece et al., 1990), Spinath and Steinmayr (2008) found that the longitudinal relations of these variables are not very strong. For this and other reasons, we decided to examine the relations of the trajectory of these variables to choice of college major separately rather than together, for several reasons. First, given that this is the first study to examine such relations we were interested in how the trajectory in each variable related individually to college major choice. Second, other studies of relations of beliefs and college major choice have examined these relations with individual rather than multiple predictor variables (e.g., Allen & Robbins, 2008). Third, researchers such as Trautwein et al. (2012), who used a complex modelling procedure to examine links of SCA and values to grades, looked at the predictive relations separately for each aspect of task value rather than in combination. Given these precedents and the complexity of the modelling analyses in this study, we looked at the trajectory of each of the belief and value variables and how each relates to college major choice.",
+      "n_publication_ref": 10,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Participants",
+      "text": "Data used for the current study are from a subset of students from the Childhood and Beyond (CAB) longitudinal study. This dataset is particularly well suited to address our research questions because the study was designed to examine how self-concept of ability, expectancies, and values developed over time, as well as how these constructs could be used to predict later achievement outcomes and choices. Childhood and Beyond started in the mid-1980s, and data were collected from 12 schools in three different school districts in southeast Michigan. Data from three cohorts of students were collected, and the first wave of data collection occurred when students were in kindergarten, first, and third grade. Students and their parents were surveyed in elementary school and sent followup surveys in high school. Participants completed the measures each year from 1987 to 348\nL. E. Musu-Gillette et al.\n1990. There was a 3-year gap in data collection due to funding issues. Data collection resumed in 1994 through 1999. The oldest cohort was sent a questionnaire during their 2nd year in college.\nParental data such as level of education and household income are quite high in the overall sample. In 1990, the median household income was between $50,000 and $60,000, and 83% of the parents had at least some college education. The sample was explicitly selected to reduce possible obstacles for parents providing opportunities for their children, such as low income or a lack of neighbourhood resources.\nThe current study examines only the oldest cohort of students because this was the only cohort sent a follow-up survey while the students were in college. The data analysed from this cohort come from the responses of 4th through 6th graders, 10th through 12th graders, and college students. Students in this subsample would have been in their 2nd year of college when filling in information on their college major. A total of 421 students were included in the current analyses. Of the original 421 students in this cohort, 129 returned college wave surveys during their 2nd year of school. Due to the fact that this is a pre-existing dataset, we were unable to follow up with additional participants to try and increase the response rate. However, we found very few differences in the profiles of individuals that responded at this wave versus those that did not. These analyses, as well as our approach for dealing with the missing data, are described in more detail below.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "The measures used in this study were developed by Eccles, Wigfield, and colleagues (Eccles, Wigfield, Harold, & Blumenfeld, 1993;Wigfield & Eccles, 2000;Wigfield et al., 1997) and have been used in many studies of the development of SCA and achievement values. Wigfield et al. (1997) report the psychometric properties of these items, which are excellent. For each of the expectancy-value constructs, means, standard deviations, and scale alphas are reported in Table 1.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Self-concept of ability (SCA)",
+      "text": "SCA was measured by a five-item scale specific to the domain of math that assessed students' beliefs about how good they were at math generally, and in comparison to other students and other subjects (sample items, \"How good at math are you?\", with response options on a 7-point rating scale from 1 = not at all good to 7 = very good and \"Compared to your other subjects, how good are you at math\", with response options 1 = a lot worse to 7 = a lot better). The items reflect the \"Me\" or objective component of an individual's SCA (Harter, 2006). Items were worded the same at all waves. Correlations between the scales at all waves, as well as confidence intervals for the correlations, are in Table 2.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Interest",
+      "text": "Interest in math was measured by a three-item scale specific to the domain of math that asked students how interested they were in math and how much they liked math (sample items, \"How much do you like math?\", with a response scale 1 = a little to 7 = a lot and \"I find working on math assignments \u2026 \", with a response scale 1 = boring to 7 = interesting). Items were worded the same at all waves. Correlations between the scales at all waves are in Table 3.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Educational Research and Evaluation",
+      "text": "",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Importance/usefulness",
+      "text": "Perceived importance/usefulness of math was measured by a four-item scale that assessed whether students thought math was useful and important (sample items, \"How useful is what you learn in math?\"; \"For me being good at math is \u2026 \", with a response scale 1 = not useful to 7 = very useful or 1 = unimportant to 7 = important, depending on the item). Items were worded the same at all waves. As noted earlier, these two aspects of values have been collapsed in a number of different studies, and we wanted to include variables that were consistent with the ones used in the previous work. Correlations between the scales at all waves are in Table 4.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "College major",
+      "text": "Students indicated their major in an open-ended item that asked, \"What is your college major?\" Majors were coded 1 to 4 for math relatedness using an adapted version of Goldman and Hewitt's (1976) scale for coding STEM-related majors. This scale has been adapted and used reliably in other studies classifying students into categories based on a math-intensive major (e.g., Pajares & Miller, 1995). The adapted measure classified majors into four groups based on how much math was required: Little to no math, some math, moderate math, and intensive math. Math requirements were assessed by determining the average number of math courses required by a particular major. The majors placed in each category are displayed in Table 5.    Only a very small number of majors were not included in Goldman and Hewitt's (1976) initial taxonomy. Those that were not were examined to see whether similar majors existed. For example, \"nurse practitioner\" was not included in the Goldman and Hewitt scale, but pre-nursing was. Due to the similarity of these two majors, they were both assigned the same code. Additionally, few changes were required to adapt the measure from classifying STEM-related majors to math-intensive majors. Some majors were more math intensive than in the original scale. For example, in the adapted scale used for this study, finance majors were coded as a 4 due to the math-intensive nature of this course of study; however, they were classified as a 3 in the original Goldman and Hewitt scale.\nMajors that required little or no math were coded as a 1, for example, drama. Majors that required significant amounts of math, engineering for example, were coded a 4. Two coders rated the measures separately. Initial agreement was 89%. That is, for 89% of the possible majors, the coders agreed on their initial categorization of 1 to 4 for math intensiveness. Because it was necessary for subsequent analyses that all majors be assigned only one code, when coders disagreed on a specific code assignment, they discussed their reasons for choosing a particular code. In order to reach a consensus, the coders discussed aspects of the major in question, such as the number of math courses required and which other possible majors included similar coursework to determine a final, agreed-upon code. Thus, a 100% consensus was reached through discussion.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Covariates",
+      "text": "Gender was dummy coded with females (52%) as the referent group. Income was acquired from surveys of students' parents. Parents were asked to specify into which range their average yearly income could be classified with 1 = under $10,000 and 9 = over $80,000 (US dollars). The mean (M = 5.96, SD = 1.93) corresponds approximately to the income range of $50,000 to $59,000. Initial math achievement included individuals average grade in math during fourth grade and ranged from 1 = F to 15 = A+ (M = 10.17 (approximately a B-), SD = 2.77).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Missing data",
+      "text": "We examined patterns of missingness across all waves. The majority of missing data occurred at the final wave of data collection when students were in college. We used t tests to examine whether students who returned a college wave survey differed in their mean levels of self-concept of ability, interest, and perceived importance of math compared to those students who completed all prior waves of the study and only failed to return a college wave survey. These analyses indicated that there were no discernible patterns in the mean levels associated with each group at any of the waves. However, a gender difference emerged such that female students were more likely to return a college wave survey than male students. Based on this information, analyses were conducted under the assumption that data were missing at random (Fitzmaurice, Laird, & Ware, 2011). This assumption allows for missing data to depend on observed data, but not missing data (Schafer & Graham, 2002).\nSeveral of the covariates included in the current analyses also had some missing data. While full information maximum likelihood approaches are appropriate when there are missing data for the growth variables, this approach does not work when there are missing data on the covariates as many programs, including Mplus, model missingness by conditioning on the covariates (Graham, 2009). To address this, we used multiple imputation in Mplus Version 6.1 (L.K. Muth\u00e9n & Muth\u00e9n, 2011) to impute 40 datasets with no missing values and ran subsequent analyses on all 40 of these datasets, following advice from Graham (2009) that this number of imputations is generally recommended to avoid power issues when there are large amounts of missing data on a variable. Reported results are the averages across all datasets.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Analysis plan",
+      "text": "Both the imputation models and analysis models were run in Mplus Version 6.1 (L.K. Muth\u00e9n & Muth\u00e9n, 2011). We followed a multi-step process to examine trajectories of change and used the same procedure to examine and compare the models described below for each construct. These steps included:\n(1) examination of functional form of change across the sample;\n(2) class enumeration using latent class growth modelling;\n(3) release of individual and class-level parameter constraints to check for heterogeneity across classes; (4) inclusion of covariates;\n(5) inclusion of college major as a distal outcome.\nEach step is described in more detail below.\nFirst, the shape of the growth over time was examined for each of the constructs to determine the functional form that best summarized the within-subject behaviour. Decisions about shape of growth were based both on statistical criteria and examinations of the individual student trajectories plotted over time to get a sense of the functional form of the trajectories of change. Results indicated that linear change over time fit best for growth in selfconcept of ability, but quadratic change more appropriately represented the change over time in interest and importance as the growth rate in each construct showed a proclivity to diminish at later times. Comparisons across models were based on the Bayesian information criterion (BIC) fit statistics, the root mean square error of approximation (RMSEA), and the comparative fit index (CFI) to get a sense of overall model fit; these are recommended fit statistics for this type of analysis (Nylund, Asparouhov, & Muth\u00e9n, 2007). Additionally, these fit statistics adjust for model complexity and are therefore appropriate to use to correct for the fact that more complex polynomial models could provide a better overall fit to the data.\nSecond, we used latent class growth modelling (Nagin, 1999) to examine whether there were different distributions underlying the change in students' math motivation. This",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "354",
+      "text": "L. E. Musu-Gillette et al.\napproach explores the possibility that there are groups or classes of students that have different patterns of change over time. We compared models with increasing numbers of classes while constraining all parameters except the intercept, slope, and quadratic term to be equal across classes. The goal in this step of the analysis is to estimate the number of latent trajectory classes that underlie the data. Comparisons across models were based on the BIC fit statistic, the likelihood ratio test, separation of the classes as measured by entropy and probabilities for likely class membership, and interpretability of the trajectories. However, because release of constraints at Step 3 can alter model fit, the ultimate decision of how many classes to select was not made at this step. Instead, a small selection of models showing similarly good data-model fit was carried through to Step 3. Growth mixture modelling (B. Muth\u00e9n, 2004;Petras & Masyn, 2010) was then used to allow for heterogeneity in trajectory shape and individual variation within classes to be explored. At the individual level, these parameters include the amount of individual error variance; that is, how variable individuals are around the mean growth trajectory for each class. The Level 1, or individual-level equation, illustrates this. Each individual has an intercept (a ik ), linear slope components (b 1ik ), a quadratic growth parameter (l 2 ti ), and error (1 tik ).\ny tik = a ik + l ti b 1ik + l 2 ti b 2ik + 1 tik\nAt the group level, these parameters include the variances and covariances of the growth parameters across classes; that is, whether the intercept, slope, and quadratic growth parameters vary individually and with one another differentially across classes. This is evident in the equation below that represents the three Level 2 equations necessary for a quadratic growth mixture model which represent the mean level intercept (a ik ), slope (b 1ik ), quadratic growth (b 2ik ), and error, which can vary based on class membership, with the major difference being the growth mixture modelling does not suppress between-subject variability.\na ik = m ak + g 1k x i + z aik b 1ik = m b 1k + g 2k x i + z b 1ik b 2ik = m b 2k + g 2k x i + z b 2ik\nCovariates were entered next, following recommendations by Petras and Masyn (2010), and allowed to influence the intercept and growth parameters. These covariates were achievement, gender, and parent income; covariates were chosen for several reasons, as discussed earlier. First, students' level of achievement in an area likely affects whether they choose to major in it in college. In this study, we were interested in motivation, so it was important to examine initial achievement. Similarly, studies show that girls often have lower self-concepts of ability in math than do boys (even if they perform similarly or better than boys) (US Department of Education, National Center for Education Statistics, 2009;Watt, 2006;Wigfield et al., 1997), and so we wanted to examine these possible differences. Parent income is related to trajectories of change (Archambault et al., 2010) and might also relate to choice of college major, and so we wanted to examine this variable as well.\nFigure 1 shows the conceptual model for the full set of analyses. The slope (\u03b1), intercept (\u03b2 1 ), and, when necessary, the quadratic term (\u03b2 2 ) were used to represent growth across Educational Research and Evaluation measurement occasions. We allowed gender, initial math performance, and parent income to influence class membership and also examined the effect of these covariates on initial levels of self-concept, interest, and importance as well as the linear growth parameter within classes. Finally, class membership was used to predict college major category. Once a final model was selected for each construct, college major was entered in the model as an ordinal outcome. For ordinal outcomes, Mplus gives threshold values that can be converted to probabilities in order to examine whether classification trends differ across latent classes (B. Muth\u00e9n, 2004) using the following equation, where u i represents the college major category:\nPr u i |c i = k, x i ( )= 1 1 + exp t k \u2212 v k x i { }\nt k is a varying threshold, and v k is the class-varying slope. Thus, the probability of being classified into a particular college major category differs depending on class membership and class-specific growth parameters.",
+      "n_publication_ref": 8,
+      "n_figure_ref": 1
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Self-concept of ability",
+      "text": "To address Step 1 of the analysis procedure, we explored the functional form of growth in SCA across the sample. A linear growth model with a homogeneous covariance structure showed the best data-model fit (BIC = 5097.88, RMSEA = 0.052, CFI = 0.964). However, a quadratic growth model with homogeneous covariance structure also showed similarly good data-model fit (BIC = 5103.85, RMSEA = 0.054, CFI = 0.962). Therefore, we initially moved forward to Step 2 specifying quadratic growth as this would allow us to Note: We ran three separate iterations of this model for each of the three constructs examined: SCA, interest, and importance. Note that the quadratic term, indicated by the dashed lines, was only included in the models for interest in math and perceived importance of math due to exploratory analyses indicating SCA showed linear growth over time.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "356",
+      "text": "L. E. Musu-Gillette et al.\naccount for trajectory growth that may follow a different functional form within each class (i.e., a linear growth trajectory). Moving forward with this information, the number of underlying latent classes was then explored. However, as we explored class enumeration we found that the quadratic growth term was not significant within the different classes of growth, and there were convergence issues. To address these issues, we returned to a linear growth model and repeated Step 2 specifying linear growth across classes. These models did not present convergence issues, and so we were able to enumerate models with up to six different classes. Based on model fit, models with three, four, and five classes were carried forward to Step 3 to investigate heterogeneity within classes.\nUltimately, a three-class solution showed good model fit, as well as good and interpretable separation between the classes. Further, the fully constrained three-class model fit best; that is, the model that held individual and between-class parameters constant. Therefore, the final model chosen was a three-class solution with the error covariances constrained within individuals, as well as the variances of the slopes and intercepts, and the covariance of the slope and intercept constrained between classes. For the two final steps, covariates were entered in the model, and college major was included as an ordinal outcome. Figure 2 shows the final trajectories for each of the three classes as well as the percent of the sample represented in each class.\nClass 1 contained approximately 39% of the sample and is shown as a solid line. This class showed the highest initial SCA in math (m a1 = 5.00) and a very slight decrease in SCA over time (m b 11 = -0.07). This class appears to represent a group of students with initially high SCA in math that maintains this relatively high SCA over time; thus, we chose to label this class the High Self-Concept Trajectory. Class 2 contained approximately 39% of the sample and is shown as a dotted line. Students in this class began with moderate levels of SCA in math (m a2 = 3.65) that declined over time (m b 12 = -0.14). We called this class the Slow Decline Self-Concept Trajectory. Students in Class 3, 22% of the sample displayed as a dashed line, also showed initially moderate levels of SCA in fourth grade (m a3 = 3.76) but had a somewhat steeper decline in their SCA over time (m b 13 = -0.23) as compared ",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Educational Research and Evaluation",
+      "text": "to the Slow Decline Self-Concept Trajectory. We therefore labelled this trajectory the Fast Decline Self-Concept Trajectory.\nLikelihood of choice of college major by the participants and classification into the four types of college major also differed across classes. Table 6 shows the probability of choice of college major across the three classes. The students in the High Self-Concept Trajectory have a 75% probability of being classified in the intensive math major category. Students in the Slow Decline Self-Concept Trajectory have only a 1% chance of being classified into the intensive math major category, but equally high probabilities of being classified in the little to no math or some math major categories. Those individuals in the Fast Decline Self-Concept Trajectory show relatively similar probabilities of being classified into majors that require little to no to moderate amounts of math and a very small probability of being classified in the intensive math category.\nThere were no significant differences in gender distribution, household income, and initial math achievement across the classes. Further, these covariates were not significant predictors of the initial intercept or slope within the classes. For the High Self-Concept Trajectory, the mean income was 4.6 on the 1 to 9 income scale, the mean fourth-grade achievement was 10.1 (about a B-), and the gender distribution was .56 indicating this class contained a higher proportion of males than females. The mean income for the Slow Decline Self-Concept Trajectory was 5.2, the mean achievement was 9.4, and the gender distribution was .44. The Fast Decline Self-Concept Trajectory had a mean income of 5.1, a mean achievement of 10.7, and the gender distribution was .41.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Interest",
+      "text": "A quadratic growth model fit the data significantly better than a linear growth model when examining students' change in interest in math over time in Step 1 of the procedure. This indicates that change in students' interest in math over time follows a more curvilinear trajectory, and not a straight line. Further, a quadratic model with a heterogeneous covariance structure showed the best overall model fit (BIC = 6543.50, RMSEA = 0.059, CFI = 0.948). Moving forward with this information, the number of underlying latent classes was then explored in Step 2 of the analyses. We again tested models with up to seven different classes and found a three-, four-, or five-class solution showed similar levels of data model fit. Ultimately, when constraints were released within individuals and between individuals, classification got worse and the separation of the classes was not as clear. Further, the three-class solution showed the best and most interpretable separation of classes. Therefore, the fully constrained three-class model was selected due to the better and more interpretable classifications and separation of classes. The final three-class solution is shown in Figure 3 after both covariates and college major were entered in the model.  Table 7 shows the probability of choice of each major category across the three classes. Similar to the High Self-Concept Trajectory, the High Interest Trajectory begins with high interest in math, and although they decline slightly through the middle years, their interest in math goes up again in late high school and early college. Students in this trajectory have a 34% chance of being classified in the intensive math major category. In contrast, students in  the Slow Decline Interest Trajectory and the Fast Decline Interest Trajectory have a 15% and a 0% chance of being classified in the intensive math major category, respectively. Similar to the results for self-concept of ability, there were no significant differences in gender distribution, household income, and initial math achievement across the classes. Further, these covariates were not significant predictors of the initial intercept or slope within the classes. For the High Interest Trajectory, the mean income was 5, the mean fourth-grade achievement was 10.6, and the gender distribution was .43, indicating this class contained a slightly higher proportion of females. The mean income for the Slow Decline Interest Trajectory was 5.2, the mean achievement was 9.6, and the gender distribution was .48. The Fast Decline Interest Trajectory had a mean income of 4.8, a mean achievement of 10, and the gender distribution was .55.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Importance",
+      "text": "A quadratic growth model fit the data significantly better than a linear growth model when examining students' change in interest in math over time. Similar to the change in interest, this indicates that change in students' perceived importance of math over time follows a more curvilinear trajectory, not a straight line. Initially, a quadratic growth model with heterogeneous error showed the best data-model fit (BIC = 5499.25, RMSEA = 0.078, CFI = 0.864). Moving forward with this information, the number of underlying latent classes was then explored. The models with heterogeneous error structures were quite complex and converged to local, rather than global, maximums on several iterations, indicating that a simpler model should be estimated. We therefore decided to move forward with a quadratic growth model with a homogeneous error structure, which showed very similar data-model fit (BIC = 5488.48, RMSEA = 0.081, CFI = 0.809) but required fewer parameters to be estimated.\nA three-class solution fit the data significantly better than solutions positing more latent classes. Ultimately, in all analyses a three-class solution showed good model fit, as well as good and interpretable separation between the classes. When constraints were released within individuals and between individuals, classification got worse and the separation of the classes was not as clear. Therefore, the three-class solution with the error covariances constrained within individuals, and the variances of the slopes and intercepts and the covariance of the slope and intercept constrained between classes. Figure 4 shows the trajectory for each of the three classes.\nClass 1 contained approximately 49% of the sample and is shown as a solid line. Similar to the High Self-Concept Trajectory and the High Interest Trajectory, this class represents those students who show relatively high perceived importance of math over time, although there is a steeper decline as compared to self-concept and interest. These students start with the highest reported levels of perceived importance of math (m a1 = 6.12), which decline somewhat over time, especially throughout the middle years (m b 11 = -0.46), but show an increase in their perceived importance of math in late high school and into college as indicated by the positive quadratic term (m b 21 = 0.03). Thus, because the overall pattern appears to be one of decline, we labelled this trajectory the Slow Decline Importance Trajectory. In Class 2, which contained approximately 13% of the sample and is shown as a dotted line, students began with low levels of perceived importance of math in elementary school (m a2 = 2.61) and show almost no change in their reported interest over time (m b 12 = 0.09), although there is a slight curvilinear trend in the shape of an inverted U (m b 22 = -0.01). We chose to label this class the Low Steady Importance Trajectory. Similar to the Fast Decline Interest Trajectory, 39% of the sample was classified in Class 3, represented as a dashed line.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "360",
+      "text": "L. E. Musu-Gillette et al.\nStudents in this class report initially high levels of perceived importance of math (m a3 = 5.77), which declines over time (m b 13 = -0.42). The curvilinear change for this group was non-significant. We labelled this class the Fast Decline Importance Trajectory.\nTable 8 shows the probability of classification into each major type across the three classes. Similar to the High Self-Concept Trajectory and the High Interest Trajectory, the Slow Decline Importance Trajectory has a 52% chance of choosing majors that are classified as math intensive. The Low Steady Importance Trajectory showed a lot of variability in terms of their chance of being classified into a particular major category. Although students in this class had the highest chance of being classified into the major category that requires some math (39%), they also had a relatively high chance of being classified as in the intensive-math category (27%) despite viewing math as relatively unimportant. Finally, the Fast Decline Importance Trajectory was similar to the declining classes observed for selfconcept of ability in math and interest in math. Individuals in these classes had the greatest chance of choosing majors that were classified as requiring little to no math (49%) or some math (44%).\nThe covariates were not significant predictors of the initial intercept or slope within the classes. There were also no significant differences in gender distribution, household income, and initial math achievement across the classes. For the Slow Decline Importance Trajectory, the mean income was 4.6, the mean fourth-grade achievement was 10.2, and the gender distribution was .5, indicating an equal proportion of males and females. The mean income for the Low Steady Importance Trajectory was 5.5, the mean achievement was 10.2,  and the gender distribution was .54. The Fast Decline Importance Trajectory had a mean income of 5.2, a mean achievement of 10, and the gender distribution was .44.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Discussion",
+      "text": "Overall, the findings of this study build on prior correlational research showing that constructs from expectancy-value theory predict achievement outcomes and choices, but add important new information showing that change in the motivation constructs in this theory across the school years relates to a major choice that students make during their college years. Building on longitudinal studies that have shown that SCA and values in math measured at one time point predict choice of math courses in high school (Updegraff et al., 1996;Watt, 2006), we found that trajectories of change predicted choice of a college major. Results of this study also extend prior research that shows students' confidence and interest in a subject when they are in college are associated with students' choice of a major in that domain (Eccles, 2007;Harackiewicz et al., 2002;Larson et al., 2010) by showing that different trajectories of change over time are differentially associated with individuals' choice of a math-intensive major. Further, our results are consistent with Li and colleagues (2009), who found that interest in math and science in middle school can have long-term impact on choice of a college major; we found that individuals in the high trajectories, or the classes who maintained the most positive ability beliefs and values, were the most likely to select a math-intensive major in college.\nWhile it is clear from the literature that proximal motivations influence student choice (e.g., Larson et al., 2010;Meece et al., 1990), students' motivations are a result of a rich history of experiences in and attitudes toward a domain that produces different motivational trajectories. We believe the most important theoretical contribution of this study is tying together two major strands of Eccles and colleagues' (e.g., Eccles-Parsons et al., 1983;Wigfield & Eccles, 1992) research based in their expectancy-value model. One strand concerns how children's SCA and values change over time. The other is how these variables relate to performance and choice. This study is the first to look at these two aspects together; that is, how change predicts choice. We next consider the trajectories of change and then comment on their links to choice.\nOur first research question sought to explore the number of underlying trajectories of change, as well as the functional form of that change. For each of the motivation variables, three trajectories emerged. One trajectory for each variable was higher than the other two, and in the case of SCA and interest had a relatively slow decline (in fact, the High Interest Trajectory increased through high school, thus showing a curvilinear pattern of change). There was a fast-declining trajectory for each variable, with the groups having this trajectory ending up with the lowest SCA, interest, and importance in math. For SCA and interest, the third trajectory was one of slow decline; for importance, the Low Steady Trajectory had similar low ratings of math importance from 4th through 12th grade. With respect to college major choice, students in the high trajectories were the most likely to choose a math-intensive career; this was especially true for the High Self Concept Trajectory group.\nWe believe that the different trajectories in math SCA and two aspects of value stem from how their beliefs and values develop during the elementary school years. Eccles et al. (1993) and Marcoulides et al. (2008) showed that students' SCA and values in math and other subjects become increasingly stable as they get older. Thus, those with higher beliefs and values early on likely continue to hold these beliefs and values across the school years (despite showing some mean-level decline). These early beliefs and 362\nL. E. Musu-Gillette et al.\nvalues predict later beliefs and values and, as Nagy et al. (2006) and Watt (2006) showed, predict students' aspirations in math and, ultimately, their choice of college major.\nIn terms of the number of latent classes, we found for interest (a construct related to intrinsic motivation) our results are similar to Marcoulides et al. (2008), who found three latent classes representing change in students' intrinsic motivation for different subjects and overall. Their study did not look at importance or SCA, so we are unable to make comparisons regarding the number of classes for these constructs. Marcoulides et al.'s sample included 9-through 17-year-olds. They found greater variability in students' intrinsic motivation early on (before age 13) and (as just noted) strong stability after that. One implication from both these studies' results is that interventions to improve students' interest in math will be more likely to be successful if started earlier in the school years.\nThis study builds on Archambault et al.'s (2010) work in the literacy domain showing that changes in SCA and values are more complex than was once believed. Although the general pattern of change is one of decline, as found by Jacobs et al. (2002) and Wigfield et al. (1997) in their examination of this sample as a whole, we found that the nature of these declines differs both within and across the measured variables in our study. One possible explanation for these different patterns could be that students who maintained higher achievement in math were more likely to have higher ability beliefs and, to a lesser extent, values for math. Although initial achievement did not discriminate among the classes for any of the variables, it is possible that later achievement did influence the pattern of change. Many students' grades in math decrease over time ; thus, the linear decline in students' math SCA could reflect such changes in grades, as well as the students becoming more accurate in their perceptions of ability as they got older (Nicholls, 1979;see Wigfield, Eccles, Schiefele, Roeser, & Davis-Kean, 2006, for a review).\nAnother possibility that should be explored more fully is how teachers' approach to math and the math classroom environment differentially impacts students' beliefs and values in math; this may be particularly important for students' values. Previous work (e.g., Midgley, Feldlaufer, & Eccles, 1989) shows that in middle school math classrooms where teachers foster students' valuing of math and provide support for student success in math, students have stronger motivation to succeed in math. Further, Eccles and Midgley (1989) and others (e.g., Wigfield, Byrnes, & Eccles, 2006) discussed how changes in school and classroom environments can produce changes in students' SCA and values. Given the different trajectories, we found our results suggest that changes in classroom environments over time may differentially impact different children.\nOur results for math interest showed that two of the classes showed increases in math interest in high school (the High Interest Trajectory in particular), perhaps reflecting what was happening in their math classes in high school (Frenzel, Goetz, Pekrun, & Watt, 2010). Frenzel et al. (2010) also found in their study of German fifththrough ninth-grade students that those coming from families who valued math maintained their own interest in math. Thus, parents can impact their children's beliefs and values in math. However, in secondary school many classrooms become more competitive, focused on performance, and less warm as students get older; this is particularly likely in math . Such changes in classroom environments likely impact students' valuing of math in particular, leading them to lose interest in it and deem it less important for them, as shown in several of the trajectories for interest and importance. Archambault et al. (2010), also using the CAB data, identified seven trajectories of change in literacy SCA and values rather than the three we identified. One reason for this difference in the number of trajectories identified could be that the sample in Archambault et al. was larger than ours because they did not limit their sample to the college cohort. Despite the differing number of classes identified, a similarity in the results of both studies is that the general pattern of change in the groups identified was one of decline. Even those students with the most positive ability beliefs and values showed declines over time in these variables. Changes in the accuracy of students' beliefs, changes in classroom environments, and parental support are the most likely explanations for these findings, as noted above. The effects of such changes on students' choice of college major appear to be least pronounced for the students in the highest classes for each construct; these students' ability beliefs and values decline to a degree, but they choose math-intensive majors. The students in the more consistently declining classes, whether this decline is slow or fast, are much more likely to pursue non-math-related majors.\nIt is interesting that a linear, three-class solution best fit the trajectories for students' SCA over time, but a quadratic, three-class solution was a better fit for interest and perceived importance of math. Prior research has shown that ability beliefs and values independently predict students' choices (Durik et al., 2006;Meece et al., 1990;Simpkins et al., 2006) and also that they may not relate that strongly over time (Spinath & Steinmayr, 2008), so these findings could explain why the trajectories are not the same for all constructs. SCA, interest, and importance appear to follow unique trajectories of change over time. One possible explanation for these differences is that there are different influences on these variables. As noted above, students' SCA relate more closely than their values to their grades (Meece et al., 1990), so perhaps the linear change in SCA in each trajectory reflected decreases in students' grades, with stronger declines occurring for students whose grades decline more. Students' achievement values also relate to grades but somewhat less strongly (Meece et al., 1990). Values also depend upon how an activity relates to students' feelings about the activity and sense that it is important to the self or not, as well as on the classroom environment influences discussed earlier. These multiple influences on value may explain why the pattern of change in its components was different than the linear changes observed in SCA. Future research should examine more closely what factors impact change in students' value of math.\nIn terms of our second research question about whether class membership differed by students' gender, academic achievement, and family income, we made a number of important discoveries. Although we examined several covariates in an attempt to understand why particular students may have ended up in a particular class, we found no evidence for significant differences in the gender composition, parental income, and initial achievement across the classes. This is inconsistent with prior research that has found gender differences in SCA and intrinsic value of math as well as work showing that gender related to trajectories of change (Archambault et al., 2010;Nagy et al., 2006;Watt, 2006). Thus, additional variables that could help explain why particular students ended up in a particular class should be explored in future research. Both Nagy et al. (2006) and Watt (2006) had non-US student samples. Therefore, it could be that cultural differences account for the gender differences observed in those studies. While Archambault et al. (2010) had a US sample, they concentrated on the literacy domain. Thus, gender differences in their study tended to show females classified into more adaptive trajectories as compared to males; reflecting the stereotype that literacy activities are more appropriate for females. Our results showing no impact of gender on the trajectories may reflect changes in stereotypes about the appropriateness of math activities for females. Recent research has found that the gender gap in mathematics achievement is declining (US Department of Education, National Center for Education Statistics, 2009), and our results may reflect these changing patterns of students' achievement as well as their beliefs.",
+      "n_publication_ref": 38,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "364",
+      "text": "L. E. Musu-Gillette et al.\nThe lack of achievement differences across the classes may also be due to the fact that only initial achievement was used as a covariate. It could be that achievement in later math courses has a stronger impact on SCA, interest, and perceived importance of math, and therefore choice of a math-intensive college major. While we believed that initial achievement was most important to include due to the impact math grades may have on forming initial expectancies and values, and therefore setting an individual on a particular trajectory, future studies should consider later achievement in mathematics as well.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Belief trajectories and choice",
+      "text": "Our third research question investigated whether the trajectories of change were related to students' college major selection. Our results indicate that the different trajectories in children's beliefs, interest, and values all had substantial impact on their choice of college major. Students in the High SCA trajectory were 95% likely to be in a major that required either an intensive or moderate amount of math. By contrast, very few students showing slow or fast declines in math SCA chose majors requiring intensive amounts of math. Similar patterns occurred for both math interest and importance, although it should be noted that students showing slow declines in interest or importance were more likely to be in majors requiring math than were those who were in the declining SCA trajectories; these findings may reflect earlier work showing that values are a stronger predictor of choice than is SCA (Meece et al., 1990).\nAs discussed above, students' beliefs and values stabilize as they get older, which means that those in the declining trajectories will be more likely to stay in those trajectories. This fact, coupled with the long-term relations of SCA and values to choice, suggests that the kinds of beliefs and values students have about math (and likely other subject areas) in late elementary school have long-term implications for their later academic choices. Thus, interventions to change the trajectories of students whose beliefs and values decline should start early during the school years. Several recent studies have shown that interventions targeting students' motivation can be implemented at a low cost and with relative ease and still show positive effects (for a review see Yeager & Walton, 2011). In particular, interventions targeting students' interest and value have been shown to positively affect their academic outcomes (Hulleman, Godes, Hendricks, & Harackiewicz, 2010;Hulleman & Harackiewicz, 2009).",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations and future directions",
+      "text": "The current study is the first to show how change in students' SCA and values relate to a major life choice, the choice of a college major. The results thus provide an important validation and extension of Eccles-Parsons et al.'s (1983) expectancy-value model of achievement performance and choice. There are, however, some important limitations of this research that must be considered when interpreting the results. First, the study employed a correlational design, and so inferences about causality are only tentative despite the longitudinal design. Second, the sample for the current study was quite homogeneous. Although the sample was chosen specifically to limit external factors that might hinder students' opportunities for success, the results may not generalize well to other populations of students, especially those that may not have more obstacles in their path to a college education. Future research should be conducted using more diverse samples of students, especially considering whether similar latent classes emerge in these different samples.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Educational Research and Evaluation",
+      "text": "The level of attrition over time is also a concern. Exploratory analyses revealed very few significant differences between those students who were present at every wave and those who had missing data. Further, best practices were followed in terms of multiple imputation and overall analysis procedures in an attempt to appropriately account for missingness. As such, we do not believe the missing data impacted the findings. However, replication with additional samples is necessary to address this assumption. This could also address concerns over the homogeneity of the sample discussed above.\nAnother important topic for future research is an examination of why the different patterns of change in the motivation variables occurred over time. Of particular interest is why some students' self-concepts of ability, interest, and (to a lesser degree) importance remain relatively high and stable, while others show stronger declines. Classroom observations would be one way to study this issue, to see if different kinds of classroom practices produce increases or decreases in motivation for different students (see Archambault et al., 2010, for a discussion of this issue in the literacy domain). Student ratings of classroom practices also could be a useful tool. Finally, parental attitudes towards math and how they involve themselves with their children's school experiences in math may also be an important predictor of change in students' math SCA and values (Frenzel et al., 2010).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Understanding individual trajectories of change is an important first step in understanding the complex relations between central constructs in expectancy-value theory and academic choices and outcomes. Expectancy-value theory suggests that SCA and task values make unique, individual contributions to achievement choices and outcomes (Eccles-Parsons et al., 1983). Further, as noted earlier, Spinath and Steinmayr (2008) found only weak evidence for cross-lagged influence over time between students' competence beliefs and intrinsic motivation. However, SCA, importance, and interest are not wholly independent of one another, and likely levels of one influences levels of the others over time. As such, while we believe it is first necessary to understand their unique trajectories of change over time in relation to outcomes and choices, future research should address how changes in the constructs in conjunction with one another may differentially impact individuals' choices.\nOur study shows that, individually, the long-term trajectories of students' SCA, interest, and value for math are related to their choice of a college major. As mentioned previously, this information could be important in helping decide when and where to intervene to maintain students' SCA, interest, and value for math over time. Additionally, in the US, attrition out of math-heavy majors is particularly high (Chen, 2013). In determining how to best prevent these high rates of attrition, it is important to understand the long-term connections between students' SCA, interest, and value for math, as well as how these relate to students choice of a college major. This study provides a first step in understanding these relations. ",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    { "heading": "Notes on contributors", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "366",
+      "text": "L. E. Musu-Gillette et al. ",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Prediction of college major persistence based on vocational interests, academic preparation, and first-year academic performance",
+      "journal": "",
+      "year": "2008",
+      "authors": "J Allen; S B Robbins"
+    },
+    {
+      "title": "Ability self-concepts and subjective value in literacy: Joint trajectories from grades 1 through 12",
+      "journal": "Journal of Educational Psychology",
+      "year": "2010",
+      "authors": "I Archambault; J S Eccles; M N Vida"
+    },
+    {
+      "title": "STEM attrition: College students' paths into and out of STEM fields (NCES 2014-001)",
+      "journal": "",
+      "year": "2013",
+      "authors": "X Chen"
+    },
+    {
+      "title": "Task values and ability beliefs as predictors of high school literacy choices: A developmental analysis",
+      "journal": "Journal of Educational Psychology",
+      "year": "2006",
+      "authors": "A M Durik; M Vida; J S Eccles"
+    },
+    {
+      "title": "Where are all the women? Gender differences in participation in physical sciences and engineering",
+      "journal": "APA Press",
+      "year": "2007",
+      "authors": "J S Eccles"
+    },
+    {
+      "title": "Linking gender to education, occupation, and recreational choices: Applying the Eccles et al. model of achievement-related choices",
+      "journal": "APA Press",
+      "year": "1999",
+      "authors": "J S Eccles; B Barber; D Jozefowicz"
+    },
+    {
+      "title": "Stage/environment fit: Developmentally appropriate classrooms for early adolescents",
+      "journal": "Academic Press",
+      "year": "1989",
+      "authors": "J S Eccles; C Midgley"
+    },
+    {
+      "title": "The relation of early adolescents' college plans and both academic ability and task-value beliefs to subsequent college enrollment",
+      "journal": "The Journal of Early Adolescence",
+      "year": "2004",
+      "authors": "J S Eccles; M N Vida; B Barber"
+    },
+    {
+      "title": "In the mind of the achiever: The structure of adolescents' achievement task values and expectancy-related beliefs",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "1995",
+      "authors": "J Eccles; A Wigfield"
+    },
+    {
+      "title": "Age and gender differences in children's self and task perceptions during elementary school",
+      "journal": "Child Development",
+      "year": "1993",
+      "authors": "J Eccles; A Wigfield; R Harold; P Blumenfeld"
+    },
+    {
+      "title": "Expectancies, values, and academic behaviors",
+      "journal": "W. H. Freeman",
+      "year": "1983",
+      "authors": "J Eccles-Parsons; T F Adler; R Futterman; S B Goff; C M Kaczala; J L Meece; C Midgley"
+    },
+    {
+      "title": "Applied longitudinal analysis",
+      "journal": "Wiley",
+      "year": "2011",
+      "authors": "G M Fitzmaurice; N M Laird; J H Ware"
+    },
+    {
+      "title": "Development of mathematics interest in adolescence: Influences of gender, family, and school context",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2010",
+      "authors": "A C Frenzel; T Goetz; R Pekrun; H M G Watt"
+    },
+    {
+      "title": "Why don't they want a male-dominated job? An investigation of young women who changed their occupational aspirations",
+      "journal": "Educational Research and Evaluation",
+      "year": "2006",
+      "authors": "P M Frome; C J Alfeld; J S Eccles; B L Barber"
+    },
+    {
+      "title": "The scholastic aptitude test \"explains\" why college men major in science more often than college women",
+      "journal": "Journal of Counseling Psychology",
+      "year": "1976",
+      "authors": "R D Goldman; B N Hewitt"
+    },
+    {
+      "title": "Continuity of academic intrinsic motivation from childhood through late adolescence: A longitudinal study",
+      "journal": "Journal of Educational Psychology",
+      "year": "2001",
+      "authors": "A E Gottfried; J S Fleming; A W Gottfried"
+    },
+    {
+      "title": "Longitudinal pathways from math intrinsic motivation and achievement to math course accomplishments and educational attainment",
+      "journal": "Journal of Research on Educational Effectiveness",
+      "year": "2013",
+      "authors": "Educational Research And Evaluation Gottfried; A E Marcoulides; G A Gottfried; A W Oliver; P H "
+    },
+    {
+      "title": "",
+      "journal": "",
+      "year": "2007",
+      "authors": "A E Gottfried; G A Marcoulides; A W Gottfried; P H Oliver; D W Guerin"
+    },
+    {
+      "title": "Multivariate latent chance modeling of developmental decline in academic intrinsic math motivation and achievement: Childhood through adolescence",
+      "journal": "International Journal of Behavioral Development",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Missing data analysis: Making it work in the real world",
+      "journal": "Annual Review of Psychology",
+      "year": "2009",
+      "authors": "J W Graham"
+    },
+    {
+      "title": "Predicting success in college: A longitudinal study of achievement goals and ability measures as predictors of interest and performance from freshman year through graduation",
+      "journal": "Journal of Educational Psychology",
+      "year": "2002",
+      "authors": "J M Harackiewicz; K E Barron; J M Tauer; A J Elliot"
+    },
+    { "title": "The self", "journal": "Wiley", "year": "2006", "authors": "S Harter" },
+    {
+      "title": "Enhancing interest and performance with a utility value intervention",
+      "journal": "Journal of Educational Psychology",
+      "year": "2010",
+      "authors": "C S Hulleman; O Godes; B Hendricks; J M Harackiewicz"
+    },
+    {
+      "title": "Making education relevant: Increasing interest and performance in high school science classes",
+      "journal": "Science",
+      "year": "2009",
+      "authors": "C S Hulleman; J M Harackiewicz"
+    },
+    {
+      "title": "Changes in children's self-competence and values: Gender and domain differences across grades one through twelve",
+      "journal": "Child Development",
+      "year": "2002",
+      "authors": "J E Jacobs; S Lanza; D W Osgood; J S Eccles; A Wigfield"
+    },
+    {
+      "title": "Male and female college students' college majors: The contribution of basic vocational confidence and interests",
+      "journal": "Journal of Career Assessment",
+      "year": "2010",
+      "authors": "L M Larson; T Wu; D C Bailey; F H Borgen; C E Gasser"
+    },
+    {
+      "title": "Effects of summer academic programs in middle school on high school test scores, course-taking, and college major",
+      "journal": "Journal of Advanced Academics",
+      "year": "2009",
+      "authors": "Y Li; C Alfeld; R P Kennedy; M Putallaz"
+    },
+    {
+      "title": "Gender and occupational outcomes: Longitudinal assessments of individual, social, and cultural influences",
+      "journal": "American Psychological Association",
+      "year": "2008",
+      "authors": "X Ma; W Johnson"
+    },
+    {
+      "title": "Influences of students' choice of college major",
+      "journal": "Journal of Education for Business",
+      "year": "2005",
+      "authors": "C A Malgwi; M A Howe; P A Burnaby"
+    },
+    {
+      "title": "A latent transition analysis of academic intrinsic motivation from childhood through adolescence",
+      "journal": "Educational Research and Evaluation",
+      "year": "2008",
+      "authors": "G A Marcoulides; A E Gottfried; A W Gottfried; P H Oliver"
+    },
+    {
+      "title": "Predictors of math anxiety and its influence on young adolescents' course enrollment intentions and performance in mathematics",
+      "journal": "Journal of Educational Psychology",
+      "year": "1990",
+      "authors": "J L Meece; A Wigfield; J S Eccles"
+    },
+    {
+      "title": "Student/teacher relations and attitudes toward mathematics before and after the transition to junior high school",
+      "journal": "Child Development",
+      "year": "1989",
+      "authors": "C Midgley; H Feldlaufer; J S Eccles"
+    },
+    {
+      "title": "Latent variable analysis: Growth mixture modeling and related techniques for longitudinal data",
+      "journal": "Sage",
+      "year": "2004",
+      "authors": "B Muth\u00e9n"
+    },
+    {
+      "title": "Analyzing developmental trajectories: A semiparametric, group-based approach",
+      "journal": "Psychological Methods",
+      "year": "1999",
+      "authors": "L K Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Gendered high school course selection as a precursor of gendered careers: The mediating role of self-concept and intrinsic value",
+      "journal": "",
+      "year": "2008",
+      "authors": "G Nagy; J Garrett; U Trautwein; K S Cortina; J Baumert; J S Eccles"
+    },
+    {
+      "title": "Gender and course selection in upper secondary education: Effects of academic self-concept and intrinsic value",
+      "journal": "Educational Research and Evaluation",
+      "year": "2006",
+      "authors": "G Nagy; U Trautwein; J Baumert; O K\u00f6ller; J Garrett"
+    },
+    { "title": "", "journal": "", "year": "", "authors": "L E Musu-Gillette" },
+    {
+      "title": "Development of perception of own attainment and causal attributions for success and failure in reading",
+      "journal": "Journal of Educational Psychology",
+      "year": "1979",
+      "authors": ""
+    },
+    {
+      "title": "Deciding on the number of classes in latent class analysis and growth mixture modeling: A Monte Carlo simulation study",
+      "journal": "Structural Equation Modeling",
+      "year": "2007",
+      "authors": "K L Nylund; T Asparouhov; B O Muth\u00e9n"
+    },
+    {
+      "title": "Mathematics self-efficacy and mathematics performance: The need for specificity of assessment",
+      "journal": "Journal of Counseling Psychology",
+      "year": "1995",
+      "authors": "F Pajares; D M Miller"
+    },
+    {
+      "title": "General growth mixture analysis with antecedents and consequences of change",
+      "journal": "",
+      "year": "2010",
+      "authors": "H Petras; K Masyn"
+    },
+    { "title": "Spring Science and Business Media", "journal": "", "year": "", "authors": "" },
+    {
+      "title": "Missing data: Our view of the state of the art",
+      "journal": "Psychological Methods",
+      "year": "2002",
+      "authors": "J L Schafer; J Graham"
+    },
+    {
+      "title": "Math and science motivation: A longitudinal examination of the links between choices and beliefs",
+      "journal": "Developmental Psychology",
+      "year": "2006",
+      "authors": "S D Simpkins; P E Davis-Kean; J S Eccles"
+    },
+    {
+      "title": "Longitudinal analysis of the link between learning motivation and competence beliefs among elementary school children. Learning and Instruction",
+      "journal": "",
+      "year": "2005",
+      "authors": "B Spinath; F M Spinath"
+    },
+    {
+      "title": "Longitudinal analysis of intrinsic motivation and competence beliefs: Is there a relation over time? Child Development",
+      "journal": "Journal of Educational Psychology",
+      "year": "2008",
+      "authors": "B Spinath; R Steinmayr; U ; X Trautwein; H W Marsh; B Nagengast; O L\u00fcdtke; G Nagy; K Jonkmann"
+    },
+    {
+      "title": "Course enrollment as selfregulatory behavior: Who takes optional high school math courses",
+      "journal": "Learning and Individual Differences",
+      "year": "1996",
+      "authors": "K A Updegraff; J S Eccles; B L Barber; K M Brien"
+    },
+    {
+      "title": "The role of motivation in gendered educational and occupational trajectories related to maths",
+      "journal": "Educational Research and Evaluation",
+      "year": "2006",
+      "authors": ""
+    },
+    {
+      "title": "A latent growth curve modeling approach using an accelerated longitudinal design: The ontogeny of boys' and girls' talent perceptions and intrinsic values through adolescence",
+      "journal": "Educational Research and Evaluation",
+      "year": "2008",
+      "authors": "H M G Watt"
+    },
+    {
+      "title": "Adolescent development",
+      "journal": "Erlbaum",
+      "year": "2006",
+      "authors": "A Wigfield; J B Byrnes; J S Eccles"
+    },
+    {
+      "title": "The development of achievement task values: A theoretical analysis",
+      "journal": "Contemporary Educational Psychology",
+      "year": "1992",
+      "authors": "A Wigfield; J S Eccles"
+    },
+    {
+      "title": "Development of achievement motivation and engagement",
+      "journal": "",
+      "year": "",
+      "authors": "A Wigfield; J S Eccles; J Fredricks; S Simpkins; R Roeser; U Schiefele"
+    },
+    {
+      "title": "Development of achievement motivation",
+      "journal": "John Wiley",
+      "year": "2006",
+      "authors": "A Wigfield; J S Eccles; U Schiefele; R W Roeser; P Davis-Kean"
+    },
+    {
+      "title": "Change in children's competence beliefs and subjective task values across the elementary school years: A 3-Year Study",
+      "journal": "Journal of Educational Psychology",
+      "year": "1997",
+      "authors": "A Wigfield; J S Eccles; K S Yoon; R D Harold; A J A Arbreton; C Freedman-Doan; P C Blumenfeld"
+    },
+    {
+      "title": "Handbook of motivation at school",
+      "journal": "Routledge",
+      "year": "2009",
+      "authors": "A Wigfield; S Tonks; S L Klauda"
+    },
+    {
+      "title": "Social-psychological interventions in education: They're not magic",
+      "journal": "Review of Educational Research",
+      "year": "2011",
+      "authors": "D S Yeager; G M Walton"
+    },
+    { "title": "", "journal": "", "year": "", "authors": "L E Musu-Gillette" }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Figure 1 .1Figure1. Conceptual model for growth mixture modeling analyses. Note: We ran three separate iterations of this model for each of the three constructs examined: SCA, interest, and importance. Note that the quadratic term, indicated by the dashed lines, was only included in the models for interest in math and perceived importance of math due to exploratory analyses indicating SCA showed linear growth over time.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Figure 2 .2Figure 2. Mean predicted SCA scores across latent classes.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_2",
+      "figure_caption": "Class 1 contained approximately 40% of the sample and is shown as a solid line. This class represents those students who show relatively high interest in math over time and was therefore labelled the High Interest Trajectory. These students start with the highest reported levels of interest in math (m a1 = 4.50), which decline somewhat over time, especially throughout the middle years (m b 11 = -0.42) but show an increase in interest in late high school into college as indicated by the positive quadratic term (m b 21 = 0.03) and shown as a u-shaped change. Class 2 contained approximately 22% of the sample and is shown as a dotted line. Students in this class began with moderate levels of interest in math in elementary school (m a2 = 3.38) and show a decline in their reported interest over time (m b 12 = -0.40), although this decline follows a somewhat curvilinear trend (m b 22 = 0.02) and evens out in high school and into college. Thus, we chose to label this class the Slow Decline Interest Trajectory. Students in Class 3, 38% of the sample represented as a dashed line, report initially high levels of interest in math (m a3 = 4.52), which declines rather steeply over time (m b 13 = -0.71) but also levels out at the end of high school and into college (m b 23 = 0.04). We labelled this class the Fast Decline Interest Trajectory.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "",
+      "figure_id": "fig_3",
+      "figure_caption": "Figure 3 .3Figure 3. Mean predicted interest scores across latent classes.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "",
+      "figure_id": "fig_4",
+      "figure_caption": "Figure 4 .4Figure 4. Mean predicted importance scores across latent classes.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_5",
+      "figure_caption": "Lauren Musu-Gillette recently completed her PhD in Human Development at the University of Maryland. Dr. Musu-Gillette's research interests include achievement motivation, college and career choices, and longitudinal data analysis. She currently works at the National Center for Education Statistics in Washington, DC. Allan Wigfield is a Professor of Human Development in the Department of Human Development and Quantitative Methodology at the University of Maryland. Dr. Wigfield's research focuses on achievement motivation and development during childhood and adolescence.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Means, standard deviations, and scale alphas of variables used in analyses.",
+      "figure_data": "350L. E. Musu-Gillette et al.MeanSDScale \u03b1SCA in Math4th Grade SCA5.371.01.765th Grade SCA5.331.02.836th Grade SCA5.261.16.8410th Grade SCA4.861.27.9311th Grade SCA4.761.48.9212th Grade SCA4.751.43.90College SCA4.481.68.94Interest in Math4th Grade Interest4.841.77.735th Grade Interest4.611.76.846th Grade Interest4.071.64.8510th Grade Interest3.431.45.8611th Grade Interest3.571.70.9112th Grade Interest3.591.61.93College Interest3.841.65.94Perceived Importance of Math4th Grade Importance6.011.22.615th Grade Importance5.331.02.656th Grade Importance5.281.03.7010th Grade Importance4.461.20.7811th Grade Importance4.351.34.8412th Grade Importance4.371.34.90College Importance4.061.46.92"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Correlations for SCA in math over time.",
+      "figure_data": "12345671. 4th Grade1.002. 5th Grade0.518**1.00[0.40, 0.61]3. 6th Grade0.398**0.512**1.00[0.26, 0.49][0.43, 0.61]4. 10th Grade0.252**0.326**0.486**1.00[0.11, 0.43][0.22, 0.46][0.38, 0.59]5. 11th Grade0.297**0.444**0.546**0.767**1.00[0.12, 0.52][0.32, 0.59][0.43, 0.68][0.69, 0.89]6. 12th Grade0.238**0.417**0.552**0.761**0.857**1.00[0.06, 0.44][0.29, 0.55][0.43, 0.66][0.66, 0.85][0.72, 0.87]7. College0.354**0.437**0.575**0.696**0.745**0.781**1.00[0.13, 0.57][0.29, 0.62][0.45, 0.75][0.58, 0.85][0.62, 0.87][0.68, 0.94]Note: 95% confidence intervals are displayed in brackets.*p < 0.05. **p < 0.01."
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Correlations for interest in math over time.",
+      "figure_data": "12345671. 4th Grade1.002. 5th Grade0.404**1.00[0.30, 0.54]3. 6th Grade0.335**0.530**1.00[0.20, 0.45][0.45, 0.62]4. 10th Grade0.261**0.211**0.398**1.00[0.11, 0.42][0.09, 0.33][0.29, 0.51]5. 11th Grade0.1850.203**0.334**0.654**1.00[-0.01, 0.42][0.06, 0.34][0.19, 0.47][0.55, 0.79]6. 12th Grade0.316**0.249**0.361**0.655**0.743**1.00[0.13, 0.47][0.11, 0.38][0.23, 0.51]0.57, 0.80][0.62, 0.83]7. College0.1490.190*0.384**0.562**0.643**0.671**1.00[-0.10, 0.43][0.02, 0.36][0.22, 0.55][0.42, 0.73][0.49, 0.78][0.51, 0.79]"
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Correlations for importance of math over time.",
+      "figure_data": "12345671. 4th Grade1.002. 5th Grade0.265**1.00[0.14, 0.39]3. 6th Grade0.174**0.354**1.00[0.04, 0.30][0.26, 0.45]4. 10th Grade0.0930.1170.210**1.00[-0.06, 0.25][-0.01, 0.24][0.10, 0.34]5. 11th Grade0.1200.0440.178*0.708**1.00[-0.07, 0.32][-0.11, 0.21][0.03, 0.31][0.60, 0.81]6. 12th Grade0.0550.0830.182*0.621**0.687**1.00[-0.12, 0.21][-0.06, 0.23][0.05, 0.34][0.51, 0.75][0.54, 0.76]7. College0.1290.0430.199*0.445**0.548**0.568**1.00[-0.10, 0.32][-0.14, 0.22][0.03, 0.38][0.27, 0.59][0.39, 0.72][0.42, 0.75]Note: 95% confidence intervals are displayed in brackets.*p < 0.05. **p < 0.01."
+    },
+    {
+      "figure_label": "5",
+      "figure_type": "table",
+      "figure_id": "tab_4",
+      "figure_caption": "College majors classified based on math required.",
+      "figure_data": "Little to no mathSome MathModerate MathIntensive MathHumanitiesPsychologyEconomicsPhysicsDrama/TheaterPolitical ScienceBiologyComputer ScienceAthleticsNurse PractitionerPhysiologyEngineeringCommunicationPublic HealthZoologyChemistryHistoryHealthScience (other)AccountingForeign LanguageEducationArchitectureBusiness/FinanceEnglishSocial WorkAmerican/World Studies"
+    },
+    {
+      "figure_label": "6",
+      "figure_type": "table",
+      "figure_id": "tab_5",
+      "figure_caption": "Probability of major classification based on latent class membership for change in SCA in math over time.",
+      "figure_data": "358L. E. Musu-Gillette et al.High (39%)Slow Decline (39%)Fast Decline (22%)Little to no math.00.48.22Some math.05.41.44Moderate math.20.09.33Intensive math.75.01.01"
+    },
+    {
+      "figure_label": "7",
+      "figure_type": "table",
+      "figure_id": "tab_6",
+      "figure_caption": "Probability of major classification based on latent class membership for change in interest in math over time.",
+      "figure_data": "High (40%)Slow Decline (22%)Fast Decline (38%)Little to no math.00.05.65Some math.05.60.31Moderate math.61.20.04Intensive math.34.15.00"
+    },
+    {
+      "figure_label": "8",
+      "figure_type": "table",
+      "figure_id": "tab_7",
+      "figure_caption": "Probability of major classification based on latent class membership for change in importance of math over time.",
+      "figure_data": "Slow Decline (49%)Low Steady (13%)Fast Decline (39%)Little to no math.00.21.49Some math.16.39.44Moderate math.32.13.07Intensive math.52.27.00"
+    }
+  ],
+  "doi": "10.1080/13803611.2015.1057161"
+}

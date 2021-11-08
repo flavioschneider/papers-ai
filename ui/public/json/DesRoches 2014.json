@@ -1,0 +1,515 @@
+{
+  "title": "Bidirectional Associations Between Valued Activities and Adolescent Positive Adjustment in a Longitudinal Study: Positive Mood as a Mediator",
+  "abstract": "Although activity involvement has been linked to positive youth development, the value that adolescents place on these activities (i.e., how much they enjoy the activities, find them important, and spend time on them) has received less attention. The purpose of the present study was to examine the bidirectional longitudinal association between engagement in valued activities and adolescent positive adjustment (optimism, purpose in life, and self-esteem), as well as investigate a possible underlying mechanism for this link. High school students (N = 2,270, 48.7 % female) from Ontario, Canada completed questionnaires annually in grades 10, 11, and 12. Auto-regressive cross-lagged path analyses were conducted over time, controlling for gender, parental education, and academic grades. Greater engagement in valued activities predicted higher optimism, purpose, and self-esteem over time. Importantly, the results did not support an alternate hypothesis of selection effects, in that adolescents who were better adjusted were not more likely than their peers to engage in valued activities over time. We also found that the longitudinal associations between valued activities and positive adjustment may be due partly to an underlying effect of increased positive mood. Thus, engagement in valued activities appears to be important for adolescent positive adjustment, and may help to foster thriving. Communities, educators, and parents should actively support and encourage adolescents to develop valued activities, and seek to ensure that there are ample opportunities and resources available for them to do so.",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "text": "A growing body of research has linked activity involvement to positive youth development (Hansen et al. 2003). Much of the attention to date has focused on organized activities (e.g., school clubs, sports teams, etc.), which typically involve adult supervision, goal-setting, rules for behavior, regular participation schedules, and/or group settings of similar-aged peers (Denault et al. 2009). Yet youth activities that take place in non-organized contexts (e.g., hobbies done alone at home, such as reading, writing, computer programming, and crafts; or talents and special interests, such as mathematics, environmental issues and astronomy), also are important. In fact, the value that adolescents place on these activities (i.e., how much they enjoy the activities, find them important, and spend time on them), regardless of whether they take place in organized or non-organized contexts, might be especially important for promoting positive youth adjustment (Vallerand et al. 2003). The focus of the present study specifically is on these valued activities.\nThe conceptualization of valued activities as being activities that people like and enjoy, consider important, and on which they devote time and energy, is shared by other researchers (e.g., Benson and Scales 2009;Fredricks et al. 2010;Philippe et al. 2010;Scales et al. 2011;Vallerand et al. 2003), although there is inconsistency in how these activities are labeled. For example, some researchers use the term passions (e.g., Vallerand et al. 2003), sparks (e.g., Scales et al. 2011), or self-defining activities (Coatsworth et al. 2006). Engagement in valued activities is thought to contribute to positive psychological adjustment (Benson and Scales 2009;Coatsworth et al. 2006), such as providing individuals with a sense of purpose (Scales et al. 2011), as well as a source of self-esteem (Bohnert et al. 2008a). Yet, no studies have assessed the important question of the direction of effects between engagement in valued activities and positive adjustment. Only longitudinal studies can directly address this question; that is, by assessing both engagement in valued activities and positive adjustment over time, longitudinal studies can address the question of whether engagement in valued activities leads to increased positive adjustment over time, or whether positive adjustment leads to greater engagement in valued activities over time (selection effect). The purpose of the present study was specifically to examine the bidirectional association between engagement in valued activities and adolescent positive adjustment over time, as well as examine a potential mediator of the relationship between valued activities and adjustment, namely positive mood.",
+      "n_publication_ref": 15,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Adolescence as a Sensitive Period for the Development of Valued Activities",
+      "text": "Research on engagement in valued activities in adolescence fits within the positive youth development (PYD) perspective (Larson 2000;Lerner et al. 2003). The goal of research on PYD is to identify factors that promote the positive development, strength, health, and well-being of adolescents, as opposed to focusing primarily on ways to ameliorate negative or problematic aspects of development (e.g., drug use, depression; Benson and Scales 2009;Larson 2000;Seligman and Csikszentmihalyi 2000). Thus, a focus on activities that are valued by adolescents which may support their positive adjustment and help them thrive (Benson and Scales 2009) is crucial. In fact, adolescence may be a sensitive period in the lifespan that might predispose individuals to develop valued activities, in contrast to other age periods such as childhood and adulthood. For example, a major developmental milestone of adolescence is identity exploration and development (Erikson 1968). One way adolescents may explore their identities is by engaging in various activities (Dworkin et al. 2003;Sharp et al. 2006), and experimenting to see which ones they enjoy and best fit with their abilities. Engagement in activities also may facilitate pursuing future career options, in that adolescents can engage in activities to determine if they can make a long term commitment to a particular skill or occupation. In addition, engagement in activities may foster important developmental needs such as competence (e.g., learning new skills; feeling good about something) and autonomy (Leversen et al. 2012). In comparison to children, adolescents possess more autonomy because they are less often supervised by adults and they have more choice in matters that are important to them (e.g., what leisure activities they pursue, how to spend their own money, how their time is allocated). In contrast, while adults have autonomy, they tend to have more obligations than adolescents (e.g., education, work and career, family, etc.), which might restrict their ability to spend time on valued activities. Therefore, adolescence in particular may be a sensitive period for the development of valued activities.",
+      "n_publication_ref": 10,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Association Between Valued Activities and Positive Adjustment",
+      "text": "Researchers examining adolescent engagement in valued activities have shown concurrent associations with positive adjustment. For example, Scales et al. (2011) found that 15 year-olds' engagement in valued activities (called sparks in their study), when combined into a composite score along with supportive relationships and empowerment, was related concurrently to several adjustment indices, including grades, leadership, purpose, mastery goals, school engagement, and prosocial values. Coatsworth et al. (2006) found that high school students' engagement in valued activities (called self-defining activities in their study) was a significant concurrent predictor of subjective well-being (high positive affect, low negative affect, and life satisfaction) and internal assets (commitment to learning, positive values, and social competencies), after controlling for demographics and general activity involvement. Froh et al. (2010) conducted a longitudinal study with adolescents that examined their level of immersion (i.e., flow; Csikszentmihalyi 1990) when engaged in valued activities (called absorption in the study). The level of absorption in activities was related concurrently to several positive adjustment indices, including positive affect, life satisfaction, gratitude, selfesteem, and global happiness. Longitudinally, however, the effects did not hold. This finding is likely due to the fact that the authors controlled for social integration (i.e., passion for helping others) in the analyses, which was related to their measure of absorption in activities. According to Froh et al., adolescents with a passion for helping others likely also would become immersed in related activities.\nSupport for the link between valued activities and positive adjustment also has been found in research with adults. Vallerand et al. (2003) found that valued activities (called passions in their study) were related concurrently to positive psychological adjustment (i.e., increased positive emotions, decreased negative emotions, subjective wellbeing, and decreased anxiety; Carbonneau et al. 2010;Philippe et al. 2009;Rousseau and Vallerand 2008). Importantly, these activities also were related to positive adjustment over time, including life satisfaction (Rousseau and Vallerand 2008); higher positive emotions, as well as lower negative emotions, state anxiety, and physical symptoms (Carbonneau et al. 2010); and eudaimonic wellbeing (Philippe et al. 2009).",
+      "n_publication_ref": 10,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Bidirectional Association Between Valued Activities and Positive Adjustment",
+      "text": "The interpretation of the significant association found between valued activities and positive adjustment consistently has been framed as engagement in valued activities leading to higher levels of positive adjustment over time, although researchers generally acknowledge that this interpretation needs to be tested directly in a longitudinal study (e.g., Leversen et al. 2012). For example, it is possible that the significant association may be due to selection effects, in that individuals who are better adjusted may be more likely than their peers to engage in valued activities over time. That is, the reported benefits of engagement in valued activities on adjustment in past studies may be more a result of pre-existing differences in adjustment between adolescents who report greater engagement in valued activities in comparison to those with less engagement, rather than a direct result of engagement with valued activities. A study by Bohnert et al. (2008a) directly tested the direction of effects hypothesis, although their study specifically examined organized activity involvement rather than valued activities, and was conducted with a high-risk sample of adolescents. Bohnert et al. found support for a bidirectional relationship, in that selection effects were significant in addition to an effect from organized activities to greater emotional well-being over time. To the best of our knowledge, however, no studies have examined the bidirectional association between engagement in valued activities and positive adjustment. It is important to assess whether selection effects also may be an important factor in the link found between engagement in valued activities and positive adjustment, before we conclude that engagement in valued activities may promote positive adjustment over time.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Mediator of the Link Between Valued Activities and Positive Adjustment",
+      "text": "While attention has been paid to the association between valued activities and positive adjustment, few researchers have examined a possible mediator or underlying mechanism for the observed relationship between these constructs. One potential mediator is positive mood. Positive mood is defined as ''the extent to which a person feels enthusiastic, active, and alert,'' (Watson et al. 1988(Watson et al. , p. 1063. Researchers suggest that engagement in valued activities may result in positive mood during (Benson and Scales 2009;Fredricks et al. 2010) and after (Vallerand et al. 2003) time spent on the activity. In support of this hypothesis, Bohnert et al. (2008b) found an association between positive affect and youth activity involvement [specifically discretionary time activities (i.e., not school or work related) that required the adolescent to exert energy and effort], regardless of whether the activities were organized or non-organized. Empirical evidence for this link also was provided by Vallerand et al. (2003). The authors demonstrated that adults report more positive emotions during and after engagement in their activities, and fewer negative emotions after the activity. Longitudinal associations also have been found between activities and later positive affect in adolescents, including higher positive emotions (Carbonneau et al. 2010) and eudaimonic well-being (Philippe et al. 2009). Positive emotions, in turn, should be related to positive adjustment according to the broaden and build theory (Fredrickson 2004). The theory states that the experience of positive emotions (e.g., interest, happiness, joy, etc.) broadens people's attention and thinking (i.e., heightens openness to new possibilities, ''big picture'' focus, etc.), in comparison to negative emotions, which tend to result in a narrowing of focus (i.e., to support actions such as attack, escape, etc.). The broadening of attention, in turn, is thought to build personal resources (social bonds, creativity, intellectual knowledge, physical health, adaptive coping strategies) which lead to increased positive adjustment (Fredrickson et al. 2008). Frederickson and colleagues (Fredrickson et al. 2003(Fredrickson et al. , 2008 have demonstrated in an adult sample that the experience of positive emotions leads to broadened attentional and behavioral tendencies, and that positive emotions are related to adjustment indices (optimism, tranquility, ego resilience, mental health, and close relationship quality) both concurrently and longitudinally. Philippe et al. (2010) specifically tested the broaden and build theory in their study of valued activities. They asked undergraduate students to indicate how often they engaged in a highly valued activity, and whether they engaged in the activity with other people. Philippe et al. found that positive emotions measured in the context of the activity mediated the link between frequency of involvement in the valued activity and the quality of the interpersonal relationships the students had when engaging in their activity. This finding supports the suggestion that positive mood might mediate the association between engagement in valued activities and positive adjustment. It remains to be seen, however, whether these results also hold for indicators of positive adjustment that are more general (e.g., purpose in life, optimism, and self-esteem) than interpersonal relationships related specifically to the context of the valued activity.",
+      "n_publication_ref": 14,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Current Study",
+      "text": "In order to test the direction of effects for the association between valued activities and positive adjustment, and to examine the role of positive mood as an underlying mechanism for the link between these constructs, we surveyed adolescents about their valued activities, general mood, and adjustment across 3 years of high school (i.e., grades 10 through 12). Three indicators of positive adjustment were used in the present study. These indicators correspond to theories of PYD focusing on understanding adolescents' positive adjustment, and are examples of core indicators of thriving: optimism, purpose in life, and selfesteem (Benson and Scales 2009;Fredrickson et al. 2003;Keyes 2007;King et al. 2005;Scales et al. 2011). Our test of the direction of effects was exploratory, given the lack of direct research on this question. We expected, however, that we might find a bidirectional association given the findings of Bohnert et al. (2008a, b).\nAlthough relatively little research has been conducted specifically examining engagement in valued activities in adolescence, a great deal of research exists on the relationship between organized youth activities and adjustment. Organized youth activities have been found to be linked to positive adjustment both concurrently and longitudinally (e.g., Eccles and Barber 1999;Fredricks and Eccles 2006;Hansen and Larson 2007;Mahoney et al. 2005;Shernoff 2010). Given these findings, it is important to clarify that any positive association between valued activities (which can encompass both organized activities such as school clubs, and non-organized activities such as reading) and adjustment is not due simply to the fact that some valued activities might involve organized activities. Thus, in the present study, we specifically tested whether engagement in valued activities still predicted positive adjustment even when organized activity involvement was accounted for in the analyses.\nFurthermore, we predicted that positive mood would mediate the association between valued activities and positive adjustment. Specifically, we predicted that adolescents who were higher in valued activities would show higher positive mood over time, and that higher positive mood would in turn be related to higher positive adjustment over time, consistent with Philippe et al. (2010); thus, we predicted a significant indirect association between valued activities and positive adjustment via positive mood.\nFinally, similar to previous research (Coatsworth et al. 2006;Scales et al. 2011), we controlled for gender and parental education (a proxy for SES), as SES may affect the adolescents' access to activities, resources, and nurturing adults (Mahoney et al. 2005). Additionally, academic grades were included as a covariate as some activities may be limited by participants' academic performance (e.g., some schools may require students to maintain a specific average in order to participate in sports).",
+      "n_publication_ref": 15,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Sample",
+      "text": "Students from eight high schools encompassing a school district in Ontario, Canada took part in the study, which was part of a larger longitudinal project examining youth lifestyle choices in adolescence. The overall participation rate ranged from 83 to 86 % across all the waves of data collection; non-participation was due to student absenteeism (average of 13.5 %), parental refusal (average of .06 %), or student refusal (average of 1.4 %). Student absenteeism from class was due to illness, a co-op placement, a free period, or involvement in another school activity. Consistent with the broader Canadian population (Statistics Canada 2001), 92.5 % of the participants were born in Canada and the most common ethnic backgrounds reported other than Canadian were Italian (32 %), French (17 %), British (16 %), and German (11 %). Data on socioeconomic status indicated mean levels of education for mothers and fathers falling between ''some college, university or apprenticeship program'' and ''completed a college/apprenticeship/technical diploma.'' Further, 71 % of the respondents reported living with both birth parents, 14 % with one birth parent and a stepparent, 15 % with one birth parent (mother or father only), and the remainder with other guardians (e.g., other relatives, foster parents, etc.). The analysis for the present study involved a cohort of 2,270 students (48.7 % girls) who were invited to complete the survey three times, in 2006, 2007, and 2008 when they were in grades 10, 11, and 12, respectively, as this was the only cohort that were surveyed on the valued activities measure.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Procedure",
+      "text": "Active informed assent was obtained from the adolescent participants. Parents were provided with written correspondence mailed to each student's home prior to the survey administration outlining the study; this letter indicated that parents could request that their adolescent not participate in the study. An automated phone message about the study also was left at each student's home phone number. This procedure was approved by the participating school board and the University Research Ethics Board. At all time periods, the questionnaire was administered to students in classrooms by trained research staff. Students were informed that their responses were completely confidential.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "All measures were assessed across all three grades of high school (i.e., Grades 10 through 12) except for gender, parental education, and at-risk background which were assessed at the first wave only.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Demographics",
+      "text": "Participant gender was assessed as 1 = male and 2 = female. Parental education was an average of two items (one per parent, r = .46), with higher scores indicating greater parental education (1 = did not finish high school to 6 = professional degree). At-risk background was assessed by counting the number of risk factors that participants reported (i.e., participants were asked to indicate yes or no to whether they had a learning disability, were living or have lived in foster care, started using marijuana prior to age 13, had parents/guardians who engage in narcotic use, had a mother who became pregnant during her teenage years, or had parents who divorced).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Academic grades",
+      "text": "Participants were asked to report their typical school grades for the past year on a 5-point scale ranging from 0 = below 50 % to 4 = 80 % or higher.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Valued Activities",
+      "text": "Valued activities were measured with three items assessing enjoyment, importance, and frequency of engagement (adapted from Scales et al. 2011;Vallerand et al. 2003;see Rose-Krasnor 2009). First, participants were asked if they had a valued activity (''Do you have a hobby, talent, or special interest [or activity]?''); participants who did not report having a valued activity had the option of selecting I don't have a hobby, talent, special interest for each of the frequency, importance, and enjoyment questions. Next, frequency was assessed with the item, ''How often do you work on your hobby, talent, or special interest (or activity)?'', and possible responses ranged from 0 = never to 4 = every day. Importance was assessed with the item, ''How important is the hobby, talent, or special interest (or activity) to you?'', and possible responses ranged from 0 = not at all important to 3 = very important. Finally, enjoyment was assessed with the item, ''How often do you enjoy working on your hobby, talent, special interest (or activity)?'', and possible responses ranged from 0 = never to 4 = every time. The importance item was multiplied by a constant (1.33) to rescale it to match the other two items, creating three items rated on a 5-point scale (0-4). For each of the three items, we recoded a response of I don't have a hobby, talent, special interest to the lowest anchor score for that question (i.e., never or not at all important), thus including these participants in all analyses. Note that less than 1 % of the participants who reported having valued activities responded with never or not at all important for the three items, so there was almost no overlap in the scores for participants who had valued activities versus those without valued activities. The three items were averaged to produce a composite score, with higher scores indicating greater engagement in valued activities. A principal components factor analysis using the three items extracted a single factor for all waves, and Cronbach's alphas were .92, .95, and .95 for grades 10, 11, and 12 respectively.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Self-Esteem",
+      "text": "Self-esteem was assessed as an average of 10 items from the Rosenberg Self-Esteem Scale (Rosenberg 1965). Participants responded to the items (e.g., ''I take a positive attitude toward myself'') on a 5-point scale from 0 = strongly disagree to 4 = strongly agree. Cronbach's alphas were .90, .88, and .87 for grades 10, 11, and 12 respectively.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Purpose",
+      "text": "Purpose in life was assessed with the item ''I feel that my life has a sense of purpose'' (Benson and Scales 2009;Froh et al. 2010), and participants responded on a 4-point scale from 0 = almost never or never to 3 = almost always or always. Higher scores indicated higher purpose.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Optimism",
+      "text": "Optimism was assessed using items from the Life Optimism Test (Goodman et al. 1997). The scale consisted of two items (e.g., ''I feel good about my future'') rated on a 4-point scale from 0 = almost never or never to 3 = almost always or always. Scores were averaged, and higher scores indicated higher optimism.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Positive Mood",
+      "text": "Positive mood was assessed using four items from the mood subscale of the Revised Dimensions of Temperament Scale (Windle and Lerner 1986). The measure assessed the degree to which participants have a generally positive mood. An example item is ''My mood is generally cheerful,'' and participants responded on a 4-point scale from 0 = almost never or never to 3 = almost always or always. Scores were averaged, and higher scores indicated more positive mood. Cronbach's alphas were .87, .73, and .86 for grades 10, 11, and 12, respectively.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Organized Activities",
+      "text": "Four items assessed the frequency with which participants were involved in clubs and sports inside and outside of school in the last month. Participants responded on a 5-point scale from 0 = never to 4 = every day. Scores were averaged, and higher scores indicated more frequent organized activity participation. Cronbach's alphas were .69, .75, and .80 for grades 10, 11, and 12, respectively.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Missing Data",
+      "text": "There were missing data because some participants missed a wave of data collection due to absenteeism or because they moved to a school in another region, and because some students did not finish the entire questionnaire (6.3 % of the data, consistent with other longitudinal survey studies; e.g., Ciarrochi et al. 2009;Feldman et al. 2009; Petersen and Hyde 2009). To help ensure that any missing data within a wave likely would be missing at random, we included three versions of the survey at each time period so that the same scales were not always near the end of the survey. Importantly, at each grade there were no significant differences on the study measures among participants who completed the survey at one time period, at two time periods, or at all three time periods, Wilks ks [ .05, g 2 ranging from .013 to =.016, although there were significant differences on the covariates depending on the number of waves completed (i.e., gender, academic marks, and parental education, Wilks ks \\ .05, g 2 ranging from .018 to .181; that is, participants who completed the survey at one time period were more likely to be male, and to report lower academic marks and parental education than their peers). As missing data appeared not to be dependent on the values of the study measures, it is reasonable to assume that this data is missing at random (Little and Rubin 2002;Schafer and Graham 2002), and thus data from all participants were included in the analyses. Full information maximum likelihood was used to estimate the models in AMOS 19 (Arbuckle and Worthke 1999), with the covariates of gender, academic marks, and parental education controlled for in all estimation models.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Plan of Analysis",
+      "text": "Preliminary analyses included descriptive statistics and inter-correlations. For all primary analyses, gender, parental education and academic marks were included as covariates. A series of 3-wave (grades 10-12) autoregressive cross-lagged models were created in which bidirectional paths were estimated across each adjacent grade, (a) first between valued activities and each adjustment indicator (i.e., purpose in life, optimism, and self-esteem), (b) then adding organized activities to the first model, with bidirectional paths added between organized activities, valued activities, and each adjustment indicator, and (c) then adding positive mood to the first model, with bidirectional paths added between positive mood and valued activities, and paths from positive mood to each adjustment indicator. For each analysis model, stability paths across grades within each variable also were specified, as well as covariances among the variables within each grade to control for common method variance. Overall model fit was evaluated using the comparative fit index (CFI), and the root mean squared error of approximation (RMSEA, Bentler 1995). As recommended by Hu and Bentler (1999), CFI values greater than .95 and RMSEA's less than .06 (simultaneously) were used as the criteria for a well-specified model. To test for mediation, the indirect effect values and corresponding confidence intervals were calculated using bias-corrected bootstraps using 2,000 bootstrap samples. Significant mediation effects were determined if the indirect effects were significantly different from 0, indicated by 95 % confidence intervals that did not contain 0.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Results",
+      "text": "Means and standard deviations of the study variables are presented in Table 1. All measures showed acceptable skewness and kurtosis, and VIF statistics indicated no problems with multicollinearity. Table 2 outlines the intercorrelations among all the study variables. Valued activities were correlated positively with purpose in life, optimism, self-esteem, positive mood, and organized activity involvement, and positive mood was correlated positively with purpose in life, optimism, and self-esteem.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Bidirectional Association Between Valued Activities and Positive Adjustment Over Time",
+      "text": "In order to assess simultaneously the hypothesis that engagement in valued activities predicts greater positive adjustment over time and the hypothesis that positive adjustment predicts higher engagement in valued activities over time (i.e., selection hypothesis), bidirectional paths were estimated across each adjacent grade between valued activities and each adjustment indicator (i.e., purpose in life, optimism, and self-esteem) (see Fig. 1). We first assessed whether the pattern of results was invariant across grade. Invariance was tested by comparing a model in which all cross-lagged paths were constrained to be equal across grade to the unconstrained model in which all structural paths were free to vary. The Chi square difference test of relative fit indicated that the unconstrained model was not a significantly better fit than the constrained model, suggesting that the patterns of associations among the measures were consistent across time, p [ .05. As the constrained model was the most parsimonious model, all further interpretations were based on the constrained model. Model fit was good, v 2 (30) = 160.49. p \\ .001, CFI = .98, RMSEA = .044 (CI = .037, .051). Figure 1 summarizes the significant path estimates. Valued activities predicted greater purpose in life, optimism, and self-esteem over time, after controlling for previous purpose in life, optimism, and self-esteem scores. In contrast, the selection  hypothesis was not supported, as purpose in life, optimism, and self-esteem did not significantly predict greater engagement in valued activities over time, after controlling for previous engagement in valued activities, all ps [ .05.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Controlling for Organized Activity Involvement",
+      "text": "Next, we reran the analysis with the measures of organized activity involvement in grades 10, 11, and 12 included as predictors. Thus, in addition to the original bidirectional paths, we included paths between organized activities, valued activities, and each adjustment indicator. Again, tests of invariance across time indicated that the unconstrained model was not a significantly better fit than the constrained model, suggesting that the patterns of associations among the measures were consistent across the high school years, p [ .05. As the constrained model was the most parsimonious model, all further interpretations were based on the constrained model. Model fit was good, v 2 (46) = 171.83. p \\ .001, CFI = .98, RMSEA = .035 (CI = .029, .040). Significant paths are summarized in Fig. 2. Including organized activities in the model did not significantly change the pattern of results for the original paths. Valued activities continued to predict greater positive adjustment over time. Interestingly, organized activities predicted greater engagement in valued activities over time, but valued activities, in turn, did not predict greater organized activities over time. Moreover, there were no significant associations between organized activities and purpose in life, optimism, self-esteem, and positive mood over time.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Positive Mood as a Mediator of the Link Between Valued Activities and Adjustment",
+      "text": "A third set of analyses was conducted with the hypothesized mediator of positive mood added to the path model. We specifically examined whether there would be significant indirect associations between valued activities and the positive adjustment variables over time via positive mood. Again, tests of invariance across time indicated that the unconstrained model was not a significantly better fit than the constrained model, suggesting that the patterns of associations among the measures were consistent across the high school years, p [ .05. As the constrained model was the most parsimonious model, all further interpretations were based on the constrained model. Model fit was good, v 2 (49) = 144.00, p \\ .001, CFI = .99, RMSEA = .029 (CI = .024, .035). Significant paths are summarized in the mediation model in Fig. 3. Valued activities predicted higher positive mood over time, controlling for previous positive mood scores, and positive mood in turn predicted higher purpose in life, optimism, and self-esteem over time, controlling for previous scores on these measures. Importantly, mediation was indicated by three significant indirect effects: (a) from valued activities to positive mood to purpose, p = .002, \u00df = .014, SE = .004 (CI = .007, .021), (b) from valued activities to positive mood to optimism, All lag-1 and lag-2 auto-regressive paths were significant but are not shown. Results for covariates, covariances, and auto-regressive paths can be obtained from the second author p = .002, \u00df = .012, SE = .003 (CI = .006, .018), and (c) from valued activities to positive mood to self-esteem, p = .002, \u00df = .007, SE = .002 (CI = .003, .011). There also continued to be significant direct paths from valued activities to purpose in life, optimism, and self-esteem in the mediation model. In contrast, positive mood did not predict greater engagement in valued activities over time.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Discussion",
+      "text": "Although activity involvement has been linked to positive youth development, the value that adolescents place on these activities (i.e., how much they enjoy the activities, find them important, and spend time on them) has received less attention. Moreover, much of the research that has  been conducted on valued activities among adolescents has assessed only concurrent associations with adjustment (Coatsworth et al. 2006;Scales et al. 2011). Although engagement in valued activities is thought to lead to higher levels of positive adjustment over time, this interpretation has yet to be directly tested in a longitudinal study (see Leversen et al. 2012). The current study is the first known study to examine bidirectional associations between engagement in valued activities and positive adjustment longitudinally in an adolescent sample, and to assess whether positive mood might be a possible underlying mechanism for this association. Consistent with our hypothesis, engagement in valued activities predicted greater purpose in life, optimism, and self-esteem over time. These longitudinal associations between valued activities and positive adjustment suggest a possible long-lasting link between these constructs. The results also extend previous findings from concurrent research studies that have found that adolescents' valued activities predicted positive adjustment (Froh et al. 2010). Importantly, the results did not support an alternate hypothesis of selection effects, as participants who were higher in positive adjustment (purpose in life, optimism, and self-esteem) did not show significantly greater engagement in valued activities over time. This finding is in contrast to the results reported by Bohnert et al. (2008a, b), who found some support for selection effects. Important differences exist between their study and ours, however, in that they examined the link between organized activities and emotional well-being, and used a high-risk sample. Overall, our results are consistent with theories of valued activities stating that these activities can provide opportunities for positive development, such as an increased sense of purpose and self-esteem (Benson and Scales 2009;Bohnert et al. 2008a, b;Scales et al. 2011).\nWe also controlled for variance in organized activity involvement in our analysis. As many researchers previously have shown positive outcomes for organized youth activities, we sought to demonstrate that the results for engagement in valued activities were not due simply to the activities that were undertaken in an organized context. The results supported our hypothesis, with engagement in valued activities still showing significant unique associations with positive adjustment over time even when involvement in organized activities was included in the analysis. Thus, what might be key to the link between activity involvement and positive youth development is whether adolescents perceive activities to be important and enjoyable, and whether they devote time and energy to the activities.\nA surprising finding was that structured activities did not predict any of the adjustment variables (optimism, purpose, or self-esteem) over time. This finding is not consistent with previous longitudinal research on organized youth activities (Dawes and Larson 2011;Hansen and Larson 2007;Mahoney et al. 2007;Shernoff 2010). Organized activities, however, did predict greater engagement in valued activities over time. In fact, organized activities likely are an important venue through which adolescents develop highly valued activities.\nImportantly, we found support for our hypothesis that positive mood would be a significant mediator of the association between valued activities and positive adjustment. There were significant indirect longitudinal associations between engagement in valued activities and higher purpose in life, optimism and self-esteem, via higher positive mood. Thus, the significant longitudinal associations between valued activities and positive adjustment in the current study may be due partly to an underlying effect of increased positive mood. These results replicate previous results showing associations between valued activities and higher positive affect concurrently (Bohnert et al. 2008a, b) and longitudinally (Carbonneau et al. 2010).\nThat positive mood was related to higher positive adjustment over time is consistent with the predictions of the broaden and build theory (Fredrickson 2004), which asserts that there should be beneficial effects of positive emotions on adjustment. Similarly, Philippe et al. (2010) found that higher positive emotions in the context of a valued activity partially mediated the positive link between frequency of activity engagement and interpersonal relationship quality. The current study offers an important extension of the Philippe et al. study because the mediating effect of positive mood was not restricted to the context of valued activities, but generalized beyond valued activities to a more general measure of positive affect. Additionally, the current study extended Philippe et al.'s study because the significant associations between valued activities and adjustment were not restricted to interpersonal relationship quality, but included other measures of positive adjustment, namely purpose in life, optimism, and self-esteem. Overall, our findings suggest that increased positive mood might be an important mechanism for the link between valued activities and adjustment, and provide an important addition to the growing literature outlining the benefits of activity involvement.",
+      "n_publication_ref": 16,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Strengths and Limitations of the Present Study and Directions for Future Research",
+      "text": "The current study included three notable strengths. First, the study involved a large, representative sample of youth. Second, we employed a longitudinal research design over several waves. Third, the study also addressed several important gaps in the literature, including longitudinal bidirectional associations between valued activities and positive adjustment, and an examination of an underlying mechanism for the link between valued activities and adjustment.\nNevertheless, some limitations should be addressed. Importantly, this study cannot infer causality. It is possible that other third variables not included in the present study may explain the link between valued activities and positive adjustment. By including multiple time points and assessing variables at each time point in a rigorous design, however, evidence for the nature and possible direction of effects were provided. Further, the current study was based on self-reports, and although we controlled for common method variance, the measures of positive adjustment may not reflect actual adjustment level. Results of the present study, therefore, should be treated with caution.\nWe also attempted to control for variance in valued activities that may have been due to organized contexts by adding a separate measure of organized activity involvement to the analyses. Nevertheless, the present study was limited by a lack of a direct measure of whether the valued activities were organized or unorganized. Future research should add this assessment, as well as examine whether the valued activities exhibit the various characteristics of organized activities (i.e., goal-directed, group setting, regular practice times). In addition, the measurement of valued activities in the current study did not capture any variability due to the type of valued activities adolescents possessed. This is an important consideration as the measurement of valued activities in the current study was very broad and could have captured a wide variety of activities. Future research should measure the type of valued activities in order to uncover any possible interaction effects with positive adjustment. We also did not examine how many valued activities participants possessed. This distinction should be investigated in future research, as researchers examining organized youth activities have stated that both breadth and depth may offer unique contributions to positive outcomes (Rose-Krasnor et al. 2006). Furthermore, given the constraints of long-term longitudinal studies, purpose in life was measured using only one item. Future research should expand the measurement of this construct. Finally, the strengths of the effect sizes, as indicated by standardized regression coefficients, were small in magnitude. However, these effect sizes are common in cross-lagged models that account both for stability between adjacent waves of data and for concurrent associations among variables within each grade. With these stringent analyses, small effects are not unexpected.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Overall, engagement in valued activities appears to be an important predictor of positive adjustment in adolescence. This finding has significant implications for supporting adolescent development. It may be worthwhile to invest in resources to allow adolescents greater access to activities, interests, or important causes that may develop over time into valued activities. The presence of these resources can act as ''affordances'' (Gibson 1982) that encourage engagement in these activities. Parents and educators also should actively support and encourage adolescents to consider whether they do, in fact, have valued activities, and if not, to explore available opportunities in an effort to find activities they will value. Any investment in factors that may help to foster positive adjustment and thriving, as described by proponents of the PYD perspective, should be worthwhile as these adolescents may in turn offer positive contributions to their contexts. In fact, adolescence may be an especially important age period to make this investment, as adolescents are more likely than children or adults to be seeking out opportunities to develop autonomy, as well as to explore their identities.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "",
+      "text": "Acknowledgments Funding for this longitudinal project was provided by the Social Sciences and Humanities Research Council of Canada to Teena Willoughby.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "",
+      "text": "Author Contributions AD conceived of the study, participated in the design and coordination of the study, performed the statistical analyses, and drafted the manuscript; TW participated in the conception, design, statistical analyses, and drafting of the manuscript, as well as collected the data. Both authors read and approved the final manuscript.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Author Biographies",
+      "text": "Andrea DesRoches received her master's degree in developmental psychology in 2012 from Brock University. She currently is employed by the University of Saskatchewan's College of Medicine. This study is based on her master's thesis.\nTeena Willoughby is a Professor in the Department of Psychology at Brock University. Her research interests include adolescent development, particularly with regard to positive youth development, academic achievement, risk behaviours, and media/technology influences on lifestyle choices.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Amos 4.0 user's guide. Chicago: SmallWaters",
+      "journal": "",
+      "year": "1999",
+      "authors": "J L Arbuckle; W Wothke"
+    },
+    {
+      "title": "The definition and preliminary measurement of thriving in adolescence",
+      "journal": "The Journal of Positive Psychology",
+      "year": "2009",
+      "authors": "P Benson; P C Scales"
+    },
+    {
+      "title": "EQS structural equations program manual",
+      "journal": "Multivariate Software",
+      "year": "1995",
+      "authors": "P M Bentler"
+    },
+    {
+      "title": "Organized activity participation and internalization and externalizing symptoms: Reciprocal relations during adolescence",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2008",
+      "authors": "A M Bohnert; P Kane; J Garber"
+    },
+    {
+      "title": "Young urban African American adolescents' experience of discretionary time activities",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2008",
+      "authors": "A Bohnert; M H Richards; K E Kolmodin; B L Lakin"
+    },
+    {
+      "title": "Is the practice of yoga associated with positive outcomes? The role of passion",
+      "journal": "The Journal of Positive Psychology",
+      "year": "2010",
+      "authors": "N Carbonneau; R J Vallerand; S Massicotte"
+    },
+    {
+      "title": "A longitudinal study into the interplay between problem orientation and adolescent well-being",
+      "journal": "Journal of Counseling Psychology",
+      "year": "2009",
+      "authors": "J Ciarrochi; P Leeson; P C L Heaven"
+    },
+    {
+      "title": "Self-defining activities, expressive identity, and adolescent wellness",
+      "journal": "Applied Developmental Science",
+      "year": "2006",
+      "authors": "J D Coatsworth; L Palen; E H Sharp; L Ferrer-Wreder"
+    },
+    {
+      "title": "Flow: The psychology of optimal experience",
+      "journal": "NY: HarperCollins",
+      "year": "1990",
+      "authors": "M Csikszentmihalyi"
+    },
+    {
+      "title": "How youth get engaged: Grounded-theory research on motivational development in organized youth programs",
+      "journal": "Developmental Psychology",
+      "year": "2011",
+      "authors": "N P Dawes; R Larson"
+    },
+    {
+      "title": "Intensity of participation in organized youth activities during the high school years: Longitudinal associations with adjustment",
+      "journal": "Applied Developmental Science",
+      "year": "2009",
+      "authors": "A Denault; F Poulin; S Pedersen"
+    },
+    {
+      "title": "Adolescents' accounts of growth experiences in youth activities",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2003",
+      "authors": "J B Dworkin; R Larson; D Hansen"
+    },
+    {
+      "title": "Student council, volunteering, basketball, or marching band: What kind of extracurricular involvement matters",
+      "journal": "Journal of Adolescent Research",
+      "year": "1999",
+      "authors": "J S Eccles; B L Barber"
+    },
+    {
+      "title": "Identity: Youth and crisis",
+      "journal": "W. W. Norton",
+      "year": "1968",
+      "authors": "E H Erikson"
+    },
+    {
+      "title": "New approaches to studying problem behaviors: A comparison of methods for modeling longitudinal, categorical adolescent drinking data",
+      "journal": "Developmental Psychology",
+      "year": "2009",
+      "authors": "B J Feldman; K E Masyn; R D Conger"
+    },
+    {
+      "title": "Developing and fostering passion in academic and nonacademic domains",
+      "journal": "Gifted Child Quarterly",
+      "year": "2010",
+      "authors": "J A Fredricks; C Alfeld; J Eccles"
+    },
+    {
+      "title": "Is extracurricular participation associated with beneficial outcomes? Concurrent and longitudinal relations",
+      "journal": "Developmental Psychology",
+      "year": "2006",
+      "authors": "J A Fredricks; J Eccles"
+    },
+    {
+      "title": "The broaden-and-build theory of positive emotions",
+      "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+      "year": "1449",
+      "authors": "B L Fredrickson"
+    },
+    {
+      "title": "Open hearts build lives: Positive emotions, induced through loving-kindness meditation, build consequential personal resources",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2008",
+      "authors": "B L Fredrickson; M A Cohn; K A Coffey; J Pek; S M Finkel"
+    },
+    {
+      "title": "What good are positive emotions in crisis? A prospective study of resilience and emotions following the terrorist attacks on the United States on",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2001",
+      "authors": "B L Fredrickson; M M Tugade; C E Waugh; G R Larkin"
+    },
+    {
+      "title": "The benefits of passion and absorption in activities: Engaged living in adolescents and its role in psychological well-being",
+      "journal": "The Journal of Positive Psychology",
+      "year": "2010",
+      "authors": "J J Froh; T B Kashdan; C Yurkewicz; J Fan; J Allen; J Glowacki"
+    },
+    {
+      "title": "The concept of affordances in development: The renascence of functionalism",
+      "journal": "Erlbaum",
+      "year": "1982",
+      "authors": "E J Gibson"
+    },
+    {
+      "title": "Use of the life optimism test among adolescents in a clinical setting: A report of reliability testing",
+      "journal": "Journal of Adolescent Health",
+      "year": "1997",
+      "authors": "E Goodman; J R Knight; R H Durant"
+    },
+    {
+      "title": "Amplifiers of developmental and negative experiences in organized activities: Dosage, motivation, lead roles, and adult-youth ratios",
+      "journal": "Journal of Applied Developmental Psychology",
+      "year": "2007",
+      "authors": "D Hansen; R Larson"
+    },
+    {
+      "title": "What adolescents learn in organized youth activities: A survey of selfreported developmental experiences",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2003",
+      "authors": "D M Hansen; R W Larson; J B Dworkin"
+    },
+    {
+      "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives",
+      "journal": "Structural Equation Modeling",
+      "year": "1999",
+      "authors": "L Hu; P M Bentler"
+    },
+    {
+      "title": "Promoting and protecting mental health as flourishing",
+      "journal": "American Psychologist",
+      "year": "2007",
+      "authors": "C L M Keyes"
+    },
+    {
+      "title": "Thriving in adolescence: The voices of youth-serving practitioners, parents, and early and late adolescents",
+      "journal": "Journal of Early Adolescence",
+      "year": "2005",
+      "authors": "P E King; E M Dowling; R A Mueller; K White; W Schultz; P Osborn"
+    },
+    {
+      "title": "Toward a psychology of positive youth development",
+      "journal": "The American Psychologist",
+      "year": "2000",
+      "authors": "R W Larson"
+    },
+    {
+      "title": "Positive youth development: Thriving as the basis of personhood and civil society",
+      "journal": "Applied Developmental Science",
+      "year": "2003",
+      "authors": "R M Lerner; E M Dowling; P M Anderson"
+    },
+    {
+      "title": "Basic psychological need satisfaction in leisure activities and adolescents' life satisfaction",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2012",
+      "authors": "I Leversen; A G Danielsen; M S Birkeland; O Samdal"
+    },
+    {
+      "title": "Statistical analysis with missing data",
+      "journal": "Wiley",
+      "year": "2002",
+      "authors": "R J A Little; D B Rubin"
+    },
+    {
+      "title": "Organized activities as developmental contexts for children and adolescents",
+      "journal": "Erlbaum",
+      "year": "2005",
+      "authors": "J L Mahoney; R W Larson; J S Eccles; H Lord"
+    },
+    {
+      "title": "After-school program engagement: Links to child competence and program quality and content",
+      "journal": "The Elementary School Journal",
+      "year": "2007",
+      "authors": "J L Mahoney; M E Parente; H Lord"
+    },
+    {
+      "title": "A longitudinal investigation of peer sexual harassment victimization in adolescence",
+      "journal": "Journal of Adolescence",
+      "year": "2009",
+      "authors": "J L Petersen; J S Hyde"
+    },
+    {
+      "title": "Passion for an activity and quality of interpersonal relationships: The mediating role of emotions",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2010",
+      "authors": "F Philippe; R J Vallerand; N Houlfort; G L Lavigne; E G Donahue"
+    },
+    {
+      "title": "Passion does make a difference in people's lives: A look at well-being in passionate and non-passionate individuals",
+      "journal": "Applied Psychology: Health and Well-being",
+      "year": "2009",
+      "authors": "F L Philippe; R J Vallerand; G L Lavigne"
+    },
+    {
+      "title": "Future directions in youth involvement research",
+      "journal": "Social Development",
+      "year": "2009",
+      "authors": "L Rose-Krasnor"
+    },
+    {
+      "title": "Breadth and intensity of youth activity involvement as contexts for positive development",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2006",
+      "authors": "L Rose-Krasnor; M A Busseri; T Willoughby; H Chalmers"
+    },
+    {
+      "title": "Society and the adolescent self image",
+      "journal": "NJ",
+      "year": "1965",
+      "authors": "M Rosenberg"
+    },
+    {
+      "title": "An examination of the relationship between passion and subjective well-being in older adults",
+      "journal": "The International Journal of Aging Human Development",
+      "year": "2008",
+      "authors": "F Rousseau; R Vallerand"
+    },
+    {
+      "title": "Adolescent thriving: The role of sparks, relationships, and empowerment",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2011",
+      "authors": "P Scales; P L Benson; E C Roehlkepartain"
+    },
+    {
+      "title": "Missing data: Our view of the state of the art",
+      "journal": "Psychological Methods",
+      "year": "2002",
+      "authors": "J L Schafer; J W Graham"
+    },
+    {
+      "title": "Positive psychology: An introduction",
+      "journal": "The American Psychologist",
+      "year": "2000",
+      "authors": "M E P Seligman; M Csikszentmihalyi"
+    },
+    {
+      "title": "Individual motivation and parental influence on adolescents' experiences of interest in free time: A longitudinal examination",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2006",
+      "authors": "E H Sharp; L L Caldwell; J W Graham; T A Ridenour"
+    },
+    { "title": "", "journal": "J Youth Adolescence", "year": "2014", "authors": "" },
+    {
+      "title": "Engagement in after-school programs as a predictor of social competence and academic performance",
+      "journal": "American Journal of Community Psychology",
+      "year": "2010",
+      "authors": "D J Shernoff"
+    },
+    {
+      "title": "Population by ethnic origin",
+      "journal": "Statistics Canada",
+      "year": "2001",
+      "authors": ""
+    },
+    {
+      "title": "Les passions de l'\u00c2 me: On obsessive and harmonious passion",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2003",
+      "authors": "R Vallerand; C M Blanchard; G A Mageau; R Koestner; C F Ratelle; M Leonard"
+    },
+    {
+      "title": "Development and validation of brief measures of positive and negative affect: The PANAS scales",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1988",
+      "authors": "D Watson; L A Clark; A Tellegen"
+    },
+    {
+      "title": "Reassessing the dimensions of temperamental individuality across the life span: The revised dimensions of temperament survey (DOTS-R)",
+      "journal": "Journal of Adolescent Research",
+      "year": "1986",
+      "authors": "M Windle; R M Lerner"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Fig. 11Fig. 1 Initial path model showing significant paths. Solid lines indicate significant paths. 10 = grade 10; 11 = grade 11; 12 = grade 12. *** \\.001, ** \\.01, * \\.05. Standardized and unstandardized coefficients (unstandardized are in brackets and are identical across grade as cross-lagged paths were invariant across grade) are reported",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Fig. 22Fig. 2 Significant paths for model controlling for organized activities. Solid lines indicate significant paths. 10 = grade 10; 11 = grade 11; 12 = grade 12. *** \\.001, ** \\.01, * \\.05. Standardized and unstandardized coefficients (unstandardized are in brackets and are identical across grade as cross-lagged paths were invariant across grade) are reported for significant paths. Not shown are covariates (gender, parental education, grades) or covariances among variables within each grade. All lag-1 and lag-2 auto-regressive paths were significant but are not shown. Results for covariates, covariances, and auto-regressive paths can be obtained from the second author",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Means and standard deviations of study measures",
+      "figure_data": "Variable# itemsGrade 10Grade 11Grade 12M (SD)M (SD)M (SD)Gender148.7 % femaleParental education23.31 (1.26)N/AN/AAcademic grades13.42 (0.88)N/AN/AAt-risk background60.54 (0.75)N/AN/AHobbies32.80 (1.28)2.58 (1.46)2.37 (1.54)Positive mood42.39 (0.62)2.25 (0.59)2.31 (0.60)Organized activities41.22 (1.03)1.14 (1.09)1.14 (1.27)Purpose in life11.93 (0.90)1.97 (0.87)1.95 (0.89)Optimism21.97 (0.68)1.91 (0.68)1.99 (0.67)Self esteem101.93 (0.90)1.97 (0.87)1.95 (0.89)N = 2,270; 10 = grade 10; 11 = grade 11; 12 = grade 12. Higher scores indicate higher scores on parental education, academic grades, at-riskbackground, hobbies, positive mood, organized activity involvement, purpose in life, optimism, and self-esteem"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Implied correlations are shown. 10 = grade 10; 11 = grade 11; 12 = grade 12. Higher scores indicate higher scores on hobbies, positive mood, organized activity involvement, purpose in life, optimism, and self-esteem. Correlations .06-.08 are significant at p \\ .05, .09-.10 at p \\ .01, and .11 and higher at p \\ .001",
+      "figure_data": "Correlations among study variables1234567891011121314151617181. Hobbies 10-2. Hobbies 11.47 -3. Hobbies 12.41.51 -4. Positive mood 10.14.06.06 -5. Positive mood 11.12.12.07.57 -6. Positive mood 12.12.12.13.54.54 -7. Organized activities 10.30.20.18.17.11.12 -8. Organized activities 11.20.21.19.10.10.10.60 -9. Organized activities 12.20.18.22.11.09.14.65.71 -10. Purpose 10.20.11.10.36.24.23.18.13.13 -11. Purpose 11.15.13.10.28.29.24.12.13.11.43 -12. Purpose 12.14.14.16.26.29.40.11.10.11.39.46 -13. Optimism 10.17.12.11.35.25.25.23.18.17.51.34.28 -14. Optimism 11.15.14.12.28.27.27.17.22.18.33.44.35.55 -15. Optimism 12.14.14.15.27.28.38.15.16.17.30.32.47.51.57 -16. Self-esteem 10.18.11.10.48.32.30.18.14.13.56.29.26.52.33.30 -17. Self-esteem 11.14.17.12.37.36.34.13.10.09.34.41.27.33.39.28.57 -18. Self-esteem 12.13.14.16.33.33.49.12.10.06.30.27.43.30.28.37.48.56 -N = 2,270."
+    }
+  ],
+  "doi": "10.1007/s10964-013-9957-x"
+}

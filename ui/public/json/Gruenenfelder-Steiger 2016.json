@@ -1,0 +1,678 @@
+{
+  "title": "Subjective and Objective Peer Approval Evaluations and Self-Esteem Development: A Test of Reciprocal, Prospective, and Long-Term Effects",
+  "abstract": "A large body of literature suggests a clear, concurrent association between peer approval and self-esteem in adolescence. However, little empirical work exists on either the prospective or reciprocal relation between peer approval and self-esteem during this age period. Moreover, it is unclear from past research whether both subjectively perceived peer approval and objectively measured peer approval are related to subsequent self-esteem over time (and vice versa) and whether these paths have long-term associations into adulthood. Using data from a large longitudinal study that covers a time span of 2 decades, we examined reciprocal, prospective relations between self-esteem and peer approval during ages 12-16 in addition to long-term relations between these variables and later social constructs at age 35. Cross-lagged regression analyses revealed small but persistent effect sizes from both types of peer approval to subsequent self-esteem in adolescence, controlling for prior self-esteem. However, effects in the reverse direction were not confirmed. These findings support the notion that peer relationships serve an important function for later self-esteem, consistent with many theoretical tenets of the importance of peers for building a strong identity. Finally, we found long-term relations between adult social constructs and adolescent objective and subjective peer approval as well as self-esteem. Therefore, not only do peer relationships play a role in self-esteem development across adolescence, but they remain impactful throughout adulthood. In sum, the current findings highlight the lasting, yet small link between peer relationships and self-esteem development and call for investigations of further influential factors for self-esteem over time.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Global self-esteem is defined as the subjective perception of one's worth as a person (Rosenberg, 1965) and has been found to be closely related to life satisfaction, academic success, social relationship outcomes, and mental and physical health indices (e.g., Donnellan, Trzesniewski, Robins, Moffitt, & Caspi, 2005;Erol & Orth, 2013;Orth, Robins, & Widaman, 2012;Trzesniewski et al., 2006). Although relatively stable, self-esteem is best understood as a construct that goes through significant changes across the entire life span (Harter, 1999;Robins, Trzesniewski, Tracy, Gosling, & Potter, 2002). On average, self-esteem tends to be high in childhood, declines substantially during adolescence, rises throughout adulthood, peaks, and becomes more stable in middle adulthood and declines again in old age Robins et al., 2002). This age trajectory has been interpreted as representing normative developmental changes; for example, the drop in adolescent selfesteem has been hypothesized to be a consequence of the social (e.g., shifts in social networks), physical (e.g., hormonal and weight changes), cognitive (e.g., formal operational reasoning), and psychological (e.g., increasing autonomy) changes typically occurring throughout this developmental period Harter, 1999;Robins et al., 2002;.\nStudies that have grouped self-esteem development for adolescent samples, however, have found that self-esteem trajectories differ substantially between individuals, with some adolescents showing consistently high, some chronically low, some declining, and some increasing or showing U-shaped self-esteem trajectory (Birkeland, Melkevik, Holsen, & Wold, 2012;Deihl, Vicary, & Deike, 1997;Hirsch & DuBois, 1991;Zimmerman, Copeland, Shope, & Dielman, 1997). Most important, there are large variations in adolescent self-esteem trajectories, suggesting strong interindividual differences in self-esteem development over time (Donnellan, Trzesniewski, Conger, & Conger, 2007;Steiger, Allemand, Robins, & Fend, 2014;Trzesniewski, Donnellan, & Robins, 2003). Given that the average drop of self-esteem in adolescence occurs in tandem with substantial interindividual differences in intraindividual self-esteem development, the next logical step is to ask what drives adolescent self-esteem development.",
+      "n_publication_ref": 17,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Theoretical and Empirical Research on Sources of Self-Esteem Development",
+      "text": "Sociometer theory (Leary & Baumeister, 2000) suggests that self-esteem develops as a consequence of social acceptance or rejection from relevant others. If members of a relevant social group appreciate one's relational value, then self-esteem should also be high. According to the theory, changes in self-esteem have evolved to monitor how much one is valued by members of a desirable group; this process has the purpose of adjusting one's behavior to maintain further approval or prevent future disapproval of these members. The supposed cause of this drive has been suggested to lie in our ancestors' higher likelihood of survival if they were well integrated in a social group (Leary & Baumeister, 2000; Thomaes et al., 2010). In support of this notion, many researchers have shown that others' appraisals impact individuals' self-evaluations (Boudreault-Bouchard et al., 2013;Cole, Jacquez, & Maschman, 2001;Felson & Zielinski, 1989;Srivastava & Beer, 2005).\nAdditionally, researchers have proposed the reverse effect: that self-evaluations can impact others' appraisals of the self (see Srivastava & Beer, 2005). The self-broadcasting perspective suggests that individuals exhibit social cues based on their self-esteem levels that impact others' liking of them. Due to unfavorable evaluations of themselves as unworthy individuals, these adolescents might exhibit more insecurities when interacting with peers and accept more negative social feedback than adolescents with higher self-esteem (Blaine & Crocker, 1993;Harter, 1993).\nEspecially during the adolescent age period, individuals place very strong emphasis on social interactions and approval from significant others (Buhrmester, 1990;Erikson, 1968;Fend, 1998;Harter, 1999). For example, there is plentiful empirical support for concurrent associations between self-esteem and parent-child relationships (Laible, Carlo, & Roesch, 2004;Lamborn, Mounts, Steinberg, & Dornbusch, 1991) as well as peer relationship qualities as reported by both targets and peers (i.e., objective; Bishop & Inderbitzen, 1995;De Bruyn & van den Boom, 2005;Valkenburg, Peter, & Schouten, 2006).\nPeer relationships may be especially relevant for adolescent self-esteem development for many reasons. First, adolescents face a transitional social context with its increasing independence from parents and greater orientation toward and concern for same-aged peers (e.g., Erikson, 1968;Harter, 1999;Laible, Carlo & Roesch, 2004). Next, peer relationships develop along a voluntary basis, are terminable, and therefore bear a risk of exclusion at any point during the friendship (Ainsworth et al., 1978;Allen & Land, 1999;Asendorpf, 1989;Buhrmester, 1990;Fend, 1998). As a consequence, feelings of (social) inadequacy, loneliness or social isolation are likely to be predominant in peer relationships, which may in turn influence self-perceptions of worthiness and the construction of a positive model of the self. In sum, peer relationships are likely to be a powerful source of self-esteem development in adolescence.",
+      "n_publication_ref": 27,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Previous Studies Linking Peer Approval and Self-Esteem Over Time",
+      "text": "Experimental studies using false interaction partners revealed that interpersonal rejection subsequently leads to lowered self-esteem in young adults (Ford & Collins, 2010) and preadolescents (Thomaes et al., 2010).\nNext, only a few survey studies focused on either longitudinal or reciprocal relations between peer approval and self-esteem. As for peer relationships predicting self-esteem over time, peer victimization was negatively related to 9-to-11-year-olds' self-esteem across five measurement occasions (Troop-Gordon & Ladd, 2005), suggesting that children who are rejected by peers may acquire self-defeating attributions of being socially incompetent and unworthy. Similarly, children who perceived themselves as socially competent tended to report higher overall self-esteem three years later (Hymel, Rubin, Rowden, & LeMare, 1990); however, children's prior self-esteem was not taken into account and could have at least partially contributed to the link with later self-esteem. Speaking to this prospect, in two other studies, age 12 subjective peer social support and popularity predicted age 17 global selfworth even after controlling for prior global self-worth (Asendorpf & van Aken, 2003;Reitz, Motti-Stefanidi, & Asendorpf, 2015). Finally, undergraduate university students who participated in four weekly group meetings with other unfamiliar students tended to say they liked themselves more after the others had previously reported (to the researchers) that they liked those students (Srivastava & Beer, 2005). Therefore, there is some evidence to support the idea that peer relationships might determine self-esteem levels and trajectories across adolescence.\nWhile peer relationship research that includes self-esteem as a dependent variable has seemed to be consistent, evidence for the reverse direction has been inconsistent. For example, some researchers have supported this supposition for 11-to 13-year-old children across 1 year (Salmivalli & Isaacs, 2005; but also note that there was no effect from peers to later self-perceptions in this study), and others have confirmed an association between early self-esteem and later self-perceived popularity (Reitz et al., 2015). On the other hand, this direction of effects has been disconfirmed in both adolescence (Asendorpf & van Aken, 2003;Reitz et al., 2015 for peer-rated popularity) and emerging adulthood (Srivastava & Beer, 2005). Thus, more work is needed to inform whether self-esteem has prospective links with peer relationships.\nThe research discussed so far provides a thorough starting point for understanding the complicated connections between peer relationships and self-esteem. However, it is limited in that no one to our knowledge has prospectively linked peer approval and selfesteem across more than two time points in adolescence. Rather, some researchers have done so at age periods besides adolescence. Because adolescents are faced with the developmental task of forming a coherent view of the self and establishing a place in their social network (Erikson, 1968;Fend, 1994), their self-esteem might be related to previous liking by others. In contrast to somewhat older college students with a more developed sense of self, however, they might display less consistent social cues signaling their self-esteem. That is, adolescent self-views may be dependent on peer approval but not vice versa.\nA final advancement needed is understanding whether multiple perspectives of adolescent peer relationships are more or less impactful for self-esteem. For example, Srivastava and Beer (2005) measured both target-perceived liking by others and otherperceived liking of target in the mentioned college sample of psychology undergraduates across four weeks. Studies like this covering longer time spans are needed to determine the influence This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nof dynamic perspectives of peer relationships in adolescence, when self-esteem and peer relationships are highly malleable.",
+      "n_publication_ref": 15,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Assessments of Peer Approval: Subjective and Objective Measures",
+      "text": "In line with sociometer theory, perceptions of peer approval must be regarded as essential for possessing assessments of one's worth as a person. One's subjective evaluation of peer approval thus serves as a gauge for adjusting or maintaining one's own behavior to guarantee future peer approval and bolster future self-esteem. Further, adolescents begin to engage in abstract thinking and start to evaluate themselves on a variety of life domains, including their social roles and integration in peer groups (Harter, 1999;Fend, 1998;Troop-Gordon & Ladd, 2005). Following this line of reasoning, we argue that subjective evaluations of peer approval is an important characteristic of peer relationships to include in any study investigating relations between peer approval and self-esteem in adolescence.\nAn equally important characteristic of peer relationships could be reflected in objective assessments from the perspective of the target's actual peers. Objective evaluations of peer approval are typically measured by sociometric indices in which a participant's peers rate individuals in their specified social group (e.g., their classmates) on \"popularity\" or \"likeability\" (see Asher & Cole, 1990;Coie & Dodge, 1983;Coleman, 1964;Fend, 1998). Based on these nominations from their peers, the target individual's position in his or her respective social group is inferred. According to Fend (1998) and Specht (1982), likability and reputation (i.e., prestige) have proven to effectively reflect two important aspects of one's standing in a peer group. First, they reflect the affective dimension of social integration by means of sympathy, likability, and friendliness. Second, they reflect whether a target is able to receive attention and shape the group's dynamic, and thus, they represent how highly regarded and respected the target is by other members of his or her group (Fend, 1998).\nTeacher judgments and behavioral observations have shown that these measures are valid, as sociometrically \"popular\" children are rated high on friendliness, sociability, and cooperativeness, whereas sociometrically rejected, or \"unpopular\" children, have been described as aggressive, less responsible, and less sociable (Cillessen, Van IJzendoorn, Van Lieshout, & Hartup, 1992;Newcomb, Bukowski, & Pattee, 1993;Wentzel, 2009). Furthermore, objective ratings have been shown to be concurrently related to subjective perceptions of peer relationships. That is, in the current sample of German adolescents at the first time point, objective and subjective peer approval were concurrently associated with each other as well as with self-esteem (Fend, 1998). In addition, in third and fourth graders, objectively \"neglected\" (i.e., did not receive any sociometric ratings of liking or disliking) children perceived themselves as low in social competence, and sociometrically rejected children reported more conflicts with peers than sociometrically average or popular children (Patterson, Kupersmidt, & Griesler, 1990).\nDespite this concurrent empirical work, very little is known about whether subjective and objective perceptions of peer relationships are similarly related to self-feelings over time. For example, the prospective link between objective and subjective peer approval as well as between each of these constructs and self-esteem have not been tested in the current sample. The longitudinal link is important to examine because when there are links between predictors and criteria that are both subjective, as in some literature described above, some of the effect may be due to shared method variance. Including objective predictors of such criteria could help account for this possibility and thus speak to the robustness and generalizability of such effects. Therefore, in the current study, we assessed peer relationships from both subjective and objective perspectives when examining their longitudinal links with selfesteem.",
+      "n_publication_ref": 15,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Long-Term Outcomes of Adolescent Peer Approval and Self-Esteem",
+      "text": "If self-esteem and peer approval are found to be prospectively and reciprocally linked across adolescence, it is still unknown whether these associations extend beyond the adolescent years. Theoretically, adolescence is often described as a unique developmental age period with regard to the social domain (as described above) as well as a time of increased vulnerability for the onset of later social and emotional adaptation problems Erikson, 1968;Steinberg, 2005). In addition, selfesteem can be regarded as a personality characteristic that is associated with specific information processing patterns (Kuster, Orth, & Meier, 2012), potentially leading to similarities within individuals in reactions to social situations across the life span (Kern, Della Porta, & Friedman, 2013). Individuals with low self-esteem may be more sensitive to social evaluations and social feedback than those with high self-esteem (Brockner's plasticity hypothesis ;Brockner, 1988). Therefore, it is likely that individuals with low self-esteem do not act as securely and confidently in their friendship networks, and as a result might develop lowered feelings of social integration and/or social support in adulthood. As for peer approval during adolescence, lack of approval might lead to a specific sensitivity to social rejection, spurring a vicious circle for later friendship development and resulting in objective (e.g., number of friends, relationship status) and/or subjective lower social integration and social support. Finally, feelings of peer approval and being socially integrated in a same age peer group might help adolescents to shape and practice \"(. . .) skills and competencies to navigate the social complexities of adult life\" (Allemand et al., 2015, p. 3).\nSupporting this notion, both self-esteem and peer approval have long-term effects in the social domain. Individuals with low selfesteem seem to be at risk for engaging in antisocial behavior (Trzesniewski et al., 2006) and reporting low relationship satisfaction (Erol & Orth, 2013;Orth, Robins, & Widaman, 2012) as well as high rates of loneliness (Jones, Freemon, & Goswick, 1981). In addition, social support and empathy skills predict self-esteem, social integration, and social support several years to two decades later (Allemand et al., 2015;Kinnunen, Feldt, Kinnunen, & Pulkkinen, 2008). The underlying mechanism by which peer (dis)approval relates to later (mal)adjustment may be cognitive knowledge structures that influence how individuals interpret, attend, and react to interpersonal situations and interaction partners (Troop-Gordon & Ladd, 2005).\nTo our knowledge, researchers have yet to test either the relations between the different perspectives of peer approval (e.g., objective and subjective) in the same sample or between self-This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nesteem with later social life outcomes. It is possible that the \"subjective reality\" in adolescence can inform the \"subjective reality\" in adulthood (i.e., feeling integrated in an adolescent peer group would be related to feeling integrated in a circle of friends in adulthood). However, adolescent subjective perceptions might not be relevant for objective adult outcomes (e.g., relationship status, number of friends). For example, some people might feel socially integrated from just having one close friend. Objective peer approval measures (e.g., the number of peer nominations of popularity), on the other hand, might be more relevant for objective adult outcomes because objectively popular individuals likely find a relationship partner and friends more easily, as these occurrences might perpetuate over time, ensuring that popular adolescents continue to profit from their popularity later in life. Therefore, in the current study, we also tested whether adolescent peer approval and self-esteem are related to subjective and objective social outcomes in adulthood.",
+      "n_publication_ref": 14,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Present Study",
+      "text": "The present study had two major goals. First, we aimed to test the reciprocal and longitudinal relations between self-esteem and subjective peer approval from ages 12 to 16 using five measurement occasions as well as between self-esteem and objective peer approval from ages 12 to 15 using four measurement occasions. We hypothesized that both subjective and objective peer approval would be related to subsequent changes in self-esteem and that self-esteem would in turn be related subsequent changes in peer approval.\nSecond, we aimed to test long-term associations between both adolescent self-esteem and peer approval (both types) with the social outcomes of subjective social integration and support as well as objective relationship status and reported number of friends in adulthood (at age 35). Based on the reviewed literature, we expected that both adolescent peer approval and self-esteem would remain sensitive markers in an individual's life history with longterm associations into adulthood.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Method Participants",
+      "text": "Data came from the German LifE-study (Fend, Georg, Berger, Grob, & Lauterbach, 2002). 1 The initial sample consisted of 2,054 secondary school students who were assessed five times during adolescence at the ages of 12 (T1: 1979), 13 (T2: 1980; n \u03ed 2,047), 14 (T3: 1981; n \u03ed 2,003), 15 (T4: 1982; n \u03ed 1,952), and 16 years (T5: 1983; n \u03ed 1,790). The study sample was originally recruited via participation of schools from the city of Frankfurt and two rural areas in the region of Hessen in West Germany during the years 1979 to 1983 (for details see Fend, 1990Fend, , 1994. Schools were chosen according to the representative percentage of students within each school level (lower, medium and upper level of secondary education). This procedure led to an adolescent sample that was broadly representative of the Western German population with regard to socioeconomic status, gender, ethnic origin, urban versus rural place of residence, and education level (see Fend, Berger, & Grob, 2009, for further details).\nIn 2002, the study was continued, and contact details were recruited via the participants' parents whose addresses were recorded during the youth study. The extensive search of this procedure led to 1,853 valid addresses of the main sample (Fend, Berger, & Grob, 2009). Of the 1,853 addressed individuals, 1,527 (82.4%) participants returned the questionnaire. The remaining sample (48.3% females) differed to the original sample with regard to education level (see Blohm, Harkness, Klein, & Scholz, 2003;Fend, Berger, & Grob, 2009). That is, only 18.5% of the adulthood study participants (compared to 24.8% of the Western German population) had received only a secondary Level I certificate with low requirements. In addition, compared with the Western German population with 34.2% individuals holding a secondary school Level I certificate with medium requirements, a higher percentage (42.3%) of the adult study participants had received such a certificate. Finally, with regard to the highest education level (university entrance diploma), the percentage of individuals (39.2%) who had received this degree was comparable to the Western German population (41.0%; for more details see Fend et al., 2009). With regard to civil status, most of the participants in the current study were married (57.8%), a third of them (32.0%) were unmarried/ single, a small percentage (7.6%) was divorced, and a very small proportion (0.1%) was widowed.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "Self-esteem (ages 12 to 16). Eight self-esteem items based on the Rosenberg Self-Esteem Scale (RSES; Rosenberg, 1965) were used at the adolescent assessments. Example items were: \"On the whole, I am satisfied with myself,\" \"All in all, there are a number of things I can be proud of in myself,\" \"I do not think highly of myself,\" and \"Sometimes, I feel useless.\" Items were rated on a dichotomous scale (1 \u03ed disagree, 2 \u03ed agree) and summed to create a total self-esteem score (scale range: 8 to 16). Kuder and Richardson (1937) reliability estimates (KR-20) ranged between .72 and .77 for the five measurement occasions.\nSubjective peer approval (ages 12 to 16). Six items that reflected subjective peer approval were used across the five measurement waves during adolescence (Fend, 1986). Items were: \"I'm pretty respected among my classmates,\" \"No matter what I do, somehow my classmates just do not to like me very much,\" \"I sometimes feel a little bit like an outsider among my school peers,\" \"No matter how good my ideas are, my school peers often do not listen to me,\" \"I think I am pretty popular among my classmates,\" and \"When my classmates do something together between school classes/during breaks, I am often ignored.\" Each item was rated on a dichotomous scale (1 \u03ed disagree, 2 \u03ed agree). Negatively worded items were reverse coded. All items were then summed to create a total score (scale range: 6 to 12, with higher rates indicating greater peer approval). Kuder and Richardson (1937) reliability estimates (KR-20) ranged from .68 to .77 from T1 to T5, indicating sufficient reliability for all measurement occasions.\nObjective peer approval (ages 12 to 15). Objective peer approval was measured by means of school class sociograms (for details see Coleman, 1964;Fend, 1998). 2 Each student was given a sheet with a list of all of his or her classmates (in Germany, school students share all school classes within the same class structure, that is, they are not divided in different classes but remain within the same group according to the initially set education level prior to secondary school). They were then asked to nominate up to five school peers they liked most (indicator of social likability/popularity). Additionally, they were given a second sheet and were asked to again nominate up to five peers that-in their eyes-were highly respected among the classmates (indicator of prestige/reputation). Students' nominations were then counted by including direct (Peer A is nominated by Peer B; B \u00a1 A nomination) and indirect nominations (Peer A was nominated by Peer B who was in turn also nominated by Peer C; C \u00a1 B \u00a1 A; C-B indirect nomination is taken into account) and summed to create a weighted score for direct and indirect nominations (Coleman, 1964). We allocated a score of 0.5 for direct nominations and then quadratically reduced the score for every indirect nomination (0.5 2 ), with more distal nominations being quadratically reduced again (0.5 3 , 0.5 4 , and so forth). The inclusion of both direct and indirect nominations takes into account the varying degrees and kinds of \"connectedness\" in the social structure of individuals, revealing the hierarchical structure among group members (Coleman, 1964, p. 444). That is, the indirect nominations were included because they represent the popularity of the nominators themselves. If somebody is only nominated by peers who do not receive any nominations, this would lead to a lower score for an individual compared to a different individual who received the same number of direct nominations from peers who themselves receive a greater number of nominations. We illustrate the calculation method in the following example for the score of a hypothetical Peer A: a direct nomination of Peer A through Peer B counted as 0.5. If Peer B had been nominated by another Peer C, this indicated a first indirect choice and was counted with a quadratic reduction of the direct choice 0.5 2 . Second indirect nominations (Peer D nominated Peer C) were again quadratically reduced and counted as 0.5 3 (and so forth). These direct and indirect scores were then summed, multiplied by 10, and rounded to avoid decimal places. Therefore, hypothetical Peer A in the mentioned example would have received a score of 0.5 \u03e9 0.5 2 \u03e9 0.5 3 \u202b\u0621\u202c 10 \u03ed 8.75 \u00a1 rounded up to 9. The last measurement wave in adolescence (age 16) was omitted due to completion of compulsory education by a vast amount of participants (41.7%). These participants had completed the compulsory nine years of schooling (in Germany, students in the low and medium education levels called Hauptschule and Realschule finish after year 9 and start an apprenticeship or a different form of professional training at age 16). Thus, they had left their school class context, transitioning to professional training that then contained a wide variety of new education class structures. We therefore used data from the first four measurement occasions only (ages 12-15).",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Subjective social support (age 35",
+      "text": "). An established scale with four items indicating the presence and perceived strength of social support was given to the adult sample (Bien, Donald Bender, Mittag, & Brislinger, 1988. Items were: \"There are many people I can count on when I have problems,\" \"I have plenty of people that I feel strongly connected with,\" \"When I need my friends, I can always count on them,\" and \"There are many people I trust.\" Participants rated each item on a 6-point Likert-type scale (1 \u03ed does not apply to me at all, 6 \u03ed fully applies to me). The composite scores ranged from 4 to 24 with higher scores indicating higher perceptions of social support. Cronbach's alpha for this scale was \u2423 \u03ed .86.\nSubjective social integration (age 35). Subjective social integration was measured with three items of an established social integration scale that measures how much participants feel isolated versus integrated in their social network (Bien, Bender, Mittag, & Brislinger, 2000). Items were \"I feel that my circle of friends is too small,\" \"I miss companionability with other people,\" and \"I often feel lonely.\" Again, participants rated each item on a 6-point Likert-type scale (1 \u03ed does not apply to me at all, 6 \u03ed fully applies to me). The composite scores ranged from 3 to 18 with higher scores indicating higher subjective social integration. Cronbach's alpha for this scale was \u2423 \u03ed .79. 3 Relationship status. Participants were asked whether they considered themselves to be in a committed relationship or single (dichotomous item). Independent of their civil status, most participants (84.9%) reported to be in a relationship, and 14.7% indicated that they were single.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Number of friends.",
+      "text": "Participants were asked to write down the number of their close friends (M \u03ed 4.58, SD \u03ed 3.70). Participants' declaration of close friends varied largely from zero close friends (n \u03ed 103, 6.7% of answers) to one subject who reported to have 40 close friends. Declarations of over 10 close friends were very rare (less than 5% of all participants). Indeed, most participants re- 2 The calculation model proposed by Coleman takes into account the varying degrees and kinds of \"connectedness\" in the social structures they are meant to characterize (Coleman, 1964, p. 434). His approach aims at detecting hierarchization within groups of people and unraveling if and how relations within a social group are interdependent. Therefore, not only direct peer nominations but also indirect peer nominations are estimated and weighted for each individual (i.e., indirect nominations count less than direct nominations. As a rule to weigh direct and indirect nominations we assigned 0.5 points for direct nominations and quadratically reduced every indirect nominations, taking into account the varying degrees of distance from the target peer. When calculating the score for person X, all paths leading to this person X were listed and then calculated according to this rule classes. (for further reading on the social connectedness within sociograms, we recommend Coleman, 1964, p .432ff.) 3 A potential critique could refer to the theoretical and empirical overlap between social integration and social support. However, social integration and social support are typically defined as two related yet distinct constructs of social relations. Whereas social integration is typically defined as participation in social relationships and associated with perceived presence or absence of companionship and loneliness (Brissette, Cohen, & Seeman, 2000), social support grasps a somewhat different aspect of social bonds, namely, how reliable and supportive these interpersonal relations are and whether there is instrumental or emotional support when one has a problem or a certain need. That is, social support refers to the provision of resources from social networks (Cohen, 2004). However, in our sample the correlation of the latent constructs of social integration and social support is rather high (r \u03ed .71) and we therefore conducted a factor analysis in order to test whether the two constructs are better combined or separated in our final models. Our results suggest that social integration and social support capture two different aspects of social relations. Each of the constructs showed sufficient explained variance, with the three items of social integration and the four items of social support loading on two different factors (eigenvalues \u03fe1, factor 1: explained variance 56.3%, factor 2: explained variance 15.0%). Furthermore, the model fits worsened significantly when we modeled the items for social support and social integration on only one general social factor instead of two latent factors. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nported to have two (n \u03ed 223, 14.6% of answers) or three close friends (n \u03ed 203, 13.4% of answers).",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Plan of Analysis",
+      "text": "Autoregressive cross-lagged analyses (J\u00f6reskog, S\u00f6rbom, & Magidson, 1979;Kenny, 1975) with latent factors of peer approval and self-esteem were applied to examine our research questions. Cross-lagged analyses are able to capture prospective relations between self-esteem and peer approval while controlling for previous levels of the dependent variable and test the direction of this relation. MPlus (Version 6; Muth\u00e9n & Muth\u00e9n, 1998 was used to estimate all longitudinal models.\nWith regard to missing values, an enormous effort was conducted to find and motivate the initial participants to participate in the age 35 follow-up survey (see Fend et al., 2009 for a detailed description of the study design and attrition analysis). Still, as to expect with longitudinal studies, there was substantial missing data over the course of the 19 years of investigation. We chose to maximize power and generalizability by including every participant who reported at least one self-esteem or peer approval item at any time point and by employing full-information maximum likelihood estimation (FIML) to handle missing values (see Table 1 for a scale-level report of missing values). The default setting FIML in MPlus assumes that missing data is random across time and unrelated to the constructs of interest. Indeed, the study members who participated at all three assessments did not differ from the original adolescent sample on any of the key variables of interest (see Fend et al., 2009 for detailed attrition analysis). Compared with other approaches dealing with missing data, the main advantage of the FIML approach is that every variable in the analysis model is taken into account in dealing with missing information, thus, maximizing the probability of observing what has, de facto, been observed (Allison, 2012).\nThe eight self-esteem items were allocated to two parcels per year (sum of four items in each parcel) that served as indicators per latent construct over time, that is, for each of the five measurement waves. This design was replicated for subjective peer approval, with the exception of including three items in each parcel. We used parceling procedures according to the item-to-construct-balancing method (Little, Cunningham, Shahar, & Widaman, 2002). For objective peer approval, the two yearly scores of social likability/ popularity and prestige/reputation served as indicators for the latent factors over time (i.e., we did not use parcels). Based on suggestions by Geiser (2011) and Selig, Preacher, and Little (2012) for the specification of latent autoregressive cross-lagged models, we constrained the loadings and intercepts of corresponding indicators to be equal over time.\nTo test the path from subjective peer approval to subsequent self-esteem across the five measurement occasions, we modeled T2 self-esteem on T1 peer approval, controlling for the stability of T1 self-esteem and replicated these paths for the subsequent time points and the reverse direction (i.e., peer approval on later selfesteem; see Figure 1).\nWe first tested a model that freely estimated the cross-lagged effects (Model 1) and then constrained the cross-lag effects for each direction to be equal across time (Model 2). Next, we constrained the stabilities of self-esteem and peer approval within each construct to be equal across the five measurement occasions (Model 3). We then constrained the stabilities of self-esteem and peer approval to be equal to each other (Model 4). Finally, we constrained the cross-lag effects from peer approval to self-esteem to be equal to the cross-lag effects from self-esteem to peer approval (Model 5). We chose the best fitting model according to any observed significant differences in 2 . The same procedure was applied to the model using objective peer approval for the four measurement occasions (see Figure 2).\nFor the estimation of the long-term effects on social life domains, the three items of subjective social integration and the four items of subjective social support served as indicators for the latent factors of adult social integration and social support, respectively (see Footnote 3). We also included relationship status and number of friends as objective outcome variables in adulthood. The best fitting models of the subjective and objective peer approval to self-esteem relations were extended by including the adult factors of social integration, social support and the objective social outcomes. The outcomes were regressed on to age 16 subjective peer approval and self-esteem and age 15 objective peer approval and self-esteem, respectively (see Figures 1 and 2). Finally, to control for previous measures of social integration (and thus be closer to modeling change in this construct), we included one item about feelings of loneliness in adolescence (age 16: Do you sometimes feel lonely? 3 \u03ed yes, often; 2 \u03ed yes, sometimes; 1 \u03ed no) in the final models. This item was chosen due to the overlap with the loneliness item from the social integration measure in adulthood.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 3
+    },
+    {
+      "heading": "Results",
+      "text": "Descriptive statistics and zero-order correlations of self-esteem, subjective peer approval, objective peer approval, social integration, and social support at their respective waves of measurement are depicted in Table 1. Before running longitudinal models, we tested for longitudinal measurement invariance, which is a test of whether changes in variables across time can be attributed to substantive phenomena rather than changes in measurement factors. We found that strong invariance constraints fit the data well for both subjective peer acceptance with self-esteem: 2 (125) \u03ed 254.60, CFI \u03ed .99, RMSEA \u03ed .03 (90% CI [.021, .031]) and objective peer acceptance with self-esteem: 2 (76) \u03ed 439.20, CFI \u03ed .95, RMSEA \u03ed .06 (90% CI [.51, .061]). Therefore, we retained strong invariance constraints for all subsequent models.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Cross-Lagged Effects Between Subjective Peer Acceptance and Self-Esteem",
+      "text": "To determine whether subjective peer acceptance influenced self-esteem at a later time and vice versa, we tested five latent autoregressive cross-lagged models with increasing constraints as described in the plan of analysis. Each additional constraint was tested by means of a 2 -difference test (for an overview of model fits see Table 2). Model 4 with equal stabilities across constructs plus equal cross-lagged effects within each construct fit the data best. That is, a comparison with Model 5 (i.e., both stabilities and cross-lagged effects constrained to be equal across constructs) revealed a significant reduction in model fit (see Table 2). Therefore, results of the best fitting Model 4 are reported in Figure 1. As hypothesized, we found significant prospective effects of subjective peer approval on subsequent self-esteem, even when control-This document is copyrighted by the American Psychological Association or one of its allied publishers.  Self-Esteem This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nling for self-esteem stability. However, the effects were small (see Figure 1). Contrary to our hypothesis, we did not detect a prospective effect of self-esteem on subsequent peer approval.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Cross-Lagged Effects Between Objective Peer Acceptance and Self-Esteem",
+      "text": "Identical to the model of subjective peer approval and selfesteem, we tested five latent autoregressive cross-lagged models with increasing constraints for objective peer approval and selfesteem (for an overview of all model fits, see Table 2). Model 3 with stabilities and cross-lagged effects constrained to be equal within constructs fit the data best. That is, a comparison with Model 4 (i.e., stabilities equal across constructs, cross-lagged effects equal within constructs) revealed a significant reduction in model fit (see Table 2). We therefore report the best fitting Model 3 in Figure 2. As hypothesized, we found significant cross-lagged effects from objective peer approval on subsequent self-esteem, even when controlling for self-esteem stability. However, effects were again very small (see Figure 2). Contrary to our hypothesis and in line with the subjective peer approval-self-esteem model, we did not find a prospective effect of self-esteem on subsequent peer approval.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Post Hoc Analyses",
+      "text": "To exclude the possibility that the reported effects from peer approval on subsequent self-esteem are too small to be regarded as relevant, we further tested a model with cross-lagged effects set to zero. A nonsignificant change in model fit when comparing the original model with the zero-effects model would indicate that the small effects are no different from zero and that their original significance may have been due to the large sample size (Type I Error). Comparisons between the zero-effects model with the reported models, however, resulted in a significant reduction in model fit in favor of the reported models, indicating that the effects-although small-are perseverant. 4",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Long-Term Effects of Adolescent Self-Esteem and Peer Approval",
+      "text": "Finally, we extended the best fitting models (Model 4 for subjective peer approval and self-esteem and Model 3 for objective peer approval and self-esteem) by including the adult factors of subjective social integration, social support, relationship status, and number of friends at age 35. We regressed these factors on the last measurement wave of the adolescent models in order to test whether adolescent self-esteem and/or peer approval reveal longterm effects on social life outcomes at a later developmental period. We included gender and an item that served as an indicator 4 Model fits were significantly lowered for both the subjective and objective peer approval-self-esteem models when setting the crosslagged effects to zero. A comparison between the subjective peer approval and self-esteem model with cross-lagged effects set to zero and the reported model revealed a significant reduction in 2 , in support of the model we reported in the results section: \u232c 2 \u03ed 12.47, \u232cdf \u03ed 2, p \u03fd .001. The same was true for the objective peer approval and selfesteem model as a comparison between cross-lagged effects set to zero and the reported model revealed a significant reduction in model fit \u232c 2 \u03ed 9.652, \u232cdf \u03ed 3, p \u03fd .05. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nfor feelings of loneliness at age 16 as control variables in these models. Because the inclusion of the control variables did not change the results, we only report the models that included the control variables. As hypothesized, subjective peer approval prospectively influenced adult subjective social integration and subjective social support. Subjective peer approval did not predict objective relationship status or the reported number of close friends. Contrary to our hypothesis, there was no evidence for a long-term effect from self-esteem on any of the social outcomes at age 35.\nIn the objective peer approval to self-esteem model, objective peer approval in adolescence prospectively predicted relationship status two decades later. However, there was no evidence for a long-term effect from objective peer approval on the subjective social outcomes at age 35 or on the reported number of friends in adulthood. Adolescent self-esteem predicted subjective social integration at age 35. For ease of presentation, only significant long-term results are depicted in Figures 1 and 2 (detailed results of all long-term effects are reported in Table 3).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Discussion",
+      "text": "The first aim of the present study was to examine the reciprocal prospective relation between subjectively and objectively measured peer approval and self-esteem during adolescence, a time with significant changes in the social context. We examined whether peer approval prospectively predicts subsequent selfesteem (and vice versa) over a time span of 5 years, between ages 12 and 16. Our findings indicated that there were small, yet persistent effects from both types of peer approval on subsequent self-esteem, when controlling for prior levels of self-esteem over time. These results are in line with sociometer theory and with empirical evidence suggesting that the peer context serves as an influential source of self and identity development in adolescence (Allen & Land, 1999;Buhrmester & Furman, 1986;Laible, Carlo, & Roesch, 2004;Fend, 1998;Harter, 1999). 5 With regard to the control variables, in the subjective peer approval to self-esteem model, we found females to report higher social support (\u2424 \u03ed .15, p \u03fd .001) and a small effect in favor of females over males with regard to social integration (\u2424 \u03ed .07, p \u03fd .05). Furthermore, age 16 feelings of loneliness were clearly related to lower adult social integration (\u2424 \u03ed \u03ea.14, p \u03fd .01) and social support (\u2424 \u03ed \u03ea.11, p \u03fd .01) at age 35. In the objective peer approval to self-esteem model, we found similar effects of gender on social support (\u2424 \u03ed .16, p \u03fd .001) and social integration (\u2424 \u03ed .08, p \u03fd .01) and an effect of age 16 feelings of loneliness (\u2424 \u03ed \u03ea.19, p \u03fd .001) on adult subjective social integration and on social support (\u2424 \u03ed \u03ea.16, p \u03fd .001).\nFigure 2. Cross-lagged effects of adolescent objective peer approval on self-esteem and vice versa (Model 3) and long-term effects for age 35 subjective social integration and support, relationship status and number of friends, controlled for gender and age 16 feelings of loneliness; standardized beta-coefficients and (residual) correlations, nonsignificant long-term results are not depicted, n \u03ed 1,527. PA \u03ed Peer Approval. \u202b\u0621\u0621\u202c p \u03fd .01. \u202b\u0621\u0621\u0621\u202c p \u03fd .001. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nWe also examined the reverse effect (i.e., self-broadcasting theory) from self-esteem to subsequent peer approval when controlling for prior levels of peer approval but found no support for this effect. This is consistent with some past studies on adolescents and emerging adults (Reitz et al., 2015;Srivastava & Beer, 2005). We propose that the self-broadcasting effect may be more relevant at later developmental stages when the self is more stable and individuals gain greater confidence in and experience with their newly solidified identity.\nFurther, self-esteem may have served better as an outcome than a predictor variable in these analyses because of the transient nature of this developmental period that may have led to strong intraindividual self-esteem fluctuations and thus high self-esteem variability to predict, which is typically associated with high susceptibility to social cues from peers.\nA third possibility is that peer approval may be determined by other factors besides self-esteem such as social competence, personality traits (e.g., shyness/extraversion), or shared activities with peers. While there are concurrent links between these constructs (see Oberle, Schonert-Reichl, & Thomson, 2010), future longitudinal research is needed to examine factors that may function as antecedents of peer approval during adolescence.\nWe conclude from the first set of analyses that peers serve as a source of information about the self as well as a behavioral monitor in adolescence in order to gain feedback when forming one's identity and to help establish outerfamilial stable social networks (e.g., Thomaes et al., 2010). These tenets are in line with theoretical propositions that social approval elicits changes in self-esteem in order to adjust behavior (e.g., Leary & Baumeister, 2000).\nThe replication of cross-lagged findings across two measures of peer approval (i.e., subjective and objective) raises the question as to which perspective might matter more or whether they are equally important for studying the role of relationships in selfesteem development. To reiterate the definitions of these, subjective measures refer to how the targets felt regarding whether they were accepted or excluded from their group of peers. Objective (sociometric) measures are intended to represent peer-rated popu-  Note. Controlled for feelings of loneliness at age 16 in adolescence and gender, n \u03ed 1,527. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nlarity (number of \"liked\" nominations received) and prestige (number of \"opinion leader\" nominations received) of target individuals. In our view, these two perspectives complement each other. Subjective perceptions of peer acceptance have been suggested to be \"central to the study of interpersonal relationships\" (Furman, 1996, p. 41). They can be regarded as an ideal measure of peer approval because it might matter most how individuals actually feel when they think of their peers. However, subjective perceptions of peer (dis)approval can be biased due to recent social activities, conflicts, or the social structures in which individuals are embedded. Thus, objective ratings of peer acceptance may profit from less biased popularity ratings, especially if the applied method takes into account both direct and indirect nominations. Such a measure can capture a more impartial reflection of a social structure within a group of individuals (e.g., school class, clique) and may be more adequate when researchers are interested in actual rather than subjective occurrences of social approval or when researchers might assume that subjects may under or overestimate themselves (e.g., in the case of personality pathology, inability of unbiased self-report due to very young or very old age, mental disorder). Therefore, given the strengths and limitations of each measure of peer approval, we recommend other researchers continue to consider both perspectives when feasible. We acknowledge that administration of both types of peer relationship measures may not be feasible, especially given the greater planning, organization, and participant cooperation required when collecting sociometric data (see Fend, 1990). Therefore, if subjective measures are chosen over objective, we would first like to emphasize that our current findings (i.e., subjective and objective peer acceptance had similar effect sizes) should not be taken to imply that other associations only measured subjectively would necessarily replicate with objective measures. It happened in the current study that subjective analyses were generalizable to the objective \"reality,\" but there are other areas that we expect this may not be the case. For example, sociometrically popular fourth grade girls do not differ in perceived friendship quality (Lansford et al., 2006), but sociometrically unpopular seventh and eighth graders rate themselves high on popularity (Parkhurst & Hopmeyer, 1998). Furthermore, differences across self versus other perspectives are related to personality characterizations such as dominance and aggressiveness (Parkhurst & Hopmeyer, 1998), so in studies on these traits, it is likely best to use both subjective and objective measures.\nOur second aim was to extend the first set of findings by integrating long-term effects of adolescent self-esteem and peer approval on adult subjective social integration and social support. We found that subjectively measured peer approval predicted subjective social integration and social support still two decades later. These findings are in line with research suggesting that subjective social support or social skills serve as predictors of subsequent social outcomes in adulthood (Allemand et al., 2015;Kinnunen, Feldt, Kinnunen, & Pulkkinen, 2008). Objectively measured peer approval in adolescence, however, was not related to subjective adult social integration or support in adulthood. It could be that the different social networks from adolescence to adulthood are actually similar in subjective appraisals (i.e., perceptions of school relationships influence perceptions of adult social networks), whereas objective evaluations of popularity or prestige at school do not transfer to other relationships over time. The null effect could also have been caused by the different reporters of objective approval and later subjective social outcomes. Or, it could be that subjective perceptions are more influential over the long-term due to being internalized and expressed either consciously or unconsciously during later social interactions. Interestingly, objectively measured peer approval prospectively predicted objective relationship status. The actual higher popularity and prestige during adolescence may have been sustained into adulthood, making these individuals de facto more attractive for a relationship. On the other hand, we did not find an effect from either subjective or objective peer approval on the reported number of friends in adulthood. This may be because simply asking for the target's number of friends is not ideally construed insofar as each individual may define the term \"friends\" differently and thus include different types of friendships in their count (see Demir, Ozdemir, & Weitekamp, 2007) or an inflated number of friendships. Researchers recommend considering other characteristics of friendships as well, including reciprocity of nomination, quality, satisfaction, and even conflict (see Parker & Asher, 1993). It is possible that subjective or objective peer approval in adolescence would be related to one of these additional measures rather than number of friends in adulthood.",
+      "n_publication_ref": 20,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Limitations",
+      "text": "Despite these strengths of the present study, some limitations must be noted. First, we were unable to test the long-term effects of adolescent self-esteem and peer approval on adult self-esteem because self-esteem was not measured at age 35. It would have been interesting to test whether adolescent peer approval prospectively predicts adult self-esteem, controlling for adolescent selfesteem. For example, this would inform whether the proposals of sociometer theory hold over the long-term. Future studies should build upon the current results to test this longitudinal effect. Further, after controlling for age 16 feelings of loneliness, selfesteem showed a long-term predictive effects on later social integration at age 35 only in the objective peer approval-self-esteem model. In the subjective peer approval-self-esteem model, adolescent self-esteem did not predict any of the social outcomes variables in adulthood. The fact that the long-term prospective effect from self-esteem on later social outcomes was only present in the objective peer approval-self-esteem model led us to conclude that shared method variance between self-reported self-esteem and self-reported subjective social outcomes was, at least partly, responsible for the observed effect in this model.\nSecond, in the present study we could not test the influence of out-of-school peers-that is, friends from sports or leisure activities, or other settings that take place outside of the school context-on self-esteem over time. Note, however, that inclusion of this social group would have been unlikely to distort our findings regarding in-school peers because classmates are typically considered to be the most influential form of peer approval, as adolescents spend the majority of their time in this context (Fend, 1998;Harter, 1999).\nThird, more proximal factors that may serve as mediators between peer approval and self-esteem were not tested in this study. However, it is possible that the inclusion of mediators such as self-blame attributions (Ford & Collins, 2010) or empathy or prosocial behavior (Laible, Carlo & Roesch, 2004) ",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "might further",
+      "text": "This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\ninform the relation between peer approval and self-esteem over time. Therefore, future studies should test mediating mechanisms on this association. Finally, we only looked at one sample (West Germany, age 12 to age 35) at one given time point in history (1979 -1983 and 2002). It is highly likely that peer influences may be stronger in cultures with a more individualistic orientation (such as Germany) compared with cultures that are more collectivistic (such as Taiwan), and/or family oriented (Markus & Kitayama, 1991). However, at least from the historical time dependency, when comparing the current adolescent sample (historical time 1979 -1983) with the follow-up sample from the same (ongoing) study (historical time: 2012), we did not find a difference in the association between self-esteem and subjective peer acceptance (across all years and both samples, r \u03ed .40 -.54). With regard to cultural dependency, we compared a sample of Turkish (N \u03ed 84), Southern Europeans (N \u03ed 80), and German youth (N \u03ed 10,204; total sample: N \u03ed 11,147 from the German evaluation of comprehensive schools study) in a similar historical time (1977) on the association between subjective peer approval and self-esteem (r \u03ed .37-.59) and did not find a significant difference between the cultural subsamples.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusion",
+      "text": "To the best of our knowledge, this is the first study that has tested reciprocal and prospective links between subjectively and objectively measured peer approval and self-esteem over 5 years during adolescence. We used advanced statistical modeling for longitudinal data to correct for measurement errors and stability effects within each of the tested constructs (autoregressive latent cross-lagged effects) and a large sample to test our assumptions. Additionally, we tested long-term prospective effects of adolescent self-esteem and peer approval on adult social outcomes; that is, we included different developmental periods from adolescence to early adulthood. Many theories exist regarding sources of selfesteem across the life span (e.g., sociometer, reflected appraisal), but empirical support is mixed. The small but persistent effects of adolescent subjective and objective peer approval on self-esteem change contributes to the existing empirical understanding of the role of peer approval in adolescent self-esteem development. We believe that the application of two different perspectives (objective and subjective) of peer approval and the 5-year time span studied across adolescence is a unique contribution to the field. We showed that both types of peer approval measures were relevant for this adolescent sample, and we encourage future researchers to also apply both measures if feasible. While our procedure advances prior knowledge on the relative importance of both types of measures for subsequent self-esteem, it would be interesting to see whether these peer approval measures are more suited for certain samples (e.g., samples with personality pathology, samples with biased self-views). Additionally, our thorough test of reciprocal associations between peer approval and subsequent self-esteem took into account prior levels of both constructs, which is a major advantage when trying to understand antecedents of change, and which is a technique that is somewhat lacking in the adolescent self-esteem development field.\nFinally, the observed links between adolescent subjective peer approval and adult subjective social integration and support as well as between adolescent objective peer approval and adult relationship status shed further light on the long-term significance of adolescence as a crucial developmental period for long-term adjustment.\nTaken together, the current findings have implications for interpersonal relations and self-development in adolescence and beyond. First, peers-independent of whether they are only 12 or already 16-years-old-serve to influence self-esteem and thus, inform identity formation. Second, both subjective evaluations of how integrated an individual feels and objective evaluations of how integrated an individual actually is play a crucial role for self-esteem development. For practitioners working in the field of social relations during adolescence (such as mobbing, cyberbullying, etc.) this finding might be an interesting starting point for applied work, insofar as subjective evaluations of peer integration typically involve self-disclosure whereas objective evaluations are more easily observable. Finally, with regard to our long-term findings, we could show that self-esteem is integral for later adjustment; that is, the process of adolescent self-esteem development through peers and relevant others will reveal consequences still decades later. Thus, our findings have important implications for self and identity development as we could show that adolescence represents a vulnerable age period to peer influences but also acts as a time period that is integral for long-term adjustment.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Call for Nominations",
+      "text": "The Publications and Communications (P&C) Board of the American Psychological Association has opened nominations for the editorships of Clinician's Research Digest: Adult Populations and Child and Adolescent Populations; Journal of Experimental Psychology: Learning, Memory, and Cognition; Professional Psychology: Research and Practice; Psychology and Aging; and Psychology, Public Policy, and Law  Candidates should be members of APA and should be available to start receiving manuscripts in early 2018 to prepare for issues published in 2019. Please note that the P&C Board encourages participation by members of underrepresented groups in the publication process and would particularly welcome such nominees. Self-nominations are also encouraged.\nSearch chairs have been appointed as follows: Candidates should be nominated by accessing APA's EditorQuest site on the Web. Using your browser, go to http://editorquest.apa.org. On the Home menu on the left, find \"Guests/Supporters.\" Next, click on the link \"Submit a Nomination,\" enter your nominee's information, and click \"Submit.\"\nPrepared statements of one page or less in support of a nominee can also be submitted by e-mail to Sarah Wiederkehr, P&C Board Editor Search Liaison, at swiederkehr@apa.org.\nDeadline for accepting nominations is Monday, January 9, 2017, after which phase one vetting will begin.\nThis document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Patterns of attachment: A psychological study of the strange situation",
+      "journal": "Erlbaum",
+      "year": "1978",
+      "authors": "M D Ainsworth; M C Blehar; E Waters; S Wall"
+    },
+    {
+      "title": "Empathy development in adolescence predicts social competencies in adulthood",
+      "journal": "Journal of Personality",
+      "year": "2015",
+      "authors": "M Allemand; A E Steiger; H A Fend"
+    },
+    {
+      "title": "Attachment in adolescence",
+      "journal": "Guilford",
+      "year": "1999",
+      "authors": "J P Allen; D Land"
+    },
+    {
+      "title": "Handling missing data by maximum likelihood",
+      "journal": "",
+      "year": "2012-04",
+      "authors": "P D Allison"
+    },
+    {
+      "title": "Soziale Gehemmtheit und ihre Entwicklung",
+      "journal": "",
+      "year": "1989",
+      "authors": "J B Asendorpf"
+    },
+    { "title": "", "journal": "Springer", "year": "", "authors": "" },
+    {
+      "title": "Personality-relationship transaction in adolescence: Core versus surface personality characteristics",
+      "journal": "Journal of Personality",
+      "year": "2003",
+      "authors": "J B Asendorpf; M A G Van Aken"
+    },
+    {
+      "title": "Peer rejection in childhood",
+      "journal": "Cambridge University Press",
+      "year": "1990",
+      "authors": "S R Asher; J D Coie"
+    },
+    {
+      "title": "Trajectories of global self-esteem development during adolescence",
+      "journal": "Journal of Adolescence",
+      "year": "1988",
+      "authors": "W Bien; Donald Bender; D Mittag; H Brislinger; E ; Birkeland; M S Melkevik; O Holsen; I Wold; B "
+    },
+    {
+      "title": "Peer acceptance and friendship: An investigation of their relation to self-esteem",
+      "journal": "The Journal of Early Adolescence",
+      "year": "1995",
+      "authors": "J A Bishop; H M Inderbitzen"
+    },
+    {
+      "title": "Self-esteem: The puzzle of low self-regard (pp. 55-This document is copyrighted by the American Psychological Association or one of its allied publishers",
+      "journal": "",
+      "year": "1993",
+      "authors": "B Blaine; J Crocker"
+    },
+    { "title": "", "journal": "Plenum Press", "year": "", "authors": "" },
+    {
+      "title": "Allgemeinen Bev\u00f6lkerungsumfrage der Sozialwissenschaften\" (ALLBUS) 2002 (Concept and implementation of the",
+      "journal": "General Population Survey of Social Sciences",
+      "year": "2003",
+      "authors": "M Blohm; J Harkness; S Klein; E Scholz"
+    },
+    {
+      "title": "Impact of parental emotional support and coercive control on adolescents' self-esteem and psychological distress: Results of a four-year longitudinal study",
+      "journal": "Journal of Adolescence",
+      "year": "2013",
+      "authors": "A M Boudreault-Bouchard; J Dion; J Hains; J Vandermeerschen; L Laberge; M Perron"
+    },
+    {
+      "title": "Social support measurement and intervention: A guide for health and social scientists",
+      "journal": "Oxford University Press",
+      "year": "2000",
+      "authors": "I Brissette; S Cohen; T E Seeman"
+    },
+    {
+      "title": "Self-esteem at work: Research, theory and practice",
+      "journal": "Heath and Company",
+      "year": "1988",
+      "authors": "J Brockner"
+    },
+    {
+      "title": "Intimacy of friendship, interpersonal competence, and adjustment during preadolescence and adolescence",
+      "journal": "Child Development",
+      "year": "1990",
+      "authors": "D Buhrmester"
+    },
+    {
+      "title": "The changing functions of friends in childhood",
+      "journal": "Springer",
+      "year": "1986",
+      "authors": "D Buhrmester; W Furman"
+    },
+    {
+      "title": "Heterogeneity among peer-rejected boys: Subtypes and stabilities",
+      "journal": "Child Development",
+      "year": "1992",
+      "authors": "A H N Cillessen; H W Van Ijzendoorn; C F M Van Lieshout; W W Hartup"
+    },
+    {
+      "title": "Social relationships and health",
+      "journal": "American Psychologist",
+      "year": "2004",
+      "authors": "S Cohen"
+    },
+    {
+      "title": "Continuities and changes in children's social status: A five-year longitudinal study",
+      "journal": "Merrill-Palmer Quarterly",
+      "year": "1983",
+      "authors": "J D Coie; K A Dodge"
+    },
+    {
+      "title": "Social origins of depressive cognitions: A longitudinal study of self-perceived competence in children",
+      "journal": "Cognitive Therapy and Research",
+      "year": "2001",
+      "authors": "D A Cole; F M Jacquez; T L Maschman"
+    },
+    {
+      "title": "The development of multiple domains of child and adolescent self-concept: A cohort sequential longitudinal design",
+      "journal": "Child Development",
+      "year": "2001",
+      "authors": "D A Cole; S E Maxwell; J M Martin; L G Peeke; A D Seroczynski; J M Tram; . . Maschman; T "
+    },
+    {
+      "title": "Introduction to mathematical sociology",
+      "journal": "The Free Press",
+      "year": "1964",
+      "authors": "J S Coleman"
+    },
+    {
+      "title": "Interpersonal behavior, peer popularity, and self-esteem in early adolescence",
+      "journal": "Social Development",
+      "year": "2005",
+      "authors": "E H De Bruyn;  Van Den; D C Boom"
+    },
+    {
+      "title": "Longitudinal trajectories of self-esteem from early to middle adolescence and related psychosocial variables among rural adolescents",
+      "journal": "Journal of Research on Adolescence",
+      "year": "1997",
+      "authors": "L M Deihl; J R Vicary; R C Deike"
+    },
+    {
+      "title": "Peer relations in adolescents: Effects of parenting and adolescents' self-concept",
+      "journal": "Journal of Adolescence",
+      "year": "1997",
+      "authors": "M Dekovi\u0107; W Meeus"
+    },
+    {
+      "title": "Looking to happy tomorrows with friends: Best and close friendships as they predict happiness",
+      "journal": "Journal of Happiness Studies",
+      "year": "2007",
+      "authors": "M Demir; M Ozdemir; L A Weitekamp"
+    },
+    {
+      "title": "A three-wave longitudinal study of self-evaluations during young adulthood",
+      "journal": "Journal of Research in Personality",
+      "year": "2007",
+      "authors": "M B Donnellan; K H Trzesniewski; K J Conger; R D Conger"
+    },
+    {
+      "title": "Low self-esteem is related to aggression, antisocial behavior, and delinquency",
+      "journal": "Psychological Science",
+      "year": "2005",
+      "authors": "M B Donnellan; K H Trzesniewski; R W Robins; T E Moffitt; A Caspi"
+    },
+    {
+      "title": "Identity: Youth and crisis",
+      "journal": "",
+      "year": "1968",
+      "authors": "E H Erikson"
+    },
+    {
+      "title": "Actor and partner effects of self-esteem on relationship satisfaction and the mediating role of secure attachment between the partners",
+      "journal": "Journal of Research in Personality",
+      "year": "2013",
+      "authors": "R Y Erol; U Orth"
+    },
+    {
+      "title": "Children's self-esteem and parental support",
+      "journal": "Journal of Marriage and the Family",
+      "year": "1989",
+      "authors": "R B Felson; M A Zielinski"
+    },
+    {
+      "title": "Dokumentation der Skalen des Projekts \"Entwicklung im Jugendalter",
+      "journal": "Constance. Fend, H",
+      "year": "1986",
+      "authors": "H Fend"
+    },
+    { "title": "", "journal": "Hans Huber", "year": "", "authors": "Germany Bern" },
+    {
+      "title": "Die Entdeckung des Selbst und die Verarbeitung der Pubert\u00e4t [The discovery of the self",
+      "journal": "",
+      "year": "1994",
+      "authors": "H Fend"
+    },
+    { "title": "", "journal": "Hans Huber", "year": "", "authors": "Germany Bern" },
+    {
+      "title": "Eltern und Freunde. Soziale Entwicklung im Jugendalter [Parents and friends",
+      "journal": "",
+      "year": "1998",
+      "authors": "H Fend"
+    },
+    { "title": "", "journal": "Hans Huber", "year": "", "authors": "Germany Bern" },
+    {
+      "title": "Lebensverl\u00e4ufe, Lebensbew\u00e4ltigung, Lebensgl\u00fcck: Ergebnisse der LifE-Studie",
+      "journal": "",
+      "year": "2009",
+      "authors": "H A Fend; A Berger; U Grob"
+    },
+    {
+      "title": "Verlag f\u00fcr Sozialwissenschaften",
+      "journal": "",
+      "year": "",
+      "authors": "Germany Wiesbaden"
+    },
+    {
+      "title": "",
+      "journal": "",
+      "year": "2002",
+      "authors": "H Fend; W Georg; F Berger; U Grob; W Lauterbach"
+    },
+    {
+      "title": "LifE35 -Lebensverl\u00e4ufe von der sp\u00e4ten Kindheit ins fr\u00fche Erwachsenenalter [LifE35-Pathways from late childhood to early adulthood",
+      "journal": "",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Self-esteem moderates neuroendocrine and psychological responses to interpersonal rejection",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2010",
+      "authors": "M B Ford; N L Collins"
+    },
+    {
+      "title": "The measurement of friendship perceptions: Conceptual and methodological issues",
+      "journal": "Cambridge University Press",
+      "year": "1996",
+      "authors": "W Furman"
+    },
+    {
+      "title": "Datenanalyse mit MPlus: Eine anwendungsorientierte Einf\u00fchrung [Data analysis with MPlus: An applied introduction",
+      "journal": "Verlag f\u00fcr Sozialwissenschaften",
+      "year": "2011",
+      "authors": "C Geiser"
+    },
+    {
+      "title": "Causes and consequences of low self-esteem in children and adolescents",
+      "journal": "Plenum Press",
+      "year": "1993",
+      "authors": "S Harter"
+    },
+    {
+      "title": "The construction of the self",
+      "journal": "Guilford Press",
+      "year": "1999",
+      "authors": "S Harter"
+    },
+    {
+      "title": "Self-esteem in early adolescence: The identification and prediction of contrasting longitudinal trajectories",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "1991",
+      "authors": "B J Hirsch; D L Dubois"
+    },
+    {
+      "title": "Children's peer relationships: Longitudinal prediction of internalizing and externalizing problems from middle to late childhood",
+      "journal": "Child Development",
+      "year": "1990",
+      "authors": "S Hymel; K H Rubin; L Rowden"
+    },
+    {
+      "title": "This document is copyrighted by the American Psychological Association or one of its allied publishers",
+      "journal": "Journal of Personality",
+      "year": "1981",
+      "authors": "W H Jones; J E Freemon; R A Goswick"
+    },
+    {
+      "title": "Advances in factor analysis and structural equation models",
+      "journal": "University Press of America",
+      "year": "1979",
+      "authors": "K G J\u00f6reskog; D S\u00f6rbom; J Magidson"
+    },
+    {
+      "title": "Cross-lagged panel correlation: A test for spuriousness",
+      "journal": "Psychological Bulletin",
+      "year": "1975",
+      "authors": "D A Kenny"
+    },
+    {
+      "title": "Lifelong pathways to longevity: Personality, relationships, flourishing, and health",
+      "journal": "Journal of Personality",
+      "year": "2014",
+      "authors": "M L Kern; S S Della Porta; H S Friedman"
+    },
+    {
+      "title": "Selfesteem: An antecedent or a consequence of social support and psychosomatic symptoms? Cross-lagged associations in adulthood",
+      "journal": "Journal of Research in Personality",
+      "year": "2008",
+      "authors": "M.-L Kinnunen; T Feldt; U Kinnunen; L Pulkkinen"
+    },
+    {
+      "title": "The theory of the estimation of test reliability",
+      "journal": "Psychometrika",
+      "year": "1937",
+      "authors": "G F Kuder; M W Richardson"
+    },
+    {
+      "title": "Rumination mediates the prospective effect of low self-esteem on depression: A five-wave longitudinal study",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "2012",
+      "authors": "F Kuster; U Orth; L L Meier"
+    },
+    {
+      "title": "Pathways to self-esteem in late adolescence: The role of parent and peer attachment, empathy, and social behaviours",
+      "journal": "Journal of Adolescence",
+      "year": "2004",
+      "authors": "D J Laible; G Carlo; S C Roesch"
+    },
+    {
+      "title": "Patterns of competence and adjustment among adolescents from authoritative, authoriarian, indulgent, and neglectful families",
+      "journal": "Child Development",
+      "year": "1991",
+      "authors": "S D Lamborn; N S Mounts; L Steinberg; S M Dornbusch"
+    },
+    {
+      "title": "Perceptions of friendship quality and observed behaviors with friends: How do sociometrically rejected, average, and popular girls differ?",
+      "journal": "Merrill-Palmer Quarterly",
+      "year": "2006",
+      "authors": "J E Lansford; M Putallaz; C L Grimes; A Kimberlea; J B Kupersmidt; N Carolina; J D Coie"
+    },
+    {
+      "title": "The nature and function of self-esteem: Sociometer theory",
+      "journal": "Advances in Experimental Social Psychology",
+      "year": "2000",
+      "authors": "M R Leary; R F Baumeister"
+    },
+    {
+      "title": "To parcel or not to parcel: Exploring the question, weighing the merits",
+      "journal": "Structural Equation Modeling",
+      "year": "2002",
+      "authors": "T D Little; W A Cunningham; G Shahar; K F Widaman"
+    },
+    {
+      "title": "Culture and the self: Implications for cognition, emotion, and motivation",
+      "journal": "Psychological Review",
+      "year": "1991",
+      "authors": "H R Markus; S Kitayama"
+    },
+    {
+      "title": "Mplus user's guide",
+      "journal": "Muth\u00e9n & Muth\u00e9n",
+      "year": "1998",
+      "authors": "L K Muth\u00e9n; B Muth\u00e9n"
+    },
+    {
+      "title": "Children's peer relations: A meta-analytic review of popular, rejected, neglected, controversial, and average sociometric status",
+      "journal": "Psychological Bulletin",
+      "year": "1993",
+      "authors": "A F Newcomb; W M Bukowski; L Pattee"
+    },
+    {
+      "title": "Understanding the link between social and emotional well-being and peer relations in early adolescence: Gender-specific predictors of peer acceptance",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2010",
+      "authors": "E Oberle; K A Schonert-Reichl; K C Thomson"
+    },
+    {
+      "title": "Life-span development of self-esteem and its effects on important life outcomes",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2012",
+      "authors": "U Orth; R W Robins; K F Widaman"
+    },
+    {
+      "title": "Friendship and friendship quality in middle childhood: Links with peer group acceptance and feelings of loneliness and social dissatisfaction",
+      "journal": "Developmental Psychology",
+      "year": "1993",
+      "authors": "J G Parker; S R Asher"
+    },
+    {
+      "title": "Sociometric popularity and peer-perceived popularity: Two distinct dimensions of peer status",
+      "journal": "The Journal of Early Adolescence",
+      "year": "1998",
+      "authors": "J T Parkhurst; A Hopmeyer"
+    },
+    {
+      "title": "Children's perceptions of self and of relationships with others as a function of sociometric status",
+      "journal": "Child Development",
+      "year": "1990",
+      "authors": "C J Patterson; J B Kupersmidt; P C Griesler"
+    },
+    {
+      "title": "Me, us, and them: Testing sociometer theory in a socially diverse real-life context",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2015",
+      "authors": "A K Reitz; F Motti-Stefanidi; J B Asendorpf"
+    },
+    {
+      "title": "Self-esteem development across the lifespan",
+      "journal": "Current Directions in Psychological Science",
+      "year": "2002",
+      "authors": "R W Robins; K H Trzesniewski;  W ; R; K H Trzesniewski; J L Tracy; S D Gosling; J Potter"
+    },
+    {
+      "title": "Society and the adolescent self-image",
+      "journal": "Princeton University Press",
+      "year": "1965",
+      "authors": "M Rosenberg"
+    },
+    {
+      "title": "Prospective relations among victimization, rejection, friendlessness, and children's self-and peer-perceptions",
+      "journal": "Child Development",
+      "year": "2005",
+      "authors": "C Salmivalli; J Isaacs"
+    },
+    {
+      "title": "Modeling timedependent association in longitudinal data: A lag as moderator approach",
+      "journal": "",
+      "year": "2012",
+      "authors": "J P Selig; K J Preacher; T D Little"
+    },
+    { "title": "", "journal": "Multivariate Behavioral Research", "year": "", "authors": "" },
+    {
+      "title": "Die Schulklasse als soziales Beziehungsfeld altershomogener Gruppen. Forschungsbericht im Rahmen des Projektes \"Entwicklung im Jugendalter\" [The school class as a field of social relationships of age-homogenous groups",
+      "journal": "",
+      "year": "1982",
+      "authors": "W Specht"
+    },
+    { "title": "", "journal": "", "year": "", "authors": "Germany Konstanz" },
+    {
+      "title": "How self-evaluations relate to being liked by others: Integrating sociometer and attachment perspectives",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2005",
+      "authors": "S Srivastava; J S Beer"
+    },
+    {
+      "title": "Low and decreasing self-esteem during adolescence predict adult depression two decades later",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2014",
+      "authors": "A E Steiger; M Allemand; R W Robins; H A Fend"
+    },
+    {
+      "title": "Testing the vulnerability and scar models of self-esteem and depressive symptoms from adolescence to middle adulthood and across generations",
+      "journal": "Developmental Psychology",
+      "year": "2015",
+      "authors": "A E Steiger; H A Fend; M Allemand"
+    },
+    {
+      "title": "Cognitive and affective development in adolescence",
+      "journal": "Trends in Cognitive Sciences",
+      "year": "2005",
+      "authors": "L Steinberg"
+    },
+    {
+      "title": "Trajectories of peer victimization and perceptions of the self and schoolmates: Precursors to internalizing and externalizing problems",
+      "journal": "Child Development",
+      "year": "2005",
+      "authors": "S Thomaes; A Reijntjes; B Orobio De Castro; B J Bushman; A Poorthuis; M J Telch; W Gordon; G W Ladd"
+    },
+    {
+      "title": "Low self-esteem during adolescence predicts poor health, criminal behavior, and limited economic prospects during adulthood",
+      "journal": "Developmental Psychology",
+      "year": "2006",
+      "authors": "K H Trzesniewski; M B Donnellan; T E Moffitt; R W Robins; R Poulton; A Caspi"
+    },
+    {
+      "title": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly",
+      "journal": "",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Stability of selfesteem across the life span",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2003",
+      "authors": "K Trzesniewski; M Donnellan; R Robins"
+    },
+    {
+      "title": "Friend networking sites and their relationship to adolescents' well-being and social selfesteem",
+      "journal": "CyberPsychology & Behavior",
+      "year": "2006",
+      "authors": "P M Valkenburg; J Peter; A P Schouten"
+    },
+    {
+      "title": "Handbook of peer interactions, relationships, and groups. Social, emotional, and personality development in context",
+      "journal": "Guilford Press",
+      "year": "2009",
+      "authors": "K R Wentzel"
+    },
+    {
+      "title": "A longitudinal study of self-esteem: Implications for adolescent development",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "1997",
+      "authors": "M A Zimmerman; L A Copeland; J T Shope; T E Dielman"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Figure 1 .1Figure1. Cross-lagged effects of adolescent subjective peer approval on self-esteem and vice versa (Model 4) and long-term effects for age 35 subjective social integration and support, relationship status and number of friends, controlled for gender and age 16 feelings of loneliness; standardized beta-coefficients and (residual) correlations, nonsignificant long-term results are not depicted, n \u03ed 1,527. PA \u03ed Peer Approval. \u202b\u0621\u0621\u202c p \u03fd .01. \u202b\u0621\u0621\u0621\u202c p \u03fd .001.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": " and Social Integration and  Support at Age 35    ",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "p \u03fd .01.This document is copyrighted by the American Psychological Association or one of its allied publishers.",
+      "figure_data": "-.11 \u202b\u0621\u0621\u202c.24 \u202b\u0621\u0621\u202c .06 \u202b\u0621\u202c -3-18 0-1 0-4014.18 1.17 4.583.10 .54 3.701,524 1,527 1,377-.02.05 .16 \u202b\u0621\u0621\u202c -.03 .22 \u202b\u0621\u0621\u202c .58 \u202b\u0621\u0621\u202c.06 \u202b\u0621\u202c .01 .02.02 .02 .39 \u202b\u0621\u0621\u202c0-447 1-3 4-2491.03 .5 17.7494.89 .58 3.891,351 1,080 1,521-.62 \u202b\u0621\u0621\u202c.01.09 \u202b\u0621\u0621\u202c.04.03.050-518101.73105.231,314-.66 \u202b\u0621\u0621\u202c.52 \u202b\u0621\u0621\u202c\u03ea.04.08 \u202b\u0621\u0621\u202c.03.03.040-528118.17120.181,310Subjective Peer Approval-.61 \u202b\u0621\u0621\u202c -Objective Peer Approval.23 \u202b\u0621\u0621\u202c .13 \u202b\u0621\u0621\u202c -.28 \u202b\u0621\u0621\u202c .19 \u202b\u0621\u0621\u202c .57 \u202b\u0621\u0621\u202c.25 \u202b\u0621\u0621\u202c .22 \u202b\u0621\u0621\u202c .44 \u202b\u0621\u0621\u202c.25 \u202b\u0621\u0621\u202c .20 \u202b\u0621\u0621\u202c .40 \u202b\u0621\u0621\u202cRelationship Variables.28 \u202b\u0621\u0621\u202c .39 \u202b\u0621\u0621\u202c \u03ea.02.20 \u202b\u0621\u0621\u202c .16 \u202b\u0621\u0621\u202c .03.19 \u202b\u0621\u0621\u202c .17 \u202b\u0621\u0621\u202c .05.03 .02 .04.06 .09 \u202b\u0621\u0621\u202c \u03ea.006-12 6-12 0-60510.48 10.66 109.621.51 1.46 125.281,103 970 1,247-.56 \u202b\u0621\u0621\u202c -.49 \u202b\u0621\u0621\u202c .59 \u202b\u0621\u0621\u202c -.43 \u202b\u0621\u0621\u202c .47 \u202b\u0621\u0621\u202c .59 \u202b\u0621\u0621\u202c -.35 \u202b\u0621\u0621\u202c .44 \u202b\u0621\u0621\u202c .54 \u202b\u0621\u0621\u202c .57 \u202b\u0621\u0621\u202c -.52 \u202b\u0621\u0621\u202c .40 \u202b\u0621\u0621\u202c .39 \u202b\u0621\u0621\u202c .31 \u202b\u0621\u0621\u202c .23 \u202b\u0621\u0621\u202c -.39 \u202b\u0621\u0621\u202c .49 \u202b\u0621\u0621\u202c .44 \u202b\u0621\u0621\u202c .34 \u202b\u0621\u0621\u202c .28 \u202b\u0621\u0621\u202c .57 \u202b\u0621\u0621\u202c -.38 \u202b\u0621\u0621\u202c .43 \u202b\u0621\u0621\u202c .52 \u202b\u0621\u0621\u202c .40 \u202b\u0621\u0621\u202c .36 \u202b\u0621\u0621\u202c .49 \u202b\u0621\u0621\u202c .61 \u202b\u0621\u0621\u202c -.28 \u202b\u0621\u0621\u202c .34 \u202b\u0621\u0621\u202c .41 \u202b\u0621\u0621\u202c .47 \u202b\u0621\u0621\u202c .35 \u202b\u0621\u0621\u202c .38 \u202b\u0621\u0621\u202c .51 \u202b\u0621\u0621\u202c .62 \u202b\u0621\u0621\u202c.28 \u202b\u0621\u0621\u202c .34 \u202b\u0621\u0621\u202c .39 \u202b\u0621\u0621\u202c .40 \u202b\u0621\u0621\u202c .48 \u202b\u0621\u0621\u202c .39 \u202b\u0621\u0621\u202c .44 \u202b\u0621\u0621\u202c .54 \u202b\u0621\u0621\u202c.12 \u202b\u0621\u0621\u202c .11 \u202b\u0621\u0621\u202c .10 \u202b\u0621\u0621\u202c .09 \u202b\u0621\u0621\u202c .01 .32 \u202b\u0621\u0621\u202c .29 \u202b\u0621\u0621\u202c .23 \u202b\u0621\u0621\u202c.08 \u202b\u0621\u0621\u202c .12 \u202b\u0621\u0621\u202c .15 \u202b\u0621\u0621\u202c .11 \u202b\u0621\u0621\u202c .05 .24 \u202b\u0621\u0621\u202c .30 \u202b\u0621\u0621\u202c .28 \u202b\u0621\u0621\u202c.09 \u202b\u0621\u202c .10 \u202b\u0621\u0621\u202c .12 \u202b\u0621\u0621\u202c .09 \u202b\u0621\u0621\u202c .06 \u202b\u0621\u202c .23 \u202b\u0621\u0621\u202c .26 \u202b\u0621\u0621\u202c .30 \u202b\u0621\u0621\u202c.05 .05 .12 \u202b\u0621\u0621\u202c .08 \u202b\u0621\u0621\u202c .06 \u202b\u0621\u202c .20 \u202b\u0621\u0621\u202c .21 \u202b\u0621\u0621\u202c .23 \u202b\u0621\u0621\u202c.22 \u202b\u0621\u0621\u202c .27 \u202b\u0621\u0621\u202c .32 \u202b\u0621\u0621\u202c .31 \u202b\u0621\u0621\u202c .47 \u202b\u0621\u0621\u202c .20 \u202b\u0621\u0621\u202c .20 \u202b\u0621\u0621\u202c .24 \u202b\u0621\u0621\u202c.04 .09 \u202b\u0621\u0621\u202c .08 \u202b\u0621\u0621\u202c .09 \u202b\u0621\u0621\u202c .13 \u202b\u0621\u0621\u202c .11 \u202b\u0621\u0621\u202c .11 \u202b\u0621\u0621\u202c .17 \u202b\u0621\u0621\u202c.11 \u202b\u0621\u0621\u202c .14 \u202b\u0621\u0621\u202c .15 \u202b\u0621\u0621\u202c .17 \u202b\u0621\u0621\u202c .19 \u202b\u0621\u0621\u202c .11 \u202b\u0621\u0621\u202c .11 \u202b\u0621\u0621\u202c .14 \u202b\u0621\u0621\u202c.00 .01 .03 .01 .02 .02 .04 .03.05 .09 \u202b\u0621\u202c .06 .03 .03 .04 .08 \u202b\u0621\u202c .06 \u202b\u0621\u202c8-16 8-16 8-16 8-16 8-16 6-12 6-12 6-1213.54 13.44 13.66 13.72 13.99 10.19 10.36 10.442.02 2.14 2.15 2.15 2.05 1.76 1.66 1.611,028 1,159 1,116 1,101 1,097 1,023 1,160 1,117\u03ed peer approval. Stability coefficients are depicted in dark gray.1) SE Age 122) SE Age 133) SE Age 144) SE Age 155) SE Age 166) Subj. PA Age 127) Subj. PA Age 138) Subj. PA Age 149) Subj. PA Age 1510) Subj. PA Age 1611) Obj. PA Age 1212) Obj. PA Age 1313) Obj. PA Age 1414) Obj. PA Age 1515) Loneliness age 1616) Social support age 3517) Social integration age 3518) Relationship status age 3519) Number of friends age 35Actual range for scalesMSDNNote. SE \u03ed self-esteem; PA"
+    },
+    {
+      "figure_label": "",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "5 Both models fit well for subjective peer approval to self-esteem with long-term effects ( 2 \u03ed 1087.51, df \u03ed 407, CFI \u03ed .958, RMSEA \u03ed .033, 90% CI [.031, .035]) and objective peer-approval to self-esteem with long-term effects ( 2 \u03ed 1261.16, df \u03ed 295, CFI \u03ed .928, RMSEA \u03ed .046, 90% CI [.044, .049]). Results for the subjective and objective peer approval and self-esteem with long-term effects models are reported in Figures 1 and 2 and Table 3, respectively.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Model Fit Indices and Model Comparisons of Subjective and Objective Peer Approval-Self-Esteem ModelsNote. AIC \u03ed Akaike Information Criterion. \u03fe \u03ed model had greater fit.",
+      "figure_data": "Model specificationsFit indices2 -difference testModel comparisonSeries A: Subjective peer Approval and self-esteem2dfCFI RMSEA(90% CI)AIC\u232c 2\u232cdf pModel 1: Cross-lagged effects freely estimated465.81 157 .970.036(.032-.040) 46163.45----Model 2: Cross-lagged effects constrained to be equalwithin constructs477.61 163 .970.036(.032-.039) 46163.25 11.8036.07 Model 2 \u03fe Model 1Model 3: Cross-lagged effects plus stabilities constrainedto be equal within constructs487.48 169 .969.035(.032-.039) 46161.129.8636.13 Model 3 \u03fe Model 2Model 4: Cross-lagged effects equal within; stabilitiesequal across constructs488.11 170 .969.035(.031-.039) 46159.75.6331.43 Model 4 \u03fe Model 3Model 5: Cross-lagged effects and stabilities constrainedto be equal across constructs497.31 171 .969.035(.032-.039) 46166.959.2011.00 Model 4 \u03fe Model 5Series B: Objective peer approval and self-esteem2dfCFI RMSEA(90% CI)AIC\u232c 2\u232cdf pModel 1: Cross-lagged effects freely estimated612.9794 .933.060(.056-.065) 86233.41----Model 2: Cross-lagged effects constrained to be equalwithin constructs615.7098 .933.059(.055-.064) 86228.142.7314.60 Model 2 \u03fe Model 1Model 3: Cross-lagged effects plus stabilities constrainedto be equal within constructs621.24 102 .933.058(.054-.062) 86225.695.5474.24 Model 3 \u03fe Model 2Model 4: Cross-lagged effects equal within; stabilitiesequal across constructs626.38 103 .932.058(.054-.062) 86228.835.1381.02 Model 3 \u03fe Model 4Model 5: Cross-lagged effects and stabilities constrainedto be equal across constructs628.31 104 .932.058(.053-.062) 86228.757.0612.03 Model 3 \u03fe Model 5"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_4",
+      "figure_caption": "",
+      "figure_data": "Standardized Beta-Coefficients (\u2424) From Adolescent Predictors to Adult Outcomes in the Subjective and ObjectivePeer-Approval-Self-Esteem ModelsOutcomes in adulthoodPredictors in adolescenceSocial integrationSocial supportNumber of friendsRelationship statusModel A: Subjective peer approval and self-esteemAdolescent self-esteem.09, p \u03ed .09.00, p \u03ed .99.02, p \u03ed .66.03, p \u03ed .55Adolescent subjective peer approval.12, p \u03fd .05.19, p \u03fd .001\u03ea.01, p \u03ed .90\u03ea.02, p \u03ed .63Model B: Objective peer approval and self-esteemAdolescent self-esteem.16, p \u03fd .001.07, p \u03ed .07\u03ea.02, p \u03ed .55.01, p \u03ed .88Adolescent objective peer approval.02, p \u03ed .54.06, p \u03ed .10.03, p \u03ed .47.09, p \u03fd .01"
+    }
+  ],
+  "doi": "10.1037/dev0000147"
+}

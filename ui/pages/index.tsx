@@ -6,12 +6,10 @@ import * as Icon from 'react-feather';
 import { useTheme } from 'next-themes';
 import * as ToggleGroupPrimitive from '@radix-ui/react-toggle-group';
 import PapersPlot from '@components/PapersPlot';
-import papers from 'public/papers.json';
 
 export default function Home({ papers }) {
   const { setTheme, theme } = useTheme();
   const [mounted, setMounted] = useState(false);
-  const [paper, setPaper] = useState(papers[0]);
 
   function onToggleChange(value) {
     if (value === '') setTheme('system');
@@ -24,60 +22,22 @@ export default function Home({ papers }) {
 
   return (
     <Box column center>
-      <Box row css={{ width: '100vw', height: '100vh' }}>
-        <Box
-          css={{
-            width: '30vw',
-            height: '100vh',
-            p: '$4',
-            py: '$5',
-            bc: '$contrast2',
-            overflow: 'scroll',
-          }}
-        >
-          <Text type="subtitle" css={{ pb: '$4' }}>
-            {paper.title}
-          </Text>
-          <Text mono css={{ pb: '$4' }}>
-            {paper.authors.map((author) => `${author.name}, `)}
-          </Text>
-          <Text css={{ pb: '$3' }}>{paper.abstract}</Text>
-
-          <Text mono css={{ pb: '$3' }}>
-            <Link underline href={paper.url}>
-              Open in Semantic Scholar
-            </Link>
-          </Text>
-          <br />
-          <ToggleGroup
-            type="single"
-            defaultValue={theme}
-            aria-label="Theme"
-            onValueChange={(value) => onToggleChange(value)}
-            css={{ pt: '$4' }}
-          >
-            <ToggleGroupItem value="light" aria-label="Day">
-              <Icon.Sun size={18} />
-            </ToggleGroupItem>
-            <ToggleGroupItem value="dark" aria-label="Night">
-              <Icon.Moon size={18} />
-            </ToggleGroupItem>
-          </ToggleGroup>
-        </Box>
-        <PapersPlot
-          style={{ width: '70vw', height: '100vh' }}
-          papers={papers}
-          onClick={(id) => setPaper(papers[id])}
-        />
-      </Box>
+      <ToggleGroup
+        type="single"
+        defaultValue={theme}
+        aria-label="Theme"
+        onValueChange={(value) => onToggleChange(value)}
+        css={{ pt: '$4' }}
+      >
+        <ToggleGroupItem value="light" aria-label="Day">
+          <Icon.Sun size={18} />
+        </ToggleGroupItem>
+        <ToggleGroupItem value="dark" aria-label="Night">
+          <Icon.Moon size={18} />
+        </ToggleGroupItem>
+      </ToggleGroup>
     </Box>
   );
-}
-
-export async function getStaticProps(context) {
-  return {
-    props: { papers }, // will be passed to the page component as props
-  };
 }
 
 const StyledToggleGroup = styled(ToggleGroupPrimitive.Root, {

@@ -1,0 +1,572 @@
+{
+  "title": "Embodiment Feels Better: Girls' Body Objectification and Well-Being Across Adolescence",
+  "abstract": "In a five-year longitudinal study, we investigated the role of body objectification in shaping girls' self-esteem and depressive symptoms over the course of adolescence. Multivariate Latent Growth Curve Modeling (MLGM) was used to test the association between body objectification and both self-esteem and depressive symptoms with data from 587 adolescent girls who began the study at age 13 and completed the study at age 18. Results revealed that body objectification decreased, self-esteem increased, and depressive symptoms remained relatively steady across adolescence. Girls who experienced decreases in body objectification also tended to increase in self-esteem and decrease in depressive symptoms over the course of adolescence, even after accounting for several factors known to be associated with positive youth development including race/ethnicity, socioeconomic status, educational achievement, religiosity, and body satisfaction. Practical implications for reducing objectification and enhancing girls' well-being through health, physical, and sexuality education, as well as through media literacy programs are discussed. Directions for future research are also discussed, including a greater focus on the role of race/ethnicity, research on boys, and the need for more experimental studies of body objectification.",
+  "sections": [
+    {
+      "heading": "Body Objectification in Adolescence",
+      "text": "Feminist theorists have argued that women are sexually objectified in Western cultures (Bartky, 1990;de Beauvoir, 1952). Sexual objectification occurs when individuals are treated as bodies for the use and pleasure of others (Bartky, 1990;Fredrickson & Roberts, 1997) and when their value is appraised solely from their sexual appeal (American Psychological Association [APA] Task Force on the Sexualization of Girls, 2007). From representations in the mass media to daily social interactions, girls and women are more likely than boys and men to be viewed as sex objects and subjected to evaluations of their appearance (see review by Ward, 2003). In an effort to enhance social desirability and their own self-evaluations, girls and women may monitor and shape their appearance to increase their physical attractiveness. The act of observing and evaluating one's own appearance from an outsider's perspective is termed self objectification (Fredrickson & Roberts, 1997). The process of objectifying one's own body is quite a common experience for adolescent girls and young adult women; indeed, research shows that physical appearance is an important-and perhaps the most important-basis of adolescent girls' and young adult women's self-worth (e.g., Harter, 1987). Fredrickson and Roberts (1997) theorize that viewing the self from an outsider's perspective may create anxiety over potential negative evaluations, leading women to constantly monitor their appearance to prevent such evaluations. This vigilant attention to one's appearance can be detrimental to women's mental health in multiple ways.\nNumerous studies have documented the harmful effects of body objectification on women's well-being (see review by Moradi & Yu-Ping, 2008). For example, cross-sectional studies of college students have found positive associations between body objectification and depressive symptoms (e.g., Muehlenkamp & Saris-Baglama, 2002, Szymanski & Henning, 2007, and negative associations between body objectification and self-esteem (McKinley & Hyde, 1996;Mercurio & Landry, 2008). Further, body objectification has been shown to undermine eudaimonic well-being-that is, well-being related to self-realization and optimal functioning. For example, body objectification reduces intrinsic motivation and self-efficacy (Gapinski, Brownell, & LaFrance, 2003), flow states (Greenleaf, 2005), and autonomy and vitality (Breines, Crocker, & Garcia, 2008).\nAdolescent girls are particularly vulnerable to experiencing body objectification and its consequences. Although there is some disagreement about the exact ages at which adolescence begins and ends, the period around the onset of puberty (ages 10-14) is typically classified as early adolescence, and the period around the transition to legal and cultural adulthood (ages 17-22) is typically classified as late adolescence (Elliott & Feldman, 1990) or emerging adulthood (Arnett, 2000), with middle adolescence occurring between these two periods. As girls move into adolescence they are presented with a number of challenges that increase the likelihood of body objectification and the negative mental health consequences associated with it. A recent review by Hyde et al. (2008) posited that social and biological aspects of the adolescent transition (such as pubertal hormones and peer sexual harassment) place adolescent girls at an increased risk for body objectification, as well as for other cognitive vulnerabilities implicated in depression.\nIn addition, the sociocultural context of gender inequality is particularly influential in shaping adolescent girls' development (e.g., Tolman & Porche, 2000). From this perspective, girls' self-views are shaped by social pressures to behave in ''feminine'' ways, including presenting their bodies in ways that meet societal standards of beauty. Although the pressures on girls to enact femininity are not absent from early and middle childhood, these pressures may ''intensify'' during adolescence (e.g., Aub\u00e9, Fichman, Saltaris, & Koestner, 2000;Wichstr\u00f8m, 1999). The increase in gendered social pressure is likely to result in adolescent girls' increased vulnerability to negative mental health outcomes. Indeed, Grabe, Hyde, and Lindberg (2007) found a link between body objectification and depression among girls, but not boys, over a 2-year period from age 11-13. Along the same lines, Tolman and colleagues found that at a critical period in adolescent development (i.e., in the eighth grade), body objectification accounted for almost 40% of the variance in self-esteem and nearly 30% of the variance in depression (Tolman, Impett, Tracy, & Michael, 2006).\nRecently, an APA Task Force on the Sexualization of Girls ( 2007)-convened through APA's Committee on Women in Psychology (CWP) and chaired by Eileen Zurbriggen and six other coauthors-was called upon to evaluate the state of psychological science on the sexualization and objectification of adolescent girls. The mission of the report was to ''examine and summarize the best psychological theory, research, and clinical experience addressing the sexualization of girls via media and other cultural messages, including the prevalence of these messages and their impacts on girls, and include attention to the role and impact of race/ ethnicity and socioeconomic status'' (p. 1). In the report, the task force members concluded that although we know a considerable amount about the harmful effects of objectification and sexualization on women's well-being, much less is known about how objectification impacts girls and their development throughout adolescence. In particular, the authors of the report called for more research on the ''shortand long-term effects of viewing or buying into a sexualizing objectifying image'' as well as ''how these effects influence girls' development of self-esteem'' (p. 43). In the current paper, we analyzed data from a 5-year longitudinal study of adolescent girls' psychosocial development to examine how changes in body objectification relate to changes in two markers of girls' well-being during adolescent development: selfesteem and depressive symptoms.",
+      "n_publication_ref": 25,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Current Longitudinal Study",
+      "text": "With the exception of a study by Grabe et al. (2007) showing that body objectification at age 11 predicted girls' depression at age 13, the research on body objectification during adolescence has typically been cross-sectional or experimental in nature. Thus, there is limited knowledge about how body objectification changes during adolescence, as well as whether changes in body objectification correspond with changes in adolescent girls' well-being. To address these shortcomings, we used data from a 5-year longitudinal study of 587 adolescent girls surveyed in the 8th, 10th, and 12th grades to test 2 main sets of hypotheses regarding girls' body objectification, self-esteem, and depression during adolescence.\nOur first hypothesis concerns normative changes in body objectification over the course of adolescence. Specifically, we expected that the girls in our sample would experience decreases in body objectification over a 5-year period of adolescence. There are at least two reasons to suspect that girls may decrease in body objectification as they mature. First, the meaning and experience of being in one's own body changes as girls undergo puberty in a society that objectifies girls' and women's appearance (Bordo, 1993;Brumberg, 1997). Pubertal development may heighten the extent to which girls objectify their bodies in early adolescence, and these feelings may decline as girls mature. Indeed, in a small qualitative study of adolescents, girls who scored low in objectification tended to be slightly older, on average, than more objectifying girls (Hirschman, Impett, & Schooler, 2006). Second, as girls move into and through adolescence, their conceptualization of the self is likely to change. Specifically, Damon and Hart (1988) argue that whereas it is normative for children and early adolescents to evaluate themselves in comparison to their peers and social norms, older adolescents often define themselves in reference to their personal beliefs and standards. Although some adolescents will continue to rely on external standards of comparison, many others are likely to develop a stable internalized sense of self and thus be better equipped to resist selfobjectification as they mature.\nOur second main set of hypotheses concerns both crosssectional and longitudinal links between girls' body objectification on the one hand, and their self-esteem and depression on the other. Based on previous research (Tolman et al., 2006;Tolman & Porche, 2000), we expect to find associations between body objectification and both self-esteem and depression at the baseline of the study (i.e., in the eighth grade). Specifically, we expect that girls who score low in body objectification will have higher self-esteem and fewer depressive symptoms than girls who are more likely to objectify their bodies. The major conceptual and methodological advance of this research, however, is in testing longitudinal associations between body objectification and both self-esteem and depressive symptoms. Here, we expect changes in body objectification to predict changes in both of these markers of well-being. That is, we anticipate that girls who decrease in body objectification will experience increases in self-esteem and decreases in depressive symptoms over a 5-year period in adolescence.",
+      "n_publication_ref": 7,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Accounting for Established Predictors of Well-Being",
+      "text": "The primary goal of the current longitudinal study was to examine links between body objectification and girls' wellbeing over a 5-year period in adolescence. Because research has documented that many factors in addition to body objectification shape adolescent girls' well-being, it was of central importance for us to account for each of these factors in this investigation. More specifically, in addition to the extent to which girls objectify their bodies, we focused on the roles of race/ethnicity, socioeconomic status (SES), educational achievement, religiosity, and body satisfaction in shaping girls' self-esteem and depression during adolescence.\nResearch has shown that girls of higher SES (typically assessed with one or more questions about family income) tend to report higher self-esteem and fewer depressive symptoms than their lower SES counterparts (e.g., Huure, Aro, & Ossi, 2003;Rhodes, Roffman, Reddy, Fredriksen, & Way, 2004). Interestingly, although racial/ethnic minority youth have higher self-esteem than their White counterparts (see review by Gray-Little & Hafdahl, 2000), they tend to report more depressive symptoms (Costello, Swendsen, Rose, & Dierker, 2008;Van Voorhees et al., 2008).\nAcademic achievement also shapes adolescent girls' selfesteem and depression. Although depression is often investigated as a predictor of academic performance (e.g., Fr\u00f6jd et al., 2008), longitudinal research has shown that higher grades in the 10th grade predict higher self-esteem in the 12th grade (Schmidt & Padilla, 2003). Another important predictor of adolescent girls' self-esteem and depression is religiosity. Several studies have shown that religiosity (typically assessed with a 1-item indicator of religiosity asking about the importance of religion in a person's life) predicts increased self-esteem among early adolescent girls (Tolman et al., 2006). Further, multiple studies have shown that religiosity is a protective factor against depression in adolescence (e.g., Pearce, Little, & Perez, 2003;Sinha, Cnaan, & Gelles, 2007).\nFinally, many studies have shown that a conceptually related construct-body satisfaction-is inextricably linked with higher self-esteem and lower levels of depression in adolescence (e.g., Clay, Vignoles, & Dittmar, 2005;Davison & McCabe, 2006). In a 5-year longitudinal study, body dissatisfaction prospectively predicted depressed mood and low selfesteem in early adolescent girls (Paxton, Neumark-Sztainer, Hannan, & Eisenberg, 2006). Given that the dominant cultural ideal of beauty is unattainable to many women, most women who self-objectify and evaluate their own appearance from an outsider's perspective are likely to be dissatisfied with their own bodies. As noted above, however, body objectification is likely to have negative consequences for girls' mental health above and beyond those due to body dissatisfaction. Accordingly, we sought to distinguish the effects of body objectification on girls' well-being from the established effects of body satisfaction, as well as from possible effects of race/ethnicity, SES, academic achievement, and religiosity.",
+      "n_publication_ref": 13,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Participants and Procedure",
+      "text": "The current research used secondary data from two longitudinal studies of adolescent girls that included identical measures. Data Set 1 (see Impett, Sorsoli, Schooler, Henson, & Tolman, 2008) included 183 adolescent girls from one New England public school district, who participated in a three-wave longitudinal study, completing surveys in the 8th (1998), 10th (2000), and 12th grades (2002). Of the eligible girls in the eigth grade, 93% chose to participate, and written permission was obtained from each girl's parent or guardian. Of the girls who participated in the first wave of data collection, 82% were successfully recruited to participate in two or more waves.\nData Set 2 (see Tolman, Kim, Schooler, & Sorsoli, 2007) included 404 girls from 2 public school districts in New England, who participated in a 2-cohort, 2-panel longitudinal study. At the time of first assessment ( 2001), girls in Cohort A were in the 8th grade (N \u00bc 133), and girls in Cohort B were in the 10th grade (N \u00bc 221). We successfully recruited 69% of the girls in Cohort A (n \u00bc 92) and 84% of the girls in Cohort B (n \u00bc 185) to participate 2 years later (2003).\nDue to the similarity of means and standard deviations of all critical measures across data sets (see Table 1), we combined the two data sets into a larger data set of 587 girls, of whom 282 provided data in the 8th grade, 472 in the 10th grade, and 301 in the 12th grade. We selected 8th, 10th, and 12th grades to capture girls during early (13-14), middle (15-16), and late (17-18) adolescence. At the time of assessment, 93% of the 8th graders were 13 or 14 years old; 91% of 10th graders were 15 or 16; and 96% of 12th graders were 17 or 18. Across the three assessments, 91 (16%) girls provided data at three assessments, 286 (49%) at two, and 210 (36%) at a single assessment. Regarding the low percentage of girls who participated in all three assessments, it is important to note that only girls from Data Set 1 were assessed at all three time points, and 50% of those assessed three times (n \u00bc 183) provided complete data. Girls in Data Set 2 were assessed twice (n \u00bc 404), and 60% of those assessed two times provided complete data.\nBecause the current study included a subset of data from two larger studies (Impett et al., 2008;Tolman et al., 2007), participants completed surveys that included questions about friendship, dating, sexuality, and demographic characteristics. Only those measures relevant to the current analyses are described below. In both studies, because of the large numbers of Spanish-speaking students in the population from which participants were recruited, bilingual and Latina girls were offered the option of completing surveys in Spanish (translated and back-translated) with a Spanish-speaking researcher present.",
+      "n_publication_ref": 7,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Predictor Variables and Covariates",
+      "text": "Body objectification. In previous research, we developed a 10-item measure of body objectification created specifically for adolescent girls (Tolman et al., 2006;Tolman & Porche, 2000). This measure was developed using extensive focus groups with a racially/ethnically diverse sample of girls to ensure that all of the items were representative of the developmental concerns of girls. This measure has been used in  (Tolman et al., 2006;Tolman & Porche, 2000), middle adolescent (Tolman, Impett, & Michael, 2004), and late adolescent girls (Impett, Schooler, & Tolman, 2006). Girls responded to statements such as ''I think a girl has to be thin to feel beautiful'' and ''I often feel uncomfortable in my body'' on 6-point scales (1 \u00bc strongly disagree to 6 \u00bc strongly agree). Several items were reversecoded, and mean scores for this measure were computed, with higher scores reflecting greater body objectification. Table 1 lists means, standard deviations, ranges, and as for the three different years in which girls completed this measure, as well as for all subsequent measures.\nTime-varying covariates. Time-varying covariates were variables that were measured and could presumably change across the three assessment periods in this study (i.e., in the 8th, 10th, and 12th grade). Religiosity was measured with a single item asked in Grades 8, 10, and 12: ''How important is religion in your life?'' (1 \u00bc not at all to 4 \u00bc very). This 1-item measure has been used in previous research to assess religiosity in adolescent girls (Tolman et al., 2006) and is standard in the literature on religiosity more generally (Schwartz & Huismans, 1995). Educational achievement was assessed in Grades 8, 10, and 12 with the question ''Compared to other students in your class, what kind of student would you say you are, in terms of grades?'' on a 5-point scale (1 \u00bc near the bottom to 5 \u00bc one of the best). The Body Image subscale of the Self-Image Questionnaire for Young Adolescents ([SIQYAs]; Petersen, 1984) was administered in Grades 8, 10, and 12 to measure body satisfaction. Girls responded to seven questions such as ''Most of the time I am happy with the way I look'' on 4-point scales (1 \u00bc disagree a lot to 4 \u00bc agree a lot). We created a composite score from these 7 items with higher scores indicating greater body satisfaction. Time-invariant covariates. Time-invariant covariates are variables that were assessed at only one time point in the study, in this case, at the baseline of the study (i.e., eighth grade). Girls chose any number of six supplied racial/ethnic categories (Black/African American/Caribbean, White, Hispanic/Latina, Brazilian/Portuguese, Asian/Pacific Islander, or American Indian/Alaskan Native), which we then classified as White (60% of girls in the combined data set), Black (4%), Latina (30%), and girls of mixed races/ethnicities (6%). Some girls supplied their own category, and these girls were grouped into one of the other categories (e.g., White, Black, Latina, and girls of mixed races/ethnicities). Although girls self-identified as belonging to a variety of racial/ethnic categories, there were not enough girls in these groups to adequately test for group differences. In the current sample, the majority of the racial/ethnic minority girls self-identified as Latina.\nAt each assessment, participants were asked to report the highest level of education achieved by their mother or mother figure. Maternal education has been shown to be an adequate general index of SES (Entwisle & Astone, 1994). To the best of their knowledge, girls reported the highest level of formal education achieved by their mother or female guardian (1 \u00bc did not finish high school, 2 \u00bc finished high school/obtained GED, 3 \u00bc completed some college, 4 \u00bc finished college, 5 \u00bc attended school beyond college). Each girl's maximum reported maternal education level across all three assessments was used as our measure of SES. In this sample, 12% of the girls reported that their mothers did not finish high school, 25% of their mothers finished high school, 17% of their mothers completed some college, 31% of their mothers finished college, and 15% attended some school beyond college.",
+      "n_publication_ref": 10,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Criterion Variables",
+      "text": "Self-esteem. The 10-item Rosenberg Self-Esteem scale (Rosenberg, 1965) was used to assess global self-esteem. Girls responded to such statements as ''I take a positive attitude toward myself'' on 4-point scales ranging from 1 (disagree a lot) to 4 (agree a lot). Several items were reversecoded, and all of the items were averaged to create a summary measure of global self-esteem, with higher scores indicating more positive self-regard.\nDepression. Depressive symptoms were assessed using the short form of the Children's Depression Inventory ([CDI-S]; Kovacs, 1992). Girls responded to 10 statements, such as ''How often did you feel sad in the past 2 weeks?,'' with one of three possible answers (0 \u00bc once in awhile, 1 \u00bc many times, and 2 \u00bc all the time). Items were summed and used as a continuous variable reflecting a range of depressive symptoms (from 0 to 20), rather than as a criterion for determination of clinical depression. This sample of girls as a whole reported relatively low levels of depression (Ms \u00bc 3.5 in the 8th grade, 3.7 in 10th grade, and 3.6 in 12th grade) as compared with a normative sample (M \u00bc 9.0; Kovacs, 1992).",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Data Analysis Plan",
+      "text": "We used multivariate latent growth curve modeling ([MLGM]; Duncan, Duncan, & Strycker, 2006) to test the proposed hypotheses linking body objectification to the development of depression and self-esteem during adolescence (see Figure 1). This approach allowed us to predict the longitudinal growth of one construct from the growth of another construct to characterize how both constructs cooccur over time. For the current study, MLGM allowed us to evaluate if girls' self-esteem and depression changed over the course of adolescence, and then to ascertain if changes in body objectification predicted changes in both self-esteem and depression. MLGM is an approach to random-effects modeling which is optimal for the study of change over time. Standard LGM uses a constrained structural equation model (SEM) to model unique change trajectories for each individual. The primary advantage of using an SEM framework for random-effects modeling is that multiple growth processes can be modeled simultaneously, covariates can be either time-varying or time-invariant, and missing data are more easily addressed. Unlike repeated-measures analysis of variance, the LGM approach does not necessitate exclusion of cases with missing values, an inevitable circumstance in longitudinal research.\nA standard LGM establishes two latent factors by fixing the factor loadings across repeated measurements of a single variable. Using standard loadings, one factor is modeled as the initial intercept or baseline of the growth curve (the intercept factor), and the other factor estimates the degree of linear change over time (the slope factor). In the present study, the factor loadings for the intercept factor were fixed at 1 for each assessment year (Duncan et al., 2006), and estimates can be interpreted as expected scores at the baseline of the study (i.e., in the eighth grade). Linear change was modeled across the three time points by fixing the slope factor loadings at 0, 2, and 4, respectively, which yields slope estimates interpreted as the expected yearly change in each construct. Linear growth trajectories were chosen based on previous research suggesting that adolescent girls may gradually increase in self-esteem, decrease in depressive symptoms (Impett et al., 2008;Kling et al., 1999), and decrease in body objectification (Hirschman et al., 2006) as they mature throughout adolescence.\nInitially, intercept and slope factors were established for body objectification, self-esteem, and depressive symptoms independently using standard LGMs. Subsequently, two MLGMs were tested that included religiosity, educational achievement, and body satisfaction as time-varying covariates and race/ethnicity and SES as time-invariant covariates to determine how changes in body objectification predicted changes in self-esteem and depression after accounting for these other variables.\nThe computer program Mplus (ver. 5.21; Muth\u00e9n & Muth\u00e9n, 2009) was used to estimate the growth curves and test the overall fit of the model. Maximum likelihood estimation with robust standard errors was used to minimize the effects of any nonnormality on the test statistics. Minority status (White vs. racial/ethnic minority) was coded as \u00c0.5 and .5 and the remaining covariates (SES, religiosity, educational achievement, and body satisfaction) were all grandmean centered to yield average intercept and slope estimates. The associations between the time-varying covariates (religiosity, educational achievement, and body satisfaction) and self-esteem and depression were held constant across the three assessments. In addition to the chi-square statistics used to assess overall model-fit, we report two other fit indices commonly reported in structural equation modeling: the Comparative Fit Index ([CFI]; Bentler, 1990) and the root mean square error of approximation (RMSEA). The CFI is a common model fit index that is forced to vary between 0 and 1, with values greater than .95, indicative of good fit (Hu & Bentler, 1999). The RMSEA is an index that represents a population-based assessment of the amount of model misfit that is less dependent on the sample size and distributional properties of the sample; it further compensates for the effect of model complexity. RMSEA values of .06 and lower are indicative of good fit (Hu & Bentler, 1999). Finally, we used maximum likelihood estimation which requires missing data to be missing-at-random (MAR). MAR assumes that data are not missing completely at random (MCAR), but that data are missing conditional upon other factors that are measured in the data (Schafer, 1997).",
+      "n_publication_ref": 10,
+      "n_figure_ref": 1
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Univariate Latent Growth Curve Models",
+      "text": "Descriptive statistics for body objectification, self-esteem, depressive symptoms, and all of the covariates are reported in Table 1. In addition, intercorrelations among all variables at the baseline of the study (i.e., in the eighth grade) in the combined data set are shown in Table 2. Before testing the model in Figure 1, we estimated separate univariate growth curves for body objectification, self-esteem, and depressive symptoms to confirm significant variance in the growth parameters. Further, we were interested in determining whether mean levels of body objectification, self-esteem, and depressive symptoms changed significantly throughout adolescence. The descriptive statistics shown in Table 1 show that the mean levels of body objectification decreased, mean levels of self-esteem increased, and depressive symptoms remained relatively stable over time (with a slight increase in depressive symptoms in the 10th grade as compared to Grades 8 and 12). The tests of the univariate growth curves, shown in Table 3,  For example, for body objectification, the statistical significance of the mean value of the linear slope (\u00c00.06, p < .001, in Table 3) suggests that, on average, we expected girls to decrease in body objectification .06 units (or .41 standard deviation units) each year from the 8th to the 12th grade, a value consistent with the trend reported in Table 1. In addition, the variances of the body objectification intercept (0.38, p < .001) and slope factor (0.02, p < .05), the self-esteem intercept (0.28, p < .001) and slope factor (0.02, p < .01), and the depressive symptoms intercept (6.40, p < .001) and slope factor (0.53, p < .05) were significant, indicating that there was sufficient interindividual variability in the baseline and rate of change estimates for these three constructs to conduct further analyses.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Multivariate Latent Growth Curve Model",
+      "text": "The MLGMs predicting changes in depression, w 2 (39) \u00bc 121.37, p < .001, CFI \u00bc 0.94, SRMR \u00bc .042, and selfesteem, w 2 (39) \u00bc 156.29, p < .001, CFI \u00bc 0.92, SRMR \u00bc .046, demonstrated adequate fit. Table 4 includes the results for the two MLGMs depicted in Figure 1.\nCovariate effects. The covariates were modeled as depicted in Figure 1, where the time-varying covariates predicted 8th, 10th, and 12th grade self-esteem and depression, and the time-invariant covariates predicted the intercept and slope factors for self-esteem and depression. Academic achievement predicted increased self-esteem, b \u00bc .04, b* \u00bc .08, p \u00bc .01, 95% CI [0.01, 0.08], but did not predict depression. Body satisfaction predicted increased self-esteem, b \u00bc .31,  Baseline relationships. Beginning with the model for selfesteem, the results in Table 3 reveal that girls' initial levels of body objectification significantly predicted their initial levels of self-esteem in the eighth grade (Path A; b* \u00bc \u00c0.71, p < .001). That is, girls who reported objectifying their own bodies more in the eighth grade reported lower initial self-esteem than girls who reported lower levels of body objectification in the eighth grade. Further, body objectification in the eighth grade significantly predicted depressive symptoms in the eighth grade (b* \u00bc .67, p < .001), such that girls who reported higher objectification reported more depressive symptoms. 1 Longitudinal relationships. Changes in self-esteem throughout adolescence were predicted by changes in body objectification (Path D; b* \u00bc \u00c0.52, p < .001), controlling for baseline objectification, baseline self-esteem, SES, race/ethnicity, religiosity, academic achievement, and body satisfaction. These findings suggest that girls who decreased in body objectification also tended to increase in self-esteem over Grades 8 through 12. Finally, changes in depression were predicted by changes in body objectification (b* \u00bc .56, p < .001), controlling for baseline objectification, baseline depression, and the other covariates, suggesting that decreases in objectification over Grades 8 through 12 corresponded to decreases in depressive symptoms.\nIn summary, over a 5-year period in adolescence, girls experienced decreases in body objectification and increases in self-esteem, whereas their levels of depressive symptoms remained relatively stable. Decreases in body objectification from the 8th to the 12th grade corresponded with increases in self-esteem and decreases in depression over the same time period, documenting longitudinal associations between the extent to which girls objectify their bodies and two critical indicators of mental health and psychological functioning from early to late adolescence.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Discussion",
+      "text": "The current 5-year longitudinal study of adolescent girls builds on previous research documenting links between body objectification and both self-esteem and depressive symptoms to provide a developmental dimension through adolescence. We found support for our first hypothesis that girls would decrease in body objectification as they matured over the course of adolescence. Whereas previous research suggested that girls may, on average, experience higher levels of body objectification in early as opposed to late adolescence (Hirschman et al., 2006), the current study is the first known to document normative changes in body objectification throughout adolescence. In particular, we found that, on average, girls tended to decrease in body objectification from the 8th to the 12th grade. Although girls may feel pressured to self-objectify as they enter adolescence, our results suggest that, on average, girls learn to resist this tendency as they develop.\nSecond, we replicated previous cross-sectional research documenting links between girls' body objectification and diminished mental health (see review by Moradi & Yu-Ping, 2008). In particular, just as previous studies found that girls who scored high in body objectification in the eighth grade reported lower self-esteem and more depressive symptoms (Tolman et al., 2006;Tolman & Porche, 2000), we also found that diminished self-esteem and increased depressive symptoms were liabilities of increased body objectification among girls in early adolescence (i.e., in the eighth grade). We also extended previous cross-sectional work on girls' body objectification by expanding it into a longitudinal context. In particular, we found that normative decreases in objectification from early to late adolescence corresponded with increases in self-esteem and decreases in depressive symptoms. That is, the same girls who came to objectify their bodies less throughout adolescence also experienced increasing levels of well-being in terms of higher self-esteem and fewer depressive symptoms.\nNotably, our study addressed the prediction of self-esteem and depression throughout adolescence from body objectification. Because our data did not involve experimental manipulation, we included multiple covariates including race/ ethnicity, SES, educational achievement, religiosity, and body satisfaction. Consistent with previous research, increases in academic achievement (i.e., grades) corresponded with increases in self-esteem (Schmidt & Padilla, 2003). In the model for depression, race/ethnicity was a significant covariate, with White girls reporting fewer depressive symptoms over time than racial/ethnic minority (mostly Latina) girls; this finding is consistent with previous research showing that ethnic minority women tend to report more depressive symptoms and depressive episodes than do White women (Costello et al., 2008;Van Voorhees et al., 2008). Finally, consistent with previous research (e.g., Paxton et al., 2006), body satisfaction was a significant predictor of both depression and self-esteem.",
+      "n_publication_ref": 8,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations and Future Directions",
+      "text": "Several limitations of our research deserve comment. First, although the sample included moderate numbers of both White and Latina (mostly Dominican) participants, girls from other racial/ethnic groups (e.g., Asian American and African American) were underrepresented. We could not test for possible differences in the association between body objectification and well-being in girls of differing racial/ethnic groups due to insufficient numbers of girls composing each group. Previous research suggests that Latina girls may objectify their bodies to a greater extent than do White girls (Hirschman et al., 2006), whereas African American girls may do so less than White girls (Richter, 2000). It remains to be seen, however, whether and how a girl's race/ethnicity impacts the ways in which body objectification shapes the development of her self-esteem and depression in adolescence. Future research is needed to examine the potential ways in which race/ethnicity, class, and other factors shape the link between body objectification and girls' well-being over the course of adolescence.\nSecond, the direction of causal relations remains to be determined. Our theoretical framework suggests that that low self-esteem and depressive symptoms are liabilities of internalizing an observer's perspective on the body. It could also be, however, that a girl who experiences depressive symptomatology and evaluates herself negatively may, in turn, be more likely to internalize sexualizing messages and objectify her body. It is also possible that a bidirectional relationship exists. That is, internalizing sexualizing messages may lead girls to question their worth as individuals; the more depressive symptomatology (e.g., subclinical or clinical levels) they experience, the more distanced they may become from their own bodily feelings. Research involving the experimental manipulation of girls' feelings of body objectification is needed to establish definitively a causal link between body objectification and adolescent girls' well-being (Fredrickson, Roberts, Noll, Quinn, & Twenge, 1998).\nThird, although our research was instrumental in carrying out one of the directives of the APA Task Force Report (2007) in focusing on the objectification of adolescent girls in particular (see also Zurbriggen & Roberts, 2010), a third fruitful direction for future research would be to focus on how adolescent boys' perspectives on their developing bodies may influence their well-being. Researchers of body image are reporting a growing trend toward male body obsession (e.g., McCreary, Sasse, Saucier, & Dorsch, 2004;Olivardia, Pope, Borowiecki, & Cohane, 2004). In one study (Olivardia et al., 2004), college men's dissatisfaction with their bodies was closely tied to measures of mental health such as self-esteem and depression, as well as to the use of performance-enhancing substances (i.e., over-the-counter supplements or anabolic steroids). These findings point to a potentially important difference between how boys and girls see and evaluate their own bodies; whereas girls focus primarily on altering the way their bodies look, boys may place a greater emphasis on altering the way their bodies perform (i.e., increasing their athletic performance).\nFinally, there are some limitations of our measures that deserve comment. First, the specific measure of body objectification that we used in our study included items that tapped both self-objectification (i.e., how girls approach their own bodies) and the objectification of girls and women more broadly. Thus, our measure may not have provided the cleanest assessment of self-objectification. Future research on the role of self-objectification in shaping adolescent girls' well-being should use other measures of self-objectification including the new measure created specifically for preadolescent and adolescent girls (Lindberg, Hyde, & McKinley, 2006), which was not yet available at the time of our data collection. Second, in our study, we assessed girls' levels of depressive symptomatology as opposed to clinical depression. Mean levels of depressive symptomatology in our sample were quite low in comparison to other samples of girls using this measure (Kovacs, 1992). Future research is needed to extend the current work to samples of clinically depressed girls and young adult women.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Practical Implications",
+      "text": "These findings are meaningful for understanding the development of adolescent girls in several ways. First, although previous research has indicated that girls typically experience a decline in self-esteem during early adolescence (e.g., Robins, Trzesniewski, Tracy, Gosling, & Potter, 2002), our findings suggest that recovery from this decline is normative. Accordingly, parents, teachers, and health practitioners working with adolescent girls can shift their focus, in part, from the deficits that cause declines in self-esteem to the resources adolescent girls can use to enhance self-esteem as they develop. Programs or activities that encourage adolescent girls to consider the values they possess in attributes other than appearance have been shown to result in increased mental health. Programs that encourage girls' math and science skills, for example, have documented positive effects on self-esteem (Kerr & Kurpius, 2004). Adolescent girls' participation in sports has also been linked with increased self-esteem, however the benefits may depend on girls' motives for participation and the extent to which a sport provides girls with opportunities to value the strength and functions of their bodies rather than appearance (e.g., Daniels & Leaper, 2006). Findings from our study suggest that such activities might be specifically beneficial to the extent that they assist girls in resisting objectification. Focusing on experiences and attributes that can be leveraged to enhance well-being, as opposed to deficits that may lead to risk, is the cornerstone of strength-based approaches. Such strength-based approaches are gaining traction in the study and promotion of adolescent mental health (Seligman, Steen, Park, & Peterson, 2005) and in youth work with adolescent girls (Brown, 2005). Historically, deficit approaches have been used extensively with racial/ethnic minority communities, so it seems especially important to include strength-based approaches when working with racial/ethnic minority youth and families (Lee, 2010).\nThe current study demonstrates the critical importance of helping girls learn to resist the harmful societal pressures to objectify their own bodies. How might girls learn to become less self-objectifying and more embodied? Several types of programs have the potential to enable girls to resist pressures to self-objectify including health education, physical education, sexuality education, and media literacy programs (Hirschman et al., 2006). For example, programs that teach yoga to young girls may be one way in which girls may learn to shift their focus from how their bodies look (to themselves and others) to how their bodies feel. In one study, young women who attended a 2-month yoga immersion program reported that they objectified their bodies less after participating in the yoga program than before they began the program (Impett, Daubenmier, & Hirschman, 2006). Media literacy provides another example of a type of program that may enable girls to resist self-objectification. Media provides a concentrated dose of objectifying images of women and girls in North American culture (see review by Ward, 2003). Teaching girls (and boys) to critically analyze and evaluate media messages provides educators with an opportunity to combat the sexual objectification of girls and women in the media and may subsequently promote greater feelings of well-being among girls and boys alike.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Concluding Comments",
+      "text": "Given the noted limitations, the current study makes a number of unique contributions to our understanding of both how body objectification changes over a 5-year period in adolescence as well as how these changes in body objectification correspond with changes in girls' feelings of self-esteem and depression over this same time period. Although several cross-sectional studies (e.g., McKinley & Hyde, 1996;Miner-Rubino, Twenge, & Fredrickson, 2002;Tolman et al., 2006), a 2-year longitudinal study (Grabe et al., 2007), and experimental studies have documented that objectification is associated with decreased mental health in samples of adolescent girls and young adult women, the current",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    { "heading": "Author's Note", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Declaration of Conflicting Interests",
+      "text": "The author(s) declared no potential conflicts of interests with respect to the authorship and/or publication of this article. ",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Note",
+      "text": "1. In a subsequent set of analyses, we conducted multigroup analyses to determine whether the primary hypothesized relationships significantly differed across the two data sets used in this study (i.e., the ''Health Relationships Study'' and the ''Media Study''). Specifically, the associations between the body objectification and the self-esteem/depression intercepts (Path A), as well as the associations between the body objectification intercept and the self-esteem/body objectification slopes (Path D), were freely estimated for each group. Chi-square difference tests indicate that there was no significant difference between these two groups on these paths for the model predicting girls' depression, Dw 2 (2) \u00bc 1.65, p > .05. However, there was a significant difference for the model predicting girls' self-esteem, Dw 2 (2) \u00bc 13.13, p < .001. Subsequent analyses revealed that the association between body objectification and girls' self-esteem at the baseline of the study (i.e., in the eighth grade) was stronger for the girls in the Healthy Relationships Study (b \u00bc \u00c0.57, p < .001) than it was for girls in the Media Study (b \u00bc \u00c0.29, p < .001). Nonetheless, because both of these associations were statistically significant, and because the associations between the body objectification slope and the slopes of both self-esteem and depression did not differ by group, the overall conclusions of our article remain unchanged.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Shortchanging girls, shortchanging America: Full data report",
+      "journal": "American Association of University Women Press",
+      "year": "1990",
+      "authors": ""
+    },
+    {
+      "title": "Report of the APA task force on the sexualization of girls",
+      "journal": "American Psychological Association",
+      "year": "2007-02-08",
+      "authors": ""
+    },
+    {
+      "title": "Emerging adulthood: A theory of development from the late teens through the twenties",
+      "journal": "American Psychologist",
+      "year": "2000",
+      "authors": "J J Arnett"
+    },
+    {
+      "title": "Gender differences in adolescent depressive symptomatology: Towards an integrated social-developmental model",
+      "journal": "Journal of Social and Clinical Psychology",
+      "year": "2000",
+      "authors": "J Aub\u00e9; L Fichman; C Saltaris; R Koestner"
+    },
+    {
+      "title": "Femininity and domination: Studies in the phenomenology of oppression",
+      "journal": "Routledge",
+      "year": "1990",
+      "authors": "S L Bartky"
+    },
+    {
+      "title": "Comparative fit indexes in structural models",
+      "journal": "Psychological Bulletin",
+      "year": "1990",
+      "authors": "P M Bentler"
+    },
+    {
+      "title": "Unbearable weight: Feminism, Western culture, and the body",
+      "journal": "University of California Press",
+      "year": "1993",
+      "authors": "S Bordo"
+    },
+    {
+      "title": "Selfobjectification and well-being in women's daily lives",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "2008",
+      "authors": "J G Breines; J Crocker; J A Garcia"
+    },
+    {
+      "title": "Girl fighting: Betrayal and rejection among girls",
+      "journal": "New York University Press",
+      "year": "2005",
+      "authors": "L M Brown"
+    },
+    {
+      "title": "Meeting at the crossroads: Women's psychology and girls' development",
+      "journal": "Harvard University Press",
+      "year": "1992",
+      "authors": "L M Brown; C Gilligan"
+    },
+    {
+      "title": "The body project: An intimate history of American girls",
+      "journal": "Random House",
+      "year": "1997",
+      "authors": "J J Brumberg"
+    },
+    {
+      "title": "Body image and self-esteem among adolescent girls: Testing the influence of sociocultural factors",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2005",
+      "authors": "D Clay; V L Vignoles; H Dittmar"
+    },
+    {
+      "title": "Risk and protective factors associated with trajectories of depressed mood from adolescence to early adulthood",
+      "journal": "Journal of Consulting and Clinical Psychology",
+      "year": "2008",
+      "authors": "D M Costello; J Swendsen; J S Rose; L C Dierker"
+    },
+    {
+      "title": "Self-understanding in childhood and adolescence",
+      "journal": "Cambridge University Press",
+      "year": "1988",
+      "authors": "W Damon; D Hart"
+    },
+    {
+      "title": "A longitudinal investigation of sport participation, peer acceptance, and self-esteem among adolescent girls and boys",
+      "journal": "Sex Roles",
+      "year": "2006",
+      "authors": "E Daniels; C Leaper"
+    },
+    {
+      "title": "Adolescent body image and psychosocial functioning",
+      "journal": "Journal of Social Psychology",
+      "year": "2006",
+      "authors": "T E Davison; M P Mccabe"
+    },
+    {
+      "title": "The second sex",
+      "journal": "Alfred A. Knopf",
+      "year": "1952",
+      "authors": "S De Beauvoir"
+    },
+    {
+      "title": "An introduction to latent variable growth curve modeling: Concepts, issues, and applications",
+      "journal": "Lawrence Erlbaum Associates",
+      "year": "2006",
+      "authors": "T E Duncan; S C Duncan; L A Strycker"
+    },
+    {
+      "title": "Capturing the adolescent experience",
+      "journal": "Harvard University Press",
+      "year": "1990",
+      "authors": "G R Elliott; S S Feldman"
+    },
+    {
+      "title": "Some practical guidelines for measuring youth's race/ethnicity and socioeconomic status",
+      "journal": "Child Development",
+      "year": "1994",
+      "authors": "D R Entwisle; N M Astone"
+    },
+    {
+      "title": "Objectification theory: Toward understanding women's lived experiences and mental health risks",
+      "journal": "Psychology of Women Quarterly",
+      "year": "1997",
+      "authors": "B L Fredrickson; T A Roberts"
+    },
+    {
+      "title": "That swimsuit becomes you: Sex differences in self-objectification, restrained eating, and math performance",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1998",
+      "authors": "B L Fredrickson; T Roberts; S M Noll; D M Quinn; J M Twenge"
+    },
+    {
+      "title": "Depression and school performance in middle adolescent boys and girls",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2008",
+      "authors": "S A Fr\u00f6jd; E S Nissinen; M U Pelkonen; M J Marttunen; A.-M Koivisto; R Kaltiala-Heino"
+    },
+    {
+      "title": "Body objectification and ''fat talk'': Effects on emotion, motivation, and cognitive performance",
+      "journal": "Sex Roles",
+      "year": "2003",
+      "authors": "K D Gapinski; K D Brownell; M Lafrance"
+    },
+    {
+      "title": "Body objectification and depression in adolescents: The role of gender, shame, and rumination",
+      "journal": "Psychology of Women Quarterly",
+      "year": "2007",
+      "authors": "S Grabe; J S Hyde; S M Lindberg"
+    },
+    {
+      "title": "Factors influencing racial comparisons of self-esteem: A quantitative review",
+      "journal": "Psychological Bulletin",
+      "year": "2000",
+      "authors": "B Gray-Little; A R Hafdahl"
+    },
+    {
+      "title": "Self-objectification among physically active women",
+      "journal": "Sex Roles",
+      "year": "2005",
+      "authors": "C Greenleaf"
+    },
+    {
+      "title": "The determinants and mediational role of global self-worth in children",
+      "journal": "Wiley",
+      "year": "1987",
+      "authors": "S Harter"
+    },
+    {
+      "title": "Dis/embodied voices: What late adolescent girls can teach us about sexuality",
+      "journal": "Sexuality Research and Social Policy",
+      "year": "2006",
+      "authors": "C Hirschman; E A Impett; D Schooler"
+    },
+    {
+      "title": "Cutoff criteria for fit indices in covariance structure analysis: Conventional criteria versus new alternatives",
+      "journal": "Structural Equation Modeling",
+      "year": "1999",
+      "authors": "L T Hu; P M Bentler"
+    },
+    {
+      "title": "Well-being and health behavior by parental socioeconomic status: A follow-up study of adolescents aged 16 until age 32 years",
+      "journal": "Social Psychiatry & Psychiatric Epidemiology",
+      "year": "2003",
+      "authors": "T Huure; H Aro; R Ossi"
+    },
+    {
+      "title": "The ABCs of depression: Integrating affective, biological, and cognitive models to explain the emergence of the gender difference in depression",
+      "journal": "Psychological Review",
+      "year": "2008",
+      "authors": "J S Hyde; A H Mezulis; L Y Abramson"
+    },
+    {
+      "title": "Minding the body: Yoga, embodiment, and well-being",
+      "journal": "Sexuality Research and Social Policy",
+      "year": "2006",
+      "authors": "E A Impett; J Daubenmier; A L Hirschman"
+    },
+    {
+      "title": "To be seen and not heard: Femininity ideology and adolescent girls' sexual health",
+      "journal": "Archives of Sexual Behavior",
+      "year": "2006",
+      "authors": "E A Impett; D Schooler; D L Tolman"
+    },
+    {
+      "title": "Relationship authenticity and girls' self-esteem across adolescence",
+      "journal": "Developmental Psychology",
+      "year": "2008",
+      "authors": "E A Impett; L Sorsoli; D Schooler; J M Henson; D L Tolman"
+    },
+    {
+      "title": "Encouraging talented girls in math and science: Effects of a guidance intervention",
+      "journal": "High Ability Studies",
+      "year": "2004",
+      "authors": "B Kerr; S E R Kurpius"
+    },
+    {
+      "title": "Gender differences in self-esteem: A meta-analysis",
+      "journal": "Psychological Bulletin",
+      "year": "1999",
+      "authors": "K C Kling; J S Hyde; C J Showers; B N Buswell"
+    },
+    {
+      "title": "Children's Depression Inventory (CDI) manual",
+      "journal": "Multi-Health Systems",
+      "year": "1992",
+      "authors": "M Kovacs"
+    },
+    {
+      "title": "Strength-based approaches with adolescents and families of color",
+      "journal": "Jason Aronson",
+      "year": "2010",
+      "authors": "J Lee"
+    },
+    {
+      "title": "A measure of objectified body consciousness for preadolescent and adolescent youth",
+      "journal": "Psychology of Women Quarterly",
+      "year": "2006",
+      "authors": "S M Lindberg; J S Hyde; N M Mckinley"
+    },
+    {
+      "title": "Sexism and stereotypes in modern society: The gender science of",
+      "journal": "American Psychological Association",
+      "year": "1999",
+      "authors": "B Major; L Barr; J Zubek; S H Babey"
+    },
+    {
+      "title": "Measuring the drive for muscularity: Factorial validity of the Drive for Muscularity Scale in men and women",
+      "journal": "Psychology of Men & Masculinity",
+      "year": "2004",
+      "authors": "D R Mccreary; D K Sasse; D M Saucier; K D Dorsch"
+    },
+    {
+      "title": "The objectified body consciousness scale: Development and validation",
+      "journal": "Psychology of Women Quarterly",
+      "year": "1996",
+      "authors": "N M Mckinley; J S Hyde"
+    },
+    {
+      "title": "Self-objectification and wellbeing: the impact of self-objectification on women's overall sense of self-worth and life satisfaction",
+      "journal": "Sex Roles",
+      "year": "2008",
+      "authors": "A E Mercurio; L J Landry"
+    },
+    {
+      "title": "Trait self-objectification in women: Affective and personality correlates",
+      "journal": "Journal of Research in Personality",
+      "year": "2002",
+      "authors": "K Miner-Rubino; J M Twenge; B L Fredrickson"
+    },
+    {
+      "title": "Objectification theory and psychology of women: A decade of advances and future directions",
+      "journal": "Psychology of Women Quarterly",
+      "year": "2008",
+      "authors": "B Moradi; H Yu-Ping"
+    },
+    {
+      "title": "Selfobjectification and its psychological outcomes for college women",
+      "journal": "Psychology of Women Quarterly",
+      "year": "2002",
+      "authors": "J J Muehlenkamp; R N Saris-Baglama"
+    },
+    {
+      "title": "Mplus user's guide",
+      "journal": "Muth\u00e9n & Muth\u00e9n",
+      "year": "2009",
+      "authors": "L K Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Biceps and body image: The relationship between muscularity and self-esteem, depression and eating disorder symptoms",
+      "journal": "Psychology of Men and Masculinity",
+      "year": "2004",
+      "authors": "R Olivardia; H G Pope; J J Borowiecki; G H Cohane"
+    },
+    {
+      "title": "Body dissatisfaction prospectively predicts depressive mood and low self-esteem in adolescent girls and boys",
+      "journal": "Journal of Clinical Child and Adolescent Psychology",
+      "year": "2006",
+      "authors": "S J Paxton; D Neumark-Sztainer; P J Hannan; M E Eisenberg"
+    },
+    {
+      "title": "Religiousness and depressive symptoms among adolescents",
+      "journal": "Journal of Clinical Child and Adolescent Psychology",
+      "year": "2003",
+      "authors": "M J Pearce; T D Little; J E Perez"
+    },
+    {
+      "title": "A self-image questionnaire for young adolescents (SIQYA): Reliability and validity studies",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "1984",
+      "authors": "A C Petersen"
+    },
+    {
+      "title": "Reviving Ophelia: Saving the selves of adolescent girls",
+      "journal": "Ballantine",
+      "year": "1994",
+      "authors": "M Pipher"
+    },
+    {
+      "title": "Changes in self-esteem during the middle school years: A latent growth curve study of individual and contextual influences",
+      "journal": "Journal of School Psychology",
+      "year": "2004",
+      "authors": "J Rhodes; J Roffman; R Reddy; K Fredriksen; N Way"
+    },
+    {
+      "title": "Fat talk: What girls and their parents say about dieting",
+      "journal": "Harvard University Press",
+      "year": "2000",
+      "authors": "M Richter"
+    },
+    {
+      "title": "Global self-esteem across the lifespan",
+      "journal": "Psychology and Aging",
+      "year": "2002",
+      "authors": "R W Robins; K H Trzesniewski; J L Tracy; S D Gosling; J Potter"
+    },
+    {
+      "title": "Society and the adolescent self-image",
+      "journal": "Princeton University Press",
+      "year": "1965",
+      "authors": "M Rosenberg"
+    },
+    {
+      "title": "Analysis of incomplete multivariate data",
+      "journal": "Chapman and Hall",
+      "year": "1997",
+      "authors": "J L Schafer"
+    },
+    {
+      "title": "Self-esteem and family challenge: An investigation of their effects on achievement",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2003",
+      "authors": "J A Schmidt; B Padilla"
+    },
+    {
+      "title": "Value priorities and religiosity in four Western regions",
+      "journal": "Social Psychology Quarterly",
+      "year": "1995",
+      "authors": "S H Schwartz; S Huismans"
+    },
+    {
+      "title": "Positive psychology progress: Empirical validation of interventions",
+      "journal": "American Psychologist",
+      "year": "2005",
+      "authors": "M E Seligman; T A Steen; N Park; C Peterson"
+    },
+    {
+      "title": "Adolescent risk behaviors and religion: Findings from a national study",
+      "journal": "Journal of Adolescence",
+      "year": "2007",
+      "authors": "J W Sinha; R A Cnaan; R J Gelles"
+    },
+    {
+      "title": "The role of selfobjectification in women's depression: A test of objectification theory",
+      "journal": "Sex Roles",
+      "year": "2007",
+      "authors": "D Szymanski; S L Henning"
+    },
+    {
+      "title": "Masculinity ideology in adolescent girls' and boys' beliefs about heterosexuality. Paper presented at the 2004 Annual Convention of the",
+      "journal": "American Psychological Association",
+      "year": "2004-07",
+      "authors": "D L Tolman; E A Impett; A Michael"
+    },
+    {
+      "title": "Looking good, sounding good: Femininity ideology and adolescent girls' mental health. Psychology of Women Quarterly",
+      "journal": "",
+      "year": "2006",
+      "authors": "D L Tolman; E A Impett; A J Tracy; A Michael"
+    },
+    {
+      "title": "Rethinking the associations between television viewing and adolescent sexuality development: Bringing gender into focus",
+      "journal": "Journal of Adolescent Health",
+      "year": "2007",
+      "authors": "D L Tolman; J L Kim; D Schooler; C L Sorsoli"
+    },
+    {
+      "title": "The Adolescent Femininity Ideology Scale: Development and validation of a new measure for girls",
+      "journal": "Psychology of Women Quarterly",
+      "year": "2000",
+      "authors": "D L Tolman; M V Porche"
+    },
+    {
+      "title": "Protective and vulnerability factors predicting new-onset depressive episode in a representative of U. S. adolescents",
+      "journal": "Journal of Adolescent Health",
+      "year": "2008",
+      "authors": "B W Van Voorhees; D Paunesku; S A Kuwabara; A Basu; J Gollan; B L Hankin; . . Reinecke; M "
+    },
+    {
+      "title": "Understanding the role of entertainment media in the sexual socialization of American youth: A review of empirical research",
+      "journal": "Developmental Review",
+      "year": "2003",
+      "authors": "L M Ward"
+    },
+    {
+      "title": "The emergence of gender difference in depressed mood during adolescence: The role of intensified gender socialization",
+      "journal": "Developmental Psychology",
+      "year": "1999",
+      "authors": "L Wichstr\u00f8m"
+    },
+    {
+      "title": "The sexualization of girls and girlhood",
+      "journal": "",
+      "year": "2010",
+      "authors": "E Zurbriggen; T A Roberts"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Figure 1 .1Figure 1. Multivariate latent growth curve model predicting self-esteem and depression from body objectification and the covariates. Note. Body Obj. \u00bc body objectification; Self-Est. \u00bc self-esteem.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "provide a formal test of this trend. The mean value of the linear slopes confirm the expected yearly decrease in body objectification, b* \u00bc \u00c00.41, p \u00bc .003, 95% CI [\u00c00.69, \u00c00.14], and the expected yearly increase in self-esteem, b* \u00bc 0.21, p \u00bc .008, 95% CI [0.05, 0.36]; depression exhibited no significant linear change, b* \u00bc 0.08, p \u00bc .375, 95% CI [\u00c00.09, 0.25].",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Means, Standard Deviations, Ranges, and as for All Variables by Data Set",
+      "figure_data": "Combined SampleData Set 1Data Set 2MeasureMMS DRangeaMS DRangeaBody objectification8th grade3.073.12.831.5-5.8.743.01.861.0-5.5.7510th grade2.822.79.811.1-4.9.802.83.751.2-5.4.7712th grade2.762.70.821.1-5.5.812.81.761.1-5.4.78Religiosity8th grade2.432.29.921.0-4.0-2.59.981.0-4.0-10th grade2.332.23.991.0-4.0-2.371.021.0-4.0-12th grade2.172.06.911.0-4.0-2.25.931.0-4.0-Educational achievement8th grade2.862.30.961.0-5.0-3.481.062.0-5.0-10 th grade3.513.44.871.0-5.0-3.54.921.0-5.0-12th grade3.643.55.821.0-5.0-3.70.901.0-5.0-Body satisfaction8th grade2.772.79.611.0-4.0.712.76.671.0-4.0.8110th grade2.682.74.681.0-4.0.822.66.621.0-4.0.7912th grade2.672.73.711.0-4.0.852.63.591.0-4.0.79Self-esteem8th grade2.983.03.641.0-4.0.882.92.581.4-4.0.8310th grade3.043.10.641.3-4.0.893.02.631.2-4.0.8912th grade3.113.20.641.2-4.0.913.06.591.3-4.0.88Depression8th grade3.493.133.270.0-15.0.833.903.880.0-17.0.8710th grade3.693.503.840.0-20.0.873.783.700.0-17.0.8612th grade3.593.193.950.0-18.0.903.843.550.0-17.0.85"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Intercorrelations Among All Variables for Eighth Grade Girls(N \u00bc 282)    ",
+      "figure_data": "(A)(B)(C)(D)(E)(F)(G)(H)Self-esteem (A)-Depression (B)\u00c0.69***-Body objectification (C)\u00c0.59***.49***-Body satisfaction (D).62***\u00c0.55***\u00c0.63***-Religiosity (E).16**\u00c0.17**\u00c0.19***.09-Educational achievement (F).13*.07\u00c0.02\u00c0.07.09-Race/ethnicity (G)\u00c0.12*.17**.07\u00c0.09\u00c0.13*.05-Socioeconomic status (H).02.04\u00c0.12.08.04\u00c0.01.09-*p < .05. **p < .01. ***p < .001."
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Results for the Univariate Growth Curves for Body Objectification, Self-Esteem, and Depression",
+      "figure_data": "InterceptLinear slopeFit indicesVariableMVar.bb *Var.w 2CFISRMRObjectification3.01***0.38***\u00c00.06***\u00c00.410.02*10.39**0.960.04Self-esteem2.97***0.28***0.03**0.210.02**0.221.000.01Depressive symptoms3.54***6.40***0.06**0.080.53*0.461.000.01p < .05. **p < .01. ***p < .001."
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Multivariate Latent Growth Model Results for Predicting the Longitudinal Development of Self-Esteem and Depressive Symptoms Note. b \u00bc unstandardized slope estimates; b* \u00bc standardized slope estimates; CI \u00bc confidence interval.",
+      "figure_data": "Self-esteemDepressive symptomsbb *p95% CIbb *p95% CIPath A\u00c00.40\u00c00.71<.001[\u00c00.53, \u00c00.27]2.000.67< .001[1.26, 2.75]Path B\u00c00.04\u00c00.25.38[\u00c00.11, 0.04]0.050.06.92[\u00c00.89, 0.99]Path C\u00c00.11\u00c00.42.25[\u00c00.29, 0.07]0.010.03.97[\u00c00.45, 0.47]Path D\u00c00.29\u00c00.52<.001[\u00c00.44, \u00c00.14]1.860.56< .001[0.97, 2.74]"
+    }
+  ],
+  "doi": "10.1177/0361684310391641"
+}

@@ -1,0 +1,383 @@
+{
+  "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+  "abstract": "Declines in students' achievement motivation across the transition to middle school may be explained by characteristics of both the academic and social environment of the new school. This study proposes that students' sense of belonging in middle school and their endorsement of social responsibility, relationship, and status goals in that setting should explain, in part, changes in their achievement goal orientations between 5th and 6th grades. Longitudinal survey data from 660 students indicated that, on average, endorsement of personal task goals declined, whereas endorsement of ability goals increased across the transition. Increases in task goal orientation were associated with perceiving both a task and an ability goal structure in 6th grade classes, along with sense of school belonging, and endorsing responsibility goals. Increases in ability goal orientation were associated positively with perceiving an ability goal structure in classes, with relationship and status goals, and negatively with school belonging.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "A number of studies document declines in students' achievement motivation as they move from elementary to middle level schools. These declines have been linked to changes in the classroom environment (e.g., Anderman & Eccles & Midgley, 1989;Midgley, Feldlaufer, & Eccles, 1989a,b). Typically, the focus of such research has been on characteristics of the academic environment of schooling; however, students' social perceptions and goals also can be expected to influence their motivation within a new school setting (Goodenow, 1992). The current study examines the contributions of both academic and social variables in predicting changes in students' personal task and ability goal orientations between 5th and 6th grades.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "CLASSROOM GOAL STRUCTURES",
+      "text": "Goal orientation researchers posit the existence of several types of goals that students adopt in educational settings. Students are referred to as mastery oriented (also referred to as task-goal oriented) when they are interested primarily in mastering a specific task. When students are mastery oriented, they are focused on learning, self-improvement, and personal effort. Students are referred to as ability-goal oriented (also referred to as performance oriented or ego-oriented) when their primary interest is in demonstrating their ability relative to others (for reviews, see Ames & Archer, 1988;Dweck & Leggett, 1988).\nGoal orientation theory assumes that students' perceptions of the goal structures in their classrooms influence their adoption of personal goal orientations, as well as other important educational outcomes (e.g., Anderman & Maehr, 1994). In general, research indicates that perceptions of a task or mastery goal stress in the classroom are related to more adaptive patterns of learning than are perceptions of a stress on ability and performance. Thus when teachers emphasize improvement, effort, and learning for intrinsic reasons, students are likely to adopt personal task goals; in contrast, when teachers emphasize grades, ability differences, and outperforming others, students are likely to adopt personal ability goals. For example, Ames and Archer (1988) found that students who perceived an emphasis on task goals in their classrooms used more effective learning strategies than did students who perceived a stress on ability goals. Anderman and Young (1994) demonstrated that teachers' use of ability-oriented instructional practices (e.g., pointing out the work of the best students as examples to others) was related to lower levels of personal mastery (task) goals in science. Urdan, Midgley, and Anderman (1998) found that the peception of a stress on ability and performance in elementary school classrooms was related to greater use of academic self-handicapping strategies. In the present study, it was expected that perceptions of a task goal structure in 6th grade classes (after the transition to middle school) would predict an increase in students' personal task goal orientation, relative to their goals in 5th grade (during elementary school), whereas perceptions of an ability goal structure would increase their personal ability goal orientations.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Social Goals during Early Adolescence",
+      "text": "Particularly during early adolescence students' perceptions of the social context of their schools also may be important influences on their academic goal orientations. While there has been a growing call for social perceptions and goals to be considered in the study of achievement motivation in school (e.g., Blumenfeld, 1992;Patrick, 1997;Wentzel, 1991b), however, few empirical studies have examined social and achievement motives simultaneously.\nIndicators of students' achievement motivation have been associated with their sense of school belonging (Goodenow, 1993) and with their endorsement of social responsibility goals (Hicks, Murphy, & Patrick, 1995;Patrick, Hicks, & Ryan, 1997). Students who report a sense of school belonging have been shown to have higher levels of achievement motivation (Goodenow, 1993), although, in goal theory terms, it is not clear whether such motivation reflects an orientation toward task or ability goals.\nStudents' endorsement of social responsibility goals also may be related to their achievement motivation. Wentzel (1991b) defined social responsibility as ''adherence to social rules and role expectations'' (p. 2) and has suggested that students' pursuit of responsibility goals represents their desire and perceived ability to meet the formal social demands of the classroom context (Wentzel, 1991a). Students who report high levels of pursuing responsibility goals have been shown to receive higher grades in school (Wentzel, 1989(Wentzel, , 1993, although the mechanisms underlying this association remain unclear. One possible explanation is that responsibility goals are associated with adaptive patterns of achievement motivation. For example, Patrick et al. (1997) reported that students who endorse responsibility goals have higher perceived self-efficacy for academic work than do their peers. It may be that, compared to their peers, students who report the desire and willingness to adhere to the social expectations of schooling are thus more willing to endorse the importance of learning, personal improvement, and the exertion of personal effort in their school work. In contrast, those who are unable or unwilling to conform to the formal social rules of schooling may be less likely to view academic achievement in those terms. Thus, in this study, we propose that endorsement of responsibility goals in middle school may be related to a personal task goal orientation.\nIn contrast to social responsibility goals, social goals that are directed more toward acceptance and status within the peer group at school may be related to an ability goal orientation in that they suggest a heightened focus on the behaviors and judgments of others (Hicks, 1997). That is, individuals for whom peer relationships and status are especially salient may be more inclined than other students to look to the peer group for evidence of their academic success, also. Currently, there is little empirical research to support this hypothesis. There is some evidence, however, that the endorsement of social status goals is associated with students' use of self-regulatory strategies in class. For example, Ryan, Hicks, and Midgley (1997) reported that students' endorsement of social status goals predicted their self-reported reluctance to seek help with academic work and their perception that help-seeking was associated with a threat to self-worth. That is, students who were concerned with their peer popularity were more likely to be concerned about classmates' judgments of their academic ability. Thus, in the current study, it was hypothesized that students' endorsement of peer relationship and status goals would predict an increase in ability goal orientation.",
+      "n_publication_ref": 13,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "GENDER DIFFERENCES IN STUDENT MOTIVATION",
+      "text": "Although Simmons and her colleagues found that girls suffered a decline in self-esteem across the transition from elementary school to junior high school (Simmons, Blyth, Van Cleave, & Bush, 1979), in general few gender differences have been found in studies of the middle school transition (e.g., Harter, Whitesell, & Kowalski, 1992;Seidman, Allen, Aber, Mitchell, & Feinman, 1994). Previous studies examining gender differences in adolescents' academic goals have yielded mixed results. There is some evidence, however, that boys may be more likely than girls to endorse personal ability goals (Anderman & Midgley, 1997;Ryan et al., 1997). In terms of social goals, findings from several studies indicate that girls endorse relationship and responsibility goals more than do boys (e.g., Hicks et al., 1995;Patrick et al., 1997;Ryan et al., 1997), whereas boys endorse status goals more than do girls (Ryan et al., 1997). To date, however, little is known about potential gender differences in the relative importance of social variables in predicting students' achievement goal orientations. Therefore, a secondary aim of this study was to examine potential interactions between students' gender and their social perceptions in relation to their academic goals.\nIn summary, the current study investigated the relations between aspects of students' social perceptions and their personal achievement goal orientations following the transition to middle school. Specifically, the intent was to identify the unique contributions of students' sense of school belonging and their endorsement of social goals when variables identified as important by previous research were taken into account. A measure of academic performance also was included to control for the possibility that high-and low-achieving students might perceive the transition to middle school differently. It was expected that, consistent with previous research (e.g., Anderman & Young, 1994), students' perceptions of the goal structures in their classes would predict their endorsement of personal task and ability goal orientations. It also was hypothesized that students who reported a sense of school belonging, and who endorsed goals for being responsible class members in their new school, would be likely to report an increased task goal orientation in middle school. In contrast, it was expected that students who endorsed goals for forming peer relationships and for maintaining social status in the peer group would be more likely than other young adolescents to report an increased ability goal orientation.",
+      "n_publication_ref": 10,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "METHOD Participants and Procedure",
+      "text": "Participants in this study were 660 students who were participating in an ongoing longitudinal study. Students were recruited originally in 1994, when they were in the 5th grade. The 21 elementary schools included in the study came from four ethnically and economically diverse school districts. All participants made the transition to 1 of 10 middle schools at the end of 5th grade. According to principals' reports, 5 of the middle schools were classified as urban, noninner-city, 1 as inner-city, and 4 as suburban.\nIn terms of instructional practices, the elementary and middle schools in this study appeared to follow trends that have been observed elsewhere (e.g., Eccles & Midgley, 1989). Students in 5th grade typically were taught all core subjects by a single teacher, with specialist teachers for subjects such as Art and Physical Education. Classes were heterogeneous in terms of academic ability, and students remained with the same group of peers throughout the school day. In contrast, the middle schools in this study utilized a departmentalized or semidepartmentalized structure. According to principals' reports, a typical student would see at least two teachers a day in every school, while in four of the schools students might see four or more. In addition, classes were tracked for ability in five schools for Math and in four for English. Other indicators of an increased emphasis on academic grades and social comparison in all of the middle schools included practices such as displaying an academic honor roll in the school building and restricting school sports participation on the basis of academic criteria.\nThe current sample included approximately equal numbers of boys and girls and was 50% African American, 39% White, 7% Hispanic, and 4% ''Other.'' Data for this study were taken from surveys that were administered to students in the middle of the fall semester of each school year. Surveys were administered in students' regular classrooms by two trained research assistants. One administrator read all instructions and items aloud while students read along and responded. The second administrator monitored understanding and answered individual questions. Information regarding students' achievement and ethnicity was gathered from school records.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "Information about the scales, including sample items and reliabilities, is shown in Appendix 1. The format for all items in the survey was a 5-point scale, ranging from 1 \u03ed not at all true through 5 \u03ed very true. Students' personal goal orientations were assessed both before and after the transition to middle school. Because students were in self-contained classrooms in 5th grade, the measures of those constructs and of their perceptions of classroom goal structures in 6th grade were worded to assess students' general, as opposed to domain-specific, motivational beliefs. Thus, students were asked to respond to items in terms of their ''teachers'' and ''school work,'' rather than about any particular school subject.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Personal Goal Orientations",
+      "text": "Students' task and approach ability goal orientations were measured using two scales from the Patterns of Adaptive Learning Survey (PALS, Midgley et al., 1996). Recent research has distinguished between approach and avoidance ability goal orientations (e.g., Elliott & Church, 1997;Middleton & Midgley, 1997). An approach ability goal orientation is indicative of a student who wants to outperform others, or demonstrate his or her ability; in contrast, an avoidance ability goal orientation is indicative of a student who wants to avoid appearing incompetent. In the present study, only an approach ability goal orientation was measured.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Perceptions of Classroom Goal Structure",
+      "text": "Students' perceptions of the task and ability goal structures of their classrooms in 6th grade were measured using two scales from PALS. These scales assessed individual students' perceptions of the purposes and meaning of academic tasks and achievement that are emphasized in their classes and have demonstrated reliability and validity in a number of studies (e.g., Anderman & Midgley, 1997;Urdan, Midgley, & Anderman, 1998).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "School Belonging",
+      "text": "Students' sense of school belonging was measured using a scale adapted from Goodenow's Psychological Sense of School Membership Scale. Sense of school belonging referred to students' feelings of being respected and of comfort in their particular middle school. Information regarding the development, reliability, and validity of this scale is published elsewhere (Goodenow, 1993).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Social Goals",
+      "text": "Measures of students' responsibility, relationship, and status goals were similar to those used by Patrick et al. (1997) and Ryan et al. (1997). These measures have been developed for use with early adolescent students (see Hicks, 1996) and were written to parallel the academic goal scales in the PALS. The social responsibility goal scale was adapted from Wentzel (1993) and referred to students' willingness to follow teachers' instructions and to work quietly and consistently. Social relationship goals refer to students' desire to form positive relationships with their peers in school, while social status goals refer to their desire to gain status through identification with ''the popular group'' at school. Principal components analysis supported the differentiation between these three scales and the measure of school belonging.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Academic Achievement",
+      "text": "Students' grades in four academic core subjects from the final semester of 5th grade were coded E \u03ed 1 to A\u03e9 \u03ed 13. Overall grade point average (GPA) represents the arithmetic mean of those scores for each student.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    { "heading": "RESULTS", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Preliminary Analyses",
+      "text": "To examine mean level changes in personal achievement goals across the transition, separate within-subjects analyses of variance (ANOVA) were conducted for task and ability goals, with students' gender as a betweensubjects variable. Significant main effects for time were found for both goal orientations. On average, students reported lower levels of personal task goals in 6th grade (M \u03ed 3.52) than in 5th grade (M \u03ed 3.66, F(1, 640) \u03ed 14.29, p \u03fd .001). In contrast, students reported higher levels of personal ability goals in 6th grade (M \u03ed 2.84) than in 5th grade (M \u03ed 2.68, F(1, 641) \u03ed 15.35, p \u03fd .001). A significant main effect was found for gender for students' ability goals, with girls reporting lower levels than boys, on average (M \u03ed 2.60 and 2.94, respectively, F(1, 641) \u03ed 22.50, p \u03fd .001).\nThe main effect for gender was not significant for task goals, however (F(1, 640) \u03ed 3.59, p \u03ed .06). No significant gender by time interactions were found.\nGender differences in the other variables in the study were examined using a series of t tests. The results of these analyses are shown in Table 1. Males reported higher mean levels of personal ability goals in both the 5th and the 6th grades. During the 6th grade, males reported perceiving their classrooms as being ability oriented more than did females. Females students had higher grade point averages than did males. Females reported higher mean levels of relationship and responsibility goals, whereas males reported higher mean levels for social status goals.\nAs a first step in examining the associations between the variables in this study, zero-order correlations were calculated. These are shown in Table 2. In terms of the two outcomes of interest, students' personal task and ability goal orientations demonstrated some stability across the transition to middle school (r \u03ed .55 and .57, respectively, both p \u03fd .001). Task goal orientation in 6th grade also was related positively to students' perceptions that task goals were emphasized in their 6th grade classes (r \u03ed .42, p \u03fd .001), their sense of school belonging in middle school (r \u03ed .40, p \u03fd .001), and their endorsement of social responsibility goals in 6th grade (r \u03ed .46, p \u03fd .001). Task goal orientation was also related significantly, although modestly, to students' endorsement of relationship goals (r \u03ed .20, p \u03fd .001). In contrast, students' ability goal orientation in 6th grade was related positively to the perception that ability goals were emphasized in their classes (r \u03ed .33, p \u03fd .001) and to their endorsement of social status goals (r \u03ed .37, p \u03fd .001).  Ability goal orientation was also related modestly to endorsement of relationship goals (r \u03ed .23, p \u03fd .001). Several significant relations among students' sense of school belonging and social goals in 6th grade also were found. School belonging was related modestly to endorsement of both relationship and responsibility goals (r \u03ed .21 and .29, respectively, both p \u03fd .001), but was unrelated to status goals (r \u03ed \u03ea.01). Furthermore, endorsement of responsibility goals was related positively to relationship goals (r \u03ed .45, p \u03fd .001), but negatively to status goals (r \u03ed \u03ea.18, p \u03fd .001). Finally, status goals and relationship goals were modestly related positively (r \u03ed .25, p \u03fd .001).\nStudents' 5th grade GPA also was related, modestly, to several social and motivational variables. Students with higher grades in elementary school were less likely to report that their 6th grade classes emphasized an ability goal orientation (r \u03ed \u03ea.18, p \u03fd .001) and more likely to report a sense of school belonging in middle school (r \u03ed .10, p \u03fd .05). Higher achieving students were also more likely to endorse relationship goals (r \u03ed .19, p \u03fd .001) and responsibility goals (r \u03ed .10, p \u03fd .05), but less likely to endorse status goals (r \u03ed \u03ea.10, p \u03fd .05) in 6th grade. Finally, students with higher grades in 5th grade were less likely to report a personal ability goal orientation in 6th grade (r \u03ed \u03ea.11, p \u03fd .05).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Regression Analyses",
+      "text": "To examine the extent to which students' perceptions of classroom goal structure, school belonging, and social goals predicted changes in their personal goal orientations, a series of hierarchical regression analyses were conducted. Based on previous research and the preliminary analyses presented above, students' gender and prior achievement were included.\nSeparate analyses were conducted for each of the two personal goal orientations, using the following procedure: students' gender, 5th grade GPA, and 5th grade goal orientation were entered first; perceptions of the task and ability classroom goal structures in 6th grade were entered second; and sense of school belonging and social goals in 6th grade were entered third. This hierarchical approach to the analysis provided information about change in students' personal goal orientations in that their 5th grade levels of task and ability goals were controlled statistically. That is, the coefficients reported for the second and third steps can be thought of as predicting residual variance in 6th grades goals, unexplained by 5th grade levels (Pedhauzer, 1982).\nA fourth step was included in the analyses to check for the presence of interactions between the social variables and students' gender. No significant interaction effects were found, however, so those terms were removed to reduce error.\nThe results of the analyses are shown in Tables 3 and 4. Overall, these results support the hypotheses in that changes in students' personal goal ori-  entations were predicted by their perceptions of goal structures of their classrooms in 6th grade. Furthermore, students' sense of school belonging and endorsement of social goals in 6th grade explained additional variance in their achievement goals. The analysis for students' personal task goal orientations is shown in Table 3. In the first step of this analysis, task goal orientation in 5th grade was a significant predictor (\u03b2 \u03ed .55, p \u03fd .001). This variable, along with students' gender and prior achievement, accounted for 30% of the variance in the outcome. When students' perceptions of the goal orientations of their classes, school belonging, and social goals in 6th grade were added to the equation, however (Step 3), the coefficient for 5th grade task goal orientation dropped to .36 (p \u03fd .001). Perceptions of the goal orientations of 6th grade classes accounted for an additional 6% of the variance in 6th grade task goals, whereas school belonging and social goals added a further 9% (R 2 \u03ed .45, p \u03fd .001, \u2206R 2 \u03ed .09, p \u03fd .001). When 5th grade levels of task goal endorsement were taken into account, students were more likely to endorse personal task goals in 6th grade if they perceived their classes as emphasizing a task goal orientation (\u03b2 \u03ed .14, p \u03fd .001) and an ability goal orientation (\u03b2 \u03ed .10, p \u03fd .01). In addition, the sense of school belonging and endorsement of responsibility goals were associated positively with personal task goals (\u03b2 \u03ed .23 and .21, respectively, both p \u03fd .001).\nThe analysis for students' personal ability goal orientations is shown in Table 4. In the first step of this analysis, ability goal orientation in 5th grade was a significant predictor (\u03b2 \u03ed .56, p \u03fd .001). This variable, along with students' gender and prior achievement, accounted for 33% of the variance in the outcome. When students' perceptions of the goal orientations of their classes, school belonging, and social goals in 6th grade were added to the equation, however (Step 3), the coefficient for 5th grade task goal orientation dropped to .47 ( p \u03fd .001). Perceptions of the goal orientations of 6th grade classes accounted for an additional 5% of the variance in 6th grade ability goals, whereas school belonging and social goals added a further 5% (R 2 \u03ed .43, p \u03fd .001, \u2206R 2 \u03ed .05, p \u03fd .001). When 5th grade levels of ability goal endorsement were taken into account, students were more likely to endorse personal ability goals in 6th grade if they perceived an emphasis on ability goals in their classes (\u03b2 \u03ed .18, p \u03fd .01). Increased endorsement of ability goals also was predicted by endorsement of both relationship goals (\u03b2 \u03ed .13, p \u03fd .01) and status goals (\u03b2 \u03ed .16, p \u03fd .001) in 6th grade. Finally, personal ability goal orientation was related inversely to a sense of school belonging in 6th grade (\u03b2 \u03ed \u03ea.08, p \u03fd .05).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "DISCUSSION",
+      "text": "The results of this study support the findings of previous research in two ways. First, as reported elsewhere (e.g., Anderman & Midgley, 1997), stu-dents on average reported lower levels of task goal orientation following the transition to middle school. Second, the current study supports the notion that students' perceptions of the goals emphasized in the classroom predict their adoption of personal goal orientations (Anderman & Young, 1994). The present study adds to the literature, however, by indicating that both task and ability goal orientations are related to the goals emphasized in the classroom (the study by Anderman & Young, 1994 only examined relationships of classroom goals stresses to learning goals). The current study also adds to the literature on changes in students' motivation across the transition to middle level schools in that it demonstrates that students' social perceptions in 6th grade made significant, unique contributions to their achievement goal orientations. These effects were found when students' previous goal orientations, GPA, and perceptions of classroom goal structures were taken into account. Whereas the social environment of classrooms has been proposed as an important contributor to students' adaptation to middle school (e.g., Eccles & Midgley, 1989), few studies have examined directly the relation between students' social perceptions and their academic motivation across the transition to middle school. Social concerns, generally important in early adolescence, may be particularly salient during this period as students negotiate a new school environment.\nThe present findings demonstrate that students' different social perceptions and goals in their school setting are related to qualitatively different academic motivational trends. These differences may be understood in terms of the theoretical definitions of task and ability goal orientations. It has been suggested that a task goal, as opposed to an ability goal orientation, is linked to more positive learning outcomes because the task is central, and there is little focus on the self (e.g., Duda & Nicholls, 1992;Meece, 1991). The current results suggest that feeling a sense of psychological belonging in one's school, and the endorsement of social responsibility goals, are associated with an increased focus on academic tasks, whereas endorsement of social goals for forming peer relationships and maintaining social status are associated with an increased focus on the self.\nWith regard to students' sense of school belonging in 6th grade, the current study supports previous findings that the sense that one is respected and can ''be yourself'' in school is associated with academic motivation in that setting (e.g., Goodenow, 1992). The current results, however, help to clarify this relation in that students' sense of school belonging was predictive of an increased task goal orientation and was modestly associated with a decrease in ability goal orientation. That is, students who reported feeling accepted and ''a part of'' their new school were more likely to pursue their academic work for the purposes of personal understanding and increased competence. A similar pattern of effects was evident for students who endorsed social responsibility goals. Given that a task goal orientation is theoretically and empirically linked to the use of more adaptive learning strategies (Ames, 1992;Nolen, 1988;Nolen & Haladyna, 1990;Pintrich & De Groot, 1990), these findings may provide an explanation for previously reported evidence that responsibility goals are associated with higher grades in school (Wentzel, 1989). That is, endorsement of responsibility goals may have an indirect effect on students' learning strategies, mediated through an academic task goal orientation. This suggestion remains the subject for future research.\nIn contrast, students' endorsement of both relationship and status goals in middle school predicted an increased academic ability goal orientation. Indeed, the influence of peers during early adolescence, particularly after the transition from elementary to middle school, is an extremely important consideration in the study of adolescents' academic motivation (e.g., Berndt & Keefe, 1992;Hicks, 1997;Wentzel, 1991b). It may be that students who are more focused on their social relationships and reputations among their peers are also more likely to look to their peer group for evidence of their own academic success and achievement. The peer group is not only more salient for such individuals as a social network, but also as a comparison group against which to assess their own performance. Thus, there may be an increased tendency to adopt an ability goal orientation in academic situations.\nSeveral gender differences did emerge in this study in terms of mean levels of response to certain variables (e.g., personal ability goal orientation, status goals, etc.). These differences were consistent with those that have been reported elsewhere (e.g., Hicks et al., 1995;Patrick et al., 1997;Ryan et al., 1997), and with earlier research that suggested that boys may be more likely to engage in social comparison than are girls (e.g., Ruble, Parsons, & Ross, 1976;Spear & Armstrong, 1978). It is interesting to note, however, that students' gender was not a significant predictor of their goal orientations in 6th grade in the final regression analyses. That is, gender did not have a unique effect in the presence of the other academic and social motivational variables. Furthermore, there were no significant interaction effects between any predictors and students' gender. Consequently, whereas girls and boys may differ in the extent to which they perceive teachers as emphasizing relative ability or endorse goals for making friends at school, the results of the current study do not indicate that those perceptions and goals operate differently in relation to personal academic goals.\nIn considering the results of the current study, it should be noted that students' perceptions and motivation were assessed in the middle of the Fall semester, in both 5th and 6th grade classes. Such a comparison inevitably includes changes that have occurred during the latter part of the 5th grade year and thus does not provide the most precise measure of changes related to the transition between schools. Additional research is needed to provide a more fine-grained examination of students' social and achievement motivation immediately before and after the move to middle school.\nIn conclusion, the current study supports previous research that emphasizes the importance of classroom instructional environments in explaining the personal academic motivation of students following the transition to middle school. This study also reinforces, however, the importance of attending to the social aspects of students' transition experiences to gain a fuller understanding of young adolescents' motivation in school. During early adolescence, social influences operate in a variety of ways, both through instructional techniques and strategies designed by teachers and through the myriad of interactions that early adolescents have with one another. In terms of instruction, the increased emphasis on sociocultural approaches to learning and instruction in general (e.g., Englert & Mariage, 1996), as well as to the use of socially oriented instructional practices such as cooperative learning techniques (e.g., Slavin, 1983) emphasize the need for teachers to attend to social variables in their classrooms.\nWhereas historically it was believed that a decline in students' academic motivation was inevitable during early adolescence, recent research has indicated that such a decline is not inevitable; rather, declines in motivation are linked to certain instructional practices that are inappropriate for early adolescents (Anderman & Maehr, 1994;Eccles & Midgley, 1989;. Results of the present study add to the literature on changes in student motivation over the middle school transition by indicating that social aspects of the middle school experience also contribute to such changes. ",
+      "n_publication_ref": 23,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Classrooms: Goals, structures, and student motivation",
+      "journal": "Journal of Educational Psychology",
+      "year": "1992",
+      "authors": "C Ames"
+    },
+    {
+      "title": "Achievement goals in the classroom: Students' learning strategies and motivation processes",
+      "journal": "Journal of Educational Psychology",
+      "year": "1988",
+      "authors": "C Ames; J Archer"
+    },
+    {
+      "title": "Motivation and schooling in the middle grades",
+      "journal": "Review of Educational Research",
+      "year": "1994",
+      "authors": "E M Anderman; M Maehr"
+    },
+    {
+      "title": "Changes in achievement goal orientations, perceived academic competence, and grades across the transition to middle level schools",
+      "journal": "Contemporary Educational Psychology",
+      "year": "1997",
+      "authors": "E M Anderman; C Midgley"
+    },
+    {
+      "title": "Motivation and strategy use in science: Individual differences and classroom effects",
+      "journal": "Journal of Research in Science Teaching",
+      "year": "1994",
+      "authors": "E M Anderman; A J Young"
+    },
+    {
+      "title": "Friends' influence on adolescents' perceptions of themselves at school",
+      "journal": "Erlbaum",
+      "year": "1992",
+      "authors": "T J Berndt; K Keefe"
+    },
+    {
+      "title": "Classroom learning and motivation: Clarifying and expanding goal theory",
+      "journal": "Journal of Educational Psychology",
+      "year": "1992",
+      "authors": "P C Blumenfeld"
+    },
+    {
+      "title": "Dimensions of achievement motivation in schoolwork and sport",
+      "journal": "Journal of Educational Psychology",
+      "year": "1992",
+      "authors": "J L Duda; J G Nicholls"
+    },
+    {
+      "title": "A social-cognitive approach to motivation and personality",
+      "journal": "Psychological Review",
+      "year": "1988",
+      "authors": "C Dweck; E L Leggett"
+    },
+    {
+      "title": "Stage-environment fit: Developmentally appropriate classrooms for young adolescents",
+      "journal": "Academic Press",
+      "year": "1989",
+      "authors": "J S Eccles; C Midgley"
+    },
+    {
+      "title": "A hierarchical model of approach and avoidance achievement motivation",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1997",
+      "authors": "A J Elliott; M A Church"
+    },
+    {
+      "title": "A sociocultural perspective: Teaching ways-of-thinking and ways-of-talking in a literacy community",
+      "journal": "Learning Disabilities Research and Practice",
+      "year": "1996",
+      "authors": "C S Englert; T V Mariage"
+    },
+    {
+      "title": "Strengthening the links between educational psychology and the study of social contexts",
+      "journal": "Educational Psychologist",
+      "year": "1992",
+      "authors": "C Goodenow"
+    },
+    {
+      "title": "The psychological sense of school membership among adolescents: Scale development and educational correlates",
+      "journal": "Psychology in the Schools",
+      "year": "1993",
+      "authors": "C Goodenow"
+    },
+    {
+      "title": "Individual differences in the effects of educational transitions on young adolescents' perceptions of competence and motivational orientation",
+      "journal": "American Educational Research Journal",
+      "year": "1992",
+      "authors": "S Harter; N R Whitesell; P Kowalski"
+    },
+    {
+      "title": "Changes and stability in social and academic goals during junior high school. Paper presented at the biennial meeting of the Society for Research in Adolescence",
+      "journal": "",
+      "year": "1996-03",
+      "authors": "L Hicks"
+    },
+    {
+      "title": "How do academic motivation and peer relationships mix in an adolescent's world?",
+      "journal": "Middle School Journal",
+      "year": "1997",
+      "authors": "L Hicks"
+    },
+    {
+      "title": "Social goals and achievement goals in early adolescence",
+      "journal": "",
+      "year": "1995-04",
+      "authors": "L Hicks; A M Murphy; H Patrick"
+    },
+    {
+      "title": "Transforming school cultures",
+      "journal": "Westview Press",
+      "year": "1996",
+      "authors": "M L Maehr; C Midgley"
+    },
+    {
+      "title": "The classroom context and students' motivational goals",
+      "journal": "JAI Press",
+      "year": "1991",
+      "authors": "J L Meece"
+    },
+    {
+      "title": "Avoiding the demonstrating of lack of ability: An underexplored aspect of goal theory",
+      "journal": "Journal of Educational Psychology",
+      "year": "1997",
+      "authors": "M J Middleton; C Midgley"
+    },
+    {
+      "title": "Change in teacher efficacy and student self-and task-related beliefs in mathematics during the transition to junior high school",
+      "journal": "Journal of Educational Psychology",
+      "year": "1989",
+      "authors": "C Midgley; H Feldlaufer; J S Eccles"
+    },
+    {
+      "title": "Student/teacher relations and attitudes toward mathematics before and after the transition to junior high school",
+      "journal": "Child Development",
+      "year": "1989",
+      "authors": "C Midgley; H Feldlaufer; J S Eccles"
+    },
+    {
+      "title": "The Patterns of Adaptive Learning Survey (PALS)",
+      "journal": "",
+      "year": "1996",
+      "authors": "C Midgley; M L Maehr; L Hicks; R Roeser; T Urdan; E M Anderman; A Kaplan"
+    },
+    {
+      "title": "Reasons for studying: Motivational orientations and study strategies",
+      "journal": "Cognition and Instruction",
+      "year": "1988",
+      "authors": "S B Nolen"
+    },
+    {
+      "title": "Motivation and studying in high school science",
+      "journal": "Journal of Research in Science Teaching",
+      "year": "1990",
+      "authors": "S B Nolen; T M Haladyna"
+    },
+    {
+      "title": "Social self-regulation: Exploring the relations between children's social relationships, academic self-regulation, and school performance",
+      "journal": "Educational Psychologist",
+      "year": "1997",
+      "authors": "H Patrick"
+    },
+    {
+      "title": "Relations of perceived social efficacy and social goal pursuit to self-efficacy for academic work",
+      "journal": "Journal of Early Adolescence",
+      "year": "1997",
+      "authors": "H Patrick; L Hicks; A M Ryan"
+    },
+    {
+      "title": "Multiple regression in behavioral research: Explanation and prediction",
+      "journal": "Harcourt Brace Jovanovich",
+      "year": "1982",
+      "authors": "E J Pedhauzer"
+    },
+    {
+      "title": "Motivational and self-regulated learning components of classroom academic performance",
+      "journal": "Journal of Educational Psychology",
+      "year": "1990",
+      "authors": "P R Pintrich; E De Groot"
+    },
+    {
+      "title": "Perception of the school psychological environment and early adolescents' psychological and behavioral functioning in school: The mediating role of goals and belonging",
+      "journal": "Journal of Educational Psychology",
+      "year": "1996",
+      "authors": "R Roeser; C Midgley; T C Urdan"
+    },
+    {
+      "title": "Self-evaluative responses of children in an achievement setting",
+      "journal": "Child Development",
+      "year": "1976",
+      "authors": "D N Ruble; J Parsons; J Ross"
+    },
+    {
+      "title": "Social goals, academic goals, and avoiding seeking help in the classroom",
+      "journal": "Journal of Early Adolescence",
+      "year": "1997",
+      "authors": "A M Ryan; L Hicks; C Midgley"
+    },
+    {
+      "title": "The impact of school transitions in early adolescence on the self-system and perceived social context of poor urban youth",
+      "journal": "Child Development",
+      "year": "1994",
+      "authors": "E Seidman; L Allen; J L Aber; C Mitchell; J Feinman"
+    },
+    {
+      "title": "Entry into early adolescence: The impact of school structure, puberty, and early dating on self-esteem",
+      "journal": "American Sociological Review",
+      "year": "1979",
+      "authors": "R G Simmons; D A Blyth; E F Van Cleave; D Bush"
+    },
+    {
+      "title": "Cooperative learning",
+      "journal": "Longman",
+      "year": "1983",
+      "authors": "R E Slavin"
+    },
+    {
+      "title": "Effects of performance expectancies created by peer comparison as related to social reinforcement, task difficulty, and age of child",
+      "journal": "Journal of Experimental Child Psychology",
+      "year": "1978",
+      "authors": "P S Spear; S Armstrong"
+    },
+    {
+      "title": "The role of classroom goal structure in students' use of self-handicapping",
+      "journal": "American Educational Research Journal",
+      "year": "1998",
+      "authors": "T C Urdan; C Midgley; E M Anderman"
+    },
+    {
+      "title": "Adolescent classroom goals, standards for performance, and academic achievement: An interactionist perspective",
+      "journal": "Journal of Educational Psychology",
+      "year": "1989",
+      "authors": "K R Wentzel"
+    },
+    {
+      "title": "Classroom competence may require more than intellectual ability: Reply to Jussim (1991)",
+      "journal": "Journal of Educational Psychology",
+      "year": "1991",
+      "authors": "K R Wentzel"
+    },
+    {
+      "title": "Social competence at school: Relation between social responsibility and academic achievement",
+      "journal": "Review of Educational Research",
+      "year": "1991",
+      "authors": "K R Wentzel"
+    },
+    {
+      "title": "Motivation and achievement in early adolescence: The role of multiple classroom goals",
+      "journal": "Journal of Early Adolescence",
+      "year": "1993",
+      "authors": "K R Wentzel"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Gender Differences in Predictor and Outcome Variables",
+      "figure_data": "GirlsBoysMeanS.D.MeanS.D.t-test5th grade GPA8.682.447.822.24\u03ea4.20***5th grade personal task goal orientation3.660.923.610.95\u03ea0.605th grade personal ability goal orientation2.561.002.961.114.29***6th grade class task goal orientation4.040.773.900.83\u03ea1.896th grade class ability goal orientation2.740.843.010.843.62***School belonging3.840.943.710.99\u03ea1.54Relationship goal3.830.723.630.74\u03ea3.18**Responsibility goal4.220.794.010.86\u03ea2.89**Status goal2.310.912.681.044.31***6th grade personal task goal orientation3.590.943.480.99\u03ea1.306th grade personal ability goal orientation2.731.043.050.983.56**"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "",
+      "figure_data": "Bivariate Correlations among Personal and Classroom Goal Orientations, School Belonging, and Social Goal Variables4. 5. 6. 7. 8. 9. 10. 11. 1. 2. 3.1. Gender2. 5th grade GPA .18***3. 5th grade task .03 \u03ea.08goal orientation4. 5th grade abil-\u03ea.19*** \u03ea.13** \u03ea.03ity goal orienta-tion\u03ea.06 5. 6th grade class .08 .04 .34***task goal orienta-tion.19*** \u03ea.17*** 6. 6th grade class \u03ea.16*** \u03ea.18*** .01ability goal ori-entation\u03ea.07 .35*** \u03ea.24*** 7. School .07 .10* .22***belonging.09* .24*** .03 .21*** 8. Relationship .14** .19*** .11*goal\u03ea.00 .43*** \u03ea.09 .29*** .45*** 9. Responsibility .13** .10* .37***goal.30*** \u03ea.11* .25*** \u03ea.01 .25*** \u03ea.18*** 10. Status goal \u03ea.19*** \u03ea.10* \u03ea.08\u03ea.05 .42*** \u03ea.01 .40*** .20*** .46*** \u03ea.10 11. 6th grade task .06 \u03ea.04 .55***goal orientation.37*** .07 .57*** \u03ea.01 .33*** \u03ea.10* .23*** .07 12. 6th grade abil-.00 \u03ea.16*** \u03ea.11*ity goal orienta-tion\u03ed 1 to A\u03e9 \u03ed 13. \u03ed 1. GPA-coded E Note. Gender-coded boys \u03ed 0, girls*p \u03fd .05; **p \u03fd .01; ***p \u03fd .001."
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Hierarchical Regression Predicting Personal Task Goal Orientation in 6th Grade",
+      "figure_data": "\u03b2 Step 1\u03b2 Step 2\u03b2 Step 3Step 1Gender.04.03.01GPA.00\u03ea.01\u03ea.045th grade task goal orientation.55***.45***.36***Step 26th grade class task goal orientation.27***.14***6th grade class ability goal orientation.04.10**Step 3School belonging.23***Relationship goal\u03ea.00Responsibility goal.21***Status goal\u03ea.04R 2.30***.36***.45***Change in R 2.06***.09***"
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Hierarchical Regression Predicting Personal Ability Goal Orientation in 6th Grade",
+      "figure_data": "\u03b2 Step 1\u03b2 Step 2\u03b2 Step 3Step 1Gender\u03ea.04\u03ea.02\u03ea.03GPA\u03ea.03.01\u03ea.025th grade ability goal orientation.56***.53***.47***Step 26th grade class task goal orientation.06.036th grade class ability goal orientation.24***.18**Step 3School belonging\u03ea.08*Relationship goal.13**Responsibility goal.08Status goal.16***R 2.33***.38***.43***Change in R 2.05***.05**"
+    },
+    {
+      "figure_label": "",
+      "figure_type": "table",
+      "figure_id": "tab_4",
+      "figure_caption": "APPENDIX Sample Items, Number of Items, and Internal Consistency Coefficientsfor All Scales to get to know my school friends well I want to be part of things that other kids are doing at school important to me to belong to the popular group at school I don't want to hang out with unpopular students at school Note. Coefficients are Cronbach's standardized alphas. R, reversed item.",
+      "figure_data": "\u03b1 (No. items)Scale and sample itemsWave 1 Wave 2Personal task goal orientation.86 (6).87 (6)I like school work best when it really makes me thinkAn important reason I do my schoolwork is because I enjoy itPersonal ability goal orientation.75 (5).82 (6)I want to do better than other students in my classesI would feel successful in school if I did better than most of theother studentsClassroom task goal structure.77 (5)Our teachers think mistakes are okay as long as we are learningOur teachers recognize us for trying hardClassroom ability goal structure.66 (6)Our teachers tell us how we compare to other studentsOur teachers make it obvious when certain students are not doingwell on their workSchool belonging.79 (5)Sometimes I feel as if I don't belong here (R)I can really be myself in this schoolRelationship goal.75 (8)I would like Responsibility goal.82 (5)I try to do what my teachers ask me to doIt's important to me that I follow class rulesStatus goal.70 (4)It's"
+    }
+  ],
+  "doi": ""
+}

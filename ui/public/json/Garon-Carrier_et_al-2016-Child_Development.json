@@ -1,0 +1,433 @@
+{
+  "title": "Intrinsic Motivation and Achievement in Mathematics in Elementary School: A Longitudinal Investigation of Their Association",
+  "abstract": "This study examined the associations between intrinsic motivation and achievement in mathematics in a sample of 1,478 Canadian school-age children followed from Grades 1 to 4 (ages 7-10). Children self-reported their intrinsic motivation toward mathematics, whereas achievement was measured through direct assessment of mathematics abilities. Cross-lagged models showed that achievement predicted intrinsic motivation from Grades 1 to 2, and from Grades 2 to 4. However, intrinsic motivation did not predict achievement at any time. This developmental pattern of association was gender invariant. Contrary to the hypothesis that motivation and achievement are reciprocally associated over time, our results point to a directional association from prior achievement to subsequent intrinsic motivation. Results are discussed in light of their theoretical and practical implications.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "The question as to whether intrinsic motivation predicts academic achievement has attracted much attention among education researchers and school professionals (Reeve, 2002). Under self-determination theory (SDT), intrinsic motivation refers to being engaged in an activity because of one's inherent interest and pleasure for this activity rather than due to external contingencies (Ryan & Deci, 2000). It is conceptualized as a natural catalyst for learning and achievement (Gottfried, 1985(Gottfried, , 1990Ryan & Deci, 2009). Intrinsic motivation and academic achievement are seen as developmentally interlocked; intrinsic motivation lies at the core of self-determined activity (Ryan & Deci, 2000) and is expected to be reciprocally associated with achievement. According to SDT, intrinsic motivation is driven by two cognitive processes: (a) the degree to which individuals perceive that their action fulfills their need for autonomy and (b) the degree to which they feel effective in an activity. When the psychological needs of autonomy and competence are satisfied, intrinsic motivation and achievement are mutually reinforced; intrinsically motivated individuals will persist at the task, and thus will be more likely to achieve. Concurrently, higher achievement in a given activity (i.e., good marks in a school subjects) promotes perceived competence, which subsequently leads to greater intrinsic motivation in this activity.\nIn this study, we focus on intrinsic motivation for mathematics. Mathematics skills are clearly important for overall academic and professional achievement (Duncan et al., 2007; Organisation for Economic and Co-operation and Development, 2010;Reyna & Brainerd, 2007). Previous research suggests a positive association between intrinsic motivation (sometimes indexed as math interest) and achievement in mathematics across childhood and adolescence (Aunola, Leskinen, & Nurmi, 2006;Denissen, Zarrett, & Eccles, 2007;Lepper, Henderlong Corpus, & Iyengar, 2005;Viljaranta, Lerkkanen, Poikkeus, Aunola, & Nurmi, 2009;Wilkins & Ma, 2003). However, the direction of this developmental association remains unclear. Consistent with SDT, some studies have shown that intrinsic motivation predicts achievement and learning behaviors in mathematics (Areepattamannil, Freeman, & Klinger, 2011;Gottfried, 1985;Murayama, Pekrun, Lichtenfeld, & vom Hofe, 2013;Spinath, Spinath, Harlaar, & Plomin, 2006), but others did not (Bouffard, Marcoux, Vezeau, & Bordeleau, 2003;Marsh, Trautwein, L\u20ac udtke, Koller, & Baumert, 2005). A few other studies found that intrinsic motivation and achievement in mathematics are reciprocally related over time (Aunola et al., 2006;Henderlong Corpus, McClintic-Gilbert, & Hayenga, 2009;Koller, Baumert, & Schnabel, 2001;Luo, Kovas, Haworth, & Plomin, 2011;Viljaranta et al., 2009). In addition to appearing inconsistent, previous findings were also tainted by features limiting their interpretation. First, intrinsic motivation has been measured in various ways in past studies; while some studies used a task-value scale in mathematics (Aunola et al., 2006;Viljaranta et al., 2009), others used a multidimensional scale measuring challenge-seeking, independent mastery, and curiosity-driven engagement (Henderlong Corpus et al., 2009;Lepper et al., 2005). Second, most studies did not specifically test for bidirectional associations, with only a few studies taking advantage of a longitudinal crosslagged design to more clearly document the direction of the association between intrinsic motivation and achievement (Luo et al., 2011;Marsh et al., 2005;Viljaranta et al., 2009). Specifically, Marsh et al. (2005) found evidence for bidirectional associations between self-concept (or self-perceived ability) and achievement in mathematics, but not for intrinsic motivation and achievement. Bidirectional associations were found in Luo et al. (2011), but using a combined score of intrinsic motivation and academic self-concept items. Intrinsic motivation and academic self-concept are clearly related (Guay et al., 2010), but they should not be confounded as they imply self-agency versus self-description, respectively. As there is substantial evidence for bidirectional associations between academic self-concept and achievement (Guay, Marsh, & Boivin, 2003;Marsh et al., 2005), the composite score may have blurred the pattern of associations. Finally, Viljaranta et al. (2009) clearly showed a bidirectional association between intrinsic motivation and achievement, but their study only used two data points to cover a short developmental period within the 1st year in school. While this period may set the stage for later intrinsic motivation and achievement, it is also important to document the nature of these associations in the following years of school. There is indeed a documented decline in intrinsic motivation for mathematics with age (Gottfried, Fleming, & Gottfried, 2001;Gottfried, Marcoulides, Gottfried, Oliver, & Guerin, 2007;Wigfield, Eccles, Schiefele, Roeser, & Davis-Kean, 2006). This decline in motivation could be due to the growing challenges of mathematics compared to other school subjects (Smith, 2004;Stodolsky, Salk, & Glaessner, 1991). This increased pressure to perform in mathematics, combined with an improved capacity to self-evaluate their competence with age (Boivin, Vitaro, & Gagnon, 1992) could increase the likelihood of reciprocal associations between intrinsic motivation and achievement in mathematics over time.\nIn the present study, we followed a representative sample of children from Grades 1 to 4 (ages 7-10) to examine possible transactional associations between intrinsic motivation and achievement in mathematics. This study aimed to overcome limitations of previous studies. First, it focused on a precise definition of intrinsic motivation grounded in SDT theory. Accordingly, intrinsic motivation toward mathemat-ics was defined as enjoyment and interest in that topic (Guay et al., 2010;Ryan & Deci, 2000). Second, it used a longitudinal follow-up to conduct crosslagged analyses on intrinsic motivation and achievement in mathematics from school entry to Grade 4. Third, achievement in mathematics was operationalized through ageappropriate direct assessments of knowledge and abilities, rather than by indirect measures such as teacher assessments. Fourth, children were also assessed on their nonverbal cognitive abilities to precisely capture, through statistical control of fluid cognitive skills, the association between achievement and intrinsic motivation (Kytt\u20ac al\u20ac a & Lehto, 2008). On the basis of SDT and previous research, we predicted that intrinsic motivation and achievement toward mathematics would be reciprocally related over time.\nThe study also provided a unique opportunity to test for possible sex differences in intrinsic motivation and achievement in mathematics (Cleary & Chen, 2009;Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002). Previous studies found boys to be more intrinsically motivated toward mathematics than girls (Guay et al., 2010). One study showed sex differences favoring males in mathematics in the beginning of junior high school, but no such difference in the early grades of elementary school (Leahey & Guo, 2001). To date, few longitudinal studies tested for the possible sex difference in both achievement and intrinsic motivation, and in their pattern of associations.",
+      "n_publication_ref": 52,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Sample",
+      "text": "The Qu ebec Longitudinal Study of Child Development is a representative birth cohort of 2,223 children born between October 1997 and July 1998 to mothers residing in the province of Quebec, Canada, with the exception of those born at less than 24 weeks, at more than 42 weeks of gestation, or living in the Far North Quebec region. Of 2,940 families initially recruited, 2,223 families participated in the study when they were 5 months old, and 2,120 families agreed to be evaluated almost yearly (Jett e & Des Groseillers, 2000). Participants were longitudinally assessed from 5 months to 15 years on various child and family characteristics.\nIn the province of Quebec, school attendance is mandatory for all children up to age 16. Schooling starts with 7 years of elementary school (generally in the same school), that is, kindergarten (ages 5-6) and Grades 1-6 (ages 7-12), and follows with 5 years of secondary school (ages 13-17), then leading to college and university. This article describes findings from the elementary school follow-up that took place in Grade 1 (N = 1,528; age: M = 85.82 months, SD = 3.06), Grade 2 (N = 1,451; age: M = 8.10 years, SD = 0.26), and Grade 4 (N = 1,334; age: M = 10.14 years, SD = 0.26). Participating children started school the same year. The average attrition rate from ages 7 to 10 was 4.37% per year, although it varied slightly across measures and analyses (between 1,323 and 1,478; see Table 1).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Procedure",
+      "text": "Achievement measures in mathematics were individually administrated at school, or at home by a trained research assistant. Motivation was assessed through a questionnaire filled out by children during a face-to-face interview.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Instruments Motivation in Mathematics",
+      "text": "Children self-reported their intrinsic motivation in mathematics with three items from the Elementary School Motivation Scale (Guay et al., 2010), \"I like mathematics\"; \"Mathematics interest me a lot\"; \"I do mathematics even when I am not obliged to do so.\" Six independent experts had reviewed the items and approved the content and response format; a confirmatory factor analysis also revealed an adequate factor structure (Guay et al., 2010). Children answered each item using a 4-point Likert scale ranging from 1 (never enjoying) to 4 (always enjoying) mathematics. The internal consistency of the scale ranged from 0.75 to 0.81, from Grades 1 to 3 (Guay et al., 2010).",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Achievement in Mathematics",
+      "text": "Achievement in mathematics was measured through a series of age-appropriate assessments in Grades 1, 2, and 4. Two standardized instruments were used: the Number Knowledge Test (NKT; Okamoto & Case, 1996) in Grade 1 and the Canadian Achievement Test (CAT; Canadian Test Center, 1992) in Grades 2 and 4. The NKT is a reliable 27item test of basic arithmetic skills, such as magnitude comparisons and counting abilities (Gersten, Clarke, & Jordan, 2007;Gersten, Jordan, & Flojo, 2005). Its internal consistency was a = .79. The NKT was also significantly associated with the CAT in Grades 2 (r = .53) and 4 (r = .47), thus supporting its validity.\nThe CAT measures children's capacity to perform arithmetic operations. Addition, subtraction, and multiplication were assessed in Grades 2 and 4. Division operations were only assessed in Grade 4. Children had to choose the right answer of the four choices within a limited time. Internal consistencies of the CAT were a = .76 and a = .81 in Grades 2 and 4, respectively, and CAT scores were fairly stable (r = .50) between Grades 2 and 4 (see Table 2).",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "General Cognitive Abilities",
+      "text": "Nonverbal cognitive abilities were assessed during a laboratory visit when the participants were 6 years old using the Block Design subtest of the Wechsler Preschool and Primary Scale of Intelligence-Revised (WPPSI-R; Wechsler, 1989). The Block Design is highly correlated with the full WPPSI-R scale (r = .62). The scores were adjusted for age as instructed in the test manual. As in previous research (Kuncel, Hezlett, & Ones, 2004;Spinath et al., 2006), nonverbal cognitive abilities were positively associated with achievement in mathematics (r = .35 in Grade 1, r = .36 in Grade 2, and r = .27 in Grade 4).",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Analyses",
+      "text": "Missing data were examined with the MVA module in SPSS 20.0 for Windows (SPSS, 2011). According to Little's missing completely at random (MCAR) test, participating children in Grade 1 did not differ from those lost due to attrition with regard to motivation, but slightly differed on the level of achievement in mathematics (v 2 = 84.30, df = 38, p = .00). A series of t tests showed that children whose achievement scores were missing tended to have lower mathematics achievement and were from lower socioeconomic background at all ages. Missing data were treated through full information maximum likelihood (FIML). FIML treats missing data by fitting the model to all nonmissing data for each observation. It yields the least biased and most reliable estimates (Graham, Olchowski, & Gilreath, 2007;Peugh & Enders, 2004). All statistics reported in this article were estimated using FIML.\nWe used cross-lagged structural equation modeling to examine the direction of the predictive associations between intrinsic motivation and achievement in mathematics across Grades 1, 2, and 4 (see Figure 1). This model assessed the stability of motivation and achievement in mathematics, as well as changes in these constructs over time. It also controls for initial levels of motivation and achievement in the associations. Four longitudinal stability paths were estimated: two paths linking mathematics achievement across time (paths a and b) and two paths linking intrinsic motivation in mathematics across time (paths c and d). Four cross-lagged paths predicting change over time were also estimated: two paths capturing the prediction from achievement to later intrinsic motivation (paths a1 and b1) and two paths reflecting the prediction from intrinsic motivation to later achievement (paths a2 and b2).\nTo test our hypothesis, the cross-lagged paths were constrained to equality (a1 = a2 and b1 = b2). A nondeterioration of the model fit would suggest equal reciprocal associations between intrinsic motivation and achievement in mathematics, whereas a deterioration of the model fit would suggest that one direction is more predictive than the other. We also tested the sex invariance in the associations between achievement and intrinsic motivation, as well as the measurement invariance of intrinsic motivation across time. The models were tested with Mplus 7.11 (Muth en & Muth en, 1998-2012. In all models, we controlled for nonverbal cognitive abilities in time-specific scores of achievement in mathematics, and included the correlated uniqueness estimates specific to matching items of intrinsic motivation in Grades 1, 2, and 4 (Marsh et al., 2005).",
+      "n_publication_ref": 6,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Results",
+      "text": "Descriptive statistics are presented in Table 1. The mean statistic of the intrinsic motivation scores sug-gests an overall decrease in the level of intrinsic motivation in mathematics for both boys and girls.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Trends in Motivation",
+      "text": "To test whether intrinsic motivation significantly decreased across age and sex, a 3 (time) 9 2 (sex) repeated measures analysis of variance (ANOVA) was performed. The Sex 9 Time interaction was statistically significant, F(1.98, 2,385.46) = 5.66, p < .01, g 2 = .005. Boys showed a significantly higher level of intrinsic motivation than girls at all ages (ps < .01). Girls' motivation significantly decreased from Grades 1 to 2, but not from Grades 2 to 4 (p > .05). A 3 (time) 9 2 (sex) repeated measures ANOVA also tested for sex difference in mathematics achievement. The Sex 9 Time interaction was statistically significant, F(1.97, 2,329.13) = 4.23, p < .05, g 2 = .004. Boys performed significantly better than girls in Grades 1 and 2 (ps < .05), but not in Grade 4 (p > .05). However, for both intrinsic motivation and achievement, the effect sizes indicate that these sex differences account for a small percentage of the variance.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Achievement Mathematics",
+      "text": "Grade 2 ",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    { "heading": "Achievement", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Associations Between Motivation and Achievement in Mathematics",
+      "text": "The correlation matrix is presented in Table 2. Cross-sectional correlations indicated that intrinsic motivation for mathematics was increasingly positively correlated to achievement in mathematics (r = .13 in Grade 1 to r = .22 in Grade 4).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Testing the Direction of the Associations",
+      "text": "The fit statistics of the cross-lagged models are presented in Table 3. The chi-square goodness-of-fit statistics showed significant deterioration of the fit when the cross-lagged paths were equated, \u0394v 2 (2) = 10.17, p = .00, suggesting that the associations between achievement and intrinsic motivation in mathematics were not reciprocal. Accordingly, the nonconstrained model was retained as the best fitting and final model. This final standardized model is presented in Figure 2.\nThe nonconstrained model showed small, but significant cross-lagged paths connecting prior achievement to subsequent intrinsic motivation. The cross-lagged paths from motivation to achievement were not statistically significant. The stability paths for achievement were 0.76 from Grades 1 to 2 and 0.74 from Grades 2 to 4. The stability paths for intrinsic motivation in mathematics were somewhat lower, but slightly increased over time from 0.31 to 0.42, although the increase did not reach significance when the longitudinal stability paths were constrained to equality (c = d; see Figure 1), as shown by a nonsignificant deterioration of the fit, \u0394v 2 (1) = 0.55, p = .46 (results available from the authors).\nThe measure of intrinsic motivation was invariant over time, with nonsignificant difference in the model fit when factor loadings for matching items of intrinsic motivation were constrained to equality, \u0394v 2 (4) = 3.92, p = .42 (results available from the authors).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Sex Differences",
+      "text": "To test for possible sex differences in these patterns of longitudinal associations, we conducted a sex-invariant model. The factor loadings, the stability links, the cross-links, and the covariance were constrained to equality across sex. Compared to the nonconstrained model, the fit of the sex-invariant model was not deteriorated, \u0394v 2 (26) = 36.26, p = .08, comparative fit index = 0.97, Tucker-Lewis index = 0.96, root mean square error of approximation = 0.034 [0.030, 0.038]. Thus, the associations between intrinsic motivation and mathematics achievement did not vary across sex.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Discussion",
+      "text": "The present study examined the developmental association between intrinsic motivation and achievement in mathematics during elementary school. Specifically, a longitudinal cross-lagged design with three data points extending from Grades 1 to 4 was used to disentangle, and specifically test for the directions of these associations. Controlling for early nonverbal cognitive abilities, achievement in mathematics was found to systematically predict later intrinsic motivation in mathematics over time. However, there was no evidence for the reverse; intrinsic motivation for mathematics did not predict later (or changes in) achievement in mathematics. This pattern was similar for both sexes, despite small mean sex differences. On average, boys performed better in mathematics in the early grades, and were more motivated than girls, whereas girls' intrinsic motivation significantly declined over time.\nThe finding of such a systematic directional prediction from achievement to intrinsic motivation runs in contrast to studies that found a reverse (Areepattamannil et al., 2011;Gottfried, 1985;Murayama et al., 2013;Spinath et al., 2006) or a recipro- Note. Represents the change in \u0394v 2 and degrees of freedom for a particular model against the nonconstrained model, in which it is nested. CFI = comparative fit index; TLI = Tucker-Lewis index, RMSEA = root mean square error of approximation.\ncal (Aunola et al., 2006;Henderlong Corpus et al., 2009;Luo et al., 2011;Viljaranta et al., 2009) pattern. As argued previously, a prominent explanation for this discrepancy is that most previous studies did not use a cross-lagged design and thus, did not specifically test for reciprocal associations. Of those that did, one failed to find a specific association for intrinsic motivation (Marsh et al., 2005), and another found a bidirectional association, but for a score combining intrinsic motivation and academic self-concept in mathematics (Luo et al., 2011). Only in Viljaranta et al. (2009) was a clear bidirectional association revealed, but only over a short period in the 1st school year. It is thus possible that an early bidirectional association exists, but only over a short period of time.\nThe present results challenge the view that intrinsic motivation naturally leads to higher achievement in mathematics, and thus raise questions regarding the theoretical assumptions underlying this predictive association. Contrary to SDT tenets, intrinsic motivation did not translate into higher achievement in mathematics. According to SDT, this directed link is expected when the needs for autonomy and competence are fulfilled. It may be that the typical learning process in mathematics in the early years of school is mostly driven by school contingencies, such as mandatory schedule, homework, and learning exercises; these conditions may create an unfavorable context for self-determined activity and thus for intrinsic motivation to bring about consequent learning behavior in mathematics. The possible interplay of these contextual factors should be investigated further in future research.\nThe finding that higher achievement in mathematics led to higher intrinsic motivation in mathematics, while consistent with SDT, may be interpreted in various ways. The simplest explanation for this predictive association is that achievement in mathematics is self-reinforcing and thus brings about an increase in intrinsic motivation. A more stringent test of SDT would involve testing the mediating role of self-concept in mathematics in this predictive association. Indeed, SDT posits that academic self-concept develops with integrated  feedback from past and actual school evaluations. Accordingly, it has been associated with achievement and engagement in activities, as well as with intrinsic motivation in mathematics (Marsh et al., 2005). However that may be, to put these findings in perspective, one has to consider the differential stability observed for intrinsic motivation versus achievement in mathematics over the primary school years. Indeed, an enduring feature of the present results is that individual differences in mathematics achievement were highly stable despite variation in the measures. In contrast, individual differences in intrinsic motivation toward mathematics were initially moderate, but became increasingly stable during elementary school. Clearly, intrinsic motivation in mathematics behaved as a developmental construct; it was more likely to change at school entry, but became progressively more crystallized later in children development, partly due to previous achievement in mathematics.",
+      "n_publication_ref": 12,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Implication for Educational Practices",
+      "text": "Interventions in education try to increase intrinsic motivation, and hopefully achievement, through promoting students autonomy in instructional setting (e.g., opportunity to select work partners and assignment tasks; Koller et al., 2001). The present findings could mean that these practices may not be the best approach in the early school years (Cordova & Lepper, 1996;Wigfield & Wentzel, 2007). However, we should refrain from concluding too hastily. The present study shows that intrinsic motivation does not lead to higher achievement in mathematics, but does not speak specifically to the impact of intervention on intrinsic motivation and achievement. It may still be possible to improve intrinsic motivation through intervention, but at the population level, intrinsic motivation does not \"naturally\" increase achievement in mathematics. It could also be that within the population, the relation between intrinsic motivation and performance in mathematics differs as a function of ability level (Cleary & Chen, 2009;J\u00f5gi, Kikas, Lerkkanen, & M\u20ac agi, 2015) or the nature of the mathematics skills (Cerasoli, Nicklin, & Ford, 2014). For instance, intrinsic motivation more likely predicts the quality (i.e., complex task that seeks more skills and commands personal investment) than the quantity (i.e., task with less personal cognitive investment) of achievement (Cerasoli et al., 2014). Further research is needed to verify whether this pattern can be reproduced using different samples, different measures of intrinsic motivation and achievement, and different types of motivation (see Ryan & Deci, 2009). Future research should also examine whether the actual results may be generalized to other school subjects, as well as to other school period (Green, Martin, & Marsh, 2007;Marsh et al., 2005). Most importantly, future research should conduct experiments, ideally randomized controlled trials, to test if intrinsic motivation can be fostered in young children, and if so, to what extent and how it leads to increased achievement.\nFinally, an important feature of the present results is that achievement level in mathematics was fairly well established early in primary school, and subsequently predicts intrinsic motivation toward mathematics. This stability of achievement and the ensuing consistent motivational trend in mathematics underscore the need to document the early school years as a crucial period for the assessment and fostering of early numeracy.\nSeveral limitations should, however, be acknowledged. First, measures of achievement in mathematics differed over time. However, the high stability of achievement in mathematics across ages suggests that these measures tap into a similar ability construct. Second, the present findings were specific to mathematics and may only apply to mathematics (Green et al., 2007;Guay et al., 2010;Marsh et al., 2005). The same could be said about the age range; the findings covered the early years of primary school and may only be relevant to that school period. Third, the present study defined intrinsic motivation as a combination of interest and enjoyment. However, enjoyment may also be seen as part of academic interest (Krapp, Schiefele, & Winteler, 1992). It would have been relevant to distinguish academic interest from intrinsic motivation. Unfortunately, the focused nature of the motivation scale did not allow this distinction. Finally, the statistical fit comparison between the nonconstrained and the constrained cross-lagged models was based on the chi-square goodness of fit. This statistical index is sensitive to sample sizes (see Bentler & Bonett, 1980), so that the fit deterioration of the constrained model, in comparison to the nonconstrained model, could partly be a consequence of the sample size.\nThese limitations notwithstanding, this study convincingly showed that contrary to the hypothesis that intrinsic motivation drives achievement or that motivation and achievement entertain reciprocal influences over time, it is rather achievement that predicts later intrinsic motivation in mathematics during the primary school years. The results also provide a consistent pattern across gender and thus warrant greater confidence in their generalizability and replicable nature for this time period.",
+      "n_publication_ref": 15,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Intrinsic motivation, extrinsic motivation, and academic achievement among Indian adolescents in Canada and India",
+      "journal": "Social Psychology of Education",
+      "year": "2011",
+      "authors": "S Areepattamannil; J G Freeman; D A Klinger"
+    },
+    {
+      "title": "Developmental dynamics between mathematical performance, task motivation, and teachers' goals during the transition to primary school",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2006",
+      "authors": "K Aunola; E Leskinen; J.-E Nurmi"
+    },
+    {
+      "title": "Significance tests and goodness of fit in the analysis of covariance structures",
+      "journal": "Psychological Bulletin",
+      "year": "1980",
+      "authors": "P M Bentler; D G Bonett"
+    },
+    {
+      "title": "A reassessment of the self-perception profile for children: Factor structure, reliability, and convergent validity of a French version among second through sixth grade children",
+      "journal": "International Journal of Behavioral Development",
+      "year": "1992",
+      "authors": "M Boivin; F Vitaro; C Gagnon"
+    },
+    {
+      "title": "Changes in self-perceptions of competence and intrinsic motivation among elementary school children",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "T Bouffard; M.-F Marcoux; C Vezeau; L Bordeleau"
+    },
+    { "title": "Canadian Achievement Test", "journal": "", "year": "1992", "authors": "" },
+    {
+      "title": "Intrinsic motivation and extrinsic incentives jointly predict performance: A 40-year meta-analysis",
+      "journal": "Psychological Bulletin",
+      "year": "2014",
+      "authors": "C P Cerasoli; J M Nicklin; M T Ford"
+    },
+    {
+      "title": "Self-regulation, motivation, and math achievement in middle school: Variations across grade level and math context",
+      "journal": "Journal of School Psychology",
+      "year": "2009",
+      "authors": "T Cleary; P Chen"
+    },
+    {
+      "title": "Intrinsic motivation and the process of learning: Beneficial effects of contextualization, personalization, and choice",
+      "journal": "Journal of Educational Psychology",
+      "year": "1996",
+      "authors": "D Cordova; M R Lepper"
+    },
+    {
+      "title": "I like to do it, I'm able, and I know I am: Longitudinal couplings between domain-specific achievement, selfconcept, and interest",
+      "journal": "Child Development",
+      "year": "2007",
+      "authors": "J J A Denissen; N R Zarrett; J S Eccles"
+    },
+    {
+      "title": "School readiness and later achievement",
+      "journal": "Developmental Psychology",
+      "year": "2007",
+      "authors": "G J Duncan; C J Dowsett; A Claessens; K Magnuson; A C Huston; P Klebanov; . . Japel; C "
+    },
+    {
+      "title": "Screening for mathematics difficulties in K-3 students. Research Corporation",
+      "journal": "Center on Instruction",
+      "year": "2007",
+      "authors": "R Gersten; B S Clarke; N C Jordan"
+    },
+    {
+      "title": "Early Identification and interventions for students with mathematics difficulties",
+      "journal": "Journal of Learning Disabilities",
+      "year": "2005",
+      "authors": "R Gersten; N C Jordan; J R Flojo"
+    },
+    {
+      "title": "Academic intrinsic motivation in elementary and junior high school students",
+      "journal": "Journal of Educational Psychology",
+      "year": "1985",
+      "authors": "A E Gottfried"
+    },
+    {
+      "title": "Academic intrinsic motivation in young elementary school children",
+      "journal": "Journal of Educational Psychology",
+      "year": "1990",
+      "authors": "A E Gottfried"
+    },
+    {
+      "title": "Continuity of academic intrinsic motivation from childhood through late adolescence: A longitudinal study",
+      "journal": "Journal of Educational Psychology",
+      "year": "2001",
+      "authors": "A E Gottfried; J S Fleming; A W Gottfried"
+    },
+    {
+      "title": "Multivariate latent change modeling of developmental decline in academic intrinsic math motivation and achievement: Childhood through adolescence",
+      "journal": "International Journal of Behavioral Development",
+      "year": "2007",
+      "authors": "A E Gottfried; G A Marcoulides; A W Gottfried; P H Oliver; D W Guerin"
+    },
+    {
+      "title": "How many imputations are really needed? Some practical clarifications of multiple imputation theory",
+      "journal": "Prevention Science",
+      "year": "2007",
+      "authors": "J W Graham; A E Olchowski; T D Gilreath"
+    },
+    {
+      "title": "Motivation and engagement in English, mathematics and science high school subjects: Towards an understanding of multidimensional domain specificity",
+      "journal": "Learning and Individual Differences",
+      "year": "2007",
+      "authors": "J Green; A J Martin; H W Marsh"
+    },
+    {
+      "title": "Intrinsic, identified, and controlled types of motivation for school subjects in young elementary school children",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2010",
+      "authors": "F Guay; J Chanal; C F Ratelle; H W Marsh; S Larose; M Boivin"
+    },
+    {
+      "title": "Academic self-concept and academic achievement: Developmental perspectives on their causal ordering",
+      "journal": "Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "F Guay; H W Marsh; M Boivin"
+    },
+    {
+      "title": "Within-year changes in children's intrinsic and extrinsic motivational orientations: Contextual predictors and academic outcomes. Contemporary Educational Psychology",
+      "journal": "",
+      "year": "2009",
+      "authors": "J Henderlong Corpus; M S Mcclintic-Gilbert; A O Hayenga"
+    },
+    {
+      "title": "Changes in children's selfcompetence and values: Gender and domain differences across grades one through twelve",
+      "journal": "Child Development",
+      "year": "2002",
+      "authors": "J E Jacobs; S Lanza; D W Osgood; J S Eccles; A Wigfield"
+    },
+    {
+      "title": "Survey description and methodology",
+      "journal": "",
+      "year": "1998",
+      "authors": "M Jett E; L Groseillers"
+    },
+    {
+      "title": "Cross-lagged relations between math-related interest, performance goals and skills in groups of children with different general abilities",
+      "journal": "Learning and Individual Differences",
+      "year": "2015",
+      "authors": "A.-L J\u00f5gi; E Kikas; M.-K Lerkkanen; K "
+    },
+    {
+      "title": "Does interest matter? The relationship between academic interest and achievement in mathematics",
+      "journal": "Journal for Research in Mathematics Education",
+      "year": "2001",
+      "authors": "O Koller; J Baumert; K Schnabel"
+    },
+    {
+      "title": "Interest as a predictor of academic achievement: A meta-analysis of research",
+      "journal": "Erlbaum",
+      "year": "1992",
+      "authors": "A Krapp; U Schiefele; A Winteler"
+    },
+    {
+      "title": "Academic performance, career potential, creativity, and job performance: Can one construct predict them all?",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2004",
+      "authors": "N R Kuncel; S A Hezlett; D S Ones"
+    },
+    {
+      "title": "Some factors underlying mathematical performance: The role of visuospatial working memory and non-verbal intelligence",
+      "journal": "European Journal of Psychology of Education",
+      "year": "2008",
+      "authors": "M Kytt\u20ac Al\u20ac A; J E Lehto"
+    },
+    {
+      "title": "Gender differences in mathematical trajectories",
+      "journal": "Social Forces",
+      "year": "2001",
+      "authors": "E Leahey; G Guo"
+    },
+    {
+      "title": "Intrinsic and extrinsic motivational orientations in the classroom: Age differences and academic correlates",
+      "journal": "Journal of Educational Psychology",
+      "year": "2005",
+      "authors": "M R Lepper; J Henderlong Corpus; S S Iyengar"
+    },
+    {
+      "title": "The etiology of mathematical self-evaluation and mathematics achievement: Understanding the relationship using a cross-lagged twin study from ages 9 to 12",
+      "journal": "Learning and Individual Differences",
+      "year": "2011",
+      "authors": "Y L Luo; Y Kovas; C Haworth; R Plomin"
+    },
+    {
+      "title": "Academic self-concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering",
+      "journal": "Child Development",
+      "year": "2005",
+      "authors": "H W Marsh; U Trautwein; O L\u20ac Udtke; O Koller; J Baumert"
+    },
+    {
+      "title": "Predicting long-term growth in students' mathematics achievement: The unique contributions of motivation and cognitive strategies",
+      "journal": "Child Development",
+      "year": "2013",
+      "authors": "K Murayama; R Pekrun; S Lichtenfeld; R Vom Hofe"
+    },
+    {
+      "title": "Mplus user's guide",
+      "journal": "Author",
+      "year": "1998",
+      "authors": "L K Muth En; B O Muth En"
+    },
+    {
+      "title": "Exploring the microstructure of children's central conceptual structures in the domain of number. Monographs of the Society for Research in Child Development",
+      "journal": "",
+      "year": "1996",
+      "authors": "Y Okamoto; R Case"
+    },
+    {
+      "title": "Missing data in educational research: A review of reporting practices and suggestions for improvement",
+      "journal": "Review of Educational Research",
+      "year": "2004",
+      "authors": "J L Peugh; C K Enders"
+    },
+    {
+      "title": "Self-determination theory applied to educational settings",
+      "journal": "University of Rochester Press",
+      "year": "2002",
+      "authors": "J Reeve"
+    },
+    {
+      "title": "The importance of mathematics in health and human judgment: Numeracy, risk communication, and medical decision making",
+      "journal": "Learning and Individual Differences",
+      "year": "2007",
+      "authors": "V F Reyna; C J Brainerd"
+    },
+    {
+      "title": "Intrinsic and extrinsic motivations: Classic definitions and new directions",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2000",
+      "authors": "R M Ryan; E L Deci"
+    },
+    {
+      "title": "Promoting self-determined school engagement",
+      "journal": "Routledge",
+      "year": "2009",
+      "authors": "R M Ryan; E L Deci"
+    },
+    {
+      "title": "Making mathematics count: The report of professor Adrian Smith's inquiry into post-14 mathematics education",
+      "journal": "",
+      "year": "2004",
+      "authors": "A Smith"
+    },
+    {
+      "title": "Predicting school achievement from general cognitive ability, self-perceived ability, and intrinsic value",
+      "journal": "Intelligence",
+      "year": "2006",
+      "authors": "B Spinath; F M Spinath; N Harlaar; R Plomin"
+    },
+    {
+      "title": "SPSS Base 20.0 for Windows user's guide. Chicago",
+      "journal": "IL: Author",
+      "year": "2011",
+      "authors": ""
+    },
+    {
+      "title": "Student view about learning math and social studies",
+      "journal": "American Educational Research Journal",
+      "year": "1991",
+      "authors": "S Stodolsky; S Salk; B Glaessner"
+    },
+    {
+      "title": "Cross-lagged relations between task motivation and performance in arithmetic and literacy in kindergarten. Learning and Instruction",
+      "journal": "",
+      "year": "2009",
+      "authors": "J Viljaranta; M.-K Lerkkanen; A.-M Poikkeus; K Aunola; J.-E Nurmi"
+    },
+    {
+      "title": "Manual for the Wechsler Preschool and Primary Scale of Intelligence-Revised",
+      "journal": "Psychological Corporation",
+      "year": "1989",
+      "authors": "D Wechsler"
+    },
+    {
+      "title": "Development of achievement motivation",
+      "journal": "Wiley",
+      "year": "2006",
+      "authors": "A Wigfield; J S Eccles; U Schiefele; R W Roeser; P Davis-Kean"
+    },
+    {
+      "title": "Introduction to motivation at school: Interventions that work",
+      "journal": "Educational Psychologist",
+      "year": "2007",
+      "authors": "A Wigfield; K Wentzel"
+    },
+    {
+      "title": "Modeling change in student attitude toward and beliefs about mathematics",
+      "journal": "Journal of Educational Research",
+      "year": "2003",
+      "authors": "J L M Wilkins; X Ma"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Figure 1 .1Figure 1. Cross-lagged model of achievement and intrinsic motivation in mathematics. Achievement in mathematics was measured by the Number Knowledge Test in Grade 1 and the Canadian Achievement Test for mathematics in Grades 2 and 4. The cross-lagged paths were constrained to equality (a1 = a2 and b1 = b2).",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Figure 2 .2Figure 2. Final cross-lagged model of achievement in mathematics and intrinsic motivation in mathematics. Standardized solution of the nonconstrained model; all significant paths unless indicated otherwise (ns = nonsignificant). Not shown are the correlated uniqueness. Achievement in mathematics was controlled for general cognitive abilities. L1 and L2 = Level 1 and Level 2 in the Number Knowledge Test. The symbols (+, \u00c0, 9, \u00c4) indicate the mathematics dimensions of the achievement measure.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Descriptive Statistics of Intrinsic Motivation and Achievement in",
+      "figure_data": "Mathematics by SexnMS DMin.Max.ModeIntrinsic motivation in mathematicsGrade 1Boys7023.22.75144Girls7763.07.80144Grade 2Boys6983.14.83143.67Girls7692.91.89143Grade 4Boys6253.14.75143.67Girls6982.82.88143.67Achievement in mathematicsGrade 1 aBoys69719.884.0312722Girls76419.563.8282721Grade 2 bBoys69913.394.7002117Girls76712.894.7012118Grade 4 bBoys63014.763.6602016Girls69814.823.1802016"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Sample Correlation Matrix of Intrinsic Motivation (IM) and Achievement in Mathematics (AM)",
+      "figure_data": "1234561. IM Grade 12. IM Grade 2.303. IM Grade 4.18.394. AM Grade 1.13.11.155. AM Grade 2.08.11.15.536. AM Grade 4.11.10.22.47.50"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Summary of Fit Statistics for Achievement in Mathematics and Intrinsic Motivation in Mathematics Cross-Lagged Models",
+      "figure_data": "Modelsv 2dfpCFITLIRMSEA\u0394v 2pNonconstrained371.761330.000.970.960.033 [0.029, 0.037]--modelConstrained381.931350.000.970.960.033 [0.029, 0.037]10.170.00model"
+    }
+  ],
+  "doi": "10.1111/cdev.12458"
+}

@@ -1,0 +1,576 @@
+{
+  "title": "A longitudinal study of psychological functioning and academic attainment at the transition to secondary school",
+  "abstract": "This longitudinal study of adolescents in the first year of secondary school, examined the relationship between psychological functioning at the beginning of year 7 (mean age 11.25 years) with attainment at the end of year 7 (mean age 11.78 years). Depressive symptoms, school liking and conduct problems predicted lower attainment across time having controlled for the temporal stability in psychological functioning and attainment. School concerns predicted lower attainment for boys only, and the effects of depressive symptoms on later attainment were significantly stronger for boys compared to girls. School liking -and school concerns for boys -remained significant predictors of attainment when controlling for conduct problems. The transition to secondary school may represent a window of opportunity for developing interventions aimed at improving both pupil psychological functioning and attainment.Periods of transition are often stressful and can influence short and long-term psychological functioning (West, Sweeting, & Young, 2008). The World Bank World Development Report (2007) identifies the transition from primary or elementary to secondary or middle/junior high school as one of five transitions related to positive health outcomes for young people. This transition involves simultaneous changes in school environments, social interactions and academic expectations and involves a degree of anxiety for most pupils (Rice, Frederickson & Seymour, 2011). This transition usually occurs at the age of 11 years and coincides with other biological and social changes associated with the transition from childhood to adolescence. The primary-secondary transition can negatively affect pupils' adjustment in a number of ways, as shown by lower grades, low attendance, increased anxiety and conduct",
+  "sections": [
+    {
+      "heading": "",
+      "text": "and focus (Evangelou et al., 2008). One important marker of transition success is academic attainment as measured by school grades. Academic attainment has well established associations with outcomes later in life such as occupational status, income and health (Mirowsky & Ross, 2003). We set out to test if academic attainment following transition is predicted by psychological functioning (emotional problems; affect towards school; conduct problems) at the start of secondary school. If psychological functioning does predict attainment following transition, it is a potential target for interventions rather than, or in addition to, academic attainment. Although there is literature that examines the association of psychological functioning with academic attainment (e.g. Ansary & Luthar, 2009;Burt & Roisman 2010;Hinshaw, 1992;Miech, Caspi, Moffitt, Wright & Silva, 1999;Moilanen, Shaw & Maxwell, 2010;van Lier et al., 2012) little, if any, focuses on associations around the period of transition to secondary school. We focus on the first year of secondary school as an important period of vulnerability during which schools may be able to implement interventions. Nearly all pupils express some concerns about moving to secondary school. For most, however, worries about transition appear to be temporary and decline during the first year (Lucey & Reay, 2000;Galton, Morrison & Pell, 2000;Rice, Frederickson & Seymour, 2011). Thus, pupils with persistent difficulties across the first year of secondary may represent a vulnerable group.",
+      "n_publication_ref": 11,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Emotional problems",
+      "text": "Research on the relationship between emotional problems and academic attainment has yielded inconsistent findings (e.g. Richards & Abbot, 2009). One possible reason for inconsistency is that emotional problems have been conceptualized and measured in different ways across studies. Considering emotional problems as a whole, a number of studies have failed to find significant associations with on-going academic attainment or competence both in childhood and through adolescence (e.g. Ansary & Luthar, 2009;Burt & Roisman 2010;Moilanen et al., 2010;van Lier et al., 2012).\nSpecifically regarding depression, a number of studies have found an association between depressive symptoms and attainment across adolescence both within and across time, controlling for baseline attainment (e.g. Fr\u00f6jd et al., 2008;Steele, Armistead & Forehand, 2000). However, the temporal direction of effects remains unclear with other studies reporting that lower attainment predicts increases in depressive symptoms (Pomerantz, Altermatt, & Saxon, 2002). Most research focuses on adolescent depression and examines academic outcomes in late adolescence or early adulthood. Given that there are developmental differences in the prevalence, risk factor profile and aetiology of depressive symptoms during childhood, adolescence and adulthood (Jaffee et al., 2002;Rice, 2010), examining the relationship between depressive symptoms and attainment in early adolescence may give a different pattern of results which are more directly relevant to transition.\nFor anxiety, again, there is an inconsistent pattern of association. Several studies have found associations with lower academic attainment, but these have often investigated social anxiety rather than general anxiety (e.g. Van Armeringen, Mancini & Frarvolden, 2003;Weeks, Coplan & Kingsbury, 2009). One study which looked at different kinds of anxiety in childhood found generalized anxiety to be associated with a greater likelihood of graduating from high school (Borges et al., 2011). Indeed, a study of university students found that anxiety was associated concurrently with better academic performance, suggesting that worrying does not adversely affect attainment (Svanum & Zody, 2001). Instead, fear and apprehension associated with attainment during school transition may be best captured by affect or anxiety about school rather than a general index of anxiety. Separate examination of the effects of general anxiety, school anxiety and depression on academic attainment may help to clarify temporal associations. We hypothesized that depressive symptoms would show association with poorer academic attainment over time but that general anxiety would not.",
+      "n_publication_ref": 14,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Affect towards school",
+      "text": "Research illustrating the importance of school for psychological well-being includes evidence that interventions to change the school climate have positive effects on pupil psychological functioning and attainment (Battistich, Schaps & Wilson, 2004).\nSense of school community, including factors such as liking school and concerns about moving to secondary school are found to be associated with measures of mental health (Reddy, Rhodes & Mulhall, 2003;Shochet, Dadds, Ham & Montague, 2006;West et al., 2008;Rice et al., 2011). These may, therefore, also be an important target for transition interventions. However, findings regarding the relation between affect towards school and academic achievement have not been as conclusive and prospective, longitudinal research is needed (Hagborg, 1994;Irvin, Meece, Byun, Farmer & Hutchins, 2011). Despite the relative lack of prospective longitudinal research, on the basis of prior research, we hypothesized a bi-directional relationship between school affect and academic attainment. Pupils doing well academically are likely to have greater connectedness to school; positive school affect, in turn, is likely to promote greater engagement and motivation in school activities and work.",
+      "n_publication_ref": 7,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conduct problems",
+      "text": "Evidence suggests that conduct problems have a stronger and more consistent influence on academic attainment at school in comparison to emotional problems (Kessler, Foster, Saunders & Stang, 1995;Richards & Abbot, 2009). Studies have shown that conduct problems increase the likelihood of underachievement from childhood through adolescence and young adulthood (Hinshaw, 1992;Miech et al., 1999;Moilanen et al., 2010). Unlike for emotional problems, the association between conduct problems and later academic attainment is well documented. However, the relationship has not specifically been examined at the transition to secondary school.\nNonetheless, we expected to observe a similar association whereby conduct problems at the transition would be associated with poorer subsequent academic attainment.\nAt least two methodological issues may explain inconsistencies in research findings on emotional problems and later school attainment. First, there has been variability in the definition of attainment. Epidemiological studies have tended to examine dichotomous variables of educational achievement or failure (e.g. leaving school without any formal qualifications) while other studies focus on pupil perceptions of schoolwork or academic motivation (e.g. self-reported GPA; Owens, Shippee & Hensel, 2008). While dichotomous measures of educational failure may fail to capture subtle effects on different aspects of academic attainment, there is also a need for measures of academic attainment that are not affected by shared method variance. This may be an issue when pupils report on both attainment and psychological functioning, given that children with current depressive symptoms under-estimate their academic ability compared to teachers and peers (Cole, Martin, Peeke, Seroczynski & Hoffman, 1998). Second, the length of follow-up in longitudinal studies could influence results. Masten and colleagues (2005) suggest that emotional problems could affect academic competence within short follow-up periods but not over longer periods of time, whereas the effects of conduct problems tend to be found for both. This likely stems from the fact that emotional problems are often episodic and may therefore exert transient influences on academic attainment (e.g. via impaired motivation or concentration).",
+      "n_publication_ref": 8,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The present study",
+      "text": "The aim of this study was to examine the temporal relationships between psychological functioning and academic attainment in the first year of secondary school using a prospective, longitudinal research design that would address methodological issues identified from previous research. Our main research hypotheses were: (1) conduct problems would be associated with a decline in academic attainment; (2) depressive symptoms, but not anxiety, would be associated with a decline in attainment;\n(3) affect towards school would show reciprocal relationships with attainment.\nAnalyses proceeded in three steps. First, associations between academic attainment and three domains of psychological functioning were examined: (i) emotional problems (depression; general anxiety; school anxiety), (ii) affect towards school (school liking; school concerns) and (iii) conduct problems. Second, we tested for reciprocal effects operating between academic attainment and each index of psychological functioning. Cross-lagged models were used which adjust for stability in each construct across time and the association between constructs at the initial assessment. Third, assuming support for an association between conduct problems and academic attainment consistent with previous research, we simultaneously assessed relationships between emotional problems and affect towards school with conduct problems to identify the relative role of specific dimensions of psychological functioning in relation to academic attainment.\nConsistent with gender differences in levels of psychological functioning (Green, McGinnity, Meltzer, Ford, & Goodman, 2005) and academic attainment from the elementary school years to adolescence (Department for Children, Schools & Families, 2008;Snyder & Dillow, 2012), we also tested for gender differences in the magnitude of the associations.\nWe focused specifically on the first year of secondary school because this is a period that initially involves some apprehension for all pupils, which should decrease over time for the majority (Rice et al., 2011) and when schools can introduce interventions or screening programs with potentially greater success than later in pupils' secondary school career (Vitaro & Tremblay, 2008).",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Participants and Design",
+      "text": "Participants were pupils from two mixed, non-selective secondary schools in a central Southern county in England, UK. Questionnaire data were collected in two phases: during the autumn term of year 7 (year 7 entry at age 11 years) and the summer term of year 7 (year 7 end). Data were collected on measures of pupil psychological functioning using self and peer report (described below). Academic attainment data were available from school records. In the first questionnaire assessment, there were 262 pupils (143 boys), mean age 11.25 years (SD=0.44). At the second assessment, there were 202 reassessed pupils (113 boys), mean age 11.78 years (SD=0.74). Reasons for non-participation at time 2 were pupil absence (n=27), opting out (n=14), and leaving the school (n=17). There were no differences between pupils who remained in the study and pupils who dropped out in terms of Time 1 conduct problems (t(243)= .23, p=.82), depressive symptoms (t(257)= -0.08, p=.93), school concerns (t(258)= 0.04, p=.97) or attainment (t(229)= 1.59, p=.11).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Procedure",
+      "text": "The university ethics committee reviewed and approved the study protocol. At each assessment, parents were given the opportunity to opt their children out of the study and informed pupil consent was obtained.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    { "heading": "Measures", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Emotional problems",
+      "text": "Depressive symptoms were measured using the Short Mood and Feelings Questionnaire (Angold et al., 1995) consisting of 13 items measured on a 3-point scale.\nPossible scores range from 0 to 26 with higher scores reflecting higher levels of depression. (Cronbach's \u03b1= .84 time 1; \u03b1= .90 time 2.) The SMFQ discriminates clinically depressed from non-depressed subjects in community samples (Thapar & McGuffin, 1998).\nGeneral anxiety and School anxiety were measured using subscales of the Screen for Child Anxiety Related Emotional Disorders (Birmaher, 1997) ",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Affect towards school",
+      "text": "School concerns were measured using the School Concerns Questionnaire (Thomasson, Field, O'Donnell, & Woods, 2006;Rice et al., 2011) consisting of items on a 10-point scale which were summed to give a total concerns score (possible range 17 to 170; higher scores reflecting higher levels of concerns). (Cronbach's \u03b1= .92 time 1; \u03b1= .89 time 2).\nSchool liking was measured using the scale developed by the Child Development Project (Solomon, Battistich, Watson, Schnaps & Lewis, 2000) consisting of 7 items on a 4-point scale. Scores range from 7 to 28 with higher scores indicating greater liking of school. (Cronbach's \u03b1= .77 time 1; \u03b1= .79 time 2.) Conduct problems were measured using a self-report and two peer-reported measures. Self-report: The Strengths and Difficulties Questionnaire (SDQ: Goodman, 2001) conduct problems subscale consists of 5 items on a 3-point scale with possible scores ranging from 0 to 10; higher scores reflecting higher levels of conduct problems.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Peer assessments:",
+      "text": "The Guess Who peer assessment measure used by Coie and Dodge (1988) was adapted to allow unlimited nominations. Pupils identified who, from a list of classmates fitted behavioral descriptors Bully and Disruptive. The proportion of classmates nominating each child as fitting the descriptors was the outcome (Frederickson & Graham, 1999). Summing the standardized seven items provided the total conduct problem score (Chronbach's \u03b1 time 1= .63; \u03b1 time 2= .72) which are slightly superior to those reported by Goodman (2001) for the self-reported conduct scale alone \u03b1=.60.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Academic Attainment",
+      "text": "At the start of year 7 (Time 1; mean age 11) the attainment data collected were scores on the National Tests of English, Math and Science, which are administered in schools in England at the end of the last year in primary school. At the end of year 7 (Time 2; mean age 12) the attainment data collected were the Teacher Assessment scores for English, Math and Science which schools in England are required to obtain for each pupil and report to parents. UK year 7 is equivalent to US grade 6.\nScores for the end of year 7 were on National Curriculum attainment levels where each level has three subdivisions. For analysis, these levels were transformed into a continuous scale where levels were transformed to integers so that 2c = 1, 2b = 2\u2026 7c = 16. Standardized scores for English, Math and Science were summed to give a total current attainment score. (Cronbach's \u03b1= .83 time 1; \u03b1= .77 time 2). Attainment data at times 1 and 2 were available for 86% and 88% of pupils respectively. Missing attainment data was due to pupils sitting tests out of the area (Time 1, N=37) and pupils leaving the school (Time 2, N=32).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Data analysis",
+      "text": "Mean differences between schools and gender were examined using t-tests. In the present longitudinal study, the amount of missing data across study variables varied from 0 to 28%, with most missing data occurring at time 2 for assessments of emotional problems, conduct problems and affect towards school (24 to 28%). There was 10% missing data for academic attainment at time 2. Structural equation models were estimated using full information maximum likelihood estimation (FIML) in LISREL 8.50 (J\u00f6reskog & S\u00f6rbom, 2001). FIML estimation fits the model to the non-missing values for each observation, allowing the use of all cases including those with missing data (Widaman, 2006). It is appropriate for use when the amount of missing data is moderate or large (e.g. Widaman, 2006).\nA cross-lagged analytic approach was adopted. The advantage of this approach is the ability to control for stability in psychological functioning and attainment, and the association between these constructs at the initial assessment, while simultaneously testing whether effects are unidirectional or bidirectional (Kenny, 2004). Thus, these models assess the direction of influence across time, which is a crucial step in addressing questions of causality. The models are estimated throughout using manifest measures and all paths are tested simultaneously. This produces fully saturated models with no degrees of freedom; goodness of fit indices therefore cannot be estimated. We were primarily interested in the nature of the relationship between psychological functioning and academic attainment and how these associations might differ by gender, rather than in testing nested models of different theorised pathways of influence on a given variable. The fact that models were fully saturated was therefore not deemed an impediment to hypothesis testing.\nSubgroup comparison tests were employed to consider whether the magnitude of parameter estimates in each model was different for males and females and to check that there were no significant parameter differences between the two secondary schools.\nDifferences in parameter estimates were tested by examining the chi square statistic derived from models that constrained each path to be equal for boys and girls and comparing it to that derived from a model where all paths were free to vary between boys and girls. If the change in chi-square statistic is significant (i.e. greater or equal to 3.84 for 1df), this indicates a significant difference in the magnitude of the coefficient between groups.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Descriptives",
+      "text": "Table 1 shows means and standard deviations for psychological functioning variables and academic attainment scores. Sex differences were in the expected directions: boys showed higher levels of conduct problems and girls showed greater general anxiety, school anxiety, school concerns, school liking and academic attainment in English.\nThe correlation matrix between all study variables is shown in Table 2. At Time 1 there were significant associations between academic attainment and the following psychological functioning variables: school anxiety, school liking and conduct problems. At Time 2, there were significant associations between academic attainment and the following variables: depressive symptoms, school concerns and conduct problems. Four psychological functioning measures assessed at Time 1 showed significant associations with academic attainment at Time 2: depressive symptoms, school anxiety, school concerns and conduct problems.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Two variable cross-lagged model results",
+      "text": "Figure 1 illustrates the first cross-lagged model used to examine the relationship between psychological functioning and academic attainment. Table 3 illustrates results of the cross-lagged model tests. All models showed strong continuity in academic attainment (\u03b2= .70 to .78). The measures of psychological functioning also showed moderate stability over time (\u03b2= .59 to .74). There were significant cross-lagged effects of depressive symptoms (\u03b2= -.09, p<.05) and conduct problems (\u03b2= -.19, p<.01) at time 1 on academic attainment at time 2. Gender differences were found in the association between time 1 depressive symptoms and time 2 academic attainment, with a significant effect for boys but not girls (\u03b2= -.21, \u03b2= .03 respectively; \u0394 \u03c7 2 (1) =8.43, p<.01).\nSimilarly there was a relationship between time 1 school concerns and academic attainment for boys but not girls (\u03b2= -.17, \u03b2= .04 respectively; \u0394 \u03c7 2 (1) =5.59, p<.05).\nThere were bidirectional effects between school liking and academic attainment such that school liking significantly influenced later academic attainment (\u03b2= .13, p<.05) and academic attainment at Time 1 also influenced liking school at Time 2 (\u03b2= .13, p<.05).\nAcademic attainment at Time 1 was also associated with decreased school concerns at Time 2 (\u03b2= -.14, p<.05). Two gender differences were noted in the covariances between the disturbances for academic attainment and general anxiety at time 2 (boys, \u03b2= -.07 and girls, \u03b2= .14; \u0394 \u03c7 2 (1) =8.07, p<.01) and between academic attainment and school anxiety at time 2 (boys, \u03b2= -.17 and \u03b2= .11 girls; \u0394 \u03c7 2 (1) =12.70, p<.01).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Cross-lagged model results controlling for conduct problems",
+      "text": "Multivariate cross-lagged models controlling for conduct problems were run for those variables showing significant cross-lagged associations, specifically depressive symptoms, school liking and school concerns. All three models showed strong continuity in academic attainment (\u03b2= .70 to .74). The measures of psychological functioning also showed moderate stability over time (\u03b2= .61 depressive symptoms; \u03b2= .52 school liking; \u03b2= .59 school concerns). Across all model tests, time 1 conduct problems were also associated with decreased time 2 academic attainment. Time 1 conduct problems were associated with a decrease in liking school (\u03b2= -.20, p<.05) and depressive symptoms at time 1 were associated with increased conduct problems at time 2 (\u03b2= .11, p<.05). Having controlled for the effects of conduct problems and across time stability in academic attainment, liking school was associated with increased academic attainment (\u03b2= .09, p<.05) whereas depressive symptoms and school concerns were not associated with academic attainment (\u03b2 = -.06 and \u03b2 = -.07, p>.05, respectively).\nHowever, the gender difference identified for depressive symptoms and school concerns with later academic attainment were maintained, whereby a relationship was identified for boys but not girls (depressive symptoms: \u03b2= -.17 and \u03b2= .06 respectively; \u0394 \u03c7 2 (1) =7.12, p<.01; school concerns: \u03b2= -.17 and \u03b2= .04 respectively; \u0394 \u03c7 2 (1) =6.11, p<.05).\nThere were no differences in the magnitude of parameter estimates between the two secondary schools.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Sex differences",
+      "text": "Following results indicating gender difference in the association between psychological functioning and academic attainment, we carried out a set of post-hoc analyses to examine sex differences in the manifestation of depressive symptoms and school concerns, and the pattern of concurrent psychological functioning. Using a previously derived cut-point for the Short Mood and Feelings Questionnaire (Thapar & McGuffin, 1998), boys and girls who met the clinical cut-point for depression at time 1 were compared. 16.3% of boys and 22.0% of girls reached the DSM-III-R (American Psychiatric Association, 1987) cut-point (Thapar & McGuffin, 1998). Girls reaching the cut point were more likely to endorse the item 'I cried a lot' (\uf063\u00b2(1)=6.97, p< .05), report greater liking of school (t(44)= -3.62, p< .001) and have lower comorbid conduct problems (t(40)=2.86, p< .01) than boys reaching the clinical cut point for depression.\nWhen using the lower ICD-10 (WHO, 1992) clinical cut point identified by Thapar & McGuffin (1998), this pattern of results replicated but also indicated that depressed boys reported more concentration problems than depressed girls (\uf063\u00b2(1)=6. 48, p<.05).\nComparisons between boys and girls who were in the highest scoring 10% for school concerns within their gender (N=16 for boys, N=14 for girls) found that high scoring girls were more likely to be concerned about 'Dinner times' (t(28)= -2.12, p< .05) and to report greater liking of school (t(25)= -2.10, p< .05) than high scoring boys.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Discussion",
+      "text": "Starting secondary school is a time of great change for pupils, associated with an increase in psychological problems and a dip in academic attainment. Research is needed to disentangle the direction of effects between psychological functioning and changes in academic attainment during this transition. Our findings underline the importance of psychological adjustment to academic achievement by showing that a number of indices of psychological functioning assessed when pupils enter secondary school significantly predict academic progress in the first year of secondary school.\nNovel aspects of this study included: (1) the use of a cross-lagged panel design which controlled for prior attainment and psychological functioning, (2) the focus on an important but under-studied transition period and (3) the simultaneous measurement of emotional problems, affect towards school and conduct problems to identify which specific aspects of psychological functioning are important as far as academic attainment is concerned. The association of depressive symptoms, affect towards school and conduct problems with later academic attainment is evident despite strong continuity of academic attainment.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conduct problems",
+      "text": "Results supported our first hypothesis that conduct problems would be associated with a decline in academic attainment at the transition to secondary school. This is consistent with previous longitudinal studies examining different time periods (e.g. Hinshaw, 1992;Miech et al., 1999;Moilanen et al., 2010).",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Emotional problems and academic attainment",
+      "text": "Results also supported our second hypothesis that depressive symptoms, but not anxiety symptoms, would be associated with decreased academic attainment at the end of the first year of secondary school. It appears that school based worrying which is relevant for changes in attainment is reflected in affect towards school but not in general anxiety. The association between depression and later academic attainment is moderated by gender, with a stronger association for boys than girls.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Affect towards school",
+      "text": "Findings also partly supported our third hypothesis that affect towards school would show reciprocal associations with attainment. Liking school was reciprocally associated with better academic attainment across time. When controlling for conduct problems, the association between school liking and later academic attainment remained, but this association was no longer reciprocal (early attainment was no longer associated with later school liking). School concerns did not show reciprocal associations with attainment. However, there was evidence of different pathways with attainment for boys and girls.\nThe finding that school liking has significant implications for subsequent academic attainment is consistent with evidence that \"belonging\" or \"connectedness\" to school is associated with pupil wellbeing and academic achievement (McLaughlin & Clarke, 2010;Resnick et al., 1997;Roeser, Eccles & Sameroff, 2000). For school concerns, the findings suggest different pathways for boys and girls.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Gender differences",
+      "text": "Differences were found in the relationships with attainment for both emotional problems and affect towards school. Depressive symptoms and school concerns at the start of year 7 predicted lower attainment at the end of year 7 for boys but not girls. For girls, attainment at the start of year 7 predicted later school concerns. At the end of year 7, within time gender differences were also found for anxiety, which correlated with lower attainment for boys (school anxiety) and higher attainment for girls (school and general anxiety). These results indicate that for emotional problems and affect towards school, boys are more vulnerable to poor academic attainment. In contrast, for girls, these symptoms do not adversely affect attainment and for some measures even seem to be associated with better attainment. This is consistent with a number of clinical observations where although the prevalence of emotional problems tends to be lower in boys, boys with emotional problems have worse functional outcomes (Diamantopoulou, Verhulst & van der Ende, 2011;Dunn & Goodyer, 2006).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Targets for interventions",
+      "text": "It is important to identify factors that could be targeted as part of interventions in schools to maximize opportunities for children to realize their academic potential.\nCurrent interventions in the UK range from Bridging Units which provide continuity between primary and secondary school curriculum (Galton, Gray & Ruddock, 2003) to those that focus on pupils identified as vulnerable by primary school teachers (Boyce & Frederickson, 2012). The present results suggest that interventions could be usefully extended to target other risk factors. Conduct problems, consistently showing associations with later academic attainment, may be a useful target at the beginning of secondary school to improve academic outcomes for pupils. School liking, and for boys, school concerns, are additional potential targets for interventions, showing associations with later attainment above and beyond the influence of conduct problems. Depressive symptoms may not predict poor achievement in school per se, but for boys, it may herald the beginning of a developmental pathway that leads to reduced academic attainment perhaps via associated reductions in school liking and/or increases in conduct problems. While conduct problems and school liking may be better targets for interventions at transition across both genders, depressive symptoms and school concerns in boys are a potential marker for subsequent academic problems and may represent a target group for specialized support.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations",
+      "text": "First, we used self-report and peer-report questionnaires to assess psychological functioning in this study as opposed to clinical interview measures. This approach may mean that some of the associations reported here do not extend to young people with clinical disorders. Second, we included pupils from two mixed, non-selective schools in England and it is not yet clear to what extent these results will generalize to other schools and other countries. Nonetheless, US and UK research on school transition generally show similar patterns of association (e.g. Eccles et al., 1993). Third, there was some attrition across the course of the study, although there was no evidence of selective drop out.\nTwo features of the research design warrant discussion. First, the cross-lagged coefficients are open to the influence of measurement error. Associations in the cross-lagged paths may indicate stronger effects where one variable has greater stability and/or more reliable measurement. It is possible that this may explain our robust findings for conduct problems (given the measure combined self and peer ratings). However, our findings are consistent with previous research (Richards & Abbott, 2009). It is also possible that the time-lag adopted in this study (assessments at the start and end of the first year of secondary school) may have influenced the pattern of results.\nFuture work could explore these temporal relationships by including an additional assessment half way through the first year of secondary school and beyond. Future work should also assess academic attainment and psychological functioning prior to entry to secondary school to establish the direction of effects during the transition period with more confidence.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Summary",
+      "text": "There is great potential for schools to deliver interventions to support pupils with psychological problems. Nevertheless, universal programs based in schools that aim to prevent the development of psychological problems have had only limited success (Spence & Shortt, 2007). The transition to secondary school may represent a window of opportunity for developing and implementing interventions aimed at improving both pupil psychological functioning and attainment. Our findings imply that there are children who are vulnerable to poor academic progression and disengagement during the first year of secondary school. It is also possible that focusing on variables that predict academic progression in school-based programs to support the transition to secondary school could help to integrate mental health services and schooling.  Note. D = depressive symptoms, GA = general anxiety, SA = school anxiety, SC = school concerns, SL = school liking, CP = conduct problems, A = attainment. 1 = baseline assessment at year 7 entry (mean age 11.25), 2 = follow-up assessment at year 7 end (mean age 11.78). Correlations in bold are significant at p<.05. ",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Diagnostic and statistical manual of mental disorders",
+      "journal": "American Psychiatric Association",
+      "year": "1987",
+      "authors": ""
+    },
+    {
+      "title": "School transitions: Beginning of the end or a new beginning?",
+      "journal": "International Journal of Educational Research",
+      "year": "2000",
+      "authors": "L W Anderson; J Jacobs; S Schramm; F Splittgeber"
+    },
+    {
+      "title": "The development of a short questionnaire for use in epidemiological studies in children and adolescents",
+      "journal": "International Journal of Methods in Psychiatric Research",
+      "year": "1995",
+      "authors": "A Angold; E J Costello; S C Messer; A Pickles; F Winder; D Silver"
+    },
+    {
+      "title": "Distress and academic achievement among adolescents of affluence: A study of externalizing and internalizing problem behaviours and school performance",
+      "journal": "Development and Psychopathology",
+      "year": "2009",
+      "authors": "N S Ansary; S S Luthar"
+    },
+    {
+      "title": "Effects of an elementary school intervention on students' connectedness to school and social adjustment during middle school",
+      "journal": "Journal of Primary Prevention",
+      "year": "2004",
+      "authors": "V Battistich; E Schaps; N Wilson"
+    },
+    {
+      "title": "The Transition to High School as a Developmental Process Among Multiethnic Urban Youth",
+      "journal": "Child Development",
+      "year": "2009",
+      "authors": "A D Benner; S Graham"
+    },
+    {
+      "title": "The screen for child anxiety elated emotional disorders (SCARED): Scale construction and psychometric characteristics",
+      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "year": "1997",
+      "authors": "B Birmaher; S Khetarpal; D Brent; M Cully; L Balach; J Kaufman; S M Neer"
+    },
+    {
+      "title": "Influence of mental disorders on school dropout in Mexico",
+      "journal": "Pan American Journal of Public Health",
+      "year": "2011",
+      "authors": "G Borges; M E Mendina Mora-Icaza; C Benjet; S Lee; M Lane; J Breslau"
+    },
+    {
+      "title": "Intervening to improve the transfer to secondary school",
+      "journal": "Educational Psychology in Practice",
+      "year": "2012",
+      "authors": "J Boyce; N Frederickson"
+    },
+    {
+      "title": "Competence and psychopathology: Cascade effects in the NICHD Study of Early Child Care and Youth Development",
+      "journal": "Development and Psychopathology",
+      "year": "2010",
+      "authors": "K B Burt; G I Roisman"
+    },
+    {
+      "title": "Multiple sources of data on social behaviour and social status in the school: A cross-age comparison",
+      "journal": "Child Development",
+      "year": "1988",
+      "authors": "J D Coie; K A Dodge"
+    },
+    {
+      "title": "Are cognitive errors of underestimation predictive or reflective of depressive symptoms in children: a longitudinal study",
+      "journal": "Journal of Abnormal Psychology",
+      "year": "1998",
+      "authors": "Cole D A Martin; J M Peeke; L G Seroczynski; A D Hoffman; K "
+    },
+    {
+      "title": "Foundation stage profile results in England",
+      "journal": "",
+      "year": "2007",
+      "authors": ""
+    },
+    {
+      "title": "Gender differences in the development and adult outcome of co-occurring depression and delinquency in adolescence",
+      "journal": "Journal of Abnormal Psychology",
+      "year": "2011",
+      "authors": "S Diamantopoulou; F C Verhulst; J Van Der Ende"
+    },
+    {
+      "title": "Longitudinal investigation into childhood and adolescence onset depression: psychiatric outcome in early adulthood",
+      "journal": "British Journal of Psychiatry",
+      "year": "2006",
+      "authors": "V Dunn; I Goodyer"
+    },
+    {
+      "title": "Development during adolescence: The impact of stage-environment fit on adolescents' experiences in schools and families",
+      "journal": "American Psychologist",
+      "year": "1993",
+      "authors": "J S Eccles; C Midgley; A Wigfield; C M Buchanan; D Reuman; C Flanagan; D Maciver"
+    },
+    {
+      "title": "What Makes a Successful Transition from Primary to Secondary School",
+      "journal": "DCS",
+      "year": "2008",
+      "authors": "M Evangelou; B Taggart; K Sylva; E Melhuish; P Sammons; I Siraj-Blatchford"
+    },
+    {
+      "title": "Social Skills and Emotional Intelligence",
+      "journal": "",
+      "year": "1999",
+      "authors": "N L Frederickson; B Graham"
+    },
+    {
+      "title": "Psychology in education portfolio",
+      "journal": "NFER-Nelson",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Depression and school performance in middle adolescent boys and girls",
+      "journal": "Journal of Adolescence",
+      "year": "2008",
+      "authors": "S A Fr\u00f6jd; E S Nissinen; M U Pelkonen; M J Marttunen; A M Koivisto; R Kaltiala-Heino"
+    },
+    {
+      "title": "Transfer and transitions in the middle years of schooling (7-14): continuities and discontinuities in learning",
+      "journal": "DfES",
+      "year": "2003",
+      "authors": "M Galton; J Gray; J Ruddock"
+    },
+    {
+      "title": "Transfer and transition in English schools: Reviewing the evidence",
+      "journal": "International Journal of Educational Research",
+      "year": "2000",
+      "authors": "M Galton; I Morrison; T Pell"
+    },
+    {
+      "title": "Psychometric properties of the Strengths and Difficulties Questionnaire",
+      "journal": "Journal of the American Academy of Child & Adolescent Psychiatry",
+      "year": "2001",
+      "authors": "R Goodman"
+    },
+    {
+      "title": "Mental health of children and young people in Great Britain",
+      "journal": "HMSO",
+      "year": "2004",
+      "authors": "H Green; A Mcginnity; H Meltzer; T Ford; R Goodman"
+    },
+    {
+      "title": "An exploration of school membership among middle-and high-school students",
+      "journal": "Journal of Psychoeducational Assessment",
+      "year": "1994",
+      "authors": "W J Hagborg"
+    },
+    {
+      "title": "Externalizing behaviour problems and academic underachievement in childhood and adolescence: Causal relationships and underlying mechanisms",
+      "journal": "Psychological Bulletin",
+      "year": "1992",
+      "authors": "S P Hinshaw"
+    },
+    {
+      "title": "Relationship of school context to rural youth's educational achievement and aspirations",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2011",
+      "authors": "M J Irvin; J L Meece; S Byun; T W Farmer; B C Hutchins"
+    },
+    {
+      "title": "",
+      "journal": "",
+      "year": "2002",
+      "authors": "S R Jaffee; T E Moffitt; A Capi; E Fombonne; R Poulton; J Martin"
+    },
+    {
+      "title": "Differences in early childhood risk factors for juvenile-onset and adult-onset depression",
+      "journal": "Archives of General Psychiatry",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "LISREL 8.5. Chicago: Scientific Software International",
+      "journal": "",
+      "year": "2001",
+      "authors": "K G J\u00f6reskog; D S\u00f6rbom"
+    },
+    {
+      "title": "Correlation and causality. (Ch. 12)",
+      "journal": "John Wiley & Sons Inc",
+      "year": "2004",
+      "authors": "D A Kenny"
+    },
+    {
+      "title": "Social consequences of psychiatric disorders, I: Educational attainment",
+      "journal": "American Journal of Psychiatry",
+      "year": "1995",
+      "authors": "R C Kessler; C L Foster; W B Saunders; P E Stang"
+    },
+    {
+      "title": "Identities in Transition: anxiety and excitement in the move to secondary school",
+      "journal": "Oxford Review of Education",
+      "year": "2000",
+      "authors": "H Lucey; D Reay"
+    },
+    {
+      "title": "Developmental cascades: Linking academic achievement and externalizing and internalizing symptoms over 20 years",
+      "journal": "Developmental Psychology",
+      "year": "2005",
+      "authors": "A S Masten; G I Roisman; J D Long; K B Burt; J Obradovic; J R Riley; K Boelcke-Stennes; A Tellegen"
+    },
+    {
+      "title": "Relational matters: a review of the impact of school experience on mental health in early adolescence",
+      "journal": "Educational & Child Psychology",
+      "year": "2010",
+      "authors": "C Mclaughlin; B Clarke"
+    },
+    {
+      "title": "Low Socioeconomic Status and Mental Disorders: A Longitudinal Study of Selection and Causation during Young Adulthood",
+      "journal": "American Journal of Sociology",
+      "year": "1999",
+      "authors": "R A Miech; A Caspi; T E Moffitt; B R E Wright; P A Silva"
+    },
+    {
+      "title": "Education, Social Status, and Health",
+      "journal": "Aldine de Gruyter",
+      "year": "2003",
+      "authors": "J Mirowsky; C Ross"
+    },
+    {
+      "title": "Developmental cascades: Externalizing, internalizing, and academic competence from middle childhood to early adolescence",
+      "journal": "Development and Psychopathology",
+      "year": "2010",
+      "authors": "K L Moilanen; S S Shaw; K L Maxwell"
+    },
+    {
+      "title": "Emotional distress, drinking, and academic achievement across the adolescent life course",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2008",
+      "authors": "T J Owens; N D Shippee; D J Hensel"
+    },
+    {
+      "title": "Making the grade but feeling distressed: Gender differences in academic performance and internal distress",
+      "journal": "Journal of Educational Psychology",
+      "year": "2002",
+      "authors": "E M Pomerantz; E R Altermatt; J L Saxon"
+    },
+    {
+      "title": "The influence of teacher support on student adjustment in the middle school years: A latent growth curve study",
+      "journal": "Development and Psychopathology",
+      "year": "2003",
+      "authors": "R Reddy; J E Rhodes; P Mulhall"
+    },
+    {
+      "title": "",
+      "journal": "",
+      "year": "1997",
+      "authors": "M D Resnick; P S Bearman; R W Blum; K E Bauman; K M Harris; J Jones; J Tabor; T Beuhring; R E Sieving; M Shew; M Ireland; L H Bearinger; J R Udry"
+    },
+    {
+      "title": "Protecting Adolescents From Harm: Findings From the National Longitudinal Study on Adolescent Health",
+      "journal": "JAMA",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Genetics of childhood and adolescent depression: Insights into etiological heterogeneity and challenges for future genomic research",
+      "journal": "Genome Medicine",
+      "year": "2010",
+      "authors": "F Rice"
+    },
+    {
+      "title": "Assessing pupil concerns about transition to secondary school",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2011",
+      "authors": "F Rice; N Frederickson; J Seymour"
+    },
+    {
+      "title": "Childhood mental health and life chances in post-war Britain. Insights from three national birth cohort studies",
+      "journal": "",
+      "year": "2009",
+      "authors": "M Richards; R Abbot"
+    },
+    {
+      "title": "School as a context of early adolescents' academic and social-emotional development: a summary of research findings",
+      "journal": "The Elementary School Journal",
+      "year": "2000",
+      "authors": "R W Roeser; J S Eccles; A J Sameroff"
+    },
+    {
+      "title": "The Impact of School Transitions in Early Adolescence on the Self-System and Perceived Social Context of Poor Urban Youth",
+      "journal": "Child Development",
+      "year": "1994",
+      "authors": "E Seidman; L Allen; J L Aber; C Mitchell; J Feinman"
+    },
+    {
+      "title": "School connectedness is an underemphasized parameter in adolescent mental health: Results of a community prediction study",
+      "journal": "Journal of Clinical Child and Adolescent Psychology",
+      "year": "2006",
+      "authors": "I M Shochet; M R Dadds; D Ham; R Montague"
+    },
+    {
+      "title": "Digest of education statistics",
+      "journal": "",
+      "year": "2011",
+      "authors": "T D Snyder; S A Dillow"
+    },
+    {
+      "title": "A six-district study of educational change: Direct and mediated effects of the child development project",
+      "journal": "Social Psychology of Education",
+      "year": "2000",
+      "authors": "D Solomon; V Battistich; M Watcson; E Schnaps; C Lewis"
+    },
+    {
+      "title": "Research review: Can we justify the widespread dissemination of universal, school-based interventions for the prevention of depression among children and adolescents",
+      "journal": "Journal of Child Psychology and Psychiatry",
+      "year": "2007",
+      "authors": "S H Spence; A L Shortt"
+    },
+    {
+      "title": "Concurrent and longitudinal correlates of depressive symptoms among low-income, urban, African American children",
+      "journal": "Journal of Clinical Child Psychology",
+      "year": "2000",
+      "authors": "R G Steele; L Armistead; R Forehand"
+    },
+    {
+      "title": "Psychopathology and college grades",
+      "journal": "Journal of Counselling Psychology",
+      "year": "2001",
+      "authors": "S Svanum; Z B Zody"
+    },
+    {
+      "title": "Validity of the shortened mood and feelings questionnaire in a community sample of children and adolescents: A preliminary research note",
+      "journal": "Psychiatry Research",
+      "year": "1998",
+      "authors": "A Thapar; P Mcguffin"
+    },
+    {
+      "title": "School Concerns Questionnaire",
+      "journal": "Buckinghamshire County Council",
+      "year": "2006",
+      "authors": "R Thomasson; L Field; C O'donnell; S Woods"
+    },
+    {
+      "title": "The impact of anxiety disorders on educational achievement",
+      "journal": "Anxiety Disorders",
+      "year": "2003",
+      "authors": "M Van Armeringen; C Mancini; P Frarvolden"
+    },
+    {
+      "title": "Peer Victimization, Poor Academic Achievement, and the Link Between Childhood Externalizing and Internalizing Problems",
+      "journal": "Child Development",
+      "year": "2012",
+      "authors": "P A C Van Lier; F Vitaro; E D Barker; M Brendgen; R E Tremblay; M Boivin"
+    },
+    {
+      "title": "Adolescence and the social determinants of health",
+      "journal": "Lancet",
+      "year": "2012",
+      "authors": "R M Viner; E M Ozer; S Denny; M Marmot; M Resnick; A Fatusi; C Currie"
+    },
+    {
+      "title": "Clarifying and maximising the usefulness of targeted preventive interventions",
+      "journal": "",
+      "year": "2008",
+      "authors": "F Vitaro; R E Tremblay"
+    },
+    {
+      "title": "Rutter's Child and Adolescent Psychiatry",
+      "journal": "Blackwell",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "The correlates and consequences of early appearing social anxiety in young children",
+      "journal": "Journal of Anxiety Disorders",
+      "year": "2009",
+      "authors": "M Weeks; R J Coplan; A Kingsbury"
+    },
+    {
+      "title": "Transition matters: Pupil's expectations of the primary-secondary school transition in the West of Scotland and consequences for wellbeing and attainment",
+      "journal": "Research Papers in Education",
+      "year": "2008",
+      "authors": "P West; H Sweeting; R Young"
+    },
+    {
+      "title": "Missing data: What to do with or without them. Monographs of the Society for Research in Child Development",
+      "journal": "",
+      "year": "2006",
+      "authors": "K F Widaman"
+    },
+    {
+      "title": "International statistical classification of diseases and related health problems",
+      "journal": "World Health Organization",
+      "year": "1992",
+      "authors": ""
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "consisting of 9 general anxiety items and 4 school anxiety items on a 3-point scale. Possible scores for general anxiety range from 0 to 18 and for school anxiety from 0 to 8. In each case, higher scores indicate greater anxiety. (General anxiety: Cronbach's \u03b1= .86 time 1; \u03b1= .92 time 2; school anxiety: \u03b1= .69 time 1; \u03b1= .75 time 2.)",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "134",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Figure 1 AFFigure 3 Figure 4134Figure 1",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Descriptive statistics for psychological functioning and academic achievement",
+      "figure_data": "TotalBoysGirlsSex differenceMean (SD)Mean (SD)Mean (SD)t-valuePsychological variables time 1Depressive symptoms 4.49 (4.23)4.20 (3.86)4.84 (4.62)-1.22General anxiety4.99 (4.38)4.31 (4.01)5.80 (4.67)-2.74 **School anxiety1.46 (1.69)1.16 (1.59)1.81 (1.74)-3.09 **School concerns51.81 (26.76) 47.23 (25.14) 57.32 (27.69) -3.08 **School liking14.61 (3.71)13.71 (3.77)15.64 (3.36)-4.26 ***Conduct problems-.18 (3.78).84 (4.02)-1.31 (3.13)4.56 ***Psychological variables time 2Depressive symptoms 5.02 (5.57)4.45 (5.64)5.73 (5.43)-1.62General anxiety4.60 (4.86)3.92 (4.61)5.44 (5.04)-2.21 *School anxiety1.57 (1.81)1.23 (1.67)1.98 (1.89)-2.91 **School concerns42.70 (22.80) 39.33 (21.01) 46.78 (24.30) -2.27 *School liking13.18 (4.36)12.32 (4.30)13.87 (4.47)-2.00 *Conduct problems-.02 (4.32).89 (4.63)-1.17 (3.60)3.33 **Academic attainment time 1English.00 (1.00)-.14 (.96).16 (1.03)-2.26 *Math.00 (1.00).04 (.98)-.05 (1.03).69Science.00 (1.00).06 (1.05)-.07 (.94).92Total-.01 (2.60)-.03 (2.56).03 (2.67)-.17Academic attainment time 2English.00 (1.00)-.14 (.98).17 (1.00)-2.32 *Math.00 (1.00)-.04 (.94).04 (1.07)-.48Science.00 (1.00)-.06 (.99).07 (1.02)-.93Total.09 (2.49)-.11 (2.34).34 (2.64)-1.36Note."
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "",
+      "figure_data": "Correlation matrix for all study variables at time 1 and time 2D 1GA 1SA 1SC 1SL 1CP 1A 1D 2GA 2SA 2SC 2SL 2CP 2A 2D 11GA 1.691SA 1.57.561SC 1.49.55.331SL 1-.28-.19-.09-.221CP 1.29.05.12-.07-.091A 1-.13-.12-.20-.13-.20-.261D 2.65.58.45.36-.05.30-.171GA 2.54.64.50.44-.11.15-.11.651SA 2.51.48.65.36-.10.19-.16.60.621SC 2.45.46.28.58-.06.06-.17.52.50.411SL 2-.42-.27-.23.21.54-.28.01-.38-.26-.36-.131CP 2.39.14.23-.01-.15.73-.16.43.19.28.12-.341A 2-.21-.10-.19-.14-.04-.34.76-.17-.03-.12-.17.09-.311"
+    }
+  ],
+  "doi": "10.1016/j.adolescence.2013.03.002"
+}

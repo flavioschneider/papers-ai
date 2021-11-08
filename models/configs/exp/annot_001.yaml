@@ -1,0 +1,39 @@
+# @package _global_
+type: script 
+
+script:
+  _target_: src.scripts.json_papers_annotate.JSONPapersAnnotate
+  config:
+    in_dir_json: ${work_dir}/../ui/public/json
+    out_json: ${work_dir}/../ui/public/annot.json
+    model_settings:
+      accept_score: 0.45
+    annotations:      
+      - name: 'country'
+        questions: [
+          'In what country is the study?'
+        ]
+      - name: 'sample_size'
+        questions: [
+          'What is the number N?', 
+          'What is the sample size?', 
+          'How many people are in the study?'
+        ]
+      - name: 'effect_size'
+        questions: [
+          'What is the affect size?'
+        ]
+      - name: 'grade'
+        questions: [
+          'What grade is it? (6th, 5th)'
+        ]
+      - name: 'school'
+        questions: [
+          'What school? (elementary, middle, or high school)'
+        ]
+      - name: 'subject'
+        questions: [
+          'What is the subject?'
+        ]
+
+

@@ -1,0 +1,566 @@
+[
+  {
+    "id": 0,
+    "file": "anderman 1997.json",
+    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
+    "country": {
+      "score": 0.3389052152633667,
+      "start": 6520,
+      "end": 6525,
+      "answer": "China",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.49714770913124084,
+      "start": 152,
+      "end": 155,
+      "answer": "341",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.3438107669353485,
+      "start": 8696,
+      "end": 8701,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.33917754888534546,
+      "start": 51,
+      "end": 56,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.16789540648460388,
+      "start": 1052,
+      "end": 1078,
+      "answer": "elementary to middle level",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.7697399258613586,
+      "start": 828,
+      "end": 841,
+      "answer": "math, English",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 0,
+    "file": "anderman 1997.json",
+    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
+    "country": {
+      "score": 0.3389052152633667,
+      "start": 6520,
+      "end": 6525,
+      "answer": "China",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.49714770913124084,
+      "start": 152,
+      "end": 155,
+      "answer": "341",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.3438107669353485,
+      "start": 8696,
+      "end": 8701,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.33917754888534546,
+      "start": 51,
+      "end": 56,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.16789540648460388,
+      "start": 1052,
+      "end": 1078,
+      "answer": "elementary to middle level",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.7697399258613586,
+      "start": 828,
+      "end": 841,
+      "answer": "math, English",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 0,
+    "file": "anderman 1997.json",
+    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
+    "country": {
+      "score": 0.3389052152633667,
+      "start": 6520,
+      "end": 6525,
+      "answer": "China",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.49714770913124084,
+      "start": 152,
+      "end": 155,
+      "answer": "341",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.3438107669353485,
+      "start": 8696,
+      "end": 8701,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.33917754888534546,
+      "start": 51,
+      "end": 56,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.16789540648460388,
+      "start": 1052,
+      "end": 1078,
+      "answer": "elementary to middle level",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.7697399258613586,
+      "start": 828,
+      "end": 841,
+      "answer": "math, English",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 0,
+    "file": "anderman 1997.json",
+    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
+    "country": {
+      "score": 0.3389052152633667,
+      "start": 6520,
+      "end": 6525,
+      "answer": "China",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.49714770913124084,
+      "start": 152,
+      "end": 155,
+      "answer": "341",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.3438107669353485,
+      "start": 8696,
+      "end": 8701,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.33917754888534546,
+      "start": 51,
+      "end": 56,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.16789540648460388,
+      "start": 1052,
+      "end": 1078,
+      "answer": "elementary to middle level",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.7697399258613586,
+      "start": 828,
+      "end": 841,
+      "answer": "math, English",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 0,
+    "file": "anderman 1997.json",
+    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
+    "country": {
+      "score": 0.3389052152633667,
+      "start": 6520,
+      "end": 6525,
+      "answer": "China",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.49714770913124084,
+      "start": 152,
+      "end": 155,
+      "answer": "341",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.3438107669353485,
+      "start": 8696,
+      "end": 8701,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.33917754888534546,
+      "start": 51,
+      "end": 56,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.16789540648460388,
+      "start": 1052,
+      "end": 1078,
+      "answer": "elementary to middle level",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.7697399258613586,
+      "start": 828,
+      "end": 841,
+      "answer": "math, English",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 0,
+    "file": "anderman 1997.json",
+    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
+    "country": {
+      "score": 0.3389052152633667,
+      "start": 6520,
+      "end": 6525,
+      "answer": "China",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.49714770913124084,
+      "start": 152,
+      "end": 155,
+      "answer": "341",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.3438107669353485,
+      "start": 8696,
+      "end": 8701,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.33917754888534546,
+      "start": 51,
+      "end": 56,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.16789540648460388,
+      "start": 1052,
+      "end": 1078,
+      "answer": "elementary to middle level",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.7697399258613586,
+      "start": 828,
+      "end": 841,
+      "answer": "math, English",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 1,
+    "file": "Anderman _ Anderman 1999.json",
+    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "country": {
+      "score": 0.0004442651115823537,
+      "start": 140,
+      "end": 144,
+      "answer": "1994",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5267519354820251,
+      "start": 479,
+      "end": 482,
+      "answer": "660",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.10734914243221283,
+      "start": 169,
+      "end": 188,
+      "answer": "1 \u03ed not at all true",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.4182244837284088,
+      "start": 85,
+      "end": 94,
+      "answer": "6th grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.10195069015026093,
+      "start": 106,
+      "end": 112,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.37978893518447876,
+      "start": 25,
+      "end": 38,
+      "answer": "academic core",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 1,
+    "file": "Anderman _ Anderman 1999.json",
+    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "country": {
+      "score": 0.0004442651115823537,
+      "start": 140,
+      "end": 144,
+      "answer": "1994",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5267519354820251,
+      "start": 479,
+      "end": 482,
+      "answer": "660",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.10734914243221283,
+      "start": 169,
+      "end": 188,
+      "answer": "1 \u03ed not at all true",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.4182244837284088,
+      "start": 85,
+      "end": 94,
+      "answer": "6th grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.10195069015026093,
+      "start": 106,
+      "end": 112,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.37978893518447876,
+      "start": 25,
+      "end": 38,
+      "answer": "academic core",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 1,
+    "file": "Anderman _ Anderman 1999.json",
+    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "country": {
+      "score": 0.0004442651115823537,
+      "start": 140,
+      "end": 144,
+      "answer": "1994",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5267519354820251,
+      "start": 479,
+      "end": 482,
+      "answer": "660",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.10734914243221283,
+      "start": 169,
+      "end": 188,
+      "answer": "1 \u03ed not at all true",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.4182244837284088,
+      "start": 85,
+      "end": 94,
+      "answer": "6th grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.10195069015026093,
+      "start": 106,
+      "end": 112,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.37978893518447876,
+      "start": 25,
+      "end": 38,
+      "answer": "academic core",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 1,
+    "file": "Anderman _ Anderman 1999.json",
+    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "country": {
+      "score": 0.0004442651115823537,
+      "start": 140,
+      "end": 144,
+      "answer": "1994",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5267519354820251,
+      "start": 479,
+      "end": 482,
+      "answer": "660",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.10734914243221283,
+      "start": 169,
+      "end": 188,
+      "answer": "1 \u03ed not at all true",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.4182244837284088,
+      "start": 85,
+      "end": 94,
+      "answer": "6th grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.10195069015026093,
+      "start": 106,
+      "end": 112,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.37978893518447876,
+      "start": 25,
+      "end": 38,
+      "answer": "academic core",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 1,
+    "file": "Anderman _ Anderman 1999.json",
+    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "country": {
+      "score": 0.0004442651115823537,
+      "start": 140,
+      "end": 144,
+      "answer": "1994",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5267519354820251,
+      "start": 479,
+      "end": 482,
+      "answer": "660",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.10734914243221283,
+      "start": 169,
+      "end": 188,
+      "answer": "1 \u03ed not at all true",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.4182244837284088,
+      "start": 85,
+      "end": 94,
+      "answer": "6th grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.10195069015026093,
+      "start": 106,
+      "end": 112,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.37978893518447876,
+      "start": 25,
+      "end": 38,
+      "answer": "academic core",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 1,
+    "file": "Anderman _ Anderman 1999.json",
+    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "country": {
+      "score": 0.0004442651115823537,
+      "start": 140,
+      "end": 144,
+      "answer": "1994",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5267519354820251,
+      "start": 479,
+      "end": 482,
+      "answer": "660",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.10734914243221283,
+      "start": 169,
+      "end": 188,
+      "answer": "1 \u03ed not at all true",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.4182244837284088,
+      "start": 85,
+      "end": 94,
+      "answer": "6th grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.10195069015026093,
+      "start": 106,
+      "end": 112,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.37978893518447876,
+      "start": 25,
+      "end": 38,
+      "answer": "academic core",
+      "question": "What is the subject?"
+    }
+  }
+]

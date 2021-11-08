@@ -1,0 +1,761 @@
+{
+  "title": "Math Self-Concept, Grades, and Achievement Test Scores: Long-Term Reciprocal Effects Across Five Waves and Three Achievement Tracks",
+  "abstract": "This study examines reciprocal effects between self-concept and achievement by considering a long time span covering grades 5 through 9. Extending previous research on the reciprocal effects model (REM), this study tests (1) the assumption of developmental equilibrium as time-invariant crosslagged paths from self-concept to achievement and from achievement to self-concept, (2) the generalizability of reciprocal relations when using school grades and standardized achievement test scores as achievement indicators, and (3) the invariance of findings across secondary school achievement tracks. Math self-concept, school grades in math, and math achievement test scores were measured once each school year with a representative sample of 3,425 German students. Students' gender, IQ, and socioeconomic status (SES) were controlled in all analyses. The findings supported the assumption of developmental equilibrium for reciprocal effects between self-concept and achievement across time. The pattern of results was found to be invariant across students attending different achievement tracks and could be replicated when using school grades and achievement test scores in separate and in combined models. The findings of this study thus underscore the generalizability and robustness of the REM.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Academic self-concept is defined as students' self-perceptions of competence in academic domains (Shavelson, Hubner, & Stanton, 1976). It has been a prominent construct in educational psychology over the last several decades as it has been found to share substantial relations to outcome variables including academic achievement (Marsh, 2007;Marsh & O'Mara, 2008b;Valentine, DuBois, & Cooper, 2004). In this context, many studies have supported reciprocal relations between academic self-concept and achievement involving important theoretical implications for self-concept formation and practical implications for the enhancement of both self-concept and achievement (for an overview see . However, several issues remain to be clarified. These include the assumption of developmental equilibrium, the interplay of school grades and standardized achievement test scores as two alternative achievement measures, and the generalizability of findings across school tracks. These issues are targeted in the present study.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Relations Between Academic Self-Concept and Achievement",
+      "text": "When examining the link between academic self-concept and academic achievement, many studies have attested substantial cross-sectional relations (e.g., Arens, Yeung, Craven, & Hasselhorn, 2011;Marsh et al., 2013). Studies scrutinizing longitudinal relations have attracted even more attention because they help elucidate causality in the relation between self-concept and achievement. Thus, a critical question has been whether selfconcept is an outcome of achievement or whether achievement is an outcome of self-concept. Calsyn and Kenny (1977) posited two models for the temporal relation between self-concept and achievement. While the skill development model suggests that achievement predicts self-concept, the self-enhancement model suggests that self-concept predicts achievement. Originally, the skill development and self-enhancement models were strictly contrasted but recent research indicates that such a clear either-or stance is inappropriate because self-concept and achievement share mutually reinforcing relations. Therefore, in contemporary self-concept research, the reciprocal effects model (REM) prevails for depicting the relations between self-concept and achievement. Accordingly, self-concept is both an outcome of former and a predictor of subsequent achievement (e.g., Huang, 2011;M\u00f6ller, Retelsdorf, K\u00f6ller, & Marsh, 2011;Niepel, Brunner, & Preckel, 2014).",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Number of Waves and Developmental Equilibrium",
+      "text": "Studies integrating two measurement waves can already serve to test the temporal ordering of relations between self-concept and achievement (Marsh, Byrne, & Yeung, 1999). However, the inclusion of three or more waves allow for the examination and comparison among skill development and self-enhancement effects over time. The assumption of developmental equilibrium would expect skill development and self-enhancement paths to be of similar size from one wave to the next (for studies integrating related assumptions see, e.g., Marsh, Craven, et al., 2016;Marshall, Parker, Ciarrochi, & Heaven, 2014). Hence, in this case the effect from achievement (self-concept) to self-concept (achievement) would be of similar size across the different time lags, for example, across Waves 1 and 2 and Waves 2 and 3.\nDevelopmental equilibrium is not essential to providing evidence of reciprocal effects, but support for this assumption has a number of important advantages. For complex models resulting from the assessment of self-concept and achievement across many waves with many items used in each wave, the added parsimony provides more robust and precise estimates and facilitates the presentation and interpretation of results. Moreover, support for developmental equilibrium offers some protection against alternative interpretations of the results based on potential other variables not considered (Kenny, 1975). More importantly, if developmental equilibrium can be supported, self-concept (achievement) exerts a similar influence on later achievement (self-concept) at different time points. Hence, studies testing developmental equilibrium are best based on a large number of measurement waves which cover a long and relevant period of time. For instance, it would be interesting to examine the robustness of skill development and self-enhancement effects across adolescence or secondary school years.\nHowever, in a meta-analysis, Huang (2011) revealed that out of 32 studies examining longitudinal relations between self-concept and achievement, 19 studies relied on a two-wave design, eight studies had three measurement waves, two studies were respectively based on four and five measurement waves, and only one study covered six measurement waves. Thus, there seems to be a need for further studies that include more than two or three measurement waves. In line with these considerations, the present study covers five waves tracking German students from the fifth to the ninth grade. Students' self-concept and achievement were collected once every school year. Therefore, the present study can replicate findings on the REM over an exceptionally long time interval and examine developmental equilibrium across students' fifth to ninth grade, the years of mandatory secondary schooling in Germany.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "First-Order and Higher Order Paths",
+      "text": "The REM is commonly tested by cross-lagged panel models embedded in the framework of structural equation modeling (SEM; Curran & Bollen, 2001;. This modeling approach includes autoregressive or stability paths estimating the effect of one variable on the same variable across subsequent measurement waves, for example, the relation between selfconcept measured at Time 1 (T1) and self-concept measured at Time 2 (T2). In addition, cross-lagged paths represent the reciprocal relations of one variable on another variable between measurement waves (i.e., effects of self-concept at T1 on achievement at T2 and effects of achievement at T1 on self-concept at T2). In studies that cover more than two measurement waves, it is possible to include both first-order and higher order paths. First-order paths depict the relation between two directly adjacent time points, that is, the effect of self-concept at T1 on self-concept at T2 as an example of a first-order stability path, and the effect of selfconcept at T1 on achievement at T2 as an example of a first-order cross-lagged path. First-order paths thus describe \"lag 1\" paths referring to the effect of one variable on the same variable across two adjacent measurement waves. Higher-order paths describe the relations between constructs measured at more distal time points. Second-order paths refer to \"lag 2\" paths among constructs measured at T1 and T3, third-order paths refer to \"lag 3\" paths among constructs measured at T1 and T4 and so on. Thus, for instance, second-order stability addresses the relation between self-concept measured at T1 and self-concept measured at T3, and second-order cross-lagged paths depict the reciprocal relations between selfconcept at T1 and achievement at T3.\nBeyond the inherent inclusion of first-order paths, it might be worthwhile to consider higher order paths in cross-lagged panel models for the reciprocal relation between self-concept and achievement as this allows for examining long term relations (Marsh & O'Mara, 2008a). Indeed, in a four-wave model for studying the relations between reading self-concept and reading achievement, besides first-order stability paths, Retelsdorf, K\u00f6ller, and M\u00f6ller (2014) found significant higher order (i.e., secondorder and third-order) stability estimates for reading self-concept This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nand reading achievement. In addition to the corresponding firstorder path, there was also evidence of significant higher order cross-lagged paths for the relation between former reading achievement and later reading self-concept. Marsh, Gerlach, Trautwein, L\u00fcdtke, and Brettschneider (2007) conducted a three-wave study examining the longitudinal relations between physical selfconcept and physical achievement. The results revealed first-order and second-order stability estimates for both physical self-concept and physical performance. In addition, there was evidence of first-order and second-order cross-lagged paths between physical achievement and physical self-concept. Accordingly, the recommendations formulated by  for \"ideal\" studies on the REM include the advice to start with a full-forward model which incorporates the estimations of all paths. Researchers are then advised to compare this complete model with more parsimonious alternative models. Therefore, in this study, we use a fullforward model including second-order, third-order, and fourthorder paths as a starting point to examine reciprocal relations between self-concept and achievement across five measurement waves.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Achievement Indicators: School Grades Versus Test Scores",
+      "text": "School grades and standardized achievement test scores are the two most commonly used indicators of students' achievement. School grades are very salient to students as they are directly communicated, easy to compare among classmates, and entail important implications for students' school careers. School grades do not only narrowly represent student achievement but also refer to other student characteristics such as students' effort or classroom behavior (Brookhart, 1993;McMillan, Myran, & Workman, 2002;Zimmermann, Sch\u00fctte, Taskinen, & K\u00f6ller, 2013). On the other hand, students are often unaware of their relative performance on standardized achievement tests. Therefore, students' self-concept has been found to be more strongly related to school grades than to standardized achievement test scores (Marsh et al., 2014;Marsh, Trautwein, L\u00fcdtke, K\u00f6ller, & Baumert, 2005).\nNonetheless, school grades suffer from idiosyncrasies as teachers have been found to grade on a curve, allocating the best grades to the relatively best performing students within a classroom and the poorest grades to the relatively poorest performing students (Marsh et al., 2014). Hence, teachers use the classroom as a narrow frame of reference in their grading procedure. Accordingly, the same student with the same level of objective achievement can receive divergent grades depending on the average achievement and achievement standards in the individual student's class. For this reason, school grades are difficult to compare across classes, schools, and nations whereas standardized achievement tests are particularly designed for the purpose of such comparisons. Thus, school grades and standardized achievement test scores each have their advantages and disadvantages when they are used as achievement indicators, emphasizing their distinct yet complementary nature.\nTherefore, it appears worthwhile to use both kinds of achievement indicators to examine reciprocal relations to self-concept. Nonetheless, the majority of studies supporting reciprocal relations between self-concept and achievement have included school grades as achievement indicators (e.g., Marsh, 1990;Niepel et al., 2014; for an overview see Huang, 2011). Yet, there is also evidence that reciprocal relations between self-concept and achievement exist when using standardized achievement test scores as achievement indicators (M\u00f6ller, Zimmermann, & K\u00f6ller, 2014;Retelsdorf et al., 2014;Seaton, Parker, Marsh, Craven, & Yeung, 2014). However, most previous studies have considered school grades or achievement test scores separately whereas a more sophisticated approach would be to consider both achievement indicators simultaneously. The study of Marsh, Trautwein, et al. (2005) provided evidence of the REM for math self-concept and math achievement when analyzing math grades and math test scores separately as well as when combining them into one model. As this study included only two measurement waves, there still seems to be a need for studies that combine both achievement indicators and consider multiple waves across a longer time interval to more adequately test the validity of the REM and the assumption of developmental equilibrium for both kinds of achievement indicators.",
+      "n_publication_ref": 13,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Generalizability Across School Tracks",
+      "text": "A number of studies have documented the applicability of the REM to both academic and nonacademic domains such as reading (Retelsdorf et al., 2014), math (Marsh, Trautwein, et al., 2005), and physical ability (Marsh et al., 2007), indicating its generalizability across different content domains. The REM has also been tested regarding its generalizability across different student characteristics such as age (Guay, Marsh, & Boivin, 2003) and gender (Marsh, Trautwein, et al., 2005). Other studies further indicated the cross-cultural generalizability of the REM because reciprocal relations between self-concept and achievement have been found with Australian (Seaton et al., 2014), American (Marsh & O'Mara, 2008a), German (Marsh, Trautwein, et al., 2005), Hong Kong (Marsh, Hau, & Kong, 2002), and French Canadian (Guay et al., 2003) students.\nTo the best of our knowledge, research is lacking regarding the generalizability of the REM across students attending different school tracks. This is surprising because many educational systems implement at least some kind of tracking, particularly in secondary education (Chmielewski, Dumont, & Trautwein, 2013;LeTendre, Hofer, & Shimizu, 2003). Students attending different achievement tracks seem to differ in various respects. For instance, they have been found to reveal different levels of academic achievement, motivation (e.g., interest), and academic self-concept (e.g., Baumert, Watermann, & Sch\u00fcmer, 2003;Becker, L\u00fcdtke, Trautwein, & Baumert, 2006;Hanushek & W\u00f6\u2424mann, 2006;K\u00f6ller & Baumert, 2001). This finding might be partly due to differences in the students' learning environments. Students attending high-achievement tracks have been found to receive higher levels of instructional quality and to experience fewer disciplinary problems in the classroom, but also to get lower levels of individual learning support from the teacher compared to students in lower achievement track schools (Klieme & Rakoczy, 2003;Kunter et al., 2005). The present study aims to investigate and compare the REM among students attending different secondary school tracks as this provides an opportunity to test the generalizability of the REM across students experiencing different learning environments and educational opportunities.",
+      "n_publication_ref": 18,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Controlling for Covariates",
+      "text": "The REM posits achievement to be a major determinant of self-concept and self-concept to be a major determinant of achievement. However, students' socioeconomic status (SES), IQ, and gender are also known to affect students' achievement as well as students' self-concept. Hence, studies aiming to establish reciprocal relations between self-concept and achievement would do well to consider these background variables.\nStudents from lower SES families demonstrate lower levels of achievement (Bradley & Corwyn, 2002;Sirin, 2005). High levels of student achievement have also often been linked to a high IQ (Frey & Detterman, 2004;Furnham & Monsen, 2009;Spinath, Spinath, & Plomin, 2008). Furthermore, student achievement is associated with gender. Specifically, girls display higher achievement in verbal subjects (De Fraine, Van Damme, & Onghena, 2007;Van de gaer, Pustjens, Van Damme, & De Munter, 2008) including reading (Lietz, 2006;Mullis, Martin, Kennedy, & Foy, 2007). The findings related to math are less clear and seem to vary contingent upon the achievement indicator. Some studies have found higher scores for boys on standardized math achievement tests (Brunner, Krauss, & Kunter, 2008;Matteucci & Mignani, 2011;Van de gaer et al., 2008), but other studies have reported no or only small gender differences (Hyde, Fennema, & Lamon, 1990;Nowell & Hedges, 1998). When considering school grades in math, girls were found to obtain higher grades than boys (Marsh & Yeung, 1998), although other studies could not find any gender differences (Marsh, Trautwein, et al., 2005). Regarding domainspecific academic self-concepts, there is consistent evidence for gender differences which are in line with gender stereotypes. Hence, girls show higher levels of verbal self-concept whereas boys display higher levels of math self-concept Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002;Skaalvik & Skaalvik, 2004).",
+      "n_publication_ref": 18,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Present Study",
+      "text": "Using a large representative sample of German secondary school students, the present study examines reciprocal relations between math self-concept and math achievement. As an innovative contribution to existing research, the study covers a long time span with five measurement waves enabling a proper investigation of the assumption of developmental equilibrium across German students' mandatory secondary school years. Moreover, this study examines the generalizability of reciprocal effects between math self-concept and math achievement across German students attending three different achievement tracks. The analytic approach starts with a complex full-forward model before turning to more parsimonious models in order to consider and test the adequacy of first-order and higher order stability and cross-lagged paths. School grades and standardized achievement test scores are simultaneously considered in combined models to account for the two most widely used yet distinctive achievement indicators (Marsh, Trautwein, et al., 2005;Marsh et al., 2014). Finally, gender, IQ, and SES are considered as covariates to control for other important variables influencing students' self-concept and achievement.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Method Sample",
+      "text": "The data analyzed in this study originate from the Project for the Analysis of Learning and Achievement in Mathematics (PALMA; Frenzel, Goetz, L\u00fcdtke, Pekrun, & Sutton, 2009;Frenzel, Pekrun, Dicke, & Goetz, 2012;Marsh, Pekrun, Parker, et al., 2016;Murayama, Pekrun, Lichtenfeld, & vom Hofe, 2013;Murayama, Pekrun, Suzuki, Marsh, & Lichtenfeld, 2016;Pekrun, Lichtenfeld, Marsh, Murayama, & Goetz, in press). PALMA is a large-scale longitudinal study investigating the development of math achievement and its determinants (e.g., math-related motivation, classroom instruction, family variables) during secondary school in Germany. The study was conducted in the German federal state of Bavaria and covers six measurement waves spanning grades 5 to 10 with one measurement point each school year. Sampling and the assessments were conducted by the German Data Processing and Research Center of the International Association for the Evaluation of Educational Achievement (IEA). The sample represented the typical student population in the German federal state of Bavaria in terms of secondary school achievement tracks and student characteristics such as gender, urban versus rural location, and SES. Participation rate at the school level was 100%. At the first measurement wave in grade 5, the sample comprised 2,070 students (49.6% female, 37.2% lowachievement track students, 27.1% middle-achievement track students, and 35.7% high-achievement track students). The students then had a mean age of 11.75 years (SD \u03ed 0.68), which is the typical age for fifth grade students in Germany. A number of 42 schools participated in the study and two classes were randomly drawn within each school for final participation. For the subsequent data collections, the study did not only track the students who had already participated in the earlier assessments, but also included students who more recently entered classrooms participating in the PALMA study and thus had not yet participated in the study (for more details on the sampling procedure, see Pekrun et al., 2007).\nIn the German federal state of Bavaria, beginning in grade 5, students are allocated to either low-achievement (Hauptschule), middle-achievement (Realschule), or high-achievement (Gymnasium) tracks. This decision is mainly based on students' achievement in the fourth grade of elementary school. Low-achievement track students commonly leave school after the ninth grade with a qualification allowing them to apply for an apprenticeship, middleachievement track schools end after the tenth grade and students may begin vocational training, and high-achievement track students attend school until the thirteenth grade after which they may enter university. For reasons of including low-achievement track students, the present study focuses on the first five measurement waves covering students grade 5 to 9. The final sample of the present study consists of 3,425 students (n \u03ed 1,714, 50.0% girls; n \u03ed 1,710, 49.9% boys; n \u03ed 1, 0.01% no gender) and included all students who participated in at least one of the five assessments. Among this final sample, 1,187 students attended the highachievement track, 1,050 the middle-achievement track, and 1,188 the low-achievement track. Of the final sample, 38.7% participated in all five measurement waves (i.e., grades 5 to 9), and 9.0%, 18,9%, 15.1%, and 18.3% took part in four, three, two, or one of the assessments, respectively. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nThe students answered a questionnaire toward the end of each successive school year. All instruments were administered in the students' classrooms by trained external test administrators. Participation in the study was voluntary and parental consent was obtained for every student. Each survey was depersonalized to ensure participant confidentiality.",
+      "n_publication_ref": 7,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "Math self-concept. Math self-concept was measured by the PALMA six-item math self-concept scale at each measurement wave. The items (i.e., \"In math, I am a talented student\"; \"It is easy to understand things in math\"; \"I can solve math problems well\"; \"It is easy for me to write math tests\"; \"It is easy for me to learn something in math\"; \"If the math teacher asks a question, I can answer it correctly most of the time\") were answered using a 5-point Likert scale (1 \u03ed not at all true to 5 \u03ed completely true). The scale showed high reliability at each of the five measurement waves both when using the coefficient alpha reliability estimate (\u2423) and when using the scale reliability estimate (; also labeled as composite or instrument reliability) which was explicitly established within the framework of SEM (Raykov, 2009; T1: \u2423 \u03ed .876, \u03ed .879; T2: \u2423 \u03ed .895, \u03ed .896; T3: \u2423 \u03ed .893, \u03ed .894; T4: \u2423 \u03ed .910, \u03ed .910; T5: \u2423 \u03ed .920, \u03ed .921).\nMath achievement. Students' math achievement was measured both in terms of school grades and standardized achievement test scores. Math school grades were retrieved from school documents in terms of the report cards students received at the end of each school year, reflecting students' average math accomplishments throughout the school year. In Germany, school grades range from 1 (highest achievement) to 6 (lowest achievement). For ease of interpretation, the grades were recoded prior to all analyses so that higher grades represent higher achievement.\nThe Regensburg Mathematical Achievement Test (vom Hofe, Kleine, Blum, & Pekrun, 2005; vom Hofe, Pekrun, Kleine, & G\u00f6tz, 2002) was used to assess students' standardized math achievement test scores. This test was explicitly designed for the PALMA study serving to measure students' development of math competencies across secondary school years. Thus, different test versions are available for the different grade levels. The conception of this test has substantially and methodologically been linked to the concept underlying the math tests applied in the Programme for International Student Assessment (PISA). Following the construct of mathematical literacy, the test operationalizes math competences as mathematical modeling and problem solving in terms of students' abilities to convert real-world problems into mathematical models, to solve these problems in the context of mathematical models, and to transfer the solutions to reality. On the basis of this conceptualization, the test targets students' modeling competencies and algorithmic competencies in arithmetic, algebra, and geometry. Methodologically, the test was constructed within the framework of item response theory (IRT; Wu, Adams, Wilson, & Haldane, 2007). At each measurement point, students worked on one of two different parallel test versions with 60 to 90 items each, the exact number of items varying across waves. The items were formulated either as multiple-choice or open-ended items. Prespecified guidelines were given to two trained raters to score the open-ended items. The ratings showed a high level of interrater agreement supporting their objectivity (i.e., interrater disagreement for the test version A [the parallel to version B] was 0.04% [0.13%], thus 0.085% on average). Depending on the measurement wave, approximately 20 anchor items served to link the two parallel test versions within each measurement point and the different tests across the five measurement points. Achievement test scores were scaled using one-parameter logistic IRT applying concurrent calibration (Rasch scaling; Wu et al., 2007) that has been found to have many advantages (e.g., model parsimony, parameter linearity) relative to alternative models (Liu, 2010;Wright, 1999) and that was also used in previous studies utilizing the PALMA math achievement test (Murayama et al., 2013). The reliability of item separation in IRT scaling was 0.99.\nCovariates. Students' gender, IQ, and SES measured at T1 served as covariates. Students' IQ was measured using the German adaptation of Thorndike's Cognitive Abilities Test (Kognitiver F\u00e4higkeitstest, KFT 4 -12 \u03e9 R; Heller & Perleth, 2000). Reliability of the 25 item scale was \u2423 \u03ed .934. Supporting validity, the IQ test scores were found to be substantially correlated with students' math achievement test scores (T1: r \u03ed .577, p \u03fd .01) and to discriminate between students of the different achievement tracks (T1: F(2, 1987) \u03ed 327.778, p \u03fd .001), with students attending the high-achievement track displaying the highest mean levels (M \u03ed 110.03, SD \u03ed 10.36), followed by the middle-achievement track students (M \u03ed 104.535, SD \u03ed 9.47). Students from the lowachievement track displayed the lowest IQ mean level (M \u03ed 96.20, SD \u03ed 11.91).\nSES was assessed by parental report using the Erikson Goldthorpe Portocarero (EGP) social class scheme (Erikson, Goldthorpe, & Portocarero, 1979). The EGP consists of six ordered categories of parental occupational status wherein higher values represent higher SES.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Statistical Analyses",
+      "text": "The analyses were conducted within the SEM framework with Mplus 7.5 (Muth\u00e9n & Muth\u00e9n, 1998. All models were conducted using the robust maximum likelihood (MLR) estimator which is robust against non-normality of the observed variables (Hox, Maas, & Brinkhuis, 2010;Muth\u00e9n & Muth\u00e9n, 1998. The Mplus option \u03fd type \u03ed complex \u03fe was used to accommodate the hierarchical nature of the study. Specifically, students were nested within the 42 participating schools and students attending the same school might be more similar to each other than students from different schools, resulting in nonindependence of observations. Failure to attend to the hierarchical nature of the data could lead to biased standard errors-a miscalculation that is corrected by this Mplus model command (Muth\u00e9n & Satorra, 1995). 1 As inherent in any longitudinal study, the data set consisted of missing values on the measured variables which should be appropriately dealt with. In this study, missingness on variables mainly originates from the fact that students entered the study at later measurement waves without having completed the measures at earlier waves. The attrition rate could be kept rather low during the time period covered in the present study, that is, up to grade 9 after which the attrition rate is higher due to the low-achievement track students' leaving school. More concretely, among the total sample 1 It was not possible to use students' classes as a clustering variable because the composition of students' classes changed across time. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nof the study across all measurement waves, 60.4%, 60.1%, 69.9%, 70.3%, and 73.6% participated in the first, second, third, fourth, and fifth measurement wave respectively. Within each wave, the number of missing values was low for the self-concept measures (T1: 0.68% to 1.74%; T2: 0.29% to 1.70%; T3: 0.50% to 1.67%; T4: 0.46% to 1.78%; T5: 0.63% to 1.31%), the math achievement test scores (0.00% to 0.28%), and school grades in math at T1 to T4 (0.00% to 2.39%). Missing values on these variables were handled by the full information maximum likelihood estimator (FIML) implemented in Mplus by default (see Wang & Wang, 2012). FIML has been found to result in trustworthy, unbiased estimates for missing values (Enders, 2010;Graham, 2009) and represents an adequate means of managing missing data in longitudinal study designs (Jelici\u0107, Phelps, & Lerner, 2009). However, Mplus excludes cases with missing data on any covariates if only defined as exogenous variables (Muth\u00e9n & Muth\u00e9n, 1998.\nTo use FIML for missing data on the continuous covariates (i.e., IQ and SES) as well, covariances among these covariates were estimated.\nThe amount of missing values was high (27.57%) regarding math school grades for the last measurement wave (T5) as the low-achievement track students left school after grade 9. Because of this high amount of missing data, we applied the technique of multiple imputation to handle missing data on students' math school grades for T5 which were imputed using the math school grades the students had obtained at the previous waves. Five sets of imputed data were created which were used for all analyses involving school grades and combined afterward (Little & Rubin, 2002) while retaining the FIML approach for estimating missing data on the remaining variables (i.e., self-concept at all waves, test scores at all waves, and school grades at T1 to T4).\nIn all models, one factor for math self-concept was assumed for each measurement wave defined by the six self-concept items answered by the students at the corresponding waves. Correlated uniquenesses for the same self-concept items over time were included in these models to account for the shared method variance due to the repeated use of the same items (Marsh & Hau, 1996). In addition, for each measurement wave, the models included two single-indicator achievement factors defined by students' school grades in math and their math achievement test scores, respectively.\nThe analyses started with a longitudinal confirmatory factor analysis model assuming separate self-concept and achievement factors for each of the five waves. In this model, the self-concept and achievement factors were freely estimated across time with the same set of items used to define the same number of factors at each measurement wave (configural invariance, Millsap, 2011). The analyses continued with a model of longitudinal measurement invariance by constraining the factor loadings to be of equal size across measurement waves (weak measurement invariance; Millsap, 2011). This model served to test whether the same constructs were measured at the different measurement waves (Widaman, Ferrer, & Conger, 2010).\nTo examine the generalizability of findings across students from different achievement tracks, students' attended school track (high-achievement, middle-achievement, or low-achievement track) was entered as a grouping variable in all models. To test whether the same constructs were measured in all groups of school tracks, we estimated a model assuming invariant factor loadings in the three groups of school tracks. We then stated an even more restrictive model by constraining the factor loadings to be simultaneously invariant across measurement waves and group to ensure that the same constructs were measured at each measurement wave in the three groups of students from different achievement tracks.\nTo test reciprocal relations between self-concept and achievement, we applied cross-lagged panel models and started with a full-forward model. The full-forward model included all possible (i.e., first-order and higher order) paths for the stability and the cross-lagged relations among the constructs, and additionally assumed the disturbances of constructs to be correlated within each wave (Figure 1; . Based on this complex model, we evaluated more parsimonious models with fewer paths. In this context, we first assessed the need to include both first-order and higher order paths by comparing the full-forward model with a model only including first-order stability and cross-lagged paths. Afterwards, we tested whether it is advantageous to incorporate first-order and higher order paths for both the stability and crosslagged paths. For this purpose, we estimated a model including first-order and higher order stability paths but only first-order cross-lagged paths, and a model with first-order and higher order cross-lagged paths but only first-order stability paths. In the next step, the three covariates (gender, IQ, and SES) measured at T1 Prototype full-forward cross-lagged effects model for reciprocal relations between self-concept and achievement. For simplification, only three measurement waves are presented. Ovals represent latent constructs (self-concept and achievement factors); straight dashed arrows represent first-order and higher order (here: second-order) cross-lagged effects paths; straight solid arrows represent first-order and higher order (here: second-order) stability paths; curved arrows represent covariances between factors. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nwere included in the selected model to examine whether the findings were robust when controlling for these variables. So far, the cross-lagged paths depicting the longitudinal effects between self-concept (achievement) and achievement (selfconcept) were freely estimated across time. To test the assumption of developmental equilibrium, invariance constraints were imposed on these paths. The cross-lagged paths from one variable in one wave to another variable in a subsequent wave were assumed to be of equal size across all measurement points (e.g., achievement T1 \u00a1 self-concept T2 \u03ed achievement T2 \u00a1 self-concept T3 \u03ed achievement T3 \u00a1 self-concept T4 \u03ed achievement T4 \u00a1 self-concept T5). In a subsequent model, invariance constraints on the stability paths were included in terms that all stability estimates for one construct were restricted to be of the same size.\nFor presenting the relations between self-concept and achievement, we report the StdYX standardized coefficients provided by Mplus (Muth\u00e9n & Muth\u00e9n, 1998, except for the effects of gender. The StdYX solution is based on the variances of both the continuous independent latent variable (X; e.g., math achievement) and the outcome (dependent) variable (Y; e.g., math self-concept) and interpreted as the mean change of Y in standard deviation units of Y for one standard deviation change in X. For gender as a binary variable, a proper standardized estimate results from standardizing the dependent variable Y only, which is provided by the StdY solution in Mplus and depicts the change in Y (e.g., math selfconcept) in Y standard deviation units when X (i.e., gender) changes from zero to one.\nTo assess the fit of the models, we rely on a range of commonly applied descriptive goodness-of-fit indices (Marsh, Hau, & Grayson, 2005). We thus report the comparative fit index (CFI), the Tucker-Lewis index (TLI), the root mean square error of approximation (RMSEA), and the standardized root-mean-square residual (SRMR). Values above .90 and .95 for the CFI and TLI represent acceptable and good fit, respectively (Hu & Bentler, 1999). With respect to the RMSEA, values near .05 imply \"close fit,\" values near .08 indicate \"fair fit,\" and values above .10 represent \"poor fit\" (Browne & Cudeck, 1993). SRMR values below .05 are interpreted as a good model fit (Diamantopoulos & Siguaw, 2000) but Hu and Bentler (1999) proposed a less strict cut-off criterion of .08.\nThe invariance models can be conceptualized as nested models which only differ from each other in the parameters which were set invariant across time and group. To evaluate invariance, we follow the guidelines proposed by Cheung and Rensvold (2002) and Chen (2007), according to which invariance should not be rejected if \u232cCFI \u0545 \u03ea.01 and \u232cRMSEA \u0545 \u03e9.015 for the more restrictive as compared with the less restrictive model. The cut-off values suggested for the evaluation of latent models including invariance models should be considered as rough guidelines instead of golden rules. Researchers are rather advised to take all available information into account for an ultimate judgment of latent models, including parameter estimates, statistical conformity, and theoretical adequacy of the model besides the fit indices (Marsh, Hau, & Wen, 2004).",
+      "n_publication_ref": 24,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Results",
+      "text": "The analyses reported herein are based on models including both school grades and standardized achievement test scores as achievement indicators, but the same series of models was also estimated using school grades and achievement test scores separately. The results from these models (i.e., using either school grades or achievement test scores) are reported in the online supplemental materials (see Models S1 to S7) and are fully consistent with the findings for the models combining school grades and achievement test scores.\nThe series of analyses started with a longitudinal measurement model assuming separate factors for math self-concept, math achievement test scores, and math school grades at each measurement wave (Model 1 in Table 1). The fit of this model was excellent and largely maintained when imposing invariance of factor loadings across time (Model 2) indicating that the same constructs were measured at each wave. Model 3 included students' achievement tracks as a grouping factor. The fit indices of this model still indicated good fit which was mostly retained when including invariant factor loadings across school tracks (Model 4). This finding indicates that the same constructs were measured in the three groups of students attending different achievement tracks. The fit indices also remained in the area of good model fit when assuming an even more restrictive model with invariant factor loadings both across measurement waves and school tracks (Model 5). This finding allowed for meaningful longitudinal analyses and comparisons across school tracks.\nModel 6 is the full-forward model for describing the longitudinal relations between math self-concept, math achievement test scores, and math school grades for students from different achievement tracks. This model incorporates all possible first-order and higher order paths and only replaces the correlations among constructs by path coefficients. Therefore, it is statistically equivalent to Model 5 and results in the same fit. The path coefficients of Model 6 (see Table S6 in the online supplemental materials) suggest that multicollinearity might be at play since some coefficients for self-concept-achievement relations had implausible negative and small coefficients (Marsh, Dowson, Pietsch, & Walker, 2004). Hence, the full-forward model (Model 6) was compared to a less complex model (Model 7), which included only first-order stability and cross-lagged paths. The fit of Model 7 declined substantially compared to the full-forward Model 6 (\u232cCFI \u03ed \u03ea.017; \u232cRMSEA \u03ed \u03e9.008), suggesting that the inclusion of any higher order paths seems to be warranted. In Model 8, we integrated first-order and higher order stability paths, but only first-order cross-lagged paths. Here, the fit was highly similar to the fit resulting from the full-forward Model 6. However, when assuming first-order and higher order cross-lagged paths along with first-order stability paths (Model 9), the model fit substantially declined compared to the full-forward Model 6 (\u232cCFI \u03ed \u03ea.015; \u232cRMSEA \u03ed \u03e9.008). The findings thus argue for the integration of higher order stability paths but not for the inclusion of higher order cross-lagged paths leading us to keep Model 8.\nThe findings resulting from Model 8 were retained when adding the effects of the three covariates, that is, gender, IQ, and SES, which were assumed to be related to students' math self-concept, math achievement test scores and math school grades at T1 in Model 10. The covariates demonstrated significant effects on math self-concept, math school grades, and math achievement test scores (see Table S7 of the online supplemental materials).\nModel 11 then served to test the assumption of developmental equilibrium. For this purpose, the first-order cross-lagged paths This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nbetween former self-concept and later achievement (both school grades and test scores) and the first-order cross-lagged paths between former achievement and later self-concept were respectively set to be equal across all time lags and groups of school tracks (Model 11). The various goodness-of-fit indices of Model 11 still indicated good model fit and did not demonstrate a substantial decline (\u232cCFI \u03ed \u03ea.003; \u232cRMSEA \u03ed \u03e9.001) relative to the precedent less restrictive Model 10 so that the assumption of developmental equilibrium, which is additionally invariant across school tracks, could be supported. Model 12 extends Model 11 in terms of invariance constraints on the stability coefficients. More concretely, Model 12 assumed the first-order and higher order stability paths of all three constructs (i.e., math self-concept, math grades, and math achievement test scores) to be of equal size across measurement waves for the three school tracks. The fit of this restrictive model remained comparable to the fit of Model 11 arguing for its tenability.\nFinally, Model 13 included the invariance of covariate paths meaning that the effects of the three covariates (gender, IQ, and SES) on math self-concept, math school grades, and math achievement test scores at T1 are of similar size across groups of school tracks. The model fit remained stable supporting the appropriateness of this highly restrictive model. When consid-ering the resulting standardized path coefficients of this final model (see Table 2), it is obvious that math self-concept and math achievement (both school grades and test scores) were best predicted by their former levels given the substantial positive coefficients for the first-order stability paths. However, the significant higher order stability estimates imply that the stability of constructs does not only address consecutive waves but goes further. Second, the findings demonstrated reciprocal relations between math self-concept and math achievement both in terms of school grades and achievement test scores. The cross-lagged paths leading from math self-concept to math achievement and those leading from math achievement to math self-concept were positive and significant across all measurement waves in the three groups of students irrespective of whether achievement was operationalized by school grades or achievement test scores. Considering the effects of the covariates, gender was found to have a significant effect on math self-concept with boys displaying higher levels. Moreover, students with a higher IQ demonstrated higher levels of math self-concept whereas students' SES was found to be unrelated to math self-concept. Boys and girls were found to obtain similar school grades in math, whereas students of higher SES and higher IQ were found to earn higher grades. Regarding This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nmath achievement test scores, boys, students with higher IQ levels, and students of higher SES were found to demonstrate higher test scores. All these results were invariant across students from different school tracks indicating a high level of generalizability. 2",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Discussion",
+      "text": "Even though the REM for self-concept-achievement relations has been extensively studied (Huang, 2011;, our study extends previous research and provides some of the strongest evidence for the REM so far. In essence, the present study revealed reciprocal relations between math self-concept and math achievement that were robust and generalizable in various ways.\nThe robustness and generalizability of the REM first becomes evident in terms of generalizability across time. The results supported the assumption of developmental equilibrium since both types of cross-lagged paths were found to be of similar sizes across the extensive time span of this study including five waves. Thus, within skill development effects and within self-enhancement effects, the effects seem to be invariant at least throughout the years of German students' mandatory secondary schooling. Interventions should therefore pursue a dual approach targeting the enhancement of both students' self-concept and achievement (Craven, Marsh, & Burnett, 2003;O'Mara, Marsh, Craven, & Debus, 2006).\nThe generalizability of reciprocal effects between math selfconcept and math achievement, including developmental equilibrium, was further supported by considering students from different achievement tracks of the German secondary school system. Previous studies demonstrated the generalizability of the REM across different student characteristics such as age (Guay et al., 2003), This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\ngender (Marsh, Trautwein, et al., 2005), and culture (Chen, Yeh, Hwang, & Lin, 2013;Marsh et al., 2002). This study broadens this line of research by demonstrating generalizability of the REM across students attending different achievement tracks who might experience different learning environments (Klieme & Rakoczy, 2003;Kunter et al., 2005). Practically, this finding implies that the above mentioned dual intervention approach for enhancing students' self-concept and achievement is beneficial for a wide range of students. The robustness of reciprocal effects between math self-concept and math achievement is further reflected by the fact that the resulting pattern of relations persists when including students' gender, SES, and IQ as covariates. Hence, the assumptions of the REM even remain in place when controlling for other major determinants of students' math self-concept and math achievement.\nFinally, the generalizability and robustness of the REM as demonstrated in our study addresses achievement indicators. Given that school grades and standardized achievement test scores each have their advantages and disadvantages, research benefits from including both achievement indicators in empirical studies (Marsh et al., 2014). Previous studies have indicated that the REM holds when considering school grades and achievement test scores separately (e.g., M\u00f6ller et al., 2014), but only one study so far has integrated school grades and achievement test scores in a combined model (Marsh, Trautwein, et al., 2005). Given that the latter study only included two measurement waves, the present study spanning five waves is a considerable enrichment. In fact, it supported reciprocal self-concept-achievement relations for both school grades and achievement test scores in math in combined models across five measurement waves, additionally demonstrating developmental equilibrium and invariance across school tracks.\nBesides providing evidence of the strong robustness and generalizability of the REM, the present study contributes to methodological approaches to the REM. It illustrates the advantage of starting with a full-forward model in which all possible paths are estimated and which thus includes first-order and higher order stability and cross-lagged paths. As exemplified in this study, such a complex model can serve as the starting point for deriving and empirically testing more parsimonious and less complex models. Accordingly, we could demonstrate that there was no additional benefit of including both first-order and higher order cross-lagged paths, but the incorporation of both first-order and higher order stability paths contributed to significantly better models. Substantively, this leads to the conclusion that self-concept and achievement are of high stability that lasts longer than across two immediately adjacent measurement waves (Marsh & O'Mara, 2008a).\nA further methodological advice that can be derived from this study targets the need to include covariates which also relate to students' self-concept and achievement. Consistent with previous studies Jacobs et al., 2002;Watt, 2004), boys were found to display higher levels of math self-concept. Boys were also found to perform better on the math achievement test, but boys and girls obtained similar school grades in math. This finding corresponds to previous studies indicating that gender differences in math achievement might vary contingent upon the achievement indicator used, and that despite boys' consistent superior levels of math self-concept, gender differences in math achievement are less consistent (Hyde et al., 1990;Leahey & Guo, 2001;Lindberg, Hyde, Petersen, & Linn, 2010). Future research should also consider the situation and environmental circumstances in which students' math achievement is assessed. For example, according to the stereotype threat paradigm (Nguyen & Ryan, 2008;Steele, 1997), females' math achievement might be lower when the stereotype that girls are poorer in math than boys is activated, as compared to test situations when this gender stereotype is not prevalent.\nThis study followed a traditional cross-lagged modeling approach to investigate reciprocal effects between self-concept and achievement which delivers easily interpretable results and facilitates comparability across numerous previous studies on the REM that also utilized this approach (e.g., Guay et al., 2003;Marsh et al., 2007;Marsh, Trautwein, et al., 2005;M\u00f6ller et al., 2011M\u00f6ller et al., , 2014Niepel et al., 2014;Seaton et al., 2014). However, the standard cross-lagged panel modeling approach has recently been criticized (Hamaker, Kuiper, & Grasman, 2015) mainly because of the lacking separation between the within-person level and the between-person level which would enable consideration of traitlike (i.e., stable) individual differences. Hence, it might be worthwhile to consider the application of proposed alternative models to the REM in the future. Alternative models should also be taken into account for the math achievement test. In this study, achievement test scores were scaled based on a one-parameter logistic IRT model, but alternative estimations including two-parameter models could be used in order to test the generalizability of findings. Indeed, there has been a long debate on the advantages of oneparameter relative to two-parameter IRT models (Bergan, 2013), and this debate might benefit from the application and comparison of both approaches to the same study and research question.\nIn light of the consistently demonstrated separation between math and verbal self-concepts (M\u00f6ller, Pohlmann, K\u00f6ller, & Marsh, 2009), further investigations are needed to generalize the present findings to the verbal domain. In this context, it might not only be worthwhile to study the math and verbal domains separately but to also investigate different domains simultaneously (Marsh et al., 2014). Furthermore, since only self-concept operationalized as students' perceptions of competence was considered, further variables for students' self-perceptions should be addressed such as affect self-perceptions (Arens et al., 2011;Marsh et al., 2013). Finally, beyond achievement, it might be worthwhile to take a broader range of outcome variables such as goal orientations (Seaton et al., 2014), effort (Trautwein, L\u00fcdtke, Schnyder, & Niggli, 2006) or emotions (Pekrun, 2006) into account.\nGiven that this study investigated students attending the secondary school years, further long-term studies should focus on preschool or elementary school years as the present findings cannot be generalized to younger students. It can be assumed that secondary school students have established a self-concept that is sufficiently stable to impact on later achievement (Wigfield & Karpathian, 1991). This might, however, not yet be the case in preschool and elementary school years when self-enhancement effects might predominate (Arens et al., 2016;Chapman & Tunmer, 1997;Chen et al., 2013;Helmke & van Aken, 1995). Studies covering a wide time frame would be worthwhile to gain insight into the onset of reciprocal relations and developmental equilibrium in these relations.\nThis document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nIn sum, the present study provides relevant insights into research on reciprocal relations between self-concept and achievement. In essence, the assumption of developmental equilibrium could be supported, substantiating the robustness of relations from selfconcept to achievement and from achievement to self-concept across a long time interval of five waves. The robustness of reciprocal effects was further substantiated by the generalizability of the findings across achievement indicators and school tracks even when controlling for important covariates. As such, although the REM has been well established and become an inherent characteristic of the self-concept construct , the present study has pointed out remaining important questions on reciprocal self-concept-achievement relations, delivered answers to these questions, and once again underscored the generalizability and robustness of the REM at least for secondary school students.",
+      "n_publication_ref": 41,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Math self-concept in preschool children: Structure, achievement relations, and generalizability across gender. Early Childhood Research Quarterly",
+      "journal": "",
+      "year": "2016",
+      "authors": "A K Arens; H W Marsh; R G Craven; A S Yeung; E Randhawa; M Hasselhorn"
+    },
+    {
+      "title": "The twofold multidimensionality of academic self-concept: Domain specificity and separation between competence and affect components",
+      "journal": "Journal of Educational Psychology",
+      "year": "2011",
+      "authors": "A K Arens; A S Yeung; R G Craven; M Hasselhorn"
+    },
+    {
+      "title": "Disparit\u00e4ten der Bildungsbeteiligung und des Kompetenzerwerbs: Ein institutionelles und individuelles Mediationsmodell [Disparity of educational participation and acquisition of skills: An institutional and individual model of mediation",
+      "journal": "Zeitschrift f\u00fcr Erziehungswissenschaft",
+      "year": "2003",
+      "authors": "J Baumert; R Watermann; G Sch\u00fcmer"
+    },
+    {
+      "title": "Leistungszuwachs in Mathematik: Evidenz f\u00fcr einen Schereneffekt im mehrgliedrigen Schulsystem?",
+      "journal": "",
+      "year": "2006",
+      "authors": "M Becker; O L\u00fcdtke; U Trautwein; J Baumert"
+    },
+    {
+      "title": "Rasch versus Birnbaum: New arguments in an old debate",
+      "journal": "Assessment Technology",
+      "year": "2013",
+      "authors": "J R Bergan"
+    },
+    {
+      "title": "Socioeconomic status and child development",
+      "journal": "Annual Review of Psychology",
+      "year": "2002",
+      "authors": "R H Bradley; R F Corwyn"
+    },
+    {
+      "title": "Teachers' grading practices: Meaning and values",
+      "journal": "Journal of Educational Measurement",
+      "year": "1993",
+      "authors": "S Brookhart"
+    },
+    {
+      "title": "Alternative ways of assessing model fit",
+      "journal": "SAGE",
+      "year": "1993",
+      "authors": "M W Browne; R Cudeck"
+    },
+    {
+      "title": "Gender differences in mathematics: Does the story need to be rewritten?",
+      "journal": "Intelligence",
+      "year": "2008",
+      "authors": "M Brunner; S Krauss; M Kunter"
+    },
+    {
+      "title": "Self-concept of ability and perceived evaluation of others: Cause or effect of academic achievement?",
+      "journal": "Journal of Educational Psychology",
+      "year": "1977",
+      "authors": "R J Calsyn; D A Kenny"
+    },
+    {
+      "title": "A longitudinal study of beginning reading achievement and reading self-concept",
+      "journal": "The British Journal of Educational Psychology",
+      "year": "1997",
+      "authors": "J W Chapman; W E Tunmer"
+    },
+    {
+      "title": "Sensitivity of goodness of fit indices to lack of measurement invariance",
+      "journal": "Structural Equation Modeling",
+      "year": "2007",
+      "authors": "F F Chen"
+    },
+    {
+      "title": "The relationship between academic self-concept and achievement: A multicohort-multioccasion study",
+      "journal": "Learning and Individual Differences",
+      "year": "2013",
+      "authors": "S.-K Chen; Y.-C Yeh; F.-M Hwang; S S J Lin"
+    },
+    {
+      "title": "Evaluating goodness-of-fit indexes for testing measurement invariance. Structural Equation Modeling",
+      "journal": "",
+      "year": "2002",
+      "authors": "G W Cheung; R B Rensvold"
+    },
+    {
+      "title": "Tracking effects depend on tracking type: An international comparison of students' mathematics self-concept",
+      "journal": "American Educational Research Journal",
+      "year": "2013",
+      "authors": "A K Chmielewski; H Dumont; U Trautwein"
+    },
+    {
+      "title": "Cracking the selfconcept enhancement conundrum. A call and blueprint for the next generation of self-concept enhancement research",
+      "journal": "Information Age",
+      "year": "2003",
+      "authors": "R G Craven; H W Marsh; P Burnett"
+    },
+    {
+      "title": "The best of both worlds: Combining autoregressive and latent curve models",
+      "journal": "American Psychological Association",
+      "year": "2001",
+      "authors": "P J Curran; K A Bollen"
+    },
+    {
+      "title": "A longitudinal analysis of gender differences in academic self-concept and language achievement: A multivariate multilevel latent growth approach. Contemporary Educational Psychology",
+      "journal": "",
+      "year": "2007",
+      "authors": "B De Fraine; J Van Damme; P Onghena"
+    },
+    {
+      "title": "Introducing LISREL. London",
+      "journal": "",
+      "year": "2000",
+      "authors": "A Diamantopoulos; J A Siguaw"
+    },
+    {
+      "title": "Applied missing data analysis",
+      "journal": "Guilford Press",
+      "year": "2010",
+      "authors": "C K Enders"
+    },
+    {
+      "title": "Intergenerational class mobility in three Western European societies",
+      "journal": "The British Journal of Sociology",
+      "year": "1979",
+      "authors": "R Erikson; J H Goldthorpe; L Portocarero"
+    },
+    {
+      "title": "Children's competence and value beliefs from childhood through adolescence: Growth trajectories in two male-sex-typed domains",
+      "journal": "Developmental Psychology",
+      "year": "2002",
+      "authors": "J A Fredricks; J S Eccles"
+    },
+    {
+      "title": "Children's competence and value beliefs from childhood through adolescence: Growth trajectories in two male-sex-typed domains",
+      "journal": "Developmental Psychology",
+      "year": "2002",
+      "authors": "J A Fredricks; J S Eccles"
+    },
+    {
+      "title": "Emotional transmission in the classroom: Exploring the relationship between teacher and student enjoyment",
+      "journal": "Journal of Educational Psychology",
+      "year": "2009",
+      "authors": "A C Frenzel; T Goetz; O L\u00fcdtke; R Pekrun; R Sutton"
+    },
+    {
+      "title": "Beyond quantitative decline: Conceptual shifts in adolescents' development of interest in mathematics",
+      "journal": "Developmental Psychology",
+      "year": "2012",
+      "authors": "A C Frenzel; R Pekrun; A L Dicke; T Goetz"
+    },
+    {
+      "title": "Scholastic Assessment or g? The relationship between the Scholastic Assessment Test and general cognitive ability",
+      "journal": "Psychological Science",
+      "year": "2004",
+      "authors": "M C Frey; D K Detterman"
+    },
+    {
+      "title": "Personality traits and intelligence predict academic school grades",
+      "journal": "Learning and Individual Differences",
+      "year": "2009",
+      "authors": "A Furnham; J Monsen"
+    },
+    {
+      "title": "Missing data analysis: Making it work in the real world",
+      "journal": "Annual Review of Psychology",
+      "year": "2009",
+      "authors": "J W Graham"
+    },
+    {
+      "title": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly",
+      "journal": "",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Academic self-concept and academic achievement: A developmental perspective on their causal ordering",
+      "journal": "Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "F Guay; H W Marsh; M Boivin"
+    },
+    {
+      "title": "A critique of the cross-lagged panel model",
+      "journal": "Psychological Methods",
+      "year": "2015",
+      "authors": "E L Hamaker; R M Kuiper; R P P P Grasman"
+    },
+    {
+      "title": "Does educational tracking affect performance and inequality? Differences-in-differences evidence across countries",
+      "journal": "The Economic Journal",
+      "year": "2006",
+      "authors": "E Hanushek; L W\u00f6\u2424mann"
+    },
+    {
+      "title": "Kognitiver F\u00e4higkeitstest f\u00fcr 4. bis 12. Klassen, Revision",
+      "journal": "Beltz Test GmbH",
+      "year": "2000",
+      "authors": "K A Heller; C Perleth"
+    },
+    {
+      "title": "The causal ordering of academic achievement and self-concept of ability during elementary school: A longitudinal study",
+      "journal": "Journal of Educational Psychology",
+      "year": "1995",
+      "authors": "A Helmke; M A G Van Aken"
+    },
+    {
+      "title": "The effect of estimation method and sample size in multilevel structural equation modeling",
+      "journal": "Statistica Neerlandica",
+      "year": "2010",
+      "authors": "J J Hox; C J M Maas; M J S Brinkhuis"
+    },
+    {
+      "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling",
+      "journal": "",
+      "year": "1999",
+      "authors": "L Hu; P M Bentler"
+    },
+    {
+      "title": "Self-concept and academic achievement: A metaanalysis of longitudinal relations",
+      "journal": "Journal of School Psychology",
+      "year": "2011",
+      "authors": "C Huang"
+    },
+    {
+      "title": "Gender differences in mathematics performance: A meta-analysis",
+      "journal": "Psychological Bulletin",
+      "year": "1990",
+      "authors": "J S Hyde; E Fennema; S J Lamon"
+    },
+    {
+      "title": "Changes in children's self-competence and values: Gender and domain differences across grades one through twelve",
+      "journal": "Child Development",
+      "year": "2002",
+      "authors": "J E Jacobs; S Lanza; D W Osgood; J S Eccles; A Wigfield"
+    },
+    {
+      "title": "Use of missing data methods in longitudinal studies: The persistence of bad practices in developmental psychology",
+      "journal": "Developmental Psychology",
+      "year": "2009",
+      "authors": "H Jelici\u0107; E Phelps; R M Lerner"
+    },
+    {
+      "title": "Cross-lagged panel correlation: A test for spuriousness",
+      "journal": "Psychological Bulletin",
+      "year": "1975",
+      "authors": "D A Kenny"
+    },
+    {
+      "title": "Unterrichtsqualit\u00e4t aus Sch\u00fclerperspektive: Kulturspezifische Profile, regionale Unterschiede und Zusammenh\u00e4nge mit Effekten von Unterricht",
+      "journal": "Leske \u03e9 Budrich",
+      "year": "2003",
+      "authors": "E Klieme; K Rakoczy"
+    },
+    {
+      "title": "Leistungsgruppierungen in der sekundarstufe I. Ihre konsequenzen f\u00fcr die mathematikleistung und das mathematische selbstkonzept der begabung [Ability grouping at secondary level 1: Consequences for mathematics achievement and the selfconcept of mathematical ability",
+      "journal": "",
+      "year": "2001",
+      "authors": "O K\u00f6ller; J Baumert"
+    },
+    {
+      "title": "",
+      "journal": "",
+      "year": "2005",
+      "authors": "M Kunter; M Brunner; J Baumert; U Klusmann; S Krauss; W Blum; . . Neubrand; M "
+    },
+    { "title": "", "journal": "", "year": "", "authors": "" },
+    {
+      "title": "Gender differences in mathematical trajectories",
+      "journal": "Social Forces",
+      "year": "2001",
+      "authors": "E Leahey; G Guo"
+    },
+    {
+      "title": "What is tracking? Cultural expectations in the United States",
+      "journal": "Educational Research Journal",
+      "year": "2003",
+      "authors": "G K Letendre; B K Hofer; H Shimizu"
+    },
+    {
+      "title": "A meta-analysis of gender differences in reading achievement at the secondary school level",
+      "journal": "Studies in Educational Evaluation",
+      "year": "2006",
+      "authors": "P Lietz"
+    },
+    {
+      "title": "New trends in gender and mathematics performance: A meta-analysis",
+      "journal": "Psychological Bulletin",
+      "year": "2010",
+      "authors": "S M Lindberg; J S Hyde; J L Petersen; M C Linn"
+    },
+    {
+      "title": "Statistical analysis with missing data",
+      "journal": "Wiley",
+      "year": "2002",
+      "authors": "R Little; D Rubin"
+    },
+    {
+      "title": "Using and developing measurement instruments in science education: A Rasch modeling approach",
+      "journal": "Information Age Publishing",
+      "year": "2010",
+      "authors": "X Liu"
+    },
+    {
+      "title": "The causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis",
+      "journal": "Journal of Educational Psychology",
+      "year": "1990",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology",
+      "journal": "British Psychological Society",
+      "year": "2007",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "Factor structure, discriminant and convergent validity of TIMSS math and science motivation measures: A comparison of USA and Saudi Arabia",
+      "journal": "Journal of Educational Psychology",
+      "year": "2013",
+      "authors": "H W Marsh; A S Abduljabbar; M Abu-Hilal; A J S Morin; F Abdelfattah; K C Leung; . . Parker; P "
+    },
+    {
+      "title": "Causal ordering of academic self-concept and achievement: Reanalysis of a pioneering study and revised recommendations",
+      "journal": "Educational Psychologist",
+      "year": "1999",
+      "authors": "H W Marsh; B M Byrne; A S Yeung"
+    },
+    {
+      "title": "Temporal ordering effects of adolescent depression, relational aggression and victimization over six waves: Fully latent teciprocal rffects models",
+      "journal": "Perspectives on Psychological Science",
+      "year": "2006",
+      "authors": "H W Marsh; R G. ; H W Craven; R G Craven; R H Parada; J Guo; T Dicke; A S Abduljabbar"
+    },
+    {
+      "title": "Why multicollinearity matters: A reexamination of relations between selfefficacy, self-concept, and achievement",
+      "journal": "Journal of Educational Psychology",
+      "year": "2004",
+      "authors": "H W Marsh; M Dowson; J Pietsch; R Walker"
+    },
+    {
+      "title": "Longitudinal study of preadolescent sport self-concept and performance: Reciprocal effects and causal ordering",
+      "journal": "Journal of Experimental Education",
+      "year": "1996",
+      "authors": "H W Marsh; E Gerlach; U Trautwein; O L\u00fcdtke; W.-D Brettschneider"
+    },
+    {
+      "title": "Goodness of fit evaluation in structural equation modeling",
+      "journal": "Lawrence Erlbaum",
+      "year": "2005",
+      "authors": "H W Marsh; K.-T Hau; D Grayson"
+    },
+    {
+      "title": "Multilevel causal ordering or academic self-concept and achievement: Influence of language of instruction (English vs. Chinese) for Hong Kong students",
+      "journal": "",
+      "year": "2002",
+      "authors": "H W Marsh; K.-T Hau; K W Kong"
+    },
+    { "title": "", "journal": "American Educational Research Journal", "year": "", "authors": "" },
+    {
+      "title": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly",
+      "journal": "",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "search of golden rules: Comment on hypothesis-testing approaches to cutoff values for fit indexes and dangers in overgeneralizing Hu & Bentler's",
+      "journal": "",
+      "year": "1999",
+      "authors": "H W Marsh; K.-T Hau; Z Wen"
+    },
+    {
+      "title": "Dimensional comparison theory: An extension of the internal/external frame of reference effect on academic self-concept formation",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2014",
+      "authors": "H W Marsh; H Kuyper; M Seaton; P D Parker; A J S Morin; J M\u00f6ller; A S Abduljabbar"
+    },
+    {
+      "title": "Reciprocal effects between academic self-concept, self-esteem, achievement, and attainment over seven adolescent years: Unidimensional and multidimensional perspectives of self-concept",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "2008",
+      "authors": "H W Marsh; A Mara"
+    },
+    {
+      "title": "Self-concept is as multidisciplinary as it is multidimensional",
+      "journal": "Information Age",
+      "year": "2008",
+      "authors": "H W Marsh; A J Mara"
+    },
+    {
+      "title": "Breaking the double-edged sword of effort/trying hard: Developmental equilibrium and longitudinal relations among effort, achievement, and academic self-concept",
+      "journal": "Developmental Psychology",
+      "year": "2016",
+      "authors": "H W Marsh; R Pekrun; S Lichtenfeld; J Guo; A K Arens; K Murayama"
+    },
+    {
+      "title": "Long-term positive effects of repeating a year in school: Six-year longitudinal study of self-beliefs, anxiety, social relations, school grades, and test scores",
+      "journal": "Journal of Educational Psychology",
+      "year": "2016",
+      "authors": "H W Marsh; R Pekrun; P D Parker; K Murayama; J Guo; T Dicke; S Lichtenfeld"
+    },
+    {
+      "title": "Academic self-concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering",
+      "journal": "Child Development",
+      "year": "2005",
+      "authors": "H W Marsh; U Trautwein; O L\u00fcdtke; O K\u00f6ller; J Baumert"
+    },
+    {
+      "title": "Longitudinal structural equation models of academic self-concept and achievement: Gender differences in the development of math and English constructs",
+      "journal": "American Educational Research Journal",
+      "year": "1998",
+      "authors": "H W Marsh; A S Yeung"
+    },
+    {
+      "title": "Is self-esteem a cause or consequence of social support? A 4-year longitudinal study",
+      "journal": "Child Development",
+      "year": "2014",
+      "authors": "S L Marshall; P D Parker; J Ciarrochi; P C L Heaven"
+    },
+    {
+      "title": "Gender differences in performance in mathematics at the end of lower secondary school in Italy",
+      "journal": "Learning and Individual Differences",
+      "year": "2011",
+      "authors": "M Matteucci; S Mignani"
+    },
+    {
+      "title": "Elementary teachers' classroom assessment and grading practices",
+      "journal": "The Journal of Educational Research",
+      "year": "2002",
+      "authors": "J H Mcmillan; S Myran; D Workman"
+    },
+    {
+      "title": "Statistical approaches to measurement invariance",
+      "journal": "Routledge",
+      "year": "2011",
+      "authors": "R E Millsap"
+    },
+    {
+      "title": "Meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept",
+      "journal": "Review of Educational Research",
+      "year": "2009",
+      "authors": "J M\u00f6ller; B Pohlmann; O K\u00f6ller; H W Marsh"
+    },
+    {
+      "title": "The reciprocal internal/external frame of reference model: An integration of models of relations between academic achievement and self-concept",
+      "journal": "",
+      "year": "2011",
+      "authors": "J M\u00f6ller; J Retelsdorf; O K\u00f6ller; H W Marsh"
+    },
+    { "title": "", "journal": "American Educational Research Journal", "year": "", "authors": "" },
+    {
+      "title": "The reciprocal internal/ external frame of reference model using grades and test scores",
+      "journal": "The British Journal of Educational Psychology",
+      "year": "2014",
+      "authors": "J M\u00f6ller; F Zimmermann; O K\u00f6ller"
+    },
+    {
+      "title": "PIRLS 2006 international report: IEA's progress in international reading literacy study in primary schools in 40 countries",
+      "journal": "",
+      "year": "2007",
+      "authors": "I V S Mullis; M O Martin; A M Kennedy; P Foy"
+    },
+    {
+      "title": "Predicting long-term growth in students' mathematics achievement: The unique contributions of motivation and cognitive strategies",
+      "journal": "Child Development",
+      "year": "2013",
+      "authors": "K Murayama; R Pekrun; S Lichtenfeld; R Vom Hofe"
+    },
+    {
+      "title": "Don't aim too high for your kids: Parental over-aspiration undermines students' learning in mathematics",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2016",
+      "authors": "K Murayama; R Pekrun; M Suzuki; H W Marsh; S Lichtenfeld"
+    },
+    {
+      "title": "Complex sample data in structural equation modeling",
+      "journal": "American Sociological Association",
+      "year": "1995",
+      "authors": "B Muth\u00e9n; A Satorra"
+    },
+    {
+      "title": "Mplus user's guide",
+      "journal": "Author",
+      "year": "1998",
+      "authors": "L K Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Does stereotype threat affect test performance of minorities and women? A meta-analysis of experimental evidence",
+      "journal": "Journal of Applied Psychology",
+      "year": "2008",
+      "authors": "H H Nguyen; A M Ryan"
+    },
+    {
+      "title": "The longitudinal interplay of students' academic self-concepts and achievements within and across domains: Replicating and extending the reciprocal internal/external frame of reference model",
+      "journal": "Journal of Educational Psychology",
+      "year": "2014",
+      "authors": "C Niepel; M Brunner; F Preckel"
+    },
+    {
+      "title": "Trends in gender differences in academic achievement from 1960 to 1994: An analysis of differences in mean, variance, and extreme scores",
+      "journal": "Sex Roles",
+      "year": "1998",
+      "authors": "A Nowell; L V Hedges"
+    },
+    {
+      "title": "Do self-concept interventions make a difference? A synergistic blend of construct validation and meta-analysis",
+      "journal": "Educational Psychologist",
+      "year": "2006",
+      "authors": "A J O'mara; H W Marsh; R G Craven; R L Debus"
+    },
+    {
+      "title": "The control-value theory of achievement emotions: Assumptions, corollaries, and implications for educational research and practice",
+      "journal": "Educational Psychology Review",
+      "year": "2006",
+      "authors": "R Pekrun"
+    },
+    {
+      "title": "Achievement emotions and academic performance: Longitudinal models of reciprocal effects",
+      "journal": "",
+      "year": "",
+      "authors": "R Pekrun; S Lichtenfeld; H W Marsh; K Murayama; T Goetz"
+    },
+    {
+      "title": "Development of mathematical competencies in adolescence: The PALMA longitudinal study",
+      "journal": "Waxmann",
+      "year": "2007",
+      "authors": "R Pekrun; R Vom Hofe; W Blum; A C Frenzel; T Goetz; S Wartha"
+    },
+    {
+      "title": "Evaluation of scale reliability for unidimensional measures using latent variable modeling",
+      "journal": "Measurement & Evaluation in Counseling & Development",
+      "year": "2009",
+      "authors": "T Raykov"
+    },
+    {
+      "title": "Reading achievement and reading self-concept. Testing the reciprocal effects model",
+      "journal": "Learning and Instruction",
+      "year": "2014",
+      "authors": "J Retelsdorf; O K\u00f6ller; J M\u00f6ller"
+    },
+    {
+      "title": "The reciprocal relations between self-concept, motivation and achievement: Juxtaposing academic self-concept and achievement goal This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly. orientations for mathematics success",
+      "journal": "Educational Psychology",
+      "year": "2014",
+      "authors": "M Seaton; P Parker; H W Marsh; R G Craven; A S Yeung"
+    },
+    {
+      "title": "Self-concept: Validation of construct interpretations",
+      "journal": "Review of Educational Research",
+      "year": "1976",
+      "authors": "R J Shavelson; J J Hubner; G C Stanton"
+    },
+    {
+      "title": "Socioeconomic status and academic achievement: A meta-analytic review of research",
+      "journal": "Review of Educational Research",
+      "year": "2005",
+      "authors": "S R Sirin"
+    },
+    {
+      "title": "Gender differences in math and verbal self-concept, performance expectations, and motivation",
+      "journal": "Sex Roles",
+      "year": "2004",
+      "authors": "S Skaalvik; E M Skaalvik"
+    },
+    {
+      "title": "The nature and nurture of intelligence and motivation in the origins of sex differences in elementary school achievement",
+      "journal": "European Journal of Personality",
+      "year": "2008",
+      "authors": "F M Spinath; B Spinath; R Plomin"
+    },
+    {
+      "title": "A threat in the air. How stereotypes shape intellectual identity and performance",
+      "journal": "American Psychologist",
+      "year": "1997",
+      "authors": "C M Steele"
+    },
+    {
+      "title": "Predicting homework effort: Support for a domain-specific, multilevel homework model",
+      "journal": "Journal of Educational Psychology",
+      "year": "2006",
+      "authors": "U Trautwein; O L\u00fcdtke; I Schnyder; A Niggli"
+    },
+    {
+      "title": "The relation between self-beliefs and academic achievement: A meta-analytic review",
+      "journal": "Educational Psychologist",
+      "year": "2004",
+      "authors": "J C Valentine; D L Dubois; H Cooper"
+    },
+    {
+      "title": "Mathematics participation and mathematics achievement across secondary school: The role of gender",
+      "journal": "Sex Roles",
+      "year": "2008",
+      "authors": "E Van De Gaer; H Pustjens; J Van Damme; A Munter"
+    },
+    {
+      "title": "On the role of \"Grundvorstellungen\" for the development of mathematical literacy. First results of the longitudinal study PALMA",
+      "journal": "Mediterranean Journal for Research in Mathematics Education",
+      "year": "2005",
+      "authors": "R Vom Hofe; M Kleine; W Blum; R Pekrun"
+    },
+    {
+      "title": "Projekt zur Analyse der Leistungsentwicklung in Mathematik (PALMA): Konstruktion des Regensburger Mathematikleistungstests f\u00fcr 5.-10. Klassen [Project for the Analysis of Learning and Achievement in Mathematics (PALMA): Development of the Regensburg Mathematics Achievement Test for grades 5 to 10",
+      "journal": "",
+      "year": "2002",
+      "authors": "R Vom Hofe; R Pekrun; M Kleine; T G\u00f6tz"
+    },
+    {
+      "title": "Structural equation modeling: Applications using Mplus",
+      "journal": "Wiley",
+      "year": "2012",
+      "authors": "J Wang; X Wang"
+    },
+    {
+      "title": "Development of adolescents' self-perceptions, values, and task perceptions according to gender and domain in 7th-through 11th-grade Australian students",
+      "journal": "Child Development",
+      "year": "2004",
+      "authors": "H M G Watt"
+    },
+    {
+      "title": "Factorial invariance within longitudinal structural equation models: Measuring the same construct across time",
+      "journal": "Child Development Perspectives",
+      "year": "2010",
+      "authors": "K F Widaman; E Ferrer; R D Conger"
+    },
+    {
+      "title": "Who am I and what can I do? Children's self-concepts and motivation in achievement solutions",
+      "journal": "Psychologist",
+      "year": "1991",
+      "authors": "A Wigfield; M Karpathian"
+    },
+    {
+      "title": "The new rules of measurement: What every educator and psychologist should know",
+      "journal": "Lawrence Erbaum",
+      "year": "1999",
+      "authors": "B D Wright"
+    },
+    {
+      "title": "",
+      "journal": "",
+      "year": "2007",
+      "authors": "M L Wu; R J Adams; M R Wilson; S A Haldane"
+    },
+    {
+      "title": "ACERConQuest Version 2: Generalised item response modelling software. Camberwell, Australia: Australian Council for Educational Research",
+      "journal": "",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Reciprocal effects between adolescent externalizing problems and measures of achievement",
+      "journal": "Journal of Educational Psychology",
+      "year": "2013",
+      "authors": "F Zimmermann; K Sch\u00fctte; P Taskinen; O K\u00f6ller"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Figure1. Prototype full-forward cross-lagged effects model for reciprocal relations between self-concept and achievement. For simplification, only three measurement waves are presented. Ovals represent latent constructs (self-concept and achievement factors); straight dashed arrows represent first-order and higher order (here: second-order) cross-lagged effects paths; straight solid arrows represent first-order and higher order (here: second-order) stability paths; curved arrows represent covariances between factors. This document is copyrighted by the American Psychological Association or one of its allied publishers.This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Goodness-of-Fit Indices of the Models Including School Grades and Test Scores as Achievement IndicatorsAll models are estimated with the robust maximum likelihood estimator; all chi-squares are significant (p \u03fd .05). CFA \u03ed confirmatory factor analyses; CFI \u03ed comparative fit index; TLI \u03ed Tucker-Lewis index; RMSEA \u03ed root mean square error of approximation; SRMR \u03ed standardized root mean square residual.",
+      "figure_data": "Model2dfCFITLIRMSEASRMR11121.292585.990.987.016.023CFA longitudinal measurement model21206.239605.989.986.017.027CFA longitudinal measurement model; invariance of factor loadingsacross time32634.5561755.984.978.021.029Multi-group CFA longitudinal measurement model42695.4561805.984.979.021.030Multi-group CFA longitudinal measurement model; invariance offactor loadings across school tracks52780.4481824.982.977.021.034Multi-group CFA longitudinal measurement model; invariance offactor loadings across school tracks and time62780.4461824.982.977.021.034Full-forward cross-lagged panel model; all paths freely estimatedacross school tracks and time73857.3131986.965.959.029.058Cross-lagged panel model; only first-order stability and cross-laggedpaths; all paths freely estimated across school tracks and time82951.8101932.981.977.022.036Cross-lagged panel model; first-order and higher order stability paths,but only first-order cross-lagged paths; all paths freely estimatedacross school tracks and time93641.5411878.967.959.029.052Cross-lagged panel model; first-order and higher order cross-laggedpaths, but only first-order stability paths; all paths freely estimatedacross school tracks and time103540.8212265.977.972.022.037Cross-lagged panel model; first-order and higher order stability paths,but only first-order cross-lagged paths; inclusion of controlvariables; all paths freely estimated across school tracks and time113769.5562331.974.970.023.042Cross-lagged panel model; first-order and higher order stability paths,but only first-order cross-lagged paths; inclusion of controlvariables; invariance of cross-lagged paths across school tracks andtime (developmental equilibrium)123996.5792409.971.968.024.052Cross-lagged panel model; first-order and higher order stability paths,but only first-order cross-lagged paths; inclusion of controlvariables; invariance of cross-lagged paths and (first-order andhigher order) stability paths across school tracks and time134031.4042427.971.968.024.052Cross-lagged panel model; first-order and higher order stability paths,but only first-order cross-lagged paths; inclusion of controlvariables; invariance of cross-lagged paths, (first-order and higherorder) stability, and covariates paths across school tracks and timeNote."
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Standardized Paths Coefficients of Model 13Gender is coded 0 \u03ed female, 1 \u03ed male. Coefficients based on StdYX standardization within Mplus (i.e., standardization of independent and dependent variables) are provided for all effects except effects involving gender. For effects involving gender, coefficients based on StdY standardization are provided. SES \u03ed socioeconomic status.",
+      "figure_data": "High-Middle-Low-High-Middle-Low-High-Middle-Low-achievementachievementachievementachievementachievementachievementachievementachievementachievementTimetracktracktracktracktracktracktracktracktrackStabilityMath self-conceptMath gradesMath test scoresT1-T2.506 \u202b\u0621\u202c.537 \u202b\u0621\u202c.538 \u202b\u0621\u202c.466 \u202b\u0621\u202c.460 \u202b\u0621\u202c.473 \u202b\u0621\u202c.525 \u202b\u0621\u202c.499 \u202b\u0621\u202c.492 \u202b\u0621\u202cT1-T3.140 \u202b\u0621\u202c.147 \u202b\u0621\u202c.150 \u202b\u0621\u202c.129 \u202b\u0621\u202c.132 \u202b\u0621\u202c.132 \u202b\u0621\u202c.201 \u202b\u0621\u202c.201 \u202b\u0621\u202c.196 \u202b\u0621\u202cT1-T4.067 \u202b\u0621\u202c.071 \u202b\u0621\u202c.069 \u202b\u0621\u202c.083 \u202b\u0621\u202c.082 \u202b\u0621\u202c.086 \u202b\u0621\u202c.105 \u202b\u0621\u202c.103 \u202b\u0621\u202c.097 \u202b\u0621\u202cT1-T5.035.036.037.022.021.022.044 \u202b\u0621\u202c.045.041 \u202b\u0621\u202cT2-T3.522 \u202b\u0621\u202c.518 \u202b\u0621\u202c.525 \u202b\u0621\u202c.416 \u202b\u0621\u202c.430 \u202b\u0621\u202c.417 \u202b\u0621\u202c.445 \u202b\u0621\u202c.468 \u202b\u0621\u202c.462 \u202b\u0621\u202cT2-T4.143 \u202b\u0621\u202c.143 \u202b\u0621\u202c.139 \u202b\u0621\u202c.122 \u202b\u0621\u202c.123 \u202b\u0621\u202c.124 \u202b\u0621\u202c.182 \u202b\u0621\u202c.187 \u202b\u0621\u202c.179 \u202b\u0621\u202cT2-T5.068 \u202b\u0621\u202c.067 \u202b\u0621\u202c.068 \u202b\u0621\u202c.080 \u202b\u0621\u202c.078 \u202b\u0621\u202c.080 \u202b\u0621\u202c.089 \u202b\u0621\u202c.095 \u202b\u0621\u202c.088 \u202b\u0621\u202cT3-T4.518 \u202b\u0621\u202c.522 \u202b\u0621\u202c.500 \u202b\u0621\u202c.439 \u202b\u0621\u202c.428 \u202b\u0621\u202c.447 \u202b\u0621\u202c.475 \u202b\u0621\u202c.466 \u202b\u0621\u202c.451 \u202b\u0621\u202cT3-T5.143 \u202b\u0621\u202c.141 \u202b\u0621\u202c.140 \u202b\u0621\u202c.131 \u202b\u0621\u202c.124 \u202b\u0621\u202c.131 \u202b\u0621\u202c.182 \u202b\u0621\u202c.184 \u202b\u0621\u202c.173 \u202b\u0621\u202cT4-T5.520 \u202b\u0621\u202c.509 \u202b\u0621\u202c.530 \u202b\u0621\u202c.448 \u202b\u0621\u202c.434 \u202b\u0621\u202c.441 \u202b\u0621\u202c.446 \u202b\u0621\u202c.460 \u202b\u0621\u202c.446 \u202b\u0621\u202cCross-lagged pathsMath grades \u00a1 math self-conceptMath self-concept \u00a1 math gradesMath self-concept \u00a1 math test scoresT1-T2.088 \u202b\u0621\u202c.090 \u202b\u0621\u202c.093 \u202b\u0621\u202c.047 \u202b\u0621\u202c.049 \u202b\u0621\u202c.049 \u202b\u0621\u202c.056 \u202b\u0621\u202c.054 \u202b\u0621\u202c.056 \u202b\u0621\u202cT2-T3.083 \u202b\u0621\u202c.085 \u202b\u0621\u202c.086 \u202b\u0621\u202c.046 \u202b\u0621\u202c.046 \u202b\u0621\u202c.045 \u202b\u0621\u202c.056 \u202b\u0621\u202c.054 \u202b\u0621\u202c.056 \u202b\u0621\u202cT3-T4.087 \u202b\u0621\u202c.087 \u202b\u0621\u202c.087 \u202b\u0621\u202c.046 \u202b\u0621\u202c.046 \u202b\u0621\u202c.046 \u202b\u0621\u202c.059 \u202b\u0621\u202c.056 \u202b\u0621\u202c.055 \u202b\u0621\u202cT4-T5.086 \u202b\u0621\u202c.087 \u202b\u0621\u202c.087 \u202b\u0621\u202c.048 \u202b\u0621\u202c.045 \u202b\u0621\u202c.048 \u202b\u0621\u202c.058 \u202b\u0621\u202c.057 \u202b\u0621\u202c.056 \u202b\u0621\u202cMath test-scores \u00a1 math self-conceptMath test scores \u00a1 math gradesMath grades \u00a1 math test scoresT1-T2.089 \u202b\u0621\u202c.093 \u202b\u0621\u202c.088 \u202b\u0621\u202c.164 \u202b\u0621\u202c.166 \u202b\u0621\u202c.157 \u202b\u0621\u202c.132 \u202b\u0621\u202c.123 \u202b\u0621\u202c.132 \u202b\u0621\u202cT2-T3.077 \u202b\u0621\u202c.084 \u202b\u0621\u202c.082 \u202b\u0621\u202c.134 \u202b\u0621\u202c.148 \u202b\u0621\u202c.137 \u202b\u0621\u202c.122 \u202b\u0621\u202c.120 \u202b\u0621\u202c.124 \u202b\u0621\u202cT3-T4.079 \u202b\u0621\u202c.082 \u202b\u0621\u202c.077 \u202b\u0621\u202c.137 \u202b\u0621\u202c.140 \u202b\u0621\u202c.138 \u202b\u0621\u202c.134 \u202b\u0621\u202c.126 \u202b\u0621\u202c.129 \u202b\u0621\u202cT4-T5.075 \u202b\u0621\u202c.078 \u202b\u0621\u202c.079 \u202b\u0621\u202c.134 \u202b\u0621\u202c.135 \u202b\u0621\u202c.139 \u202b\u0621\u202c.131 \u202b\u0621\u202c.131 \u202b\u0621\u202c.125 \u202b\u0621\u202cCovariatesEffects on math self-concept (T1)Effects on math grades (T1)Effects on math test scores (T1)Gender.617 \u202b\u0621\u202c.599 \u202b\u0621\u202c.580 \u202b\u0621\u202c.057.058.054.367 \u202b\u0621\u202c.362 \u202b\u0621\u202c.370 \u202b\u0621\u202cIQ.207 \u202b\u0621\u202c.190 \u202b\u0621\u202c.200 \u202b\u0621\u202c.350 \u202b\u0621\u202c.335 \u202b\u0621\u202c.341 \u202b\u0621\u202c.421 \u202b\u0621\u202c.392 \u202b\u0621\u202c.435 \u202b\u0621\u202cSES.016.017.016.087 \u202b\u0621\u202c.091 \u202b\u0621\u202c.083 \u202b\u0621\u202c.068 \u202b\u0621\u202c.070 \u202b\u0621\u202c.069 \u202b\u0621\u202cNote."
+    }
+  ],
+  "doi": "10.1037/edu0000163.supp"
+}

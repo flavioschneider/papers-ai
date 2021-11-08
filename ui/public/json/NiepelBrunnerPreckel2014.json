@@ -1,0 +1,723 @@
+{
+  "title": "The Longitudinal Interplay of Students' Academic Self-Concepts and Achievements Within and Across Domains: Replicating and Extending the Reciprocal Internal/External Frame of Reference Model",
+  "abstract": "Students' cognitive and motivational profiles have a large impact on their academic careers. The development of such profiles can partly be explained by the reciprocal internal/external frame of reference model (RI/E model). The RI/E model predicts positive and negative longitudinal effects between academic self-concepts and achievements within and across 2 academic domains (i.e., the mathematics and verbal domains). In the present study, we replicated the RI/E model in 2 samples and extended it by simultaneously investigating the longitudinal associations of academic self-concepts and achievements in 3 academic domains (i.e., mathematics, German as a native language, English as a foreign language). We examined 2 domains across 4 measurement occasions in 2 independent student samples who were in Grades 5-8 (Study 1: N \u03ed 1,529) or Grades 5-7 (Study 2: N \u03ed 639). In a 3rd study, we examined a subsample of the 2nd sample (N \u03ed 465) in 3 domains. Results demonstrated support for the RI/E model for 2 as well as 3 academic domains. We found positive reciprocal effects of academic self-concepts and achievements within a domain, positive reciprocal effects between achievements across domains, negative effects of achievements on subsequent cross-domain self-concepts, negative effects of academic self-concepts on subsequent cross-domain achievements, and some support for negative effects of academic self-concepts on subsequent cross-domain self-concepts. Furthermore, we found that RI/E model effects were of comparable size across time. To conclude, the RI/E model provides significant insights into the development of distinct motivational and cognitive profiles and, thus, of becoming either a math or verbal person. Implications for research and educational practice are discussed.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "taneously examine (a) reciprocal effects and (b) contrast effects between academic self-concepts and achievements in different academic domains in the long run. Of note, by considering the development of academic self-concept and achievement within and across different academic domains, the RI/E model provides insights into the joint development of students' cognitive and motivational profiles. Thus, the RI/E model is important for promoting a better understanding of the developmental tasks and academic trajectories that depend on such profiles. This involves forming one's self, selecting specialized courses, or deciding on a career choice.\nGiven its immanent importance for educational theory, research, and practice, further research on the RI/E model is necessary. To date, however, there have been no replications of the RI/E model. Furthermore, some predictions derived from the RI/E model need to be subjected to empirical scrutiny. Notably, the potential negative long-term effect of academic self-concept on cross-domain achievement needs further clarification (see next paragraph). The present study therefore aimed to further empirically examine the RI/E model by analyzing the mutual longitudinal relations between achievements and self-concepts in mathematics and German (as a verbal subject). Importantly, to carefully explore the generalizability of the RI/E model, we analyzed two large independent samples of data that both included four waves of data collection: Study 1 included Grades 5 to 8, and Study 2 included Grades 5 to 7. Capitalizing on this broad empirical data base, we were also able to extend the RI/E model by simultaneously investigating academic self-concepts and achievements in mathematics and a native (i.e., German) as well as a foreign (i.e., English) language. This significant extension of the RI/E model across three different academic domains has not been conducted before. Additionally, we were interested in the question of whether the strengths of the relations between academic self-concepts and achievements differ in different phases of students' school careers (e.g., new learning groups in the first months of secondary school vs. stable learning groups in higher grades). If yes, this would indicate phasedependent developmental differences in students' formation of cognitive and motivational profiles. To our knowledge, this question had not been investigated yet.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Reciprocal Internal/External Frame of Reference Model",
+      "text": "Recently, M\u00f6ller and colleagues (2011) proposed a new approach by merging two established and widely studied academic self-concept models, (a) the REM and (b) the I/E model into the RI/E model. By doing so, they extended the REM to more than one academic domain and the I/E model longitudinally (M\u00f6ller et al., 2011).\nThe REM depicts mutual relations between academic selfconcepts and academic achievements, suggesting that higher achievements foster self-concepts (when previous self-concepts are controlled; cf. skill development; Calsyn & Kenny, 1977) and that higher self-concepts enhance achievements (when previous attainment is controlled; cf. self-enhancement; Calsyn & Kenny, 1977; for an overview, see Marsh & Martin, 2011; see also Guay, Marsh, & Boivin, 2003). Thus, the REM postulates three positive long-lasting effects that areamongst others-illustrated in Figure 1 by presenting the entire RI/E model framework in two academic domains. These effects consist of: (a) skill development effects (positive effects of achievement on subsequent academic self-concept within one domain; indicated by \u2423 in Figure 1), (b) self-enhancement effects (positive effects of academic self-concept on subsequent achievement within one domain; indicated by \u2424 in Figure 1), and (c) autoregressive effects (indicated by \u03b5 in Figure 1).\nThe I/E model (e.g., M\u00f6ller, Pohlmann, K\u00f6ller, & Marsh, 2009) also postulates positive skill development effects but additionally postulates negative contrast effects of achievement on subsequent academic self-concepts across domains (internal frame of reference effects; indicated by \u2425 in Figure 1). Thus, high achievement in one domain (e.g., mathematics achievement) is assumed to exert a negative influence on academic self-concept in a contrasting domain (e.g., verbal self-concept). This internal frame of reference effect thus describes dimensional comparison effects (M\u00f6ller & Marsh, 2013; see also Marsh, 2006;M\u00f6ller & K\u00f6ller, 2001a;. Of note, most research on the I/E model has drawn on cross-sectional data (e.g., Marsh, 2006;M\u00f6ller et al., 2009) and has not tested the predictions longitudinally (see Brunner et al., 2010, for an exception).\nThe predictions of the RI/E model are largely based on those of both single models. Yet the RI/E model predictions should also hold longitudinally. Furthermore, they should even hold after controlling for baseline measures within and across the verbal and mathematics domains (i.e., achievements and academic self-concepts)-going beyond conventional REM and I/E model research (M\u00f6ller et al., 2011). Figure 1 presents all assumptions of the RI/E model (M\u00f6ller et al., 2011). As is true for the REM and I/E models, the RI/E model predicts (a) skill development effects (indicated by \u2423), (b) self-enhancement effects (indicated by \u2424), (c) autoregressive effects (indicated by \u03b5), and (d) internal frame of reference effects (indicated by \u2425). Furthermore, by extending the rationale of the I/E model longitudinally, the RI/E model predicts (e) positive cross-domain effects of achievements on subsequent achievements in the contrasting domain (i.e., positive reciprocal cross-domain effects between achievements; indicated by ) and (f) weak or null effects of academic self-concepts on subsequent noncorresponding self-concepts across domains (i.e., the prior verbal self-concept only marginally or does not affect the subsequent mathematics self-concept and vice versa; indicated by ). However, a new prediction emerges by combining the REM with the I/E model: (g) Prior academic self-concept should negatively affect subsequent achievement in the contrasting domain (e.g., mathematics selfconcept should negatively affect subsequent German achievement) when prior achievements are controlled for (indicated by \u2426 in Figure 1). Such negative cross-domain contrast effects of academic self-concepts have been neglected in academic self-concept research to date. Prior academic self-concept research has focused almost exclusively on the positive effects of academic self-concept (e.g., Marsh & Martin, 2011), considering self-concept to be \"a negative cross-domain contrast effects of academic self-concepts by suggesting either null relations or very small negative effects of academic self-concept in one domain on achievement in another domain.\nIn their study, M\u00f6ller et al. (2011) examined data from a sample of 1,508 German secondary school students to analyze the RI/E model framework using three waves of data collection from Grades 5 to 8. Overall, findings supported the seven core predictions of the RI/E model (as mentioned above). Yet, compared to other postulated effects, support for negative effects of academic self-concepts on subsequent achievements across domains (i.e., cross-domain contrast effects of academic self-concepts) was considerably weaker: M\u00f6ller et al. found only indirect support for negative cross-domain contrast effects of academic self-concepts. Although none of these effects reached statistical significance (at p \u03fd .05), restricting the corresponding paths to zero resulted in significant decreases in model fit (i.e., for chi-square difference testing via model comparison). In sum, these results point to the need for more research on this effect in particular and on the RI/E model in general. To date, the model has not been replicated.",
+      "n_publication_ref": 18,
+      "n_figure_ref": 7
+    },
+    {
+      "heading": "Extending the RI/E Model to Mathematics, a Native Language, and a Foreign Language",
+      "text": "Most I/E model research has contrasted mathematics with a verbal domain (e.g., German as a verbal subject), supporting negative crossdomain contrast effects between achievements and academic selfconcepts (i.e., internal frame of reference effects). However, I/E model research juxtaposing two domains that are typically perceived as closely related-such as two verbal domains (i.e., German and English) or two numerical or science domains (i.e., mathematics and physics)-has delivered rather mixed results. For example, M\u00f6ller, Streblow, Pohlmann, and K\u00f6ller (2006) extended the I/E model to two verbal and two science domains (i.e., mathematics, physics, German, and English). They identified positive cross-sectional correlations between English achievement and German self-concept, between mathematics achievement and physics self-concept, and between physics achievement and mathematics self-concept, respectively. In line with this, Xu et al. (2013) recently found no internal frame of reference effects among the native (i.e., Chinese) and foreign (i.e., English) languages of students, but they found negative contrast effects of mathematics achievement on Chinese and English selfconcepts. In addition, Chinese and English achievements were negatively related to mathematics self-concept. By contrast, Chiu (2012) found negative internal frame of reference effects between mathematics and science. Of note, all of these findings are based on crosssectional data. For longitudinal data, Brunner et al. (2010) reported negative longitudinal internal frame of reference effects from Grades 6 to 8 between French and German as verbal subjects in a Luxembourgish sample (of note, both languages are vital in Luxembourg; see Brunner et al., 2010, for a discussion). Taken together, more longitudinal research on internal frame of reference effects between closely related domains is needed.\nIn the present study, we investigated mathematics as well as two verbal domains, namely, German (i.e., students' native language) Figure 1. Seven predictions derived from the reciprocal internal/external frame of reference model: (\u2423) skill development effects, (\u2424) self-enhancement effects, (\u2425) internal frame of reference effects, (\u2426) cross-domain contrast effects of academic self-concepts, (\u03b5) autoregressive effects, () reciprocal cross-domain effects between achievements, and () null effects of the domain-specific self-concept on the cross-domain self-concept. Predicted positive effects are depicted by continuous lines, negative effects by dashed lines, and null effects by dotted lines. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nand English (i.e., students' first foreign language in secondary school) within an extended RI/E model. The extension of the RI/E model across these domains leads-as stated above-automatically to a longitudinal examination of internal frame of reference effects between mathematics and German, mathematics and English, and German and English.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Stability of Effects Across Time",
+      "text": "Whether the relative impact of the postulated effects of the RI/E model varies or shows stability across time is an open question. One could assume that the impact of academic self-concepts on corresponding achievements (i.e., self-enhancement effects) increases during transition periods such as when students enter secondary school and, therewith, when they enter a new learning environment in which they have to cope with uncertainty regarding their academic standing (Preckel, G\u00f6tz, & Frenzel, 2010;Wagner, 2001). On the other hand, skill development effects may be more powerful in learning environments that are perceived as rather stable (Helmke, 1992). By examining students from the beginning of secondary school (i.e., Grade 5) to Grade 8 (Study 1) and from the beginning of Grade 5 to Grade 7 (Study 2), we were able to test potential developmental differences in the strength of selfenhancement and skill development effects-and the other effects postulated by the RI/E model. Variations in the magnitudes of the observed effects over time could indicate that these developmental processes depend on phases in secondary school during which the students' learning environment becomes increasingly stable across time. In the methodological literature, the stability of effects is called stationarity (Kenny, 1975;T. D. Little, Preacher, Selig, & Card, 2007). In the present study, we examined the stationarity of RI/E model effects in an important transition phase within students' educational careers. To our knowledge, this has never been done before.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Research Aims",
+      "text": "The present study pursued two vital research aims. Bonett (2012) stated, \"replication evidence is the gold standard by which scientific claims are evaluated\" (p. 410), yet only about 1% of psychology publications are actually replications (Makel, Plucker, & Hegarty, 2012; for further arguments on the importance of replications, see, e.g., Pashler & Harris, 2012). Accordingly, our first important research aim was to replicate the RI/E model because the RI/E model has not been replicated to date. Second, we aimed to significantly extend the RI/E model in two directions: (a) We investigated not only the domains of mathematics and native language but also a domain that is closely related to the latter-that is, English as a foreign language (replication-extension study; Bonett, 2012). (b)This study is the first to analyze the temporal stability of RI/E model predictions across time. To these ends, we conducted three studies that capitalized on large data sets from two independent samples of German secondary school students.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Replication",
+      "text": "Our study design contained some features that are important to have in a replication study, thus allowing us to extend the gener-alizability of prior RI/E model results to a different study population and across varying time lags. We were also able to broaden the empirical body of RI/E model research by considering more points of measurement (see, e.g., Bonett, 2012;Shadish, Cook, & Campbell, 2001). First, to complement M\u00f6ller and colleagues' (2011) sample, which comprised students from different types of secondary schools, Studies 1 to 3 in the present study focused only on students attending the top track of the highly selective German secondary school system (i.e., the German Gymnasium). In comparison to the other scholastic tracks, the Gymnasium differs with respect to school quality and learning environment such that instruction in the Gymnasium is more cognitively demanding and activating (Becker, L\u00fcdtke, Trautwein, K\u00f6ller, & Baumert, 2012). We examined the generalizability of the RI/E model by focusing on a selected subgroup of secondary school students to learn whether the effects found for a heterogeneous sample of the German student body would also hold for students in the Gymnasium, who comprise a more homogeneous subgroup (differences in results would indicate a moderation effect due to specific demographic features of this subgroup). Second, Study 1 on the one hand and Studies 2 and 3 on the other hand varied in their time lags with regard to when performance feedback was given and when academic self-concepts were assessed (differences in results would indicate an effect of time-lag length). Third, M\u00f6ller et al. examined a panel study with three waves of measurement, whereas all of the three studies in the present article contained four waves of measurement.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Extension: Three Domains and Tests of Stationarity",
+      "text": "As outlined above, prior examinations of relations between academic self-concepts and achievements in two verbal domains (i.e., research on the I/E model) have revealed rather mixed findings. In addition, most prior findings were derived from crosssectional data. We therefore investigated the RI/E model predictions longitudinally and across the domains of (a) mathematics and German (Studies 1 and 2) and (b) mathematics, German, and English (Study 3). Furthermore, the present study explored the longitudinal stability (i.e., stationarity) of the effects postulated by the RI/E model (i.e., in Studies 1, 2, and 3).\nNote that we are using a terminology that is typically applied in self-concept research in which causal effects are postulated to describe the mutual relations between achievements and academic self-concepts. In the following sections of the present article-for the sake of conceptual clarity-the reader should note that we sometimes refer to these terms (as introduced above; e.g., selfenhancement effects or skill development effects) to label the resulting longitudinal associations among variables, but we do so without directly implying causality.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Study 1 Method",
+      "text": "Sample and procedure. Sample 1 was obtained from four waves of an ongoing longitudinal study focusing on self-concept development in secondary school. Data were obtained from a sample of 1,529 students (46.57% female) in 43 classes at five different top-track schools (i.e., the Gymnasium) in two federal states of Germany (i.e., Rhineland-Palatinate and Bavaria). The students in the sample were examined across a 40-month period at the beginning of Grade 5 (on average, 10 weeks after the students' first day in secondary school; Time 1) and shortly after the midterm reports in Grade 5 (Time 2), Grade 6 (Time 3), and Grade 8 (Time 4), respectively. Students stayed with the same peers throughout this time period, and they were all enrolled in the same type of mathematics and German classes. Students' mean age was 10.69 years (SD \u03ed 0.44) at Time 1, 11.02 years (SD \u03ed 0.44) at Time 2, 12.04 years (SD \u03ed 0.44) at Time 3, and 14.04 years (SD \u03ed 0.46) at Time 4. A self-report questionnaire was used to collect data on students' achievements (i.e., at Times 2, 3, and 4) and to assess academic self-concepts (i.e., at all four times of measurement) in mathematics and German. The questionnaire was administered during regular class sessions, and students' participation was voluntary. Written parental consent was obtained for all participating children.\nVariables and measures. Academic self-concepts. Academic self-concepts in mathematics and German were assessed by six items based on a German short version of the Self-Description Questionnaire (SDQ; Kunter et al., 2002). The SDQ, originally developed by Marsh (1990), is considered to be one of the best self-concept instruments available (e.g., Byrne, 2002) as research has amply confirmed its factor structure, reliability, and criterion-related validity (e.g., Byrne, 1996;. We adapted the approach applied by Trautwein, L\u00fcdtke, Marsh, K\u00f6ller, and Baumert (2006) and used three of the best items (as determined by item-total correlations) in the total scale per selfconcept (i.e., the mathematics and German self-concepts). Specifically, the items selected for German/mathematics self-concepts were \"I learn German/mathematics quickly,\" \"I have always done well in German/mathematics,\" and \"German/mathematics is one of my best subjects.\" Students responded to these items on a 5-point rating scale ranging from 1 (strongly disagree) to 5 (strongly agree) with higher scores indicating a higher academic selfconcept.\nAcademic achievements. Students' achievements were assessed by self-reported grades in mathematics and German as obtained from the midterm reports in Grade 5 (i.e., students' first report in secondary school), Grade 6, and Grade 8, respectively. These self-reported grades represent cumulative attainment in mathematics and German from the preceding school term. Students reported their grades shortly after they received their midterm reports at Times 2, 3, and 4, respectively. Although meta-analytic research suggests that self-reported grades can be positively biased to a certain extent (Kuncel, Cred\u00e9, & Thomas, 2005), recent research from Germanspeaking countries has demonstrated that self-reported school grades are not subject to systematic reporting biases (Dickh\u00e4user & Plenter, 2005). Hence, these self-reported grades can be considered to represent reliable and valid indicators of students' mathematics and German achievements, respectively. In Germany, a 6-point grading system is used. For ease of interpretation in the present study, we scored grades such that higher numbers indicate better mathematics and German achievement (i.e., 1 \u03ed unsatisfactory to 6 \u03ed excellent).\nData analysis. We examined the RI/E model by means of structural equation modeling (SEM) using a four-wave latent-variable cross-lagged panel design (T. D. Little et al., 2007). Herein, academic self-concepts were specified as latent variables with three indicators each, and academic achievements (i.e., midterm records in mathematics and German) were modeled as manifest single-indicator variables. For the latent variables, we allowed the residuals of corresponding indicators to correlate across the points of measurement (i.e., correlated uniquenesses; T. D. Little et al., 2007). Figure 2 illustrates the resulting SEM. Hence, we investigated our research aims by considering three subsequent time spans: (a) the time span of approximately 4 months from the beginning of secondary school in the fifth grade (i.e., Time 1) to the beginning of the second semester of the fifth grade (i.e., Time 2), (b) the time span of 1 year from the beginning of the second semester of the fifth grade (i.e., Time 2) to the beginning of the second semester of the sixth grade (i.e., Time 3), and (c) the time span of 2 years from the beginning of the second semester of the sixth grade (i.e., Time 3) to the beginning of the second semester of the eighth grade (i.e., Time 4). Note that these observed time intervals were not of the same length. Because the magnitudes of the coefficients' absolute values will shift as the lags become shorter or longer, the observed magnitudes of the path coefficients were not directly comparable across these three time spans (Oud & Delsing, 2010). However, the recorded midterm grades were always provided to the students about 2 weeks before they answered the questionnaire on academic self-concepts. Thus, these lags were of comparable length. Figure 2 illustrates corresponding paths of comparable length by identical letters. Accordingly, the panel design applied in Study 1 allowed us to compare the magnitude and, therewith, test the stability (i.e., stationarity; Kenny, 1975) of (a) skill development effects and (b) internal frame of reference effects. To test the assumption of stationarity, we set all corresponding paths to equality across time (as presented in Figure 2; i.e., all a paths, b paths, c paths, and d paths, respectively). This approach enabled us to explore whether skill development effects and internal frame of reference effects changed across time. The tenability of the equality constraints could be tested via nested model comparisons (T. D. Little et al., 2007).\nAs imperatively required for studying longitudinal RI/E model effects and their stationarity, we previously tested whether the applied latent variables captured the same target constructs across time (i.e., we tested measurement invariance across time). We applied a stepwise strategy to test three levels of measurement invariance: (a) configural invariance (i.e., invariance in the pattern of zero and nonzero loadings), (b) metric invariance (i.e., additionally, invariance in the size of factor loadings), and (c) scalar invariance (i.e., additionally, invariance in the intercepts of the manifest variables). At least metric measurement invariance was required to interpret RI/E model effects in our SEM (for further information, see Widaman & Reise, 1997; see also Meredith, 1993;Meredith & Horn, 2001).\nAll data analyses were conducted with Mplus 7 -2012b. As some distributions of item scores differed slightly from multivariate normality, we used the Mplus option for maximum likelihood estimation to compute standard errors and fit statistics that were robust (MLR; see -2012a against these mild violations of normality (e.g., Kaplan, 2009). As is typical in longitudinal research, complete data on all measures across all waves of measurement were not available for all students. Specifically, This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\n35% to 70% of the students provided data to estimate a certain variance or covariance at any time of measurement. Applying full-information maximum likelihood, the MLR estimator allowed us to deal efficiently with data that were missing in this way (R. J. A. Little, 1995;McArdle, 1994;Muth\u00e9n & Muth\u00e9n, 2006; see also McArdle & Grimm, 2010), thus yielding (a) higher statistical power to study the RI/E model (Collins, Schafer, & Kam, 2001) and (b) parameter estimates that had less bias than estimates gleaned from traditional pairwise or listwise deletion methods (e.g., Graham, 2009). 1 Students were nested within classes in our data. As the number of clusters in our sample (i.e., 43 classes) was not sufficient to use the complex analysis feature in Mplus (i.e., a correction method to account for the nested data structure; for more information, see the Mplus User's Guide, -2012a, we followed Cronbach's (1976) advice and standardized (M \u03ed 0.00, SD \u03ed 1.00) all variables within school classes to remove clustering effects (the same procedure was also chosen by .\nTo evaluate model fit, the following criteria were used to indicate adequate fit: (a) the normed version of the chi-square statistic (Bollen, 1989), (b) the root-mean-square error of approximation, (c) the comparative fit index, and (d) the standardized root-mean-square residual (Hu & Bentler, 1999). To compare two nested models (i.e., to test for measurement invariance and stationarity), we computed chi-square difference tests using the Satorra-Bentlerscaled chi-square (Satorra & Bentler, 2001).",
+      "n_publication_ref": 29,
+      "n_figure_ref": 3
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Preliminary analysis.",
+      "text": "Descriptive statistics. Table 1 presents correlations, means, standard deviations, and internal consistencies for all measures at each wave of measurement. All measures revealed good internal consistencies (\u2423s between .84 and .88). In line with prior I/E model research, Table 1 shows moderate positive correlations between the academic achievement variables (average correlation r \u03ed .39, range r \u03ed .29 to .50) and low correlations between academic This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly. All statistics were derived from the original measures (i.e., before standardization within classes); all measures ranged from 1 to 5 except mathematics and verbal achievement: 1 (worst) to 6 (best).\n\u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .\n01. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nself-concept variables across domains (average correlation r \u03ed .02, range r \u03ed \u03ea.09 to .12). Measurement invariance. Table 2 documents the results of tests of measurement invariance for both constructs across time. An examination of model fit indices and difference-testing statistics between more and less restricted models suggested that a model with scalar invariance provided a reasonable approximation to the data. Thus, subsequent analyses were conducted on models that imposed scalar invariance.\nTesting the RI/E model. In the following two sections, we present the results of the four-wave cross-lagged panel design to examine the RI/E model. We began by probing the assumption of stationarity because, when stationarity holds, it allows for a more parsimonious description of the manifold empirical relations as obtained for the RI/E model.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Stationarity of effects.",
+      "text": "All a, c, and d paths (see Figure 2) could be successfully restricted to equality across time. Table 3 presents the model fit statistics; all models had acceptable to good fit. However, the first b path (i.e., from fifth-grade mathematics achievement to the subsequent mathematics self-concept at Time 2) was significantly different in magnitude than the second and third b paths, which, for their part, showed similar magnitudes across time and were, therefore, set equal (see Table 3). This indicates that skill development effects (i.e., the b and d paths) were similar in size over time except for the first b path (i.e., within the domain of mathematics). Furthermore, all internal frame of reference effects (i.e., the a and c paths) fit the assumption of stationarity across time. Thus, further analyses were conducted on a model that imposed stationarity across time (i.e., Model C; see Table 3).\nRI/E model effects. Figure 3 illustrates the results for testing the RI/E model predictions (i.e., standardized path coefficients; for information on model fit, see Table 3, i.e., Study 1, Model C).\nSkill development effects and self-enhancement effects. In both domains, the results provided support for skill development and self-enhancement effects across time. Within the same domain, prior achievements showed significant and positive relations with subsequent academic self-concepts, whereas prior academic selfconcepts showed significant and positive relations with subsequent achievements. Considering the self-enhancement paths in the first time period in both domains (i.e., between Time 1 and the midterm reports in the fifth grade), the absolute magnitude of the resulting path coefficients was descriptively slightly higher than in the subsequent waves. This pattern may be due to missing baseline measures (either for academic self-concepts or for achievements in any domain).\nAutoregressive effects. All autoregressive paths across time were positive and significant, pointing to an overall moderate to high level of temporal stability of academic self-concepts and achievements in both domains (see Figure 3).\nInternal frame of reference effects. The results provided robust support for negative longitudinal internal frame of reference effects across domains. All associations between achievements and subsequent academic self-concepts across domains differed significantly from zero. The absolute magnitudes of the resulting coefficients were descriptively higher for paths from mathematics achievement to the subsequent verbal self-concept than from verbal achievement to the subsequent mathematics self-concept (see Figure 3).\nReciprocal cross-domain effects between achievement measures. Prior academic achievement in one domain showed a clear positive association with subsequent achievement in the other domain and vice versa. This pattern was found for both time periods (i.e., between the fifth and sixth grades as well as between the sixth and eighth grades). Note. CFI \u03ed comparative fit index; RMSEA \u03ed root-mean-square error of approximation; CI \u03ed confidence interval; SRMR \u03ed standardized root-meansquare residual. \u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .01. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 4
+    },
+    {
+      "heading": "NIEPEL, BRUNNER, AND PRECKEL",
+      "text": "Cross-domain effects between academic self-concept measures. Here, we found a slightly different pattern of results for verbal and mathematics self-concepts. When controlling for baseline measures, both paths between prior verbal self-concepts (i.e., at Times 2 and 3) and subsequent mathematics self-concepts (i.e., at Times 3 and 4) were negative and statistically significant, thus indicating rather small but significant contrast effects across 1-and 2-year periods, respectively. Of note, when no baseline measure was considered, the negative path coefficient representing the effect of verbal self-concept at Time 1 on mathematics self-concept at Time 2 did not reach significance. However, regarding the associations between prior mathematics self-concepts and subsequent verbal self-concepts, the results suggested a null effect: No relation was statistically significant.\nCross-domain contrast effects of academic self-concepts on achievements. First, all cross-domain associations between prior academic self-concept and subsequent achievement were found to be negative, yet two paths were statistically significant: (a) between verbal self-concept and subsequent mathematics achievement for the third time span (i.e., between Time 3 and eighth-grade achievement) and (b) between mathematics self-concept and subsequent verbal achievement for the second time span (i.e., between Time 2 and sixth-grade achievement; see Figure 3).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Study 2",
+      "text": "In Study 2, we analyzed whether the findings from Study 1 could be (a) replicated in another sample and (b) generalized across different time lags between performance feedback and the assessment of academic self-concepts. Additionally, Study 2 was based on a wave of data collection in the seventh grade (i.e., Time 4; instead of the eighth grade as in Study 1). Furthermore, the panel design of Study 2 opened up additional opportunities for examining the stability of RI/E model associations across time. In the following Method section, we mainly highlight the ways in which Study 2 differed from Study 1.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Method",
+      "text": "Sample and procedure. The data from Sample 2 were obtained from four waves of measurement from a longitudinal study that focused on student development in secondary school. The sample comprised data from 639 students (44.44% female) in 26 classes at seven different top-track schools (i.e., Gymnasium) in two federal states of Germany (i.e., Baden-Wuerttemberg and Bavaria). Students in the sample were examined across a 29-month period: at the beginning of Grade 5 (5 to 6 weeks after the students' first day in secondary school; Time 1), at the end of Grade 5 (Time 2), at the end of Grade 6 (Time 3), and in the middle of Grade 7 (Time 4). Students stayed with the same peers throughout the study, and they were all enrolled in the same type of mathematics, German, and English classes. Their mean age was 10.70 years (SD \u03ed 0.43) at Time 1, 11.27 years (SD \u03ed 0.42) at Time 2, 12.26 years (SD \u03ed 0.43) at Time 3, and 13.11 years (SD \u03ed 0.43) at Time 4. Measurement instruments were administered during regular classes, and students' participation was voluntary. Written parental consent was obtained for all participating children.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Variables and measures.",
+      "text": "Academic self-concepts. To assess mathematics and German self-concepts, six items based on the SDQ (as in Study 1; see above) were selected. To assess mathematics self-concept, we used the same three items as in Study 1. For the assessment of German self-concept, three different SDQ items were applied: \"I learn things quickly in German class,\" \"I'm hopeless in German class\" (the item was reverse scored in all further analyses), and \"I get good marks in German.\" These three items were already implemented in the PISA study (Organisation for Economic Co-operation and Development [OECD], 2001). Students responded to these items on a 5-point rating scale ranging from 1 (strongly disagree) to 5 (strongly agree) with higher scores indicating higher academic self-concept. Note. CFI \u03ed comparative fit index; RMSEA \u03ed root-mean-square error of approximation; CI \u03ed confidence interval; SRMR \u03ed standardized root-meansquare residual.\na All corresponding paths were constrained to be equal across time (see Figure 2 for Study 1 and Figure 4 for Study 2). b Corresponding a (first, second, and third), b (only second and third), c (first, second, and third), and d (first, second, and third) paths were constrained to be equal across time (see Figure 2). c The following corresponding cross-sectional residual correlations were constrained to be equal across time to test the assumption of stationarity: domain-specific self-concept's residual with cross-domain self-concept's residual (at Times 2, 3, and 4) and achievement's residual with cross-domain achievement's residual (of Grades 6 and 8).\n\u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .01.\nThis document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 3
+    },
+    {
+      "heading": "9",
+      "text": "RI/E MODEL Academic achievements. Students' achievements in mathematics and German were assessed by teacher-assigned grades taken directly from the students' midterm records from Grade 5, Grade 6, and Grade 7 (rather than by self-reported grades as in Study 1). Again, we scored grades such that higher numbers indicate better mathematics and German achievement (i.e., 1 \u03ed unsatisfactory to 6 \u03ed excellent).\nData analysis. We used the same SEM approach as in Study 1. Herein, academic self-concept measures were specified as latent measures with three indicators each and academic achievement as a single-indicator manifest measure. Correlated uniquenesses between corresponding items across time were allowed. Figure 4 illustrates the model. Of note, the time spans between the waves of measurement differed from those in Study 1. Corresponding paths that have time spans of equal length are indicated by identical letters (considered for testing the assumption of stationarity). In Study 2, we investigated three subsequent time spans of (a) 7 months (i.e., from the beginning of the Gymnasium to the end of the fifth grade), (b) 1 year (i.e., from the end of the fifth grade to the end of the sixth grade), and (c) 10 months (i.e., from the end of the sixth grade to the middle of the seventh grade). As students always received their performance feedback at the end of the first term in Grades 5, 6, and 7 (i.e., from midterm records), the time lags between the per-formance feedback and the subsequent assessments of academic self-concepts at Times 2 and 3 were about 3 months, and the time lags between assessments of self-concepts at Times 2 and 3 and subsequent academic achievements were about 9 months. The time lags between adjacent performance feedback in Grades 5, 6, and 7 were all of equal length. The assumption of stationarity was tested for (a) skill development effects within the fifth and sixth grades (i.e., b and d paths; all paths are illustrated in Figure 4), (b) self-enhancement effects (i.e., e and f paths), (c) autoregressive effects of achievements (i.e., h and l paths), (d) internal frame of reference effects (i.e., a and c paths), (e) cross-domain contrast effects of academic selfconcepts (i.e., g and j paths), and (f) reciprocal cross-domain effects between achievements (i.e., k and i paths).\nSimilar to Study 1, we (a) standardized our measures within classes prior to our main analyses, (b) tested for measurement invariance, and (c) tested the assumption of stationarity. Overall, we used the same statistical rationale (as described in the Method section of Study 1). Concerning all academic selfconcept measures, 64% to 96% of the students provided data to estimate a certain variance or covariance at any time of measurement. The proportion of data present for the German and mathematics achievement measures in the fifth and sixth grades was between 29% and 57% (i.e., missing by design because This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nteacher-assigned school grades in Grades 5 and 6 were collected in only a subsample of the examined classes). 2 For the seventh-grade achievement measures, we had complete data from 43% to 79% of the students.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Results",
+      "text": "Preliminary analyses. Descriptive statistics. Table 4 illustrates the correlations, means, standard deviations, and internal consistencies for all measures at each wave of measurement. Cronbach's \u2423 was satisfactory to good (between .71 and .86). Overall, the correlations were similar to those from Study 1 (cf. Table 1) and in line with prior I/E model findings (average correlations between the academic self-concept variables: r \u03ed .03, range r \u03ed \u03ea.04 to .10; average correlation between the academic achievement variables: r \u03ed .33, range r \u03ed .17 to .47).\nMeasurement invariance. Table 2 shows the results of the tests of measurement invariance. A model with scalar invariance provided a reasonable approximation to the empirical data. Therefore, the following analyses were computed on models that imposed scalar invariance.\nTesting the RI/E model.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Stationarity of effects.",
+      "text": "Results for tests of the assumption of stationarity are presented in Table 3. All corresponding paths (i.e., a, b, c, d, e, f, g, h, i, j, k, and l paths; see Figure 4) could be restricted to equality without losses in model fit. For all effects under investigation, these results clearly indicated stationarity across time.\nRI/E model effects. Results of the specified RI/E model predictions are shown in Figure 5 (i.e., standardized path coefficients; for information on model fit, see Table 3, i.e., Study 2, Model B).\nSkill development effects and self-enhancement effects. The results provided empirical support for the predicted skill development and self-enhancement effects in both domains. Within each domain and consistently across time, prior achievements showed positive relations with subsequent academic self-concepts. Prior academic self-concepts, in turn, showed positive relations with subsequent achievements.\nAutoregressive effects. As shown in Figure 5, the results supported autoregressive effects and suggested a moderate to high level of temporal stability for all included variables.\nInternal frame of reference effects. All path coefficients between prior mathematics achievements and subsequent German self-concepts were significant and negative across time, thus sup- This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.  All statistics were derived from the original measures (i.e., before standardization within classes); all measures ranged from 1 to 5 except mathematics and verbal achievement: 1 (worst) to 6 (best).\n\u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .\n01. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nporting the prediction of internal frame of reference effects. For the relations between German achievements and subsequent mathematics self-concepts, two of the three tested paths were significant.\nIn sum, the results predominantly supported longitudinal internal frame of reference effects.\nReciprocal cross-domain effects between achievement measures. In line with RI/E model predictions, preceding achievements in one domain were significantly and positively related to subsequent achievements in the other domain.\nCross-domain effects between academic self-concept measures. All paths between preceding German self-concepts and subsequent mathematics self-concepts were negative, but only one of them was significantly different from zero. The path between prior German self-concept at Time 3 (i.e., the end of the sixth grade) and subsequent mathematics self-concept at Time 4 (i.e., in the middle of the seventh grade) featured a small significant negative effect. As in Study 1, none of the paths between preceding mathematics self-concepts and subsequent German self-concepts reached significance.\nCross-domain contrast effects of academic self-concepts on achievements. All resulting coefficients of the cross-domain paths between prior academic self-concepts and subsequent achievements were negative (except for the first path between verbal self-concept and mathematics achievement, which was found to be zero). When controlling for baseline measures of achievement, mathematics self-concepts were negatively and significantly related to subsequent German achievements (i.e., between Time 2 and sixth-grade achievement and between Time 3 and seventh-grade achievement) suggesting cross-domain contrast effects of mathematics self-concept. However, the relations between German self-concepts and subsequent mathematics achievements failed to reach statistical significance.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 3
+    },
+    {
+      "heading": "Study 3",
+      "text": "In Study 3, we extended the RI/E model framework. In drawing on a subsample of Study 2, we specified an RI/E model across three domains: one numerical domain (i.e., mathematics) and two verbal (i.e., German and English) domains. Herein, we analyzed students who chose English as their first foreign language in secondary school and were native German speakers. In the following Method section, again, we mainly highlight the ways in which Study 3 differed from Studies 1 and 2.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Method",
+      "text": "Sample and procedure. To study RI/E model effects across three domains, we selected those students from Sample 2 who chose This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "13",
+      "text": "RI/E MODEL English as their first foreign language in secondary school and were native German speakers. Five hundred thirty-four students chose English as their first foreign language (98 students chose Latin; seven did not provide information); herein, 470 were native German speakers (five of these students were not considered in our analyses because they had both German and English as mother tongues). The resulting subsample comprised data from 465 students (42.37% female) in 22 classes from two German federal states (i.e., Baden-Wuerttemberg and Bavaria). Their mean age was 10.71 years (SD \u03ed 0.44) at Time 1, 11.28 years (SD \u03ed 0.43) at Time 2, 12.27 years (SD \u03ed 0.44) at Time 3, and 13.12 years (SD \u03ed 0.44) at Time 4.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Variables and measures.",
+      "text": "Academic self-concepts. To assess mathematics and German self-concepts, we used the same three items as in Study 2. For the assessment of English academic self-concept, we used the following three SDQ items: \"I learn things quickly in English class,\" \"I'm hopeless in English class\" (the item was reverse scored in all further analyses), and \"I get good marks in English.\" These three items were already implemented in the PISA study (OECD, 2001). Again, students responded to these items on a 5-point rating scale ranging from 1 (strongly disagree) to 5 (strongly agree) with higher scores indicating higher academic self-concept.\nAcademic achievements. As in Study 2, students' achievements in mathematics, German, and English were assessed by teacherassigned grades taken directly from the students' midterm records from Grade 5, Grade 6, and Grade 7. We scored grades such that higher numbers indicate better mathematics, German, and English achievement (i.e., 1 \u03ed unsatisfactory to 6 \u03ed excellent).\nData analysis. We used the same SEM approach as in Study 2 (as described above). Prior to our main analyses, we (a) standardized our measures within classes, (b) tested for measurement invariance, and (c) tested the assumption of stationarity for 27 corresponding longitudinal paths (i.e., for effects and time spans equivalent to those in Study 2 but extended across three domains). At least 64% to at most 99% of the students (i.e., concerning all academic self-concepts and seventh-grade achievement measures) and at least 32% to at most 56% of the students (i.e., concerning the fifth-and sixth-grade achievement measures) provided data to estimate a certain variance or covariance at any time of measurement.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Preliminary analysis.",
+      "text": "Descriptive statistics. Table 5 illustrates the correlations, means, standard deviations, and internal consistencies for all measures at each wave of measurement. Cronbach's \u2423 ranged from satisfactory to good (between .71 and .86). The average correlation between the mathematics and German self-concept variables was r \u03ed .02 (range r \u03ed \u03ea.04 to .11), between mathematics and English self-concept r \u03ed .06 (range r \u03ed \u03ea.02 to .22), and between German and English self-concept r \u03ed .29 (range r \u03ed .15 to .44). The average correlation between the mathematics and German achievement variables was r \u03ed .28 (range r \u03ed .09 to .43), between mathematics and English achievement r \u03ed .38 (range r \u03ed .27 to .49), and between German and English achievement r \u03ed .44 (range r \u03ed .26 to .64).\nMeasurement invariance. Table 2 shows the results of the tests of measurement invariance. Again, a model with scalar in-variance was shown to provide a reasonable approximation to the empirical data. Further analyses imposed scalar invariance.\nTesting the RI/E model.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Stationarity of effects.",
+      "text": "Results for tests of the assumption of stationarity are presented in Table 3. All 27 corresponding paths were successfully restricted to equality without losses in model fit, thus indicating stationarity of all tested effects across time.\nRI/E model effects. Results of the specified RI/E model predictions are shown in Table 6 (i.e., standardized path coefficients; for information on model fit, see Table 3, i.e., Study 3, Model B). 3 Skill development effects and self-enhancement effects. The results clearly supported the predicted skill development and selfenhancement effects in simultaneous examinations of the domain of mathematics and the domains of German and English. We found these predicted effects within each domain and consistently across time.\nAutoregressive effects. All autoregressive effects reached statistical significance. The stability of academic self-concepts and achievements was moderate to high.\nInternal frame of reference effects. All path coefficients between prior mathematics achievements and subsequent verbal self-concepts (i.e., German and English self-concepts) failed to reach statistical significance. Furthermore, English achievements were not significantly associated with subsequent mathematics self-concepts. These results contradict the prediction of internal frame of reference effects. By contrast, two of the three tested paths between prior English achievements and subsequent German self-concepts were negative and significant. The same applied for the longitudinal relations between prior German achievements and subsequent mathematics self-concepts. Again, two of the three tested paths were negative and significant. Concerning the internal frame of reference paths between German achievements and subsequent English self-concepts, the results were not consistent across time: In the first two time slots, the associations were significant and negative; in the third time slot, however, this association was significant and positive. In sum, the results provide some support for longitudinal internal frame of reference effects across one numeric and two verbal domains. All but one of the seven significant paths were found to be negative.\nReciprocal cross-domain effects between achievement measures. Except for the longitudinal association between German achievements (i.e., Grades 5 and 6) and subsequent mathematics achievements (i.e., Grades 6 and 7), all cross-domain paths between achievement measures were positive and significant and had small to moderate effect sizes.\nCross-domain effects between academic self-concept measures. Without considering any baseline measure, the path between prior German self-concept at Time 1 and subsequent English self-concept at Time 2 was significant and positive. Prior mathematics self-concept at Time 3 and subsequent English self-concept at Time 4 were significantly negatively related. None of the others cross-domain 3 For the sake of clarity, we used a table to depict the resulting standardized coefficients of the more complex extended RI/E model (vs. a figure as was done in Studies 1 and 2). This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.  Note.\nAll statistics were derived from the original measures (i.e., before standardization within classes); all measures ranged from 1 to 5 except mathematics and verbal achievement: 1 (worst) to 6 (best).\n\u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .\n01. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly. Note. MSC \u03ed Mathematics Self-Concept; GSC \u03ed German Self-Concept; ESC \u03ed English Self-Concept; MACH \u03ed Mathematics Achievement; GACH \u03ed German Achievement; EACH \u03ed English Achievement. \u2020 p \u03fd .10. \u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .01. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\npaths between academic self-concept measures reached statistical significance.\nCross-domain contrast effects of academic self-concepts on achievements. All resulting coefficients of the cross-domain paths between prior mathematics self-concepts and subsequent verbal achievements (i.e., German and English achievements) were negative. After controlling for baseline measures, all of them reached statistical significance. The relations between verbal selfconcepts (i.e., German and English self-concepts) and subsequent cross-domain achievements failed to reach statistical significance except for one marginally significant path: English self-concept was negatively related to subsequent German achievement (i.e., between Time 1 and fifth-grade achievement).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "General Discussion",
+      "text": "Students develop distinct cognitive and motivational profiles, and these have a large impact on individual academic trajectories and career choices. The development of such profiles comprises the core of the recently developed RI/E model (M\u00f6ller et al., 2011). The RI/E model focuses on the interplay between students' academic self-concepts and their academic achievements across multiple domains. As students' academic self-concept is strongly related to motivational and affective variables (e.g., interest, academic emotions) and behavioral outcomes (e.g., course selection), academic self-concept is one key variable in educational research. More holistic than conventional self-concept models (e.g., the REM or the I/E model), the RI/E model reflects the joint development of students' motivational (i.e., self-concept) and cognitive (i.e., achievement) profiles by modeling positive reciprocal and negative contrast effects across time-thereby considerably advancing self-concept research.\nThe absence of any replication study that has addressed the entire RI/E model provided the impetus for the present research. Accordingly, our first research aim was the replication of the RI/E model to thereby probe its generalizability. In addition, our second research aim was to significantly extend the RI/E model by examining its predictions across more than two academic domains (i.e., replication-extension study; see Bonett, 2012) and to test whether corresponding empirical relations would be stable across time (stationarity). Overall, our results supported the RI/E model framework. We found evidence for both positive reciprocal effects and negative contrast effects of academic self-concepts and achievements in the long run. Concerning the generalizability of the RI/E model across independent samples, the resulting patterns of longitudinal associations were remarkably similar between Studies 1 and 2. Furthermore, the RI/E model predictions held across the academic domains investigated (i.e., across the domains of mathematics and German, mathematics and English, or German and English; see Study 3). Additionally, for the examined time span in secondary school, we found that the tested RI/E model effects were stable across time. Of note, M\u00f6ller and colleagues (2011) examined students in secondary school as a whole, whereas we tested the RI/E model framework by focusing on students in the top track of the German secondary school system (i.e., German Gymnasium). Only by controlling for between-secondary-school differences can researchers investigate whether the psychological processes depicted in the RI/E model occur in all subgroups (i.e., certain secondary school types). By focusing on one track, we were therefore able to test the generalizability of the RI/E model framework for this selected group (cf. Shadish et al., 2001, for quasi-experimental designs to generalize causal inferences).",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Positive Reciprocal Effects Across Time",
+      "text": "According to the RI/E model, due to effects of skill development, students with higher achievements show better self-concept development over time. Additionally, due to self-enhancement effects, students with higher academic self-concepts show better development in their attainment.\nIn sum (i.e., bringing together Studies 1 and 2), we tested 12 potential longitudinal skill development effects, six within each domain (i.e., all of them were controlled for prior academic selfconcepts). The results clearly supported these effects; all tested paths were positive and statistically significant. That is, higher achievement is beneficial for academic self-concept development even when controlling for prior academic self-concept. Furthermore, in both studies, we tested 12 potential longitudinal selfenhancement effects, six within each domain (i.e., eight of them were controlled for prior achievements, four within each domain). All of them were positive and significant. These findings clearly support beneficial effects of academic self-concepts on the development of achievements within one domain (even when controlling for prior achievement).\nFurthermore, we found strong support for positive reciprocal effects between mathematics and German achievements. Thus, performing well in mathematics is beneficial for the development of achievement in German as well-and vice versa.\nThe positive RI/E model predictions also held across three domains (i.e., mathematics, German, English). For the domain of English, all longitudinal self-enhancement and skill development paths were significant and had moderate effect sizes. Furthermore, English achievements showed positive reciprocal relations with cross-domain achievements. However, different from Studies 1 and 2, the two paths between prior German achievement and subsequent mathematics achievement failed to reach statistical significance, suggesting that-due to shared variance-German achievement did not provide any additional explanatory power over English achievement in the prediction of mathematics achievement. This common variance might reflect that students learning English as a foreign language draw on their verbal ability skills in their native language (i.e., German; see Proctor, August, Carlo, & Snow, 2006).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Negative Contrast Effects Across Time",
+      "text": "In Studies 1 and 2, we found strong support for internal frame of reference effects of prior achievement on subsequent academic self-concept in the contrasting domain (11 out of 12 paths that we tested were significant). These findings are in favor of the longitudinal extension of this central I/E model prediction. In both studies, academic self-concepts were always negatively related to subsequent cross-domain achievements. When controlling for baseline measures of achievement, four of eight tested paths differed statistically from zero. The results were even clearer when This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.\nconsidering only the paths between mathematics self-concept and subsequent German achievement (three of four tested paths were significant). Furthermore, the observed absolute magnitude of these negative effects was found to be-at least-comparable in size to corresponding positive self-enhancement effects across the same time period (see Figures 3 and 5). Thus, thinking positively about one's abilities in mathematics seems to weaken future achievement in German. Similar dynamics-although weakerseem to apply for German self-concept and subsequent mathematics achievement. Furthermore, German self-concept was found to be negatively related to subsequent mathematics self-concept. When controlling for baseline measures in achievement, three of four tested paths achieved statistical significance, indicating small and negative effects. Thus, German self-concepts seem to influence subsequent mathematics self-concepts not only indirectly via mathematics achievements (i.e., cross-domain contrast effects on achievement) but also directly in the long run. The negative effects of mathematics self-concepts on subsequent German self-concepts, in turn, seem to be completely mediated by German achievements. However, in sum, our results suggest that both mathematics and German self-concepts are negatively related to changes in crossdomain self-concepts-at least indirectly.\nAlso across three domains, the negative RI/E model effects were predominantly confirmed. Notably, we found support for contrasting internal frame of reference effects between the two verbal domains German and English. Herein, we found five of six tested paths to be significant; all but one were negative. Thus, students seem to contrast their grades in German or English with their self-perceived ability in the other verbal subject. These results are of particular interest because the appearance of longitudinal contrast effects between two verbal domains has been repeatedly doubted in favor of positive assimilation effects (M\u00f6ller et al., 2006;Xu et al., 2013; see the introduction; see also M\u00f6ller & Marsh, 2013). We found no evidence for positive long-lasting effects of verbal self-concepts on cross-domain verbal achievements or vice versa. In addition, the internal frame of reference effects between the domains of mathematics and English did not reach statistical significance. After controlling for five concurrent internal frame of reference paths per examined time span, effects might be too weak to reach significance (see limitations below). Between mathematics and German, five out of six internal frame of reference paths were negative; two of them reached statistical significance. Of note, Studies 1 and 2-which could more reliably detect smaller effects (see section on limitations)-revealed internal frame of reference effects between mathematics and German more consistently. However, we found further evidence for negative cross-domain contrast effects of academic self-concepts: Mathematics self-concept was consistently negatively related to subsequent English achievement. Similarly, mathematics selfconcept was significantly negatively related to subsequent German achievement (after controlling for baseline measures; cf. Studies 1 and 2). Additionally, we found a negative and significant direct path between mathematics self-concept and subsequent English self-concept (after controlling for baseline measures; without controlling for shared variances, German self-concept was found to be positively related to subsequent English self-concept).\nTaken together, the predictions derived from the original RI/E model largely applied to the extended RI/E model as well. Our results suggest that RI/E model effects are generalizable across different domains. Hence, students seem to contrast different academic domains-even if both of them are verbal domains. Thus, rather than subordinating German and English into some kind of general verbal self-concept, students seem to perceive their native and foreign languages in secondary school as academically distinct domains. These findings are in line with recent research on the structure of academic self-concepts, indicating that academic selfconcepts are not only highly domain specific (i.e., multidimensional) but also strongly separable across domains and school subjects within domains (i.e., nested Marsh/Shavelson model by Brunner et al., 2010).\nOf note, most of the observed negative longitudinal associations involved academic self-concept as a predictor. This finding supports the existence of undesirable effects-that is, the dark side-of academic self-concepts. Even if these effects were rather small, they should not be neglected because they seem to play a central role in students' profile formation (as discussed below).",
+      "n_publication_ref": 5,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Stability of RI/E Model Effects Across Time",
+      "text": "Overall, our results suggest that the relative impacts of achievements (i.e., skill development effects) and academic self-concepts (i.e., self-enhancement effects) on their corresponding counterparts appear to be fairly stable from fifth grade to seventh grade or from fifth grade to eighth grade. This conclusion holds true except for one tested path in Study 1 (see the Results section of Study 1). However, because we did not replicate this finding in the second sample (i.e., Studies 2 and 3), we have no evidence to generalize it. Thus, we did not interpret this single path any further. Taken together, we found no evidence for variations in the strength of (a) positive skill development effects or (b) negative internal frame of reference effects (i.e., Studies 1, 2, and 3). Furthermore, our findings suggest stability in the relative strengths of these RI/E model effects across time (i.e., Studies 2 and 3): (c) positive self-enhancement effects, (d) negative cross-domain contrast effects of academic self-concepts, (e) positive autoregressive effects (for achievements), and (f) positive reciprocal cross-domain effects between achievements. To conclude, there seem to be no phase-dependent variations in the strengths of the associations between academic self-concepts and achievements (or between adjacent achievements) across time. Thus, RI/E model dynamics seem to apply comparably across Grades 5 to 7 or 8.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations",
+      "text": "Even if the temporal ordering of the variables is specified by design, it is impossible to make causal claims on the basis of longitudinal studies alone. In the present study, we borrowed self-concept theory's common terms, which imply that causality stands behind the longitudinal interplay of academic self-concepts and achievements. However, further intervention studies are necessary to test causal RI/E model effects.\nTo deal with potential clustering effects, we standardized our variables within classes. In the present study, within-class standardization resulted in a fixed-effects design that permitted us to effectively control for (a) grading standards and (b) selection processes between classes (see the methodological advice for making causal inferences in educational settings by Legewie, This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "2012",
+      "text": "). Thus, we were able to compare the observed effects between students in different classes. As a consequence of withinclass standardization, we slightly restricted our variances, which may have resulted in underestimates of the underlying RI/E model effects. Therefore, the present replication-extension study presents a rather conservative test of the RI/E model (Legewie, 2012). As M\u00f6ller and colleagues (2011) did, we analyzed German samples. Thus, further replications outside the German educational system are needed to probe the cross-cultural generalizability of the predictions of the RI/E model in other educational systems.\nIn all three studies, we implemented teacher-assigned grades as academic achievement measures. Overall, school grades can be regarded as the most relevant achievement indicator for selfconcept genesis because regular performance feedback with regard to standardized ability test scores is usually not given to the students (in Germany). Of note, we were able to attenuate potential biases due to different grading standards between classes because we standardized our measures within classes (see above).\nThe multivariate focus of the current study is reflected by the inclusion of several constructs plus students' achievements in one model. Such integrative models have several advantages for the examination of academic self-concept development compared with models that consider only the mutual relation between (global or one specific facet of) academic self-concept and achievement. Notably, numerous longitudinal relations can be investigated while controlling for shared variances. Besides methodological advantages, more integrative models also feature conceptual advantages: RI/E model research offers genuine and novel insights into the dynamics of students' motivational and cognitive profile formation-also in hinting at academic self-concept's dark side, which has been largely neglected in prior research (see the introduction). Of note, more integrative models are also more complex models. In Study 3, we investigated three domains. Here, statistical power might be an issue for two reasons. First, in Study 3, we used a subsample of Study 2. Thus, as a consequence, we estimated the more complex model in Study 3 with a smaller sample than we did for the less complex model in Study 2. Therefore, Study 3 had less statistical power to estimate the single RI/E model predictions, resulting in a more conservative test than in Studies 1 and 2. Second, the power was further restricted by the fact that we did not have complete data for all students at any time of measurement (power was considerably less of an issue in Studies 1 and 2, where more data were available to estimate the single RI/E model predictions). Thus, Study 3 offered less reliable tests to detect smaller effects. Nevertheless, all RI/E model estimates were properly estimated in Study 3 and were-above all-in line with the RI/E model predictions.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusion",
+      "text": "\"Individuals with good mathematics skills also tend to have good verbal skills and vice versa, but people think of themselves as either 'math' persons or 'verbal' persons-but not both\" (Marsh & Hau, 2004, p. 57). In fact, the RI/E model provides important insights into the underlying mechanisms of becoming a math or verbal person-or even more subject-specifically, for example, a person who has good native language skills or is good at learning foreign languages. In particular, the RI/E model accentuates the propulsive role of academic self-concepts in developing distinct motivational and cognitive profiles. Whereas students' academic attainment for its own sake seems to benefit further attainment even in noncorresponding domains, academic self-concepts seem to strengthen achievement in corresponding domains but simultaneously weaken those in domains that are assumed to contrast with each other. Furthermore, we found some support that academic self-concepts are directly and negatively longitudinally related to cross-domain self-concepts. This, in turn, would additionally stimulate students' profile formation. Taken together, thinking of oneself as being either a math or verbal person seems to enhance future corresponding achievements, but-at the same time-it also seems to weaken future noncorresponding achievements and selfconcepts (at least indirectly).\nOne could assume that these contrasting RI/E model effects would gain even more importance when students are free to make academic choices (e.g., course selections in more advanced grades in high school or German Gymnasiale Oberstufe) or to choose a particular career. Hence, academic self-concepts probably benefit niche-picking processes wherein students actively choose selfcongruent environments (i.e., environments that fit their personalities; Caspi, Roberts, & Shiner, 2005). Thus, the RI/E model framework might also be viewed as a promising heuristic for counseling. According to Eccles's (1994) expectancy-value model of educational and occupational choices, peoples' career choices mainly depend on a function of perceptions of task values and expectations for success, wherein the latter are modeled by academic self-concepts. Thus, the RI/E model can substantially refine central facets of Eccles's model by shedding light on underlying developmental dynamics of academic self-concepts in contrasting domains. Other models reflecting academic profiles have also considered cognitive ability (see, e.g., Lubinski & Benbow, 2000). Herein, understanding RI/E model dynamics should help researchers to better understand the gaps between students' actual and perceived abilities.\nHence, an intriguing question that arises is, What would happen if the RI/E model framework was fully integrated with complementary self-regulatory models (e.g., Eccles, 1994;Lubinski & Benbow, 2000)? Thus, an examination of the RI/E model that takes into consideration further cognitive variables (e.g., domainspecific ability), variables of perceived task value (e.g., academic interest), and attribution styles (e.g., performing well in mathematics and German as a result of ability or of effort) would more completely depict the process of self-regulation in educational contexts. Additionally, potential mediators of the longitudinal relations among academic self-concepts and achievements should be investigated. In fact, the underlying modes of action of the influence of academic self-concept on achievements are still unclear to some extent (M\u00f6ller et al., 2011). A plausible explanation would be that high domain-specific academic self-concepts result in more engagement and time invested in corresponding academic domains (Marsh & Yeung, 1997;M\u00f6ller et al., 2011). In fact, some research supports these predictions (see Trautwein & L\u00fcdtke, 2007;Trautwein, L\u00fcdtke, Roberts, Schnyder, & Niggli, 2009). Certainly, there is a need to more rigorously examine the potential mediators of the longitudinal relations between academic self-concepts and achievements (Marsh, 2006). At any rate, over and above feedback regarding one's own actual achievements, academic self-concepts seem to influence students' perceptions of their learning environment and, thus, their overall engagement in learning opportunities. This document is copyrighted by the American Psychological Association or one of its allied publishers.\nThis article is intended solely for the personal use of the individual user and is not to be disseminated broadly. Marsh and colleagues (2005) already integrated academic interests into the REM model framework. However, an integration of academic interest (and/or further cognitive/affective variables as mediators or moderators) in the more holistic RI/E model framework still remains to be implemented.\nA practical implication of the present study clearly concerns the question of how students can be made to feel good about themselves in several academic domains at the same time. Metaanalytical research on self-concept interventions revealed that interventions focusing on praise and/or feedback yielded the highest effect sizes (d \u03ed 1.13; O'Mara, Marsh, Craven, & Debus, 2006). Herein, the robustness of RI/E model principles (i.e., across time and different domains) clarifies the importance of providing comprehensible and appreciative performance feedback to students (cf. Marsh & Hau, 2004). Furthermore, the RI/E model framework helps us to understand why even students who have a lot of potential in several domains may develop a below-average academic self-concept in one particular domain (cf. Marsh & Hau, 2004) and may even become domain-specific underachievers (cf. Snyder & Linnenbrink-Garcia, 2013). Herein, we shed light on the need to simultaneously consider both students' achievements and academic self-concepts in different domains. Maybe more inclusive instructional strategies can help to substantially reduce the negative contrast effects that result in the disadvantage of particular academic domains in the long term, for example, combining elements from different academic domains in instruction (e.g., occasionally teaching mathematics in foreign languages or broaching the issue of radiocarbon age determination in history classes). Such inclusive strategies would emphasize the commonalities between academic fields instead of contrasting supposedly independent academic field skills. Of course, this assumption is speculative in nature and needs to be empirically tested. By presenting our findings, we hope to stimulate further research in this area.",
+      "n_publication_ref": 17,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "The differential effects of school tracking on psychometric intelligence: Do academic-track schools make students smarter",
+      "journal": "Journal of Educational Psychology",
+      "year": "2012",
+      "authors": "M Becker; O L\u00fcdtke; U Trautwein; O K\u00f6ller; J Baumert"
+    },
+    {
+      "title": "Structural equations with latent variables",
+      "journal": "Wiley",
+      "year": "1989",
+      "authors": "K A Bollen"
+    },
+    {
+      "title": "Replication-extension studies",
+      "journal": "Current Directions in Psychological Science",
+      "year": "2012",
+      "authors": "D G Bonett"
+    },
+    {
+      "title": "The structure of academic self-concepts revisited: The nested Marsh/Shavelson model",
+      "journal": "Journal of Educational Psychology",
+      "year": "2010",
+      "authors": "M Brunner; U Keller; C Dierendonck; M Reichert; S Ugen; A Fischbach; R Martin"
+    },
+    {
+      "title": "Academic self-concept: Its structure, measurement, and relation to academic achievement",
+      "journal": "Wiley",
+      "year": "1996",
+      "authors": "B M Byrne"
+    },
+    {
+      "title": "Validating the measurement and structure of selfconcept: Snapshots of past, present, and future research",
+      "journal": "American Psychologist",
+      "year": "2002",
+      "authors": "B M Byrne"
+    },
+    {
+      "title": "Self-concept of ability and perceived evaluation of others: Cause or effect of academic achievement?",
+      "journal": "Journal of Educational Psychology",
+      "year": "1977",
+      "authors": "R J Calsyn; D A Kenny"
+    },
+    {
+      "title": "Personality development: Stability and change",
+      "journal": "Annual Review of Psychology",
+      "year": "2005",
+      "authors": "A Caspi; B W Roberts; R L Shiner"
+    },
+    {
+      "title": "The internal/external frame of reference model, bigfish-little-pond effect, and combined model for mathematics and science",
+      "journal": "Journal of Educational Psychology",
+      "year": "2012",
+      "authors": "M.-S Chiu"
+    },
+    {
+      "title": "A comparison of inclusive and restrictive strategies in modern missing data procedures",
+      "journal": "Psychological Methods",
+      "year": "2001",
+      "authors": "L M Collins; J L Schafer; C.-M Kam"
+    },
+    {
+      "title": "Research on classrooms and schools: Formulation of questions, designs, and analysis",
+      "journal": "",
+      "year": "1976",
+      "authors": "L J Cronbach"
+    },
+    {
+      "title": "Last term I had a B\": On the accuracy of self-reported school grades",
+      "journal": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie/German Journal of Educational Psychology",
+      "year": "2005",
+      "authors": "O Dickh\u00e4user; I Plenter"
+    },
+    {
+      "title": "Understanding women's educational and occupational choices",
+      "journal": "Psychology of Women Quarterly",
+      "year": "1994",
+      "authors": "J S Eccles"
+    },
+    {
+      "title": "Big fish in big ponds: A multilevel analysis of test anxiety and achievement in special gifted classes",
+      "journal": "Stress & Coping",
+      "year": "2008",
+      "authors": "T Goetz; F Preckel; M Zeidner; E Schleyer"
+    },
+    {
+      "title": "Missing data analysis: Making it work in the real world",
+      "journal": "Annual Review of Psychology",
+      "year": "2009",
+      "authors": "J W Graham"
+    },
+    {
+      "title": "Academic self-concept and academic achievement: Developmental perspectives on their causal ordering",
+      "journal": "Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "F Guay; H W Marsh; M Boivin"
+    },
+    {
+      "title": "Selbstvertrauen und schulische Leistungen",
+      "journal": "",
+      "year": "1992",
+      "authors": "A Helmke"
+    },
+    { "title": "", "journal": "", "year": "", "authors": "Germany : G\u00f6ttingen;  Hogrefe" },
+    {
+      "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling",
+      "journal": "",
+      "year": "1999",
+      "authors": "L Hu; P M Bentler"
+    },
+    {
+      "title": "Self-concept and academic achievement: A metaanalysis of longitudinal relations",
+      "journal": "Journal of School Psychology",
+      "year": "2011",
+      "authors": "C Huang"
+    },
+    {
+      "title": "Academic self-concepts in adolescence: Relations with achievement and ability grouping in schools. Learning and Instruction",
+      "journal": "",
+      "year": "2009",
+      "authors": "J Ireson; S Hallam"
+    },
+    {
+      "title": "Structural equation modeling: Foundations and extensions",
+      "journal": "Sage",
+      "year": "2009",
+      "authors": "D Kaplan"
+    },
+    {
+      "title": "Cross-lagged panel correlation: A test for spuriousness",
+      "journal": "Psychological Bulletin",
+      "year": "1975",
+      "authors": "D A Kenny"
+    },
+    {
+      "title": "Eine l\u00e4ngsschnittliche \u00dc berpr\u00fcfung des Modells des Internal/External Frame of Reference [Achievement feedback and academic self-concepts: A longitudinal test of the internal",
+      "journal": "",
+      "year": "1999",
+      "authors": "O K\u00f6ller; H Klemmert; J M\u00f6ller; J Baumert"
+    },
+    {
+      "title": "",
+      "journal": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie/German Journal of Educational Psychology",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "The validity of self-reported grade point averages, class ranks, and test scores: A metaanalysis and review of the literature",
+      "journal": "Review of Educational Research",
+      "year": "2005",
+      "authors": "N R Kuncel; M Cred\u00e9; L L Thomas"
+    },
+    {
+      "title": "PISA 2000: Dokumentation der Erhebungsinstrumente",
+      "journal": "",
+      "year": "2002",
+      "authors": "M Kunter; G Sch\u00fcmer; C Artelt; J Baumert; E Klieme; M Neubrand; . . Wei\u00df; M "
+    },
+    {
+      "title": "Die Sch\u00e4tzung von kausalen Effekten: \u00dc berlegungen zu Methoden der Kausalanalyse anhand von Kontexteffekten in der This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly",
+      "journal": "",
+      "year": "2012",
+      "authors": "J Legewie"
+    },
+    {
+      "title": "The estimation of causal effects: An introduction to methods of causal inference based on peer",
+      "journal": "",
+      "year": "",
+      "authors": " Schule"
+    },
+    { "title": "", "journal": "", "year": "", "authors": "" },
+    {
+      "title": "Modeling the drop-out mechanism in repeatedmeasures studies",
+      "journal": "Journal of the American Statistical Association",
+      "year": "1995",
+      "authors": "R J A Little"
+    },
+    {
+      "title": "New developments in latent variable panel analyses of longitudinal data",
+      "journal": "International Journal of Behavioral Development",
+      "year": "2007",
+      "authors": "T D Little; K J Preacher; J P Selig; N A Card"
+    },
+    {
+      "title": "States of excellence",
+      "journal": "American Psychologist",
+      "year": "2000",
+      "authors": "D Lubinski; C P Benbow"
+    },
+    {
+      "title": "Replications in psychology research: How often do they really occur?",
+      "journal": "Perspectives on Psychological Science",
+      "year": "2012",
+      "authors": "M C Makel; J A Plucker; B Hegarty"
+    },
+    {
+      "title": "Self-Description Questionnaire (SDQ) II: A theoretical and empirical basis for the measurement of multiple dimensions of adolescent self-concept-An interim test manual and a research monograph",
+      "journal": "Psychological Corporation",
+      "year": "1990",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "Failure of high-ability high schools to deliver academic benefits commensurate with their students' ability levels",
+      "journal": "American Educational Research Journal",
+      "year": "1991",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology",
+      "journal": "British Psychological Society",
+      "year": "2006",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "Explaining paradoxical relations between academic self-concepts and achievements: Cross-cultural generalizability of the internal/external frame of reference predictions across 26 countries",
+      "journal": "Perspectives on Psychological Science",
+      "year": "2004",
+      "authors": "H W Marsh; R G Craven"
+    },
+    {
+      "title": "Unification of theoretical models of academic self-concept/achievement relations: Reunification of East and West German school systems after the fall of the Berlin Wall",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2004",
+      "authors": "H W Marsh; O K\u00f6ller"
+    },
+    {
+      "title": "Academic self-concept and academic achievement: Relations and causal ordering",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2011",
+      "authors": "H W Marsh; A J Martin"
+    },
+    {
+      "title": "The big-fish-little-pond-effect stands up to critical scrutiny: Implications for theory, methodology, and future research",
+      "journal": "Educational Psychology Review",
+      "year": "2008",
+      "authors": "H W Marsh; M Seaton; U Trautwein; O L\u00fcdtke; K.-T Hau; A J O'mara; R G Craven"
+    },
+    {
+      "title": "Academic self-concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering",
+      "journal": "Child Development",
+      "year": "2005",
+      "authors": "H W Marsh; U Trautwein; O L\u00fcdtke; O K\u00f6ller; J Baumert"
+    },
+    {
+      "title": "Integration of multidimensional self-concept and core personality constructs: Construct validation and relations to well-being and achievement",
+      "journal": "American Educational Research Journal",
+      "year": "1997",
+      "authors": "H W Marsh; U Trautwein; O L\u00fcdtke; O K\u00f6ller; J Baumert"
+    },
+    {
+      "title": "Longitudinal structural equation models of academic self-concept and achievement: Gender differences in the development of math and English constructs",
+      "journal": "American Educational Research Journal",
+      "year": "1998",
+      "authors": "H W Marsh; A S Yeung"
+    },
+    {
+      "title": "Structural factor analysis experiments with incomplete data",
+      "journal": "Multivariate Behavioral Research",
+      "year": "1994",
+      "authors": "J J Mcardle"
+    },
+    {
+      "title": "Five steps in latent curve and latent change score modeling with longitudinal data",
+      "journal": "",
+      "year": "2010",
+      "authors": "J J Mcardle; K J Grimm"
+    },
+    {
+      "title": "Measurement invariance, factor analysis and factorial invariance",
+      "journal": "Psychometrika",
+      "year": "1993",
+      "authors": "W Meredith"
+    },
+    {
+      "title": "The role of factorial invariance in modeling growth and change",
+      "journal": "",
+      "year": "2001",
+      "authors": "W Meredith; J Horn"
+    },
+    {
+      "title": "Dimensional comparisons: An experimental approach to the internal/external frame of reference model",
+      "journal": "Journal of Educational Psychology",
+      "year": "2001",
+      "authors": "J M\u00f6ller; O K\u00f6ller"
+    },
+    {
+      "title": "Frame of reference effects following the announcement of exam results",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2001",
+      "authors": "J M\u00f6ller; O K\u00f6ller"
+    },
+    {
+      "title": "Dimensional comparison theory",
+      "journal": "Psychological Review",
+      "year": "2013",
+      "authors": "J M\u00f6ller; H W Marsh"
+    },
+    {
+      "title": "A metaanalytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept",
+      "journal": "Review of Educational Research",
+      "year": "2009",
+      "authors": "J M\u00f6ller; B Pohlmann; O K\u00f6ller; H W Marsh"
+    },
+    {
+      "title": "The reciprocal internal/external frame of reference model: An integration of models of relations between academic achievement and self-concept",
+      "journal": "",
+      "year": "2011",
+      "authors": "J M\u00f6ller; J Retelsdorf; O K\u00f6ller; H W Marsh"
+    },
+    { "title": "", "journal": "American Educational Research Journal", "year": "", "authors": "" },
+    {
+      "title": "An extension to the internal/external frame of reference model to two verbal and numerical domains",
+      "journal": "European Journal of Psychology of Education",
+      "year": "2006",
+      "authors": "J M\u00f6ller; L Streblow; B Pohlmann; O K\u00f6ller"
+    },
+    {
+      "title": "Mplus user's guide",
+      "journal": "Muth\u00e9n & Muth\u00e9n",
+      "year": "1998",
+      "authors": "L K Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Mplus Version 7",
+      "journal": "",
+      "year": "1998",
+      "authors": "L K Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Mplus: Statistical analysis with latent variables",
+      "journal": "Muth\u00e9n & Muth\u00e9n",
+      "year": "2006",
+      "authors": "L K Muth\u00e9n; B O Muth\u00e9n"
+    },
+    {
+      "title": "Do self-concept interventions make a difference? A synergistic blend of construct validation and meta-analysis",
+      "journal": "Educational Psychologist",
+      "year": "2006",
+      "authors": "A J O'mara; H W Marsh; R G Craven; R L Debus"
+    },
+    {
+      "title": "Knowledge and skills for life: First results from the OECD Programme for International Student Assessment (PISA)",
+      "journal": "Author",
+      "year": "2000",
+      "authors": ""
+    },
+    {
+      "title": "Continuous time modeling of panel data by means of SEM",
+      "journal": "",
+      "year": "2010",
+      "authors": "J H L Oud; M J M H Delsing"
+    },
+    {
+      "title": "Is the replicability crisis overblown? Three arguments examined",
+      "journal": "Perspectives on Psychological Science",
+      "year": "2012",
+      "authors": "H Pashler; C R Harris"
+    },
+    {
+      "title": "On the benefit of dimensional comparisons",
+      "journal": "Journal of Educational Psychology",
+      "year": "2009",
+      "authors": "B Pohlmann; J M\u00f6ller"
+    },
+    {
+      "title": "Ability grouping of gifted students: Effects on academic self-concept and boredom",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2010",
+      "authors": "F Preckel; T G\u00f6tz; A Frenzel"
+    },
+    {
+      "title": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly",
+      "journal": "",
+      "year": "",
+      "authors": ""
+    },
+    { "title": "", "journal": "", "year": "", "authors": " Ri/E Model" },
+    {
+      "title": "The intriguing role of Spanish language vocabulary knowledge in predicting English reading comprehension",
+      "journal": "Journal of Educational Psychology",
+      "year": "2006",
+      "authors": "C P Proctor; D August; M S Carlo; C Snow"
+    },
+    {
+      "title": "A scaled difference chi-square test statistic for moment structure analysis",
+      "journal": "Psychometrika",
+      "year": "2001",
+      "authors": "A Satorra; P M Bentler"
+    },
+    {
+      "title": "Experimental and quasi-experimental designs for generalized causal inference",
+      "journal": "",
+      "year": "2001",
+      "authors": "W R Shadish; T D Cook; D T Campbell"
+    },
+    {
+      "title": "A developmental, personcentered approach to exploring multiple motivational pathways in gifted underachievement",
+      "journal": "Educational Psychologist",
+      "year": "2013",
+      "authors": "K E Snyder; L Linnenbrink-Garcia"
+    },
+    {
+      "title": "Students' self-reported effort and time on homework in six school subjects: Between-students differences and within-student variation",
+      "journal": "Journal of Educational Psychology",
+      "year": "2007",
+      "authors": "U Trautwein; O L\u00fcdtke"
+    },
+    {
+      "title": "Self-esteem, academic self-concept, and achievement: How the learning environment moderates the dynamics of self-concept",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2006",
+      "authors": "U Trautwein; O L\u00fcdtke; O K\u00f6ller; J Baumert"
+    },
+    {
+      "title": "",
+      "journal": "",
+      "year": "2006",
+      "authors": "U Trautwein; O L\u00fcdtke; H W Marsh; O K\u00f6ller; J Baumert"
+    },
+    {
+      "title": "Tracking, grading, and student motivation: Using group composition and status to predict self-concept and interest in ninth-grade mathematics",
+      "journal": "Journal of Educational Psychology",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Different forces, same consequence: Conscientiousness and competence beliefs are independent predictors of academic effort and achievement",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2009",
+      "authors": "U Trautwein; O L\u00fcdtke; B W Roberts; I Schnyder; A Niggli"
+    },
+    {
+      "title": "The relation between self-beliefs and academic achievement: A meta-analytic review",
+      "journal": "Educational Psychologist",
+      "year": "2004",
+      "authors": "J C Valentine; D L Dubois; H Cooper"
+    },
+    {
+      "title": "Leistungsvergleiche in der Schule. Bezugsgruppeneffekte und F\u00e4higkeitskonzepte [Comparisons of achievement in school: Reference-group effects and academic self-concepts",
+      "journal": "",
+      "year": "2001",
+      "authors": "J W L Wagner"
+    },
+    {
+      "title": "",
+      "journal": "Verlag Empirische P\u00e4dagogik",
+      "year": "",
+      "authors": "Germany Landau"
+    },
+    {
+      "title": "Exploring the measurement invariance of psychological instruments: Applications in the substance use domain",
+      "journal": "",
+      "year": "1997",
+      "authors": "K F Widaman; S P Reise"
+    },
+    {
+      "title": "The internal/external frame of reference of academic self-concept: Extension to a foreign language and the role of language of instruction",
+      "journal": "Journal of Educational Psychology",
+      "year": "2013",
+      "authors": "M K Xu; H W Marsh; K.-T Hau; I T Ho; A J S Morin; A S Abduljabbar"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "2",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Figure 2 .2Figure 2. Study 1: Reciprocal internal/external frame of reference model in the German (as verbal subject) and mathematics domains. The a, b, c, and d paths represent lags of the same length. For the sake of clarity, correlational paths between residuals were omitted from the path diagram.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Figure 3 .3Figure 3. Study 1: Reciprocal internal/external frame of reference model in the German (as verbal subject) and mathematics domains. For the sake of clarity, correlational paths between residuals were omitted from the path diagram. Standardized model parameters are shown. \u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .01.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "",
+      "figure_id": "fig_2",
+      "figure_caption": "Figure 4 .4Figure 4. Study 2: Reciprocal internal/external frame of reference model in the German (as verbal subject) and mathematics domains. The a, b, c, d, e, f, g, h, i, j, k, and l paths represent lags of the same length. For the sake of clarity, correlational paths between residuals were omitted from the path diagram.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "5",
+      "figure_type": "",
+      "figure_id": "fig_4",
+      "figure_caption": "Figure 5 .5Figure 5. Study 2: Reciprocal internal/external frame of reference model in the German (as verbal subject) and mathematics domains. For the sake of clarity, correlational paths between residuals were omitted from the path diagram. Standardized model parameters are shown. \u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .01.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Study",
+      "figure_data": "14 M SD \u24233.91 0.94 .853.73 1.01 .853.43 1.13 .873.09 1.19 .883.74 0.95 .873.55 0.98 .853.40 1.01 .843.30 1.02 .844.47 0.844.25 0.954.00 1.064.31 0.794.26 0.83-4.17 0.8413-1,034.59 \u202b\u0621\u0621\u202c12-1,059.63 \u202b\u0621\u0621\u202c846.51 \u202b\u0621\u0621\u202c11-838.32 \u202b\u0621\u0621\u202c557.36 \u202b\u0621\u0621\u202c568.50 \u202b\u0621\u0621\u202c10-1,034.59 \u202b\u0621\u0621\u202c570.37 \u202b\u0621\u0621\u202c846.50 \u202b\u0621\u0621\u202c1,027.43 \u202b\u0621\u0621\u202c9-1,056.59 \u202b\u0621\u0621\u202c840.45 \u202b\u0621\u0621\u202c555.37 \u202b\u0621\u0621\u202c1,051.38 \u202b\u0621\u0621\u202c841.29 \u202b\u0621\u0621\u202c8-836.11 \u202b\u0621\u0621\u202c550.14 \u202b\u0621\u0621\u202c566.07812.40 \u202b\u0621\u0621\u202c552.38 \u202b\u0621\u0621\u202c564.56 \u202b\u0621\u0621\u202c7-1,035.50 \u202b\u0621\u0621\u202c564.08 \u202b\u0621\u202c836.12 \u202b\u0621\u0621\u202c1,006.07566.48 \u202b\u0621\u0621\u202c843.56 \u202b\u0621\u0621\u202c1,006.36 \u202b\u0621\u0621\u202c6-1,060.55 \u202b\u0621\u0621\u202c840.40 \u202b\u0621\u0621\u202c551.031,041.10 \u202b\u0621\u0621\u202c842.01556.52 \u202b\u0621\u0621\u202c1,044.36 \u202b\u0621\u0621\u202c842.26 \u202b\u0621\u0621\u202c5-1,062.58 \u202b\u0621\u0621\u202c920.45 \u202b\u0621\u0621\u202c836.35 \u202b\u0621\u0621\u202c549.02913.01837\u03ea.04555.27 \u202b\u0621\u0621\u202c918.21 \u202b\u0621\u0621\u202c836.16 \u202b\u0621\u0621\u202c4-844\u03ea.08555\u03ea.09 \u202b\u0621\u202c557\u03ea.02568\u03ea.02833.39 \u202b\u0621\u0621\u202c555.50 \u202b\u0621\u0621\u202c571.63 \u202b\u0621\u0621\u202c820.06557.12 \u202b\u0621\u0621\u202c569.19 \u202b\u0621\u0621\u202c3-1,038.64 \u202b\u0621\u0621\u202c567\u03ea.02838\u03ea.03844.06 \u202b\u0621\u202c1,031.03563.46 \u202b\u0621\u0621\u202c839.59 \u202b\u0621\u0621\u202c1,009.43 \u202b\u0621\u0621\u202c565.09 \u202b\u0621\u202c846.14 \u202b\u0621\u0621\u202c1,009.20 \u202b\u0621\u0621\u202c2-1,068.61 \u202b\u0621\u0621\u202c850.50 \u202b\u0621\u0621\u202c559.08 \u202b\u0621\u202c925.07 \u202b\u0621\u202c1,058.00846.03554.54 \u202b\u0621\u0621\u202c1,048.38 \u202b\u0621\u0621\u202c848.29 \u202b\u0621\u0621\u202c559.051,052.07 \u202b\u0621\u202c848.10 \u202b\u0621\u202c1-1,068.67 \u202b\u0621\u0621\u202c928.51 \u202b\u0621\u0621\u202c842.42 \u202b\u0621\u0621\u202c556.12 \u202b\u0621\u0621\u202c1,062.07 \u202b\u0621\u202c923.03840.01550.31 \u202b\u0621\u0621\u202c917.24 \u202b\u0621\u0621\u202c840.24 \u202b\u0621\u0621\u202c556.02922.01839.11 \u202b\u0621\u0621\u202cVariable1. MSC Time 1n2. MSC Time 2n3. MSC Time 3n4. MSC Time 4n5. GSC Time 1n6. GSC Time 2n7. GSC Time 3n8. GSC Time 4n9. MACH 5n10. MACH 6n11. MACH 8n12. GACH 5n13. GACH 6n14. GACH 8nNote."
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Results of Tests of Measurement Invariance for Mathematics Self-Concept (MSC) and Verbal Self-Concepts (German: GSC, English: ESC) Across Four Points of Measurement inStudies 1, 2, and 3",
+      "figure_data": "InvarianceN2 (df)2 /dfCFIRMSEA (90% CI)SRMR\u232c 2 (df)Study 1Configural MSC1,51986.134 (30) \u202b\u0621\u0621\u202c2.871.989.035 (.027-.044).031Configural GSC1,51547.641 (30) \u202b\u0621\u202c1.588.996.020 (.008-.030).022Baseline (simultaneous)1,522530.629 (188) \u202b\u0621\u0621\u202c2.822.968.035 (.031-.038).039Metric1,522543.893 (200) \u202b\u0621\u0621\u202c2.719.968.034 (.030-.037).04011.432 (12)Scalar1,522547.691 (212) \u202b\u0621\u0621\u202c2.583.969.032 (.029-.036).0400.245 (12)Study 2Configural MSC63650.135 (30) \u202b\u0621\u202c1.671.993.032 (.015-.048).024Configural GSC63641.953 (30)1.398.992.025 (.000-.042).023Baseline (simultaneous)636327.335 (188) \u202b\u0621\u0621\u202c1.741.971.034 (.028-.040).048Metric636340.627 (200) \u202b\u0621\u0621\u202c1.703.971.033 (.027-.039).04812.481 (12)Scalar636342.295 (212) \u202b\u0621\u0621\u202c1.615.973.031 (.025-.037).0480.138 (12)Study 3Configural MSC46548.563 (30) \u202b\u0621\u202c1.619.991.036 (.015-.055).027Configural GSC46531.029 (30)1.0341.009 (.000-.036).024Configural ESC46529.785 (30).9931.000 (.000-.035).024Baseline (simultaneous)465864.023 (474) \u202b\u0621\u0621\u202c1.823.932.042 (.038-.046).052Metric465879.975 (492) \u202b\u0621\u0621\u202c1.789.933.041 (.037-.046).05214.820 (18)Scalar465886.598 (510) \u202b\u0621\u0621\u202c1.738.935.040 (.035-.044).0524.457 (18)"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Results for Testing the Assumption ofStationarity (i.e., Studies 1, 2, and 3)    ",
+      "figure_data": "ModelN2 (df)2 /dfCFIRMSEA (90% CI)SRMR\u232c 2 (df)Study 1Model A (baseline)1,529960.210 (348) \u202b\u0621\u0621\u202c2.759.959.034 (.031-.036).046Model B (a to d paths restricted) a, c1,529982.435 (359) \u202b\u0621\u0621\u202c2.737.959.034 (.031-.036).04622.562 (11) \u202b\u0621\u202cModel C (a to d paths restricted) b, c1,529968.809 (358) \u202b\u0621\u0621\u202c2.706.959.033 (.031-.036).0469.407 (10)Study 2Model A (baseline)639574.680 (348) \u202b\u0621\u0621\u202c1.651.963.032 (.027-.037).052Model B (a to l paths restricted) a, c639590.880 (363) \u202b\u0621\u0621\u202c1.628.962.031 (.027-.036).05416.607 (15)Study 3Model A (baseline)4651,343.769 (816) \u202b\u0621\u0621\u202c1.641.930.037 (.034-.041).053Model B (corresponding paths restricted) a, c4651,391.745 (852) \u202b\u0621\u0621\u202c1.634.928.037 (.033-.040).05648.617 (36)"
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "",
+      "figure_data": "Study 2: Observed Correlations (r), Means (M), Standard Deviations (SD), and Reliabilities (Cronbach's \u2423) for Mathematics and German Self-Concept Scales (MSC/GSC)and Mathematics and German Achievements (Teacher-Assigned School Grades; MACH/GACH)Variable 1 2 3 4 5 6 7 8 9 1 0 1 1 1 2 1 4 M SD \u2423 1 31. MSC Time 1 -3.97 0.98 .86n 6192. MSC Time 2 .55 \u202b\u0621\u0621\u202c -3.68 1.05 .85n 586 5963. MSC Time 3 .48 \u202b\u0621\u0621\u202c .57 \u202b\u0621\u0621\u202c -3.44 1.07 .85n 522 515 5394. MSC Time 4 .46 \u202b\u0621\u0621\u202c .53 \u202b\u0621\u0621\u202c .64 \u202b\u0621\u0621\u202c -3.45 1.08 .86n 441 431 437 4565. GSC Time 1 .03 .01 .00 \u03ea.04 -4.03 0.76 .75n 619 586 522 441 6196. GSC Time 2 \u03ea.02 .07 .04 .08 .51 \u202b\u0621\u0621\u202c -3.86 0.84 .77n 586 596 515 431 586 5967. GSC Time 3 .00 .08 .10 \u202b\u0621\u202c \u03ea.02 .32 \u202b\u0621\u0621\u202c .46 \u202b\u0621\u0621\u202c -3.76 0.81 .71n 522 515 539 437 522 515 5398. GSC Time 4 \u03ea.02 .07 .07 .08 .33 \u202b\u0621\u0621\u202c .51 \u202b\u0621\u0621\u202c .46 \u202b\u0621\u0621\u202c -3.84 0.82 .76n 441 431 437 456 441 431 437 4569. MACH 5 .29 \u202b\u0621\u0621\u202c .49 \u202b\u0621\u0621\u202c .34 \u202b\u0621\u0621\u202c .38 \u202b\u0621\u0621\u202c .09 .08 \u03ea.02 .00 -4.69 0.74n 353 341 323 283 353 341 323 283 36410. MACH 6 .26 \u202b\u0621\u0621\u202c .35 \u202b\u0621\u0621\u202c .50 \u202b\u0621\u0621\u202c .44 \u202b\u0621\u0621\u202c .04 .12 .09 .00 .66 \u202b\u0621\u0621\u202c -4.31 0.92n 283 275 259 215 283 275 259 215 187 29411. MACH 7 .23 \u202b\u0621\u0621\u202c .30 \u202b\u0621\u0621\u202c .39 \u202b\u0621\u0621\u202c .56 \u202b\u0621\u0621\u202c .00 .08 \u03ea.01 .02 .48 \u202b\u0621\u0621\u202c .67 \u202b\u0621\u0621\u202c -4.06 0.90n 483 470 455 414 483 470 455 414 340 276 50212. GACH 5 \u03ea.08 .02 \u03ea.12 \u202b\u0621\u202c \u03ea.07 .32 \u202b\u0621\u0621\u202c .39 \u202b\u0621\u0621\u202c .21 \u202b\u0621\u202c .24 \u202b\u0621\u0621\u202c .37 \u202b\u0621\u0621\u202c .18 \u202b\u0621\u202c .17 \u202b\u0621\u0621\u202c -4.52 0.73n 353 341 323 283 353 341 323 283 364 187 340 36413. GACH 6 \u03ea.04 \u03ea.02 .02 .03 .25 \u202b\u0621\u0621\u202c .26 \u202b\u0621\u0621\u202c .33 \u202b\u0621\u0621\u202c .29 \u202b\u0621\u0621\u202c .31 \u202b\u0621\u0621\u202c .47 \u202b\u0621\u0621\u202c .32 \u202b\u0621\u0621\u202c .53 \u202b\u0621\u0621\u202c 4.33 0.76 -n 283 275 259 215 283 275 259 215 187 294 276 187 29414. GACH 7 \u03ea.05 .06 .07 .08 .18 \u202b\u0621\u0621\u202c .26 \u202b\u0621\u0621\u202c .18 \u202b\u0621\u0621\u202c .46 \u202b\u0621\u0621\u202c .31 \u202b\u0621\u0621\u202c .39 \u202b\u0621\u0621\u202c .41 \u202b\u0621\u0621\u202c .42 \u202b\u0621\u0621\u202c .55 \u202b\u0621\u0621\u202c"
+    },
+    {
+      "figure_label": "5",
+      "figure_type": "table",
+      "figure_id": "tab_4",
+      "figure_caption": "",
+      "figure_data": "Study 3: Observed Correlations (r), Means (M), Standard Deviations (SD), and Reliabilities (Cronbach's \u2423) for Mathematics, German, and English Self-Concept Scales(MSC/GSC/ESC) and Mathematics, German, and English Achievements (Teacher-Assigned School Grades; MACH/GACH/EACH)Variable M SD \u24231. MSC Time 1 -4.00 0.98 .85n 4592. MSC Time 2 .57 \u202b\u0621\u0621\u202c -3.74 1.05 .86n 438 4443. MSC Time 3 .49 \u202b\u0621\u0621\u202c .58 \u202b\u0621\u0621\u202c -3.46 1.09 .86n 388 385 3944. MSC Time 4 .51 \u202b\u0621\u0621\u202c .56 \u202b\u0621\u0621\u202c .63 \u202b\u0621\u0621\u202c -3.46 1.10 .86n 323 318 314 3285. GSC Time 1 .00 \u03ea.02 \u03ea.02 \u03ea.04 -4.05 0.76 .73n 459 438 388 323 4596. GSC Time 2 \u03ea.03 .07 .02 .04 .53 \u202b\u0621\u0621\u202c -3.89 0.83 .79n 438 444 385 318 438 4447. GSC Time 3 \u03ea.01 .08 .11 \u202b\u0621\u202c \u03ea.03 .30 \u202b\u0621\u0621\u202c .44 \u202b\u0621\u0621\u202c -3.76 0.81 .71n 388 385 394 314 388 385 3948. GSC Time 4 \u03ea.03 .04 .08 .08 .29 \u202b\u0621\u0621\u202c .47 \u202b\u0621\u0621\u202c .46 \u202b\u0621\u0621\u202c -3.88 0.82 .80n 323 318 314 328 323 318 314 3289. ESC Time 1 .16 \u202b\u0621\u0621\u202c .01 \u03ea.02 .07 .44 \u202b\u0621\u0621\u202c .25 \u202b\u0621\u0621\u202c .15 \u202b\u0621\u0621\u202c .17 \u202b\u0621\u0621\u202c -4.24 0.75 .77n 459 438 388 323 459 438 388 323 45910. ESC Time 2 .02 .11 \u202b\u0621\u202c .07 .02 .27 \u202b\u0621\u0621\u202c .40 \u202b\u0621\u0621\u202c .27 \u202b\u0621\u0621\u202c .23 \u202b\u0621\u0621\u202c .40 \u202b\u0621\u0621\u202c -4.14 0.83 .77n 438 444 385 318 438 444 385 318 438 44411. ESC Time 3 .00 .10 .22 \u202b\u0621\u0621\u202c \u03ea.01 .22 \u202b\u0621\u0621\u202c .27 \u202b\u0621\u0621\u202c .42 \u202b\u0621\u0621\u202c .33 \u202b\u0621\u0621\u202c .28 \u202b\u0621\u0621\u202c .50 \u202b\u0621\u0621\u202c -4.02 0.87 .78n 388 385 394 314 388 385 394 314 388 385 39412. ESC Time 4 \u03ea.01 .03 .01 .13 \u202b\u0621\u202c .23 \u202b\u0621\u0621\u202c .30 \u202b\u0621\u0621\u202c .28 \u202b\u0621\u0621\u202c .44 \u202b\u0621\u0621\u202c .29 \u202b\u0621\u0621\u202c .49 \u202b\u0621\u0621\u202c .55 \u202b\u0621\u0621\u202c -3.99 0.78 .78n 323 318 314 328 323 318 314 328 323 318 314 32813. MACH 5 .32 \u202b\u0621\u0621\u202c .51 \u202b\u0621\u0621\u202c .32 \u202b\u0621\u0621\u202c .37 \u202b\u0621\u0621\u202c .08 .09 .02 \u03ea.01 .13 \u202b\u0621\u202c .14 \u202b\u0621\u202c .03 .01 -4.78 0.71n 256 247 232 199 256 247 232 199 256 247 232 199 26114. MACH 6 .28 \u202b\u0621\u0621\u202c .34 \u202b\u0621\u0621\u202c .47 \u202b\u0621\u0621\u202c .41 \u202b\u0621\u0621\u202c \u03ea.01 .12 .08 \u03ea.01 .08 .25 \u202b\u0621\u0621\u202c .17 \u202b\u0621\u202c .08 .65 \u202b\u0621\u0621\u202c -4.35 0.88n 232 224 208 168 232 224 208 168 232 224 208 168 148 23615. MACH 7 .28 \u202b\u0621\u0621\u202c .32 \u202b\u0621\u0621\u202c .39 \u202b\u0621\u0621\u202c .55 \u202b\u0621\u0621\u202c \u03ea.01 .06 \u03ea.01 .00 .03 .07 .07 .16 \u202b\u0621\u0621\u202c .48 \u202b\u0621\u0621\u202c .66 \u202b\u0621\u0621\u202c -4.08 0.90n 367 358 339 304 367 358 339 304 367 358 339 304 244 221 37316. GACH 5 \u03ea.09 \u03ea.01 \u03ea.18 \u202b\u0621\u0621\u202c \u03ea.12 .30 \u202b\u0621\u0621\u202c .33 \u202b\u0621\u0621\u202c .12 .14 \u202b\u0621\u202c .13 \u202b\u0621\u202c .17 \u202b\u0621\u0621\u202c .08 .21 \u202b\u0621\u0621\u202c .33 \u202b\u0621\u0621\u202c .13 .09 -4.62 0.66n 256 247 232 199 256 247 232 199 256 247 232 199 261 148 244 26117. GACH 6 \u03ea.08 \u03ea.03 \u03ea.03 .01 .27 \u202b\u0621\u0621\u202c .25 \u202b\u0621\u0621\u202c .30 \u202b\u0621\u0621\u202c .26 \u202b\u0621\u0621\u202c .13 .21 \u202b\u0621\u0621\u202c .21 \u202b\u0621\u0621\u202c .24 \u202b\u0621\u0621\u202c .27 \u202b\u0621\u0621\u202c .43 \u202b\u0621\u0621\u202c .29 \u202b\u0621\u0621\u202c .53 \u202b\u0621\u0621\u202c -4.37 0.73n 232 224 208 168 232 224 208 168 232 224 208 168 148 236 221 148 23618. GACH 7 \u03ea.06 .04 .06 .06 .17 \u202b\u0621\u0621\u202c .23 \u202b\u0621\u0621\u202c .16 \u202b\u0621\u0621\u202c .40 \u202b\u0621\u0621\u202c .11 \u202b\u0621\u202c .15 \u202b\u0621\u0621\u202c .20 \u202b\u0621\u0621\u202c .32 \u202b\u0621\u0621\u202c .30 \u202b\u0621\u0621\u202c .35 \u202b\u0621\u0621\u202c .36 \u202b\u0621\u0621\u202c .37 \u202b\u0621\u0621\u202c .50 \u202b\u0621\u0621\u202c -4.38 0.70n 367 358 339 304 367 358 339 304 367 358 339 304 244 221 373 244 221 37319. EACH 5 \u03ea.03 .01 \u03ea.11 .02 .10 .11 \u03ea.01 \u03ea.03 .28 \u202b\u0621\u0621\u202c .44 \u202b\u0621\u0621\u202c .17 .31 \u202b\u0621\u0621\u202c .37 \u202b\u0621\u0621\u202c .29 \u202b\u0621\u0621\u202c .27 \u202b\u0621\u0621\u202c .52 \u202b\u0621\u0621\u202c .36 \u202b\u0621\u0621\u202c .26 \u202b\u0621\u0621\u202c -4.87 0.71n 256 247 232 199 256 247 232 199 256 247 232 199 261 148 244 261 148 244 26120. EACH 6 \u03ea.13 \u202b\u0621\u202c .02 \u03ea.02 .08 .18 \u202b\u0621\u0621\u202c .24 \u202b\u0621\u0621\u202c .14 \u202b\u0621\u202c .17 \u202b\u0621\u202c .22 \u202b\u0621\u0621\u202c .44 \u202b\u0621\u0621\u202c .43 \u202b\u0621\u0621\u202c .46 \u202b\u0621\u0621\u202c .36 \u202b\u0621\u0621\u202c .45 \u202b\u0621\u0621\u202c .38 \u202b\u0621\u0621\u202c .31 \u202b\u0621\u0621\u202c .64 \u202b\u0621\u0621\u202c .51 \u202b\u0621\u0621\u202c .43 \u202b\u0621\u0621\u202c 4.47 0.82 -n 232 224 208 168 232 224 208 168 232 224 208 168 148 236 221 148 236 221 148 23621. EACH 7 .00 .05 .04 .08 .21 \u202b\u0621\u0621\u202c .22 \u202b\u0621\u0621\u202c .18 \u202b\u0621\u0621\u202c .20 \u202b\u0621\u0621\u202c .23 \u202b\u0621\u0621\u202c .29 \u202b\u0621\u0621\u202c .33 \u202b\u0621\u0621\u202c .52 \u202b\u0621\u0621\u202c .35 \u202b\u0621\u0621\u202c .45 \u202b\u0621\u0621\u202c .49 \u202b\u0621\u0621\u202c .31 \u202b\u0621\u0621\u202c .51 \u202b\u0621\u0621\u202c .53 \u202b\u0621\u0621\u202c .40 \u202b\u0621\u0621\u202c .74 \u202b\u0621\u0621\u202c"
+    },
+    {
+      "figure_label": "6",
+      "figure_type": "table",
+      "figure_id": "tab_5",
+      "figure_caption": "Study 3: Standardized Model Parameters of the Reciprocal Internal/External Frame of Reference Model in the Domains ofMathematics, German (Native Language), and  English (Foreign Language)    ",
+      "figure_data": "DomainsPathsMathematicsGermanEnglishSelf-concepts to achievements:Self-enhancement (bold) and cross-domain contrast effectsSelf-concepts (Time 1) toMACH (5th grade) GACH (5th grade) EACH (5th grade).38 \u202b\u0621\u0621\u202c \u03ea.07 \u03ea.12  \u2020.03 .46 \u202b\u0621\u0621\u202c \u03ea.06\u03ea.10 \u03ea.16  \u2020 .37 \u202b\u0621\u0621\u202cSelf-concepts (Time 2) toMACH (6th grade) GACH (6th grade) EACH (6th grade).14 \u202b\u0621\u0621\u202c \u03ea.11 \u202b\u0621\u202c \u03ea.11 \u202b\u0621\u202c\u03ea.05 .13  \u2020 .01.00 \u03ea.03 .18 \u202b\u0621\u0621\u202cSelf-concepts (Time 3) toMACH (7th grade) GACH (7th grade) EACH (7th grade).15 \u202b\u0621\u0621\u202c \u03ea.10 \u202b\u0621\u202c \u03ea.10 \u202b\u0621\u202c\u03ea.05 .10  \u2020 .01.00 \u03ea.03 .17 \u202b\u0621\u0621\u202cAchievements to self-concepts:Skill development (bold) and internal frame of reference effectsAchievements (5th grade) toMSC (Time 2) GSC (Time 2) ESC (Time 2).39 \u202b\u0621\u0621\u202c \u03ea.02 .00\u03ea.10 \u202b\u0621\u202c .29 \u202b\u0621\u0621\u202c \u03ea.11 \u202b\u0621\u202c\u03ea.04 \u03ea.13 \u202b\u0621\u202c .40 \u202b\u0621\u0621\u202cAchievements (6th grade) toMSC (Time 3) GSC (Time 3) ESC (Time 3).39 \u202b\u0621\u0621\u202c \u03ea.02 .00\u03ea.09 \u202b\u0621\u202c .30 \u202b\u0621\u0621\u202c \u03ea.10 \u202b\u0621\u202c\u03ea.04 \u03ea.13 \u202b\u0621\u202c .39 \u202b\u0621\u0621\u202cAchievements (7th grade) toMSC (Time 4) GSC (Time 4) ESC (Time 4).38 \u202b\u0621\u0621\u202c \u03ea.10 .03.01 .34 \u202b\u0621\u0621\u202c .14 \u202b\u0621\u202c\u03ea.02 .00 .22 \u202b\u0621\u0621\u202cSelf-concepts to self-concepts:Autoregressive (bold) and cross-domain effectsSelf-concepts (Time 1) toMSC (Time 2) GSC (Time 2) ESC (Time 2).49 \u202b\u0621\u0621\u202c \u03ea.01 \u03ea.03.03 .56 \u202b\u0621\u0621\u202c .19 \u202b\u0621\u202c\u03ea.09 .05 .29 \u202b\u0621\u0621\u202cSelf-concepts (Time 2) toMSC (Time 3) GSC (Time 3).50 \u202b\u0621\u0621\u202c .00\u03ea.01 .52 \u202b\u0621\u0621\u202c\u03ea.01 .08ESC (Time 3).03.07.47 \u202b\u0621\u0621\u202cSelf-concepts (Time 3) toMSC (Time 4) GSC (Time 4) ESC (Time 4).55 \u202b\u0621\u0621\u202c .09 \u03ea.14 \u202b\u0621\u0621\u202c\u03ea.09 .57 \u202b\u0621\u0621\u202c \u03ea.06\u03ea.01 \u03ea.02 .71 \u202b\u0621\u0621\u202cAchievements to achievements:Autoregressive (bold) and reciprocal cross-domain effectsAchievements (5th grade) toMACH (6th grade).54 \u202b\u0621\u0621\u202c.07.15 \u202b\u0621\u202cGACH (6th grade).21 \u202b\u0621\u0621\u202c.35 \u202b\u0621\u0621\u202c.27 \u202b\u0621\u0621\u202cEACH (6th grade).23 \u202b\u0621\u0621\u202c.13 \u202b\u0621\u202c.47 \u202b\u0621\u0621\u202cAchievements (6th grade) toMACH (7th grade).55 \u202b\u0621\u0621\u202c.07.15 \u202b\u0621\u202cGACH (7th grade).20 \u202b\u0621\u0621\u202c.30 \u202b\u0621\u0621\u202c.24 \u202b\u0621\u0621\u202cEACH (7th grade).23 \u202b\u0621\u0621\u202c.12 \u202b\u0621\u202c.44 \u202b\u0621\u0621\u202c"
+    }
+  ],
+  "doi": "10.1037/a0036307"
+}

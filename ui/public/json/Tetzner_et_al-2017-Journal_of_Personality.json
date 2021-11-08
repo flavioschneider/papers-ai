@@ -1,0 +1,557 @@
+{
+  "title": "Think Positive? Examining the Impact of Optimism on Academic Achievement in Early Adolescents",
+  "abstract": "Objective: Although optimism's beneficial role for various life areas is well documented, previous findings regarding its significance for students' achievement at school are inconclusive. This study examined the relation between optimism and academic achievement in early adolescents. It investigated the functional form of this relation, addressed whether the initial achievement level moderates this association, and compared this with effects on self-esteem. Method: We used a large German sample (N 5 6,010; 53.2% females; baseline M age 5 14.1) with two measurement points over a period of 5 months (middle and end of 7th grade). Estimating LOESS curves and latent change-regression models revealed three main findings. Results: (a) Optimism showed a nonlinear association with subsequent changes in academic achievement: Optimism promoted academic achievement, but this positive association reached a plateau in above-average optimism ranges and a minimum value in below-average ranges of optimism. (b) The achievement level at t 1 moderated this relation so that high optimism exerted a more positive effect for high-achieving adolescents. (c) By contrast, optimism had an overall positive effect on self-esteem.The results therefore broaden the evidence on benefits of optimism by linking optimism to academic success in early adolescents but indicate only small and nonlinear associations.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Optimism appears to be an individual disposition with \"allround\" advantages for human experience and behavior. Optimists experience lower levels of distress, have better interpersonal relationships and physical health, and report better occupational outcomes and well-being (Carver, Scheier, & Segerstrom, 2010;Segerstrom, 2007). However, previous studies that examined the effects of optimism on adolescents' academic achievement repeatedly failed to confirm these beneficial effects and for the most part found no longitudinal association (Rand, Martin, & Shea, 2011;Solberg Nes, Evans, & Segerstrom, 2009;Tetzner & Becker, 2015). Instead, theoretical assumptions and empirical findings on the negative effects of optimism, especially of high levels of optimism (e.g., Dillard, Midboe, & Klein, 2009) have raised the question of whether strictly linear relations sufficiently reflect this association. Aiming to address this so far unexplored issue, the present study takes a closer look at the relation between optimism and subsequent changes in academic achievement using a prospective study of a large sample of German early adolescents. It examines whether the effect of optimism on academic achievement could be better described in nonlinear ways. Finally, we compare these associations with effects on adolescents' self-esteem.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Why Should Optimism Improve Central Life Outcomes?",
+      "text": "Dispositional optimism is described as the \"extent to which people hold generalized favorable expectancies for their future\" (Carver et al., 2010, p. 879).\nTherefore, optimism reflects a stable predisposition in whether individuals generally expect good (or bad) things to happen to them (Carver et al., 2010). Whereas related constructs, such as hope and self-efficacy, primarily refer to thoughts about an individual's capability to control future outcomes, optimism also encompasses positive expectations about factors that lie outside his or her own control (Bandura, 2006;Rand, 2009). These generalized positive expectations appear to help optimistic people to develop more positively in several areas of life. Optimism is associated with better adaptation to a broad range of stressful situations, such as educational transitions (Brissette, Scheier, & Carver, 2002), the death or serious illness of a spouse (Kivim\u20ac aki et al., 2005), and daily stressors (Robinson & Liu, 2013). Optimism is also linked to success in multiple domains, such as higher well-being (Scheier & Carver, 1992), better occupational outcomes (Segerstrom, 2007), and better physical health (Rasmussen, Scheier, & Greenhouse, 2009). Scholars attribute these positive effects to the crucial role of optimism in guiding human thoughts and behavior across multiple contexts (Carver & Scheier, 1998). Optimists direct their attention more toward positive and less toward negative stimuli, show greater persistence and engagement with high-priority tasks, take actions to minimize risks, and actively attempt to change situations in the face of challenges and adversities (i.e., they use problem-focused and engagement coping strategies). Optimists therefore take active steps to ensure positive future outcomes and emotional states (Brown & Marshall, 2001;Carver et al., 2010;Isaacowitz, 2005;Segerstrom, 2001;Solberg Nes & Segerstrom, 2006).\nBuilding on this theoretical and empirical knowledge, researchers posit that optimism should also promote adolescent development. Adolescence is an especially demanding life period that presents a wide range of adjustment-related challenges in salient developmental domains, such as adolescents' performance at school or their self-esteem (e.g., Eccles et al., 1993;Harter, 2012;Masten, Obradovi\u0107, & Burt, 2006).\nOptimism may help adolescents to enhance their academic achievement despite these challenges. Optimistic adolescents may show higher academic engagement and greater persistence in reaching their academic goals (cf. Carver et al., 2010). Thus, they may invest more effort in school-related tasks and actively take steps to close achievement gaps after failures (e.g., taking private lessons; see Solberg Nes & Segerstrom, 2006). Optimistic adolescents may also experience more positive self-esteem development. They may focus their attention more on positive information, such as positive feedback from peers or their personal strengths, and pay less attention to information that may possibly threaten their self-esteem (see Isaacowitz, 2005;Segerstrom, 2001).",
+      "n_publication_ref": 23,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Empirical Evidence That Connects Optimism to Academic Outcomes and Self-Esteem",
+      "text": "In line with the aforementioned assumptions, empirical findings have largely supported the notion that optimism is important in improving mental health indicators such as well-being, anxiety, depression, and self-esteem (Lyubomirsky, Tkach, & Dimatteo, 2006;Oberle, Schonert-Reichl, & Zumbo, 2011;Scheier & Carver, 1992). For example, Rand et al. (2011) studied first-year law students and found an association between higher optimism at the beginning of the academic year and higher life satisfaction at the end of the first semester.\nMoreover, there are some indications in previous research that optimism promotes educational success. Optimism is associated with educational and socioeconomic outcomes in adulthood such as higher incomes (Segerstrom, 2007). Crosssectional studies looking at adolescent samples have confirmed the relationship between dispositional optimism and indicators of academic achievement, such as individual grade point averages (GPAs; Lounsbury, Sundstrom, Loveland, & Gibson, 2003) and cognitive abilities (Lounsbury, Welsh, Gibson, & Sundstrom, 2005). Zhang and colleagues (Zhang, Haddad, Torres, & Chen, 2011) used a longitudinal adolescent sample with domain-specific indicators of optimism and found that positive academic expectations predicted higher academic achievement. Chemers, Hu, and Garcia (2001) also suggested that optimism promotes academic performance in first-year college students. In their study, optimism predicted an achievement indicator that was composed of self-ratings and instructor evaluations, although this was mediated by more specific academic expectations.\nYet many of the studies indicating that optimism enhances academic achievement have limitations that reduce their generalizability to our research question. The majority of previous research used adult samples, and the developmental significance of optimism in adolescence received little attention (Oberle et al., 2011). Other studies used cross-sectional designs and investigated domain-specific indicators rather than dispositional optimism, or they examined effects on self-perceived rather than actual academic success. To the best of our knowledge, very few studies have used longitudinal data to examine the influence of dispositional optimism on academic achievement in adolescent or emerging adult samples. The studies that did do this found no association for the most part. A study that investigated whether optimism helps 7th-grade students cope with their parents' separation found no general association between dispositional optimism and subsequent developmental changes for either academic achievement or self-esteem (Tetzner & Becker, 2015). Looking at college students, Solberg Nes et al. (2009) found that dispositional optimism was associated with higher motivation, lower distress, and a lower chance of dropping out of college. However, optimism did not predict students' grade point averages in that study. Studies by Rand and colleagues also found no association between optimism and subsequent academic performance (law school GPA) in first-year law students (Rand et al., 2011), but they indicated that a common factor of hope and optimism predicted their class grades, even after controlling for high school GPA (Rand, 2009). Hence, only a limited body of research has previously examined the association between academic achievement and optimism in adolescents. It is thus not clear whether optimism promotes or determines early adolescents' academic achievement. In fact, the few existing studies suggest that there may not even be a relation. Especially in light of the strong evidence for the beneficial role of optimism in various life areas, this counterintuitive lack of a connection requires further investigation. One possible explanation is that optimism influences academic achievement in a nonlinear way.",
+      "n_publication_ref": 14,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "What About the Drawbacks of Optimism?",
+      "text": "Although scholars consistently highlight the positive effects of being an optimist, there are ongoing debates on whether optimism may also have drawbacks that can compromise developmental outcomes (Carver et al., 2010;Tennen & Affleck, 1987). An important and extensively discussed mechanism is that optimists may have an attentional bias, such that they prefer positive over negative information-leading them to see the world in an excessively rose-colored way and to ignore possible threats and potentially important environmental information (Isaacowitz, 2005;Segerstrom, 2001). This selective processing of information may hinder optimists from identifying challenges that they cannot overcome, from ceasing to pursue unattainable goals, and from finding new, meaningful goals (Wrosch, Scheier, Carver, & Schulz, 2003).\nIt is currently unclear whether and how these mechanisms impair adolescents' academic achievement. However, there are related lines of research that can inform us in developing our hypotheses. One explanation may be that optimism has general unbeneficial effects on developmental outcomes. Research on positive thinking has indicated that positive thoughts and images about the future are associated with a lower likelihood of positive outcomes across a variety of contexts, including achievement-related outcomes (see Oettingen, 2012). For example, Sevincer, Wagner, Kalvelage, and Oettingen (2014) found that positive thoughts about the future in U.S. presidential inaugural addresses predicted economic declines in subsequent presidential tenures. Similarly, students with positive thoughts about an upcoming exam appear to achieve lower course grades than other students (Oettingen & Mayer, 2002). Therefore, the negative consequences of positive thinking may also hold for early adolescents' academic achievement. However, past research has focused conceptually on positive thoughts and images about the future rather than on positive general future expectations (cf. Oettingen & Mayer, 2002). Hence, it is unclear whether these negative effects are transferable to dispositional optimism.\nAnother explanation may be that, rather than having an overall negative impact, optimism influences academic achievement in a nonlinear way. Therefore, both the beneficial and detrimental effects of optimism may affect academic development. The well-documented phenomenon of \"unrealistic optimism,\" which relates to the tendency to have more favorable future expectations than suggested by an objective standard (Shepperd, Waters, Weinstein, & Klein, 2015;Weinstein, 1980), indicates that only an especially high level of optimism may be associated with negative outcomes (see Shepperd et al., 2015). For example, Dillard and colleagues (2009) examined the alcohol consumption of college students and asked them about their expectations regarding negative alcohol-related events in the future. Students with unrealistically optimistic expectations (i.e., those who underrated their own probability of having negative experiences in relation to their actual alcohol consumption) were more likely to experience alcohol-related problems during the next 2 years than their counterparts with realistic or pessimistic expectations. Applying these assumptions to the effects of optimism on academic achievement, we may expect a curvilinear association. Optimists' attentional bias to positive information may generally promote academic development among early adolescents by causing higher persistence and academic engagement (see Carver et al., 2010;Solberg Nes & Segerstrom, 2006). But when there is particularly high optimism, the attentional bias may hinder them from noticing threats and identifying challenges that require additional effort, thus impairing early adolescents' academic success (Isaacowitz, 2005;Segerstrom, 2001).\nHowever, \"unrealistic optimism\" has been shown to be conceptually and empirically distinct from dispositional optimism (Davidson & Prkachin, 1997). It is thus debatable whether these results are transferable to dispositional optimism as a more global personality trait. Nevertheless, previous research on personality-performance relationships has provided some initial hints regarding nonlinear associations with personality traits. For instance, Cucina and Vasilopoulos (2005) investigated the relation between the Big Five personality traits and academic performance in college students and found a curvilinear relationship for Conscientiousness. To the best of our knowledge, no previous study has tested whether the association between dispositional optimism and subsequent academic achievement in adolescence follows a nonlinear pattern.\nAnother open question concerns whether the expectation of positive outcomes has the same effects for all individuals. Research on unrealistic optimism has indicated that optimism only exerts detrimental effects when the individual expectations are too positive, that is, unrealistic (see Dillard et al., 2009). To distinguish unrealistic expectations from merely optimistic expectations, it is necessary to consider the basis upon which people decide that there is reason for optimism (see Tennen & Affleck, 1987). In this regard, it should be considered that although dispositional optimism is generally assumed to be stable, it is also shaped by individual experiences (Atienza, Stephens, & Townsend, 2004;Segerstrom, 2007). For instance, growing up in socioeconomically advantaged households is associated with optimism in adulthood (Heinonen et al., 2006;Korkeila et al., 2004). Thus, highly optimistic people may differ in whether they have reasons to expect positive outcomes in their futures because they may differ in the resources that may help them to reach their goals. In the case of early adolescents' academic achievement, the effects of optimism may depend on individual academic potential. For a high-achieving student, a high level of optimism may represent a well-grounded future expectation and boost his or her further academic development.\nConversely, the same level of optimism may be unrealistically high for a previously low-achieving student and may impede his or her academic development. To date, no previous study has investigated whether individual differences in the availability of resources moderate the effects of dispositional optimism on academic achievement.\nOne additional question concerns whether the proposed mechanisms are specific to the effects of optimism on academic achievement or whether they also apply to early adolescents' self-esteem. Empirical findings indicated that the factors that help individuals cope with stressful situations or challenging life periods may differ in how they influence various areas of adaptation. Therefore, an especially high level of optimism could impede adolescents' academic achievement but promote their self-esteem. To that effect, motivational theories indicate that high optimism may prevent declines in positive self-perception and well-being (see the hedonic contingency model, Wegener & Petty, 1994; see also socioemotional selectivity theory, Carstensen, Isaacowitz, & Charles, 1999). These theories state that an attentional bias toward positive stimuli may be grounded in an underlying motivation to achieve and maintain positive affect and well-being (Isaacowitz, 2006). Although early adolescents with a high level of optimism may be more likely to fail academically, their focus on positive information and their own strengths may prevent declines in their self-esteem.",
+      "n_publication_ref": 28,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Present Study",
+      "text": "This study investigated the relation between dispositional optimism and subsequent changes in academic achievement by following a large German sample of early adolescents at two measurement points over 6 months. Our research addressed three aims.\nThe first aim (Aim 1) was to explore the functional form of the association between optimism and subsequent changes in academic achievement. Given the inconclusiveness of previous findings (e.g., Chemers et al., 2001;Solberg Nes et al., 2009) and building on assumptions about the drawbacks of optimism (e.g., Isaacowitz, 2005), we posit that the effects of optimism on academic achievement may be better captured in nonlinear ways. As previous research on optimism suggests (e.g., Carver et al., 2010), we generally expect to find a positive association. In line with research on unrealistic optimism (e.g., Shepperd et al., 2015), this relation may become more negative for higher levels of optimism.\nThe second aim (Aim 2) was to investigate whether the initial level of academic achievement moderates the association between optimism and subsequent changes in academic achievement. Previous research has indicated that the effects of optimism may vary as a function of the fit between expectations and individual resources (i.e., only an unrealistic level of optimism may impair developmental outcomes; see Shepperd et al., 2015;Dillard et al., 2009). Therefore, we expect to find that high optimism has more pronounced detrimental effects in students with lower levels of previous academic achievement.\nThe third aim (Aim 3) was to examine whether our results also apply to self-esteem-another salient developmental domain during adolescence. In contrast to academic achievement, we expect to find a positive linear effect of optimism on self-esteem. We based this assumption on research confirming positive associations between optimism and mental health indicators (e.g., Rand et al., 2011) and on motivational theories suggesting that optimism may help individuals to regulate emotions and maintain well-being (see Isaacowitz, 2006).",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    { "heading": "METHOD", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Participants",
+      "text": "We used a subset of data from the German longitudinal study Learning Processes, Educational Careers, and Psychosocial Development in Adolescence and Young Adulthood (BIJU; see Schnabel, Alfeld, Eccles, K\u20ac oller, & Baumert, 2002, for details); this included data from 6,010 adolescents (female students 5 53.2%) from 189 schools in Germany (N 5 2,945 in the academically oriented track of Germany's multitrack system of secondary education; N 5 3,065 in non-academically oriented school tracks). The analytic sample was composed of adolescents from different educational (61.5% of parents [father and/or mother] with at least a high school diploma) and socioeconomic backgrounds (highest socioeconomic status of parents, as rated using the Treiman-Index: M 5 49.35, SD 5 12.19; Treiman, 1977). We used two measurement points for our analyses, about 5 months apart: halfway through the 7th grade in 1992 (t 1 ) and the end of the 7th grade in 1992 (t 2 ).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Instruments",
+      "text": "Optimism. Optimism was measured by self-ratings of the four items of the positively keyed subscale of the Life Orientation Test (LOT; Scheier & Carver, 1985; German translation by Wieland-Eckelmann & Carver, 1989; example item: \"In uncertain times, I usually expect the best\"; a 5 .70) on a 5-point Likert scale (1 5 strongly disagree, 5 5 strongly agree).\nAcademic Achievement. To assess academic achievement, we used standardized achievement tests in mathematics, English, and physics scaled on a common metric using a unidimensional Rasch model (for further information, see Becker, L\u20ac udtke, Trautwein, K\u20ac oller, & Baumert, 2012). The tests were designed using tasks from a variety of studies on scholastic achievement so as to produce the best curricular fit possible. To solve the problem of differences in the curriculum and level of achievement in mathematics between different types of secondary schools, the tests were adapted to include items specific to the type of school in which they were used. The alpha reliabilities of the test scores ranged between .66 and .88.\nSelf-Esteem. Self-esteem was measured using a short German version (Jerusalem, 1984;Trautwein, 2003) of the Rosenberg Self-Esteem Scale (Rosenberg, 1965) with four items (example item: \"At times I think I am no good at all\"; a t1 5 .80, a t2 5 .81) on a 4-point Likert scale (1 5 strongly agree, 4 5 strongly disagree). In previous analyses, latent correlations between the short and the long versions of the Rosenberg scale in German equaled unity (Trautwein, 2003).",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Statistical Approach",
+      "text": "Missing Data. For our analyses, we focused on participants with optimism data at t 1 (N 5 6,010). The missing data in the other variables averaged 25.2%. In such cases, the current literature recommends replacing missing values using multiple imputation (MI; cf. Graham, 2009;Little & Rubin, 2002). Although MI does not rule out parameter bias entirely, it maximizes test power and reduces the risk of biased parameter estimations, in particular in combination with auxiliary variables (cf. Collins, Schafer, & Kam, 2001). Multiple imputation of the missing values was carried out using the MICE package (Multiple Imputation by Chained Equations; Van Buuren & Groothuis-Oudshoorn, 2011) in the R 3.3.1 software (cf. R Core Team, 2016).\nWe imputed and summarized 10 data sets according to Rubin's (1987) rules, which can be implemented automatically in Mplus using the analysis option type 5 imputation (Muth en & Muth en, 1998-2013.\nAnalytical Strategy. To test our research questions, we estimated multivariate latent change-regression models. We used the software package Mplus 7.11 (Muth en & Muth en, 1998-2013 for structural equation modeling. All our models used latent factors that were tested stepwise for measurement invariance. This procedure allowed us to investigate structural relationships independently of random measurement error and longitudinal changes in the reliabilities of constructs (Bollen & Curran, 2006). In addition, we estimated locally weighted smoothing (LOESS) curves to better explore nonlinearity in effects.\nMeasurement Model. As a basis for all further analyses, we specified separate structural models for academic achievement, self-esteem, and optimism across both measurement points, with one latent factor for each point. We then progressively tested them for measurement invariance. We evaluated the fit of our models using multiple model fit indices: the root mean square error of approximation (RMSEA), the comparative fit index (CFI), the Tucker-Lewis index (TLI), and the standardized root mean square residual (SRMR). CFIs and TLIs above .90 and RMSEAs and SRMRs below .08 typically indicate an acceptable fit with the data (Schermelleh-Engel, Moosbrugger, & M\u20ac uller, 2003).\nSince we can assume strict factorial invariances over time for optimism and self-esteem (as factor loadings, measurement intercepts, and residual variances were constrained to be equal across time points; see Meredith, 1993; optimism: RMSEA 5 .05, CFI 5 .96, TLI 5 .96, SRMR 5 .04; self-esteem: RMSEA 5 .04, CFI 5 .98, TLI 5 .98, SRMR 5 .07) and strong factorial invariance for academic achievement (RMSEA 5 .10, CFI 5 .98, TLI 5 .97, SRMR 5 .09), our results are relatively independent of changes in measurement across time. By the same token, we allowed for correlated residuals of the corresponding manifest items across adjacent time points (Bollen & Curran, 2006).\nLatent Change-Regression Models. We successively estimated multivariate latent change-regression models and moderated multivariate latent change-regression models to investigate our hypotheses (see McArdle, 2009;McArdle & Hamagami, 2001; see Figure 1). We used the specified measurement models to estimate a latent intercept factor (i) and a slope factor (s) as additional latent variables. The latent intercept factor represented interindividual differences in our constructs at t 1 , whereas the latent slope factor reflected interindividual differences in intraindividual mean-level changes between t 1 and t 2 .\nIn contrast to a change-score model, a change-regression model estimates a baseline-free measure of change by regressing the slope factor on the intercept score instead of modeling a correlation (see McArdle, 2009). We used this modeling procedure to better distinguish the effects of optimism on subsequent academic achievement from the initial associations between optimism and academic achievement.\nFirst, we examined the functional form of the relation between optimism and subsequent changes in academic achievement (Aim 1). Therefore, we built a multivariate latent changeregression model to test a linear effect of optimism on academic achievement (Table 2, Model 1). We modeled intercepts and slopes of optimism and academic achievement simultaneously and used the initial levels of optimism and academic achievement to predict mean-level changes in optimism and academic achievement between t 1 and t 2 . We further allowed for cross- sectional correlations between the intercept of optimism and the intercept of academic achievement and between their slopes. Second, we tested for nonlinear effects of optimism on academic achievement (Table 2, Model 2). To this end, we estimated latent interaction terms for quadratic and cubic terms of optimism at t 1 and added them to the model as predictors for mean-level changes in academic achievement. We estimated a third model to investigate whether the initial level of academic achievement moderates the association between optimism and subsequent changes in academic achievement (Aim 2). Therefore, we estimated latent interaction terms of academic achievement and optimism at t 1 (as well as the quadratic term) and included them in our model as additional predictors for mean-level changes in academic achievement (Table 2, Model 3; see Figure 1). To the best of our knowledge, Mplus does not allow for the estimation of overall model fit indices for analyses that include latent interactions (e.g., Klein & Moosbrugger, 2000). In line with previous research (Specht, Egloff, & Schmukle, 2011), we assume that the model fit indices of these models will be comparable with those of the models without latent interactions.\nWe also estimated latent change-regression models to test whether our results also hold for the effects of optimism on selfesteem (Aim 3). To this end, we used the same three-step modeling procedure that we used for academic achievement (see Figure 1 and Table 3).\nAs the BIJU data had a multilevel structure, with individuals nested in schools, there may be dependencies in our data resulting from similarities in our variables within selected schools. To account for the hierarchical data structure, we estimated the models with robust standard errors using the analysis option type 5 complex (using school as a cluster variable).\nLOESS Curves. To investigate the shape of the potential nonlinear association between optimism and subsequent changes in academic achievement more thoroughly, we also estimated locally weighted smoothing (LOESS) curves (see Cleveland, 1979). LOESS curves are nonparametric and provide a graphical tool for depicting the shape of a bivariate association using local regression techniques. The statistical procedure therefore splits the values of the independent variable (optimism) into smaller subsets, uses them to compute multiple regression lines, and, finally, combines these lines into a smoothed curve. Since LOESS curves are obtained empirically rather than by using a specific statistical model (e.g., linear, quadratic), they can reveal complex relationships between variables that may be overlooked when using other statistical techniques (Jacoby, 2000). We used the R 3.3.1 software (R Core Team, 2016) for estimating LOESS curves.\nWe proceeded as follows: We first estimated a graph that depicts the functional form of the bivariate association between optimism and mean-level changes in academic achievement more thoroughly (Aim 1). To model this, we used manifest scores of optimism at t 1 and mean-level changes in academic achievement, obtained as factor scores from our latent changeregression models. We residualized the mean-level changes in academic achievement for the initial level of academic achievement. We then estimated a second graph to further examine the moderating effect of initial academic achievement (Aim 2). To plot this interaction effect, we divided our sample into three groups, separated by their academic achievement at t 1 (average 5 between 1 SD above and 1 SD below the average academic achievement, below average 5 more than 1 SD below the average, above average 5 more than 1 SD above the average). We group-centered the mean-level changes in academic achievement. We estimated additional LOESS curves to determine whether we could find similar associations for self-esteem (Aim 3). We used the same procedure described for academic achievement.",
+      "n_publication_ref": 20,
+      "n_figure_ref": 3
+    },
+    {
+      "heading": "RESULTS",
+      "text": "Table 1 shows descriptive statistics and correlations for the study variables, which indicate positive associations between optimism and academic achievement as well as between optimism and self-esteem within and across time. To examine these associations more comprehensively, in the following sections we report our results from structural equation modeling and from estimating LOESS curves. We present all results standardized relative to the standard deviations at the initial measurement (i.e., the mean of the intercepts was set to 0, and the standard deviation was set to 1).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Optimism and Academic Achievement",
+      "text": "Latent Change-Regression Models. We first explored the functional form of the association between optimism and academic achievement (Aim 1). Our first model tested whether optimism at t 1 predicts mean-level changes in academic achievement between t 1 and t 2 in a linear way. As Model 1 of Table 2 shows, the findings indicated no linear association. Although the reverse relation is not a focus of our study, the results suggested that academic achievement at t 1 predicted subsequent meanlevel changes in optimism, which indicated that the individual level of optimism may increase following academic success.\nOur second model (see Table 2, Model 2) tested whether optimism at t 1 predicts subsequent mean-level changes in academic achievement in a nonlinear way. The results supported our assumption of nonlinearity because they indicate a curvilinear association. Optimism predicted mean-level changes in academic achievement in terms of small cubic effects (linear effect: b 5 .08, p < .001; quadratic effect: b 5 -.05, p < .001; cubic effect: b 5 -.03, p < .001), indicating a positive association with turning points toward less favorable effects. A third model (Table 2, Model 3) tested whether initial academic achievement moderates the effects of optimism on academic achievement (Aim 2). Our results confirmed a small interaction effect (b 5 .06, p 5 .003), indicating that the individual achievement level modifies the effects of optimism on mean-level changes in academic achievement.\nLOESS Curves. Since the latent change-regression models indicated a curvilinear relationship between optimism and academic achievement, we estimated LOESS curves to examine the shape of this bivariate association more thoroughly. Figure 2, Graph 1A depicts this association (cf. Aim 1) by plotting the slope of academic achievement against the intercept of optimism at t 1 . Confirming the results of the latent change-regression model, the curve followed a curvilinear pattern. Scores in the middle range of optimism (in the range between 1 SD below and 1 SD above the average optimism in our sample) were positively related to meanlevel changes in academic achievement. In the aboveaverage range, the enhancing effects of optimism on further academic achievement seemed to reach a plateau. However, the curve indicated no detrimental effects of above-average optimism. In the below-average range, the effects of optimism seemed to converge to a minimum value. Since our latent change-regression models indicated that the initial achievement level may moderate the effects of optimism on academic achievement, we estimated additional LOESS curves to depict this interaction effect (Aim 2). Figure 2, Graph 1B therefore plots this association once more, showing groups of different achievement levels at t 1 (average vs. above average vs. below average). Confirming a moderating influence, the curves indicated more pronounced effects of optimism in adolescents whose initial achievement was average or above average rather than below average. In line with our hypotheses, the point at which higher optimism no longer boosted academic achievement seemed to vary between achievement groups. Above-average optimism seemed to be additionally beneficial for academic achievement among adolescents with aboveaverage initial achievement, but not for early adolescents with below-average initial achievement.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Optimism and Self-Esteem",
+      "text": "Latent Change-Regression Models. Finally, we tested whether our results also hold for effects of optimism on early adolescents' self-esteem (Aim 3). In doing this, we first Note. AcAch 5 academic achievement; Opt 5 optimism. Model parameters were standardized relative to the first measurement. (The mean of the latent factors at t 1 were constrained to 0, and the variance was fixed to 1.)\nexamined the functional form of the association between optimism and subsequent changes in self-esteem. The results confirmed a positive linear association (b 5 .08, p < .001; see Table 3, Model 1). We also tested whether we could find nonlinear effects of optimism on self-esteem (see Table 3, Model 2). Our results showed a statistically significant quadratic association (linear effect: b 5 .19, p 5 .004; quadratic effect: b 5 -.09, p < .001). Therefore, the nonlinear model confirmed the positive association but indicated that there was a turning point after which the effects were less favorable. Although this was not within the scope of our study, self-esteem predicted mean-level changes in optimism (b 5 .17, p < .001; see Table 3, Model 1). Contrary to our results regarding academic achievement, the initial level of self-esteem did not moderate the association between optimism and subsequent changes in self-esteem (see Table 3, Model 3).\nLOESS Curves. We also estimated LOESS curves to more thoroughly examine the functional form of the association between optimism and subsequent changes in self-esteem (Aim 3). Therefore, Figure 2, Graph 2A plots mean-level changes in self-esteem across different levels of optimism. Confirming the results of the latent change-regression models, the LOESS curve indicated a positive general association. Although the graph likewise suggested a nonlinear trend-with more pronounced effects for optimism scores below the average and far above the average-this positive association holds across the whole range of optimism scores. In line with the latent change-regression model, LOESS curves also suggested that initial self-esteem may not moderate this association (see Figure 2, Graph 2B).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "DISCUSSION",
+      "text": "In this study, we investigated the effects of optimism on academic achievement and self-esteem in early adolescents. To this end, we primarily examined the functional form of the association between optimism and subsequent changes in academic achievement (Aim 1). We further addressed whether the individual achievement level moderates this association (Aim 2). Finally, we investigated whether the resulting findings are specific to optimism's association with academic achievement or whether they also hold for its effects on early adolescents' self-esteem (Aim 3). Using a large longitudinal German sample, this study is the first to investigate whether the relation between dispositional optimism and academic achievement follows a nonlinear pattern.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Effects of Optimism on Academic Achievement",
+      "text": "Our first research question concerned the functional form of the relation between optimism and subsequent changes in academic achievement. Drawing on assumptions about the drawbacks of optimism (e.g., Isaacowitz, 2005) and some initial findings of curvilinearity in personality-performance relationships (Cucina & Vasilopoulos, 2005), we expected to observe a nonlinear association. Indeed, the results from structural equation modeling and LOESS curves matched nicely, indicating a cubic relationship. This finding replicated and extended previous research (e.g., Rand et al., 2011;Tetzner & Becker, 2015) by showing that linear relations do not sufficiently reflect the effects of optimism on early adolescents' academic achievement. Therefore, the results underscore the necessity of investigating the effects of optimism more thoroughly by accounting for nonlinearity in relations.\nTaking a closer look at the relation, we observe that scores in the middle range of optimism were positively related to mean-level changes in academic achievement. This finding agrees with theories about the supportive role of optimism for developmental processes (Carver & Scheier, 1998;Carver et al., 2010). A higher level of optimism may enhance early adolescents' academic achievement by giving them greater persistence with and engagement in school-related tasks, which may lead them to take active steps to ensure academic success in the future (e.g., taking private lessons after failures). The result of a positive association is also in line with some previous findings that indicated that optimism enhances academic achievement (e.g., Chemers et al., 2001;Zhang et al., 2011). Therefore, this study broadens the existing empirical evidence regarding the allaround benefits of optimism in multiple areas of life by linking it to academic success in early adolescents.\nHowever, this study indicated that this enhancing association does not hold for the whole range of optimism. At aboveaverage levels of optimism, the positive effects on academic achievement reached a plateau. This finding of a negative quadratic effect is consistent with theoretical assumptions about the drawbacks of optimism (e.g., Isaacowitz, 2005) and research on unrealistic optimism (e.g., Shepperd et al., 2015). Highly optimistic adolescents may see the world through rose-colored glasses. This attentional bias may hinder them from dealing with setbacks and challenges adequately, for example, by taking private lessons or investing more effort in homework. However, the findings do not support the assumption that above-average levels of optimism impair academic achievement. One possible explanation is that the potentially detrimental effects of high optimism, such as ignoring threats and failures (e.g., Isaacowitz, 2005), may not apply within the school context because in such educational settings, students receive frequent feedback that Note. S-E 5 self-esteem; Opt 5 optimism. Model parameters were standardized relative to the first measurement. (The mean of the latent factors at t 1 were constrained to 0, and the variance was fixed to 1.) they cannot ignore. Another possible explanation is that high optimism may have detrimental effects, but that these detrimental effects may simply be counterbalanced by the positive effects of high optimism (i.e., the negative effects may prevent further increases in engagement and effort; Carver et al., 2010;Solberg Nes & Segerstrom, 2006). This simultaneity of mechanisms that promote academic achievement and mechanisms that hinder academic achievement may result in an unchanged association for those with above-average levels of optimism. Notably, our results also indicated that the effects of optimism on adolescents' academic achievement converge to a minimum value in those with below-average levels of optimism. This finding of a cubic association hints at a complex relationship between optimism and academic achievement. Therefore, only mid-level optimism appears to be necessary to promote adolescents' success at school. In contrast, both the positive and the detrimental effects of extreme levels of optimism seem to reach limits.\nOverall, the effects of optimism on academic achievement were small in size. Although this relatively small contribution may contrast with ideas about the crucial role of optimism in guiding human thoughts and behavior (cf. Carver et al., 2010), two aspects need to be considered. First, we measured academic achievement using standardized achievement test scores that were highly stable between the middle and end of 7th grade. This measure might have provided few opportunities for the influence of psychosocial factors such as optimism. Second, even if the effects were small over a period of 5 months, these influences may accumulate over time to have a meaningful impact on educational success across the life span.",
+      "n_publication_ref": 14,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Moderating Role of the Achievement Level",
+      "text": "Our second research question concerned whether the individual achievement level moderates the effects of optimism on academic achievement. Drawing on research on unrealistic optimism (e.g., Dillard et al., 2009), we predicted that high optimism may have more pronounced negative effects in adolescents with lower academic achievement. Our results confirmed this assumption. The positive effects of optimism on academic achievement seemed to be greater for average and high-achieving students than for their lower-achieving peers. For high-achieving students, the range of optimism that exerted a positive effect and the point at which this positive effect reached its limit appeared to be located in higher optimism scores than was the case for their lower-achieving peers. These results indicated that the effects of optimism vary as a function of the fit between expectations and individual aptitude. Optimism may only exert a positive influence when early adolescents also have useful academic skills that boost their further academic achievement. In general, this finding provides evidence that the availability of resources and skills may influence the kind and strength of the effects of optimism. Therefore, it may be useful to consider the individual foundation of positive expectations in the research on dispositional optimism.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Effects of Optimism on Self-Esteem",
+      "text": "Our third research question concerned whether we can apply our results to other important developmental outcomes during adolescence or whether the described associations are specific to academic achievement. We tested this for self-esteem in early adolescents. Drawing on motivational theories (e.g., Isaacowitz, 2006), we expected to find that optimism exerts significant beneficial effects on early adolescents' self-esteem. In line with our assumptions and contrary to effects on academic achievement, optimism appeared to have a positive linear effect on selfesteem. As with the relation between optimism and academic achievement, a nonlinear relation seemed to describe this association better, but the positive effect seemed to hold for the whole range of optimism scores. One possible explanation is that optimists' attentional bias toward positive information may help them to focus more on their personal strengths and less on setbacks, thereby protecting their self-esteem (cf. Isaacowitz, 2006). These results are also in keeping with general assumptions about the crucial role of optimism for success in multiple areas of life (e.g., Carver et al., 2010) and with empirical findings regarding its positive association with mental health indicators (e.g., Rand et al., 2011). Whether early adolescents had high or low self-esteem did not influence optimism effects. Therefore, the effects of optimism on self-esteem in early adolescents may be somewhat different from the effects of optimism on their academic achievement. Our findings thus highlight the need to examine the effects of optimism on different developmental domains separately.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "LIMITATIONS AND FUTURE DIRECTIONS",
+      "text": "This study possesses many advantages compared to most previous research that addressed dispositional optimism and academic achievement in adolescents, including the large sample size, the prospective design, and the use of sophisticated statistical methods. Some limitations of this study must also be noted.\nOne limitation concerns the generalizability of our results. The BIJU study involved an oversampling of students in the academically oriented track of Germany's secondary school system and therefore overrepresents early adolescents with aboveaverage academic achievement. This reduction in variability may influence our results. However, our results may represent a lower-bound estimate: In a more representative group, the effects might be even stronger. Moreover, our study only followed one specific cohort of 7th graders over 5 months, and we cannot exclude the possibility that the effects may vary for different age groups or cohorts, or over longer time spans. In addition, future studies should address whether these effects hold for different samples (e.g., across different genders, different school types, different nationalities).\nAnother potential limitation lies in our operationalization of academic achievement. We used standardized achievement scores, which represent objective measures of academic achievement and therefore constitute useful and valid estimations for early adolescents' academic development. Nevertheless, more subjective scores, such as school grades, may be more subject to the influence of optimism. For example, \"getting good grades\" may be a more precise goal for early adolescents than \"being high-achieving,\" potentially leading to more specific actions to achieve better grades (e.g., preparing intensively for a test vs. preparing each day for school). Since school grades are more salient and noticeable by adolescents than objective academic achievement, grades may also be more likely to moderate the effects of optimism on future academic achievement.\nA third limitation is that we found a relatively low stability of our optimism measure between the middle and end of 7th grade (r 5 .33). This is partly in line with previous research that also found dispositional optimism to be less stable than most personality traits, potentially due to a particularly high responsiveness to changes in resources and a weaker genetic basis (e.g., Atienza et al., 2004;Segerstrom, 2007). In our study, the particularly young age of the participants and the extensive and fundamental challenges and changes during early adolescence (e.g., 7th grade is the first school year of secondary schooling in some federal states in Germany) may additionally contribute to the low stability. Since we cannot clarify whether the low stability influenced our findings, future studies should address this issue.\nFourth, we based our analyses on the positively keyed subscale of the Life Orientation Test (Scheier & Carver, 1985). This subscale aims to measure optimism but does not necessarily provide information about adolescents' level of pessimism. Since there is still controversy about whether optimism and pessimism represent two largely distinct dimensions rather than one bipolar dimension (Carver et al., 2010;Herzberg, Glaesmer, & Hoyer, 2006), future studies should further examine the ways in which pessimism-in contrast to low levels of optimism-affects adolescents' academic achievement and self-esteem.\nFifth, although we found longitudinal connections between optimism and subsequent changes in academic achievement and self-esteem, our design cannot identify the mechanisms that produce these associations. Future research is needed to disentangle the underlying mechanisms.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "CONCLUSIONS",
+      "text": "To the best of our knowledge, this is the first study to examine nonlinearity in the relation between dispositional optimism and changes in academic achievement and self-esteem in early adolescents. The findings broaden the empirical evidence regarding the benefits of optimism by linking it to academic achievement and self-esteem in early adolescents. In the case of academic achievement, this positive association reached a plateau in above-average optimism ranges and a minimum value in belowaverage optimism ranges. For self-esteem, we found a positive linear association. The results therefore highlight the necessity of investigating developmental associations more thoroughly by accounting for nonlinearity in relations. They also underscore the need to specifically investigate the effects of optimism and the underlying mechanisms for different outcomes and to consider the fit between optimistic expectations and individual resources. Although the findings indicated that optimism matters for early adolescents' development, they also suggested that optimism only makes a small contribution to explaining why some early adolescents develop more positively in terms of academic achievement than others. Being optimistic may therefore help early adolescents cope with this challenging life period, but it does not seem to be a \"key\" that fosters positive development in all areas.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Declaration of Conflicting Interests",
+      "text": "The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Funding",
+      "text": "The authors received no financial support for the research, authorship, and/or publication of this article.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Role stressors as predictors of changes in women's optimistic expectations",
+      "journal": "Personality and Individual Differences",
+      "year": "2004",
+      "authors": "A A Atienza; M A P Stephens; A L Townsend"
+    },
+    {
+      "title": "Adolescent development from an agentic perspective",
+      "journal": "IAP -Information Age Pub",
+      "year": "2006",
+      "authors": "A Bandura"
+    },
+    {
+      "title": "The differential effects of school tracking on psychometric intelligence: Do academic-track schools make students smarter?",
+      "journal": "Journal of Educational Psychology",
+      "year": "2012",
+      "authors": "M Becker; O L\u20ac Udtke; U Trautwein; O K\u20ac Oller; J Baumert"
+    },
+    {
+      "title": "Latent curve models: A structural equation approach",
+      "journal": "Jossey-Bass",
+      "year": "2006",
+      "authors": "K A Bollen; P J Curran"
+    },
+    {
+      "title": "The role of optimism in social network development, coping, and psychological adjustment during a life transition",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2002",
+      "authors": "I Brissette; M F Scheier; C S Carver"
+    },
+    {
+      "title": "Great expectations: Optimism and pessimism in achievement settings",
+      "journal": "American Psychological Association",
+      "year": "2001",
+      "authors": "J D Brown; M A Marshall"
+    },
+    {
+      "title": "Taking time seriously: A theory of socioemotional selectivity",
+      "journal": "American Psychologist",
+      "year": "1999",
+      "authors": "L L Carstensen; D M Isaacowitz; S T Charles"
+    },
+    {
+      "title": "On the self-regulation of behavior",
+      "journal": "Cambridge University Press",
+      "year": "1998",
+      "authors": "C S Carver; M F Scheier"
+    },
+    {
+      "title": "",
+      "journal": "Optimism. Clinical Psychology Review",
+      "year": "2010",
+      "authors": "C S Carver; M F Scheier; S C Segerstrom"
+    },
+    {
+      "title": "Academic selfefficacy and first-year college student performance and adjustment",
+      "journal": "Journal of Educational Psychology",
+      "year": "2001",
+      "authors": "M M Chemers; L Hu; B F Garcia"
+    },
+    {
+      "title": "Robust locally weighted regression and smoothing scatterplots",
+      "journal": "Journal of the American Statistical Association",
+      "year": "1979",
+      "authors": "W S Cleveland"
+    },
+    {
+      "title": "A comparison of inclusive and restrictive strategies in modern missing data procedures",
+      "journal": "Psychological Methods",
+      "year": "2001",
+      "authors": "L M Collins; J L Schafer; C.-M Kam"
+    },
+    {
+      "title": "Nonlinear personalityperformance relationships and the spurious moderating effects of traitedness",
+      "journal": "Journal of Personality",
+      "year": "2005",
+      "authors": "J M Cucina; N L Vasilopoulos"
+    },
+    {
+      "title": "Optimism and unrealistic optimism have an interacting impact on health-promoting behavior and knowledge changes",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "1997",
+      "authors": "K Davidson; K Prkachin"
+    },
+    {
+      "title": "The dark side of optimism: Unrealistic optimism about problems with alcohol predicts subsequent negative event experiences",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "2009",
+      "authors": "A J Dillard; A M Midboe; W M P Klein"
+    },
+    {
+      "title": "Development during adolescence: The impact of stage-environment fit on young adolescents' experiences in schools and in families",
+      "journal": "American Psychologist",
+      "year": "1993",
+      "authors": "J Eccles; C Midgley; A Wigfield; C M Buchanan; D Reuman; C Flanagan"
+    },
+    {
+      "title": "Missing data analysis: Making it work in the real world",
+      "journal": "Annual Review of Psychology",
+      "year": "2009",
+      "authors": "J W Graham"
+    },
+    {
+      "title": "The construction of the self: Developmental and sociocultural foundations",
+      "journal": "Guilford Press",
+      "year": "2012",
+      "authors": "S Harter"
+    },
+    {
+      "title": "Socioeconomic status in childhood and adulthood: Associations with dispositional optimism and pessimism over a 21-year follow-up",
+      "journal": "Journal of Personality",
+      "year": "2006",
+      "authors": "K Heinonen; K R\u20ac Aikk\u20ac Onen; K A Matthews; M F Scheier; O T Raitakari; L Pulkki"
+    },
+    {
+      "title": "Separating optimism and pessimism: A robust psychometric analysis of the Revised Life Orientation Test (LOT-R). Psychological Assessment",
+      "journal": "",
+      "year": "2006",
+      "authors": "P Y Herzberg; H Glaesmer; J Hoyer"
+    },
+    {
+      "title": "The gaze of the optimist",
+      "journal": "Personality and Social Psychological Bulletin",
+      "year": "2005",
+      "authors": "D M Isaacowitz"
+    },
+    {
+      "title": "Motivated gaze: The view from the gazer",
+      "journal": "Current Directions in Psychological Science",
+      "year": "2006",
+      "authors": "D M Isaacowitz"
+    },
+    {
+      "title": "Loess: A nonparametric, graphical tool for depicting relationships between variables",
+      "journal": "Electoral Studies",
+      "year": "2000",
+      "authors": "W G Jacoby"
+    },
+    {
+      "title": "Selbstbezogene Kognitionen in schulischen Bezugsgruppen -Eine L\u20ac angsschnittstudie [Self-related cognitions in school contexts",
+      "journal": "",
+      "year": "1984",
+      "authors": "M Jerusalem"
+    },
+    {
+      "title": "Maximum likelihood estimation of latent interaction effects with the LMS method",
+      "journal": "Psychometrika",
+      "year": "2000",
+      "authors": "A Klein; H Moosbrugger"
+    },
+    {
+      "title": "Optimism and pessimism as predictors of change in health after death or onset of severe illness in family. Health Psychology",
+      "journal": "",
+      "year": "2005",
+      "authors": "M Kivim\u20ac Aki; J Vahtera; M Elovainio; H Helenius; A Singh-Manoux; J Pentti"
+    },
+    {
+      "title": "Childhood adversities, parent-child relationships and dispositional optimism in adulthood",
+      "journal": "Social Psychiatry and Psychiatric Epidemiology",
+      "year": "2004",
+      "authors": "K Korkeila; S L Kivel\u20ac A; S Suominen; J Vahtera; M Kivim\u20ac Aki; J Sundell"
+    },
+    {
+      "title": "Statistical analysis with missing data",
+      "journal": "Wiley",
+      "year": "2002",
+      "authors": "R Little; D B Rubin"
+    },
+    {
+      "title": "Broad versus narrow personality traits in predicting academic performance of adolescents. Learning and Individual Differences",
+      "journal": "",
+      "year": "2003",
+      "authors": "J W Lounsbury; E Sundstrom; J L Loveland; L W Gibson"
+    },
+    {
+      "title": "Broad versus narrow personality traits in relation to cognitive ability in adolescents. Personality and Individual Differences",
+      "journal": "",
+      "year": "2005",
+      "authors": "J W Lounsbury; D P Welsh; L W Gibson; E Sundstrom"
+    },
+    {
+      "title": "What are the differences between happiness and self-esteem?",
+      "journal": "Social Indicators Research",
+      "year": "2006",
+      "authors": "S Lyubomirsky; C Tkach; M R Dimatteo"
+    },
+    {
+      "title": "Resilience in emerging adulthood: Developmental perspectives on continuity and transformation",
+      "journal": "American Psychological Association Press",
+      "year": "2006",
+      "authors": "A S Masten; J Obradovi\u0107; K B Burt"
+    },
+    {
+      "title": "Latent variable modeling of differences and changes with longitudinal data",
+      "journal": "Annual Review of Psychology",
+      "year": "2009",
+      "authors": "J J Mcardle"
+    },
+    {
+      "title": "Latent difference score structural models for linear dynamic analysis with incomplete longitudinal data",
+      "journal": "American Psychological Association",
+      "year": "2001",
+      "authors": "J J Mcardle; F Hamagami"
+    },
+    {
+      "title": "Mplus user's guide",
+      "journal": "Authors",
+      "year": "1998",
+      "authors": "L K Muth En; B O Muth En"
+    },
+    {
+      "title": "Life satisfaction in early adolescence: Personal, neighborhood, school, family, and peer influences",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2011",
+      "authors": "E Oberle; K A Schonert-Reichl; B D Zumbo"
+    },
+    {
+      "title": "Future thought and behaviour change",
+      "journal": "European Review of Social Psychology",
+      "year": "2012",
+      "authors": "G Oettingen"
+    },
+    {
+      "title": "The motivating function of thinking about the future: Expectations versus fantasies",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2002",
+      "authors": "G Oettingen; D Mayer"
+    },
+    {
+      "title": "R: A language and environment for statistical computing",
+      "journal": "",
+      "year": "2016",
+      "authors": " R Core Team"
+    },
+    {
+      "title": "Hope and optimism: Latent structures and influences on grade expectancy and academic performance",
+      "journal": "Journal of Personality",
+      "year": "2009",
+      "authors": "K L Rand"
+    },
+    {
+      "title": "Hope, but not optimism, predicts academic performance of law students beyond previous academic achievement",
+      "journal": "Journal of Research in Personality",
+      "year": "2011",
+      "authors": "K L Rand; A D Martin; A M Shea"
+    },
+    {
+      "title": "Optimism and physical health: A meta-analytic review",
+      "journal": "Annals of Behavioral Medicine",
+      "year": "2009",
+      "authors": "H N Rasmussen; M F Scheier; J B Greenhouse"
+    },
+    {
+      "title": "Perceptual negativity predicts greater reactivity to negative events in daily life",
+      "journal": "Personality and Individual Differences",
+      "year": "2013",
+      "authors": "M D Robinson; T Liu"
+    },
+    {
+      "title": "Society and the adolescent self-image. Princeton",
+      "journal": "Princeton University Press",
+      "year": "1965",
+      "authors": "M Rosenberg"
+    },
+    {
+      "title": "Multiple imputation for nonresponse in surveys",
+      "journal": "Wiley",
+      "year": "1987",
+      "authors": "D B Rubin"
+    },
+    {
+      "title": "Optimism, coping, and health: Assessment and implications of generalized outcome expectancies",
+      "journal": "Health Psychology",
+      "year": "1985",
+      "authors": "M F Scheier; C S Carver"
+    },
+    {
+      "title": "Effects of optimism on psychological and physical well-being: Theoretical overview and empirical update",
+      "journal": "Cognitive Therapy and Research",
+      "year": "1992",
+      "authors": "M F Scheier; C S Carver"
+    },
+    {
+      "title": "Evaluating the fit of structural equation models: Tests of significance and descriptive goodness-of-fit measures",
+      "journal": "Methods of Psychological Research",
+      "year": "2003",
+      "authors": "K Schermelleh-Engel; H Moosbrugger; H M\u20ac Uller"
+    },
+    {
+      "title": "Parental influence on students' educational choices in the United States and Germany: Different ramifications-Same effect",
+      "journal": "Journal of Vocational Behavior",
+      "year": "2002",
+      "authors": "K U Schnabel; C Alfeld; J S Eccles; O K\u20ac Oller; J Baumert"
+    },
+    {
+      "title": "Optimism and attentional bias for negative and positive stimuli",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "2001",
+      "authors": "S C Segerstrom"
+    },
+    {
+      "title": "Optimism and resources: Effects on each other and on health over 10 years",
+      "journal": "Journal of Research in Personality",
+      "year": "2007",
+      "authors": "S C Segerstrom"
+    },
+    {
+      "title": "Positive thinking about the future in newspaper reports and presidential addresses predicts economic downturn",
+      "journal": "Psychological Science",
+      "year": "2014",
+      "authors": "A T Sevincer; G Wagner; J Kalvelage; G Oettingen"
+    },
+    {
+      "title": "A primer on unrealistic optimism",
+      "journal": "Current Directions in Psychological Science",
+      "year": "2015",
+      "authors": "J A Shepperd; E A Waters; N D Weinstein; W M P Klein"
+    },
+    {
+      "title": "Optimism and college retention: Mediation by motivation, performance, and adjustment",
+      "journal": "Journal of Applied Social Psychology",
+      "year": "2009",
+      "authors": "L Solberg Nes; D R Evans; S C Segerstrom"
+    },
+    {
+      "title": "Dispositional optimism and coping: A meta-analytic review",
+      "journal": "Personality and Social Psychology Review",
+      "year": "2006",
+      "authors": "L Solberg Nes; S C Segerstrom"
+    },
+    {
+      "title": "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2011",
+      "authors": "J Specht; B Egloff; S C Schmukle"
+    },
+    {
+      "title": "The costs and benefits of optimistic explanations and dispositional optimism",
+      "journal": "Journal of Personality",
+      "year": "1987",
+      "authors": "H Tennen; G Affleck"
+    },
+    {
+      "title": "How being an optimist makes a difference: The protective role of optimism in adolescents' adjustment to parental separation",
+      "journal": "Social Psychological and Personality Science",
+      "year": "2015",
+      "authors": "J Tetzner; M Becker"
+    },
+    {
+      "title": "Schule und Selbstwert [Schools and selfesteem",
+      "journal": "Waxmann",
+      "year": "2003",
+      "authors": "U Trautwein"
+    },
+    {
+      "title": "Occupational prestige in comparative perspective",
+      "journal": "Academic Press",
+      "year": "1977",
+      "authors": "D J Treiman"
+    },
+    {
+      "title": "MICE: Multivariate imputation by chained equations in R",
+      "journal": "Journal of Statistical Software",
+      "year": "2011",
+      "authors": "S Van Buuren; K Groothuis-Oudshoorn"
+    },
+    {
+      "title": "Mood management across affective states: The hedonic contingency hypothesis",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1994",
+      "authors": "D T Wegener; R E Petty"
+    },
+    {
+      "title": "Unrealistic optimism about future life events",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1980",
+      "authors": "N D Weinstein"
+    },
+    {
+      "title": "Dispositionelle Ang-stbew\u20ac altigungsstile, Optimismus und Bew\u20ac altigung: Ein interkultureller Vergleich",
+      "journal": "",
+      "year": "1989",
+      "authors": "R Wieland-Eckelmann; C Carver"
+    },
+    {
+      "title": "The importance of goal disengagement in adaptive self-regulation: When giving up is beneficial",
+      "journal": "Self and Identity",
+      "year": "2003",
+      "authors": "C Wrosch; M F Scheier; C S Carver; R Schulz"
+    },
+    {
+      "title": "The reciprocal relationships among parents' expectations, adolescents' expectations, and adolescents' achievement: A two-wave longitudinal analysis of the NELS data",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2011",
+      "authors": "Y Zhang; E Haddad; B Torres; C Chen"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Figure 11Figure1Moderated multivariate latent change-regression model reflecting mean-level changes in optimism and academic achievement. The latent intercept (i) reflects cross-sectional mean-level differences. The latent slope (s) reflects longitudinal mean-level changes. AcAch 5 academic achievement.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Figure 22Figure2LOESS curves (smoothing factor 5 0.75) for differences in the change of academic achievement and self-esteem as a function of optimism in the overall group (1A and 2A) and divided by different initial levels of academic achievement (1B) and self-esteem (2B).",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Mean Levels, Standard Deviations, and Correlations    ",
+      "figure_data": "Latent ConstructMS D123451.Optimism t 12.740.4012.Optimism t 22.680.39.33***13.Academic achievement t 1-0.170.85.25***.28***14.Academic achievement t 2-0.411.01.23***.29***.98***15.Self-esteem t 13.020.64.22***.25***.37***.32***16.Self-esteem t 22.910.66.21***.31***.41***.44***.60***Note. ***p < .001."
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Results of the Moderated Latent Change-Regression Models Investigating the Impact of Optimism on Academic Achievement",
+      "figure_data": "Model 1Model 2Model 3"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Results of the Moderated Latent Change-Regression Models Investigating the Impact of Optimism on Self-Esteem",
+      "figure_data": "Model 1Model 2Model 3"
+    }
+  ],
+  "doi": "10.1111/jopy.12312"
+}

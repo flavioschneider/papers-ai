@@ -1,0 +1,506 @@
+{
+  "title": "The Effects of Teachers' Reference Norm Orientations on Students' Implicit Theories and Academic Self-Concepts",
+  "abstract": "Teachers differ in their tendency to prefer temporal comparisons (temporal reference norm orientation, TO) and social comparisons (social reference norm orientation, SO) when judging students' achievements. A TO was postulated to enhance students' motivational beliefs. We used a longitudinal sample of 1 641 students (69 mathematics classes) from comprehensive secondary schools (Gymnasium) across grades 5 and 6 to test this hypothesis. Students' mathematical self-concepts and their implicit theory of math ability as incremental were assessed at each point of measurement. Their math teachers' TO and SO were assessed using aggregated students' ratings. Growth curve modeling showed a decline in students' self-concepts and their implicit theory. Between-class differences in the amount of decline were associated with teachers' reference norm orientations: TO was associated with a decelerated decline in students' self-concepts and implicit theory, SO with an accelerated decline. The SO effects on students' self-concept were more pronounced given lower students' achievement.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Evaluating achievements of their students is a central element of teachers' everyday work. In order to evaluate a specific result of a student's work on a task as good or poor, teachers (as well as all other evaluators) need reference norms as evaluation standards. If the result exceeds the evaluation standard, the achievement is judged as \"good,\" if the result is below the evaluation standard, it is judged as \"poor\" achievement. Any specific outcome may therefore be judged as poor or good, depending on the evaluation standards chosen.\nIn the literature, three reference norms (as standards for evaluating achievement) have been discussed (Rheinberg, 1983): criterial (comparisons with an absolute standard), social (comparisons with the results of other students), and temporal reference norms (comparisons with a student's past results). When evaluating students' achievements, teachers are not always free to choose the one or another reference norm. For example, when grading students' results on a test, teachers mainly are asked to take into account whether the results document students' mastery http://econtent.hogrefe.com/doi/pdf/10.1024/1010-0652/a000208 -Friday, September 15, 2017 2:41:55 AM -Universit\u00e4t Trier IP Address:136.199.84.94 (i. e., teachers should prefer a criterial reference norm). In contrast, if a teacher is asked to designate students for a specific scholarship, he or she is typically restricted to applying a social reference norm (as only a predefined number of students can be nominated). However, many situations occur throughout the school day where teachers evaluate students' achievement without being restricted to apply a specific reference norm. When a teacher, for example, gives students individual feedback on the quality of their answers during in-class discussions, when a teacher talks to a student about his or her achievement after the end of the school day, or when teachers write comments under a graded test, the teachers are free to base their feedback to a specific degree on a specific reference norm. These preferences for specific reference norms within such situations have been called reference norm orientation (RNO) (Rheinberg, 1980).\nMost research (with few exceptions, e. g., Elliot, Murayama, & Pekrun, 2011) has tended to focus on interpersonal preferences with respect to social and temporal reference norms (Retelsdorf & G\u00fcnther, 2011). 1 This seems adequate since individuals may be likely to agree on the importance of absolute criteria but differ in their valuation of social and temporal comparisons. Even though evaluation of students' achievement often may be based on a combination of different reference norms (Rheinberg, 1980), there are differences between teachers in their preference for temporal and social reference norms. The present study focuses on effects of such preferences on students' motivational development.\nEven though the international educational research community has repeatedly highlighted the importance of reference norms or evaluative standards (Ames, 1992;Covington, 2001;Elliot & McGregor, 2001;Elliot, Murayama, & Pekrun, 2011;Marsh, 1986), research specifically focusing on teachers' reference norm orientations has mainly been conducted in Germany and published mainly in German (e. g., L\u00fcdtke & K\u00f6ller, 2002;Mischo & Rheinberg, 1995;Rheinberg, 1980). Therefore, the international research community was rarely exposed to the existing studies investigating the effects of teachers' reference norm orientations on teachers' and students' beliefs and their behavior. Only recently did the first papers introduce this concept to the international research community (L\u00fcdtke, K\u00f6ller, Marsh, & Trautwein, 2005;Retelsdorf & G\u00fcnther, 2011;Rheinberg, 2001).\nIn the following, we give a short summary of approaches to measuring teachers' reference norm orientations, elaborate on the theoretical distinctiveness of an orientation toward social and temporal reference norms, and then review findings on the effects of reference norm orientations on teachers' and students' beliefs and behavior.",
+      "n_publication_ref": 18,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Reference Norm Orientations: Operational and Theoretical Considerations",
+      "text": "Three different approaches for measuring teachers' reference norm orientations have been suggested. The first and most common used approach uses teacher self-reports as information source (e. g., Retelsdorf & G\u00fcnther, 2011;Rheinberg, 1980). The second approach uses external observers, who answer questions on the teachers' frame of reference after observing them (e. g., L\u00fcdtke et al., 2005). The third approach uses student ratings of teachers' reference norm orientations (e. g., Gl\u00e4ser-Zikuda & Fu\u00df, 2008); in order to have a measure representing the contextual effects within one class, students' individual ratings usually are aggregated on the classroom level. However, from a social-constructive view of contextual effects on individual behavior and cognition, it is often argued that students' individual perceptions (which are inherently subjective and frequently deviate from the shared perceptions) are at least of similar relevance as the aggregated ratings at the classroom level (e. g., Martin, Bobis, Anderson, Way, & Vellar, 2011).\nIt is important to note that, within each approach, answers on a measure for a temporal reference norm orientation (TO) are not just the other side of the coin of answers on a measure for a social reference norm orientation (SO). A teacher can, for example, take the view that good achievement is indicated by temporal improvement and by being better than others.\nEmpirical support for the distinction between SO and TO comes from studies that separately assessed teachers' TO and SO. Retelsdorf and G\u00fcnther (2011) found that teachers' self-reported TO and SO were only weakly cor-1 Throughout the literature, the terms used to describe these different reference norms have been diverse. Social reference norms have also been labeled as \"external frames of reference,\" \"normative or interpersonal evaluation standard,\" and temporal reference norms have been labeled as \"internal frames of reference\" or \"intrapersonal evaluation standards\" (see, e. g., Elliot & McGregor, 2001;Marsh, 1986;Rheinberg, 1980). However, for the sake of preciseness, we prefer the terms \"social reference norm\" and \"temporal reference norm\" throughout this paper. In our view, the term \"external frame of reference\" does not exclusively refer to social comparisons since, for example, criterial references (i. e., references to an absolute standard within the given task) are also external comparisons (i. e., comparisons of a result with a standard outside the individual). In addition, in our view, the terms \"internal frame of reference\" or \"intrapersonal evaluation standard\" do not exclusively refer to temporal comparisons, seeing that dimensional references (i. e., references to one's own results in other domains) are also internal or intrapersonal comparisons (see also M\u00f6ller & K\u00f6ller, 2001 (-.22). In a study by Sch\u00f6ne, Dickh\u00e4user, Spinath, and Stiensmeier-Pelster (2004, Study 6), parents' SO and TO again showed only a weak correlation (.24). In addition, an exploratory factor analysis resulted in two different factors with all SO items loading on one and all TO items loading on the other factors (Sch\u00f6ne, personal communication). These findings support the theoretical argument that SO and TO represent separable and empirically distinguishable constructs.\nHowever, even though TO and SO constitute logically independent (and empirically not necessarily inverserelated) constructs, many approaches assessing the effects of teachers' reference norm orientations either used only one measure or experimentally induced a social vs. temporal frame of reference (see Rheinberg & Krug, 2005, for a summary). The use of such approaches cannot disentangle the effects of TO and SO.",
+      "n_publication_ref": 14,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Effects of Teachers' Reference Norm Orientations Teachers' Beliefs and Behavior",
+      "text": "In his research program on teachers' reference norm orientations, Rheinberg (1980) postulated and empirically demonstrated that TO and SO are associated with distinct aspects of teachers' beliefs about students and teacher behavior (see also Retelsdorf & G\u00fcnther, 2011). Teachers' reference norm orientations are associated with the achievement expectations teachers develop about their students and their attributions about students' achievement: TO is associated with rather short-term, fluctuating expec tations and unstable attributions, whereas SO is associated with long-term, stable expectations and stable attributions about students' performance. These differences in teachers' expectations and attributions of students' performance can be assumed to be mainly grounded in different assumptions on the stability of performance within the classroom. Rheinberg (1980) argued that a higher (compared to a lower) TO makes teachers perceive the performance pattern within the classroom as rather unstable (since individual improvements as well as decreases are likely to appear), whereas a higher (compared to a lower) SO makes teachers perceive the performance pattern within the classroom to be rather stable (since rank orders within a classroom typically do not change, even if all students improve).\nIn addition, teachers may react differently to students' results depending on their reference norm orientations: The higher teachers' TO is, the more they tend to praise students for temporal improvements and criticize them for performance declines. The higher teachers' SO is, on the other hand, the more they tend to praise students for being better and criticize them for being worse than others. Therefore, the likelihood of performance-related praise and criticism more closely depends on students' achievement rank order within the classroom, the higher the teachers' SO is. This line of argument results in the core prediction that the effects of SO on students' motivation are likely to depend on students' prior achievement, while the effects of TO should be independent of students' prior achievement rank. In addition, given the fact that students' competencies usually increase over time (as a result of learning), praise becomes more likely than criticism when the teacher adopts a TO.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Students' Beliefs and Behavior",
+      "text": "Being judged under a TO should make students perceive their own results as changing though -in the long runtheir competencies as increasing (Rheinberg, 1980). This should impact students' academic self-concepts (Marsh, 1990) as well as their beliefs regarding the changeability of their competencies (i. e., their implicit theory of abilities; Dweck, 1986). Both students' self-concept (e. g., Dweck, 1986;Wigfield & Eccles, 2000) as well as their implicit theory of abilities (Burnette, O'Boyle, VanEpps, Pollack, & Finkel, 2013, for a recent meta-analysis) have been assumed and demonstrated to be determinants of their beliefs and their behavior, each having specific effects. Based on work by Dweck (1986) and Mueller and Dweck (1998), we assume that being judged under a TO (which is often associated with effort-related feedback; see Rheinberg 1980) makes students develop a more incremental theory of intelligence and a higher self-concept, whereas being judged under a SO (which is often associated with ability-related feedback; again see Rheinberg, 1980) should lead to a more entitist view of intelligence and lower self-concepts. This should result from feedback based on a TO (compared to feedback based on a SO), which more clearly illustrates to students that abilities develop as a function of invested effort, and that, in a learning context like the school, competencies typically increase as a function of learning.\nEven though both motivational aspects, implicit theory and self-concept, can be assumed to show a longitudinal downward trend during secondary school (see Eccles et al., 1993, for a summary on adolescents' motivational development), TO and SO should determine this development. In addition, as argued above, potential effects of SO can be assumed to be moderated by students' achievement level, whereas the effects of TO should be independent of students' achievement level. Krug and Lecybyl (2005b) asked a single teacher to teach one of his classes according to a high TO and another classroom according to a high SO for a period of 6 weeks. The authors found that students in the TO classroom showed a higher motivation (as indicated by students' frequency of hand-raising in class) and had a higher performance than the students from the SO class. (Note that -given the procedure chosen -the results cannot be clearly interpreted because the difference between the groups may result from positive TO effects, negative SO effects or from a combination of both).\nA second study by Krug and Lecybyl (2005a) with a very similar design also tested whether the differences in students' performance were not only affected by teachers' reference norm orientations, but also differed by students' prior achievement level. This study revealed that, on the descriptive level, in the SO class students' performance level at the end of the intervention equaled their prior achievement level, whereas in the TO class performance increased during the intervention. However, the interaction between time, teachers' reference norm orientations, and prior achievement was statistically not significant (or at least not reported).\nEven though not directly related to teachers' reference norm orientations, a study by Krampen (1987) tested effects of teacher comments based on different reference norms on students' motivation in mathematics. In three experimental groups, teachers gave additional comments to students' written exams for 6 months. These were either comments based on social, temporal, or criterial reference norms. The development of motivational beliefs was different depending on the type of comments the students had received and the level of their prior performance. Comments based on a social reference norm were differently related to students' expectations of improvement depending on students' prior level of performance: Students who performed poorly at the beginning developed a clearly lower expectation of improvement compared to students who had an intermediate performance. Interestingly, this difference between low-and medium-performing students was not as marked given temporal comments. In addition, comments based on a social reference norm were associated with marked differences in students' graded performance depending on students' previous performance while this difference was less pronounced given temporal comments.\nOne shortcoming of these reported studies is that their design did not take the hierarchical nature of the data into account. Even though teachers' TO / SO (Krug & Lecybyl, 2005a, 2005b or teachers' comments according to different reference norms (Krampen, 1987) had been experimentally manipulated at the group (i. e., the teacher) level in all studies, individual students were not randomly assigned to the different conditions. Ignoring the hierarchical nature of the data (students clustered within classes) can lead to inappropriate estimates of the standard errors and therefore to severely biased results (Snijder & Bosker, 2012).\nA study by L\u00fcdtke et al. (2005) overcame this shortcoming by applying hierarchical linear modeling in order to properly investigate the effects of teachers' TO (as indicated by aggregated student ratings or by observer ratings) on the big-fish / little-pond effect (BFLP; Marsh, 1987) on students' self-concepts. The BFLP is mainly the result of social comparison processes within the classroom and describes the finding that, even though achievement positively predicts individual self-concepts at the individual level, classroom level achievement has a negative effect on individual self-concepts. The authors reported results from a 1-year longitudinal study in mathematics classrooms based on a sample of 2,150 students from 112 classes. As a measure for teachers' reference norm orientations, they used students' and observers' ratings of the teachers' TO (a measure that is logically and theoretically independent from teachers' SO). TO was associated with enhanced self-concepts at time 2 (grade 8). However, the authors did not find any support for the idea that teachers' reference norm orientations moderated the strength of the BFLP. In line with our argumentation, this may be because a measure of teachers' TO does not provide valid information about teachers' SO.",
+      "n_publication_ref": 17,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Research Desiderata and Hypotheses",
+      "text": "Given these research approaches and findings, the following desiderata for studies on the effects of teachers' reference norm orientations on students' evaluation of own competencies remain: First, the effects of teachers' reference norm orientations on the student level must be properly analyzed. The statistical analyses must take the hierarchical nature of data into account. Second, the effect of TO and SO must be disentangled, as TO and SO do not constitute two opposite poles of one single construct. Third, research should more thoroughly consider how the potential positive or negative effects of TO and SO are moderated by students' prior achievement (as indicated by grades). Because such moderation can be postulated for SO but not for TO, this again underlines the necessity of separately conceptualizing (and measuring) TO and SO.\nTaking these desiderata into account, the present study uses a longitudinal sample of mathematics teachers and their students to test the effects of teachers' TO and SO on students' mathematical self-concept as well as their implicit theory of mathematical ability as incremental (labeled \"implicit theory\" throughout this paper). Even though both constructs constitute two central aspects of students' perception of own competencies, namely, subjective assumption on strength or level (self-concept) and stability (implicit theory) of own abilities, both variables http://econtent.hogrefe.com/doi/pdf/10.1024/1010-0652/a000208 -Friday, September 15, 2017 2:41:55 AM -Universit\u00e4t Trier IP Address:136.199.84.94 are usually found to be uncorrelated (e. g., Dinger, Dickh\u00e4user, Spinath, & Steinmayr, 2013). In the present study, we investigate TO and SO as separate determinants of students' self-concept and implicit theory and also test the theory-based prediction that SO effects are moderated by students' achievement level.\nHypotheses. As a general developmental trend during the first years at secondary school, we assume students' mathematical self-concepts to decrease during a 2-year period (i. e., from the beginning of grade 5 until the end of grade 6). In addition, we assume that students develop a less incremental theory of mathematical intelligence during this time (Hypothesis 1: developmental decline). This hypothesis is based on prior findings on motivational development in secondary schools (Eccles et al., 1993).\nHowever, these changes should vary between classes (Hypothesis 2: interclassroom differences in developmental decline), and we expect these interclass differences to be related to teachers' reference norm orientations. TO is assumed to be associated with a slower decline in students' self-concepts and their implicit theory regarding intelligence, whereas SO should be associated with an accelerated decline for both outcomes (Hypothesis 3: main negative effect of TO and main positive effect of SO on developmental decline). In addition, the effects of SO should be moderated by students' prior achievement level: The poorer the prior achievement of the students, the stronger the impact of SO on the developments of their self-concepts and implicit theories (Hypothesis 4: students' a priori achievement level moderates the main effect of SO).",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Method Procedure and Participants",
+      "text": "We used data from a 2-year longitudinal study on the subject of mathematics with five measurement occasions during the 5 th and the 6 th grades in German academic secondary schools (for an overview, see Nitsche et al., 2017. According to the recommendation given by Singer and Willett (2003), measurement occasions were scheduled rather narrowly at the beginning of the 5 th grade to allow for a precise modeling of the changes in mathematical self-concepts and implicit theories that may occur after students' transition from elementary to secondary schools (which in Germany takes place after the 4 th grade), and were scheduled afterwards less narrowly (Time 1: first month in grade 5; Time 2: 3 months later [fourth month in grade 5]; Time 3: 2 months later [sixth month in grade 5]; Time 4: 8 months later [second month in grade 6]; Time 5: 8 months later [tenth month in grade 6]; timespan between Time 1 and Time 5: 21 months).\nThe sample used for the present analyses included data from the 69 classes (out of 26 schools) which participated at all measurement occasions and had the same mathematics teachers in the 5 th and the 6 th grade. From these classes, 1 641 students participated at least at one measurement occasion and were thus included in the sample. At Time 1, students' average age was 10.5 years (SD = 0.43); 53.4 % were female. At Time 1, teachers had a mean teaching experience of 13.2 years (SD = 12.7) and a mean age of 40.7 years (SD = 12.9); 36 of the 69 teachers were female.\nTeachers' reference norm orientations were measured using student perceptions at Time 4. According to findings from Rheinberg, Krug, L\u00fcbbermann and Landscheid (1980), teachers' reference norm orientations can be assumed to be rather stable. In line with recent approaches on teachers' reference norm orientations (e. g., L\u00fcdtke et al, 2005), we decided to use student ratings to assess teachers' reference norm orientations. Students may be assumed to be able to observe the manifest behavior of the teacher associated with her or his reference norm orientation (see section \"Teachers' Beliefs and Behavior\" above). In addition, for this construct, students' ratings have the advantage of not being biased by social desirability, which might be the case for teachers' ratings of their own reference norm orientation. We opted for a rather late assessment of these perceptions since it can be assumed that students need considerable experiences with a certain teacher to judge his or her instructional practices adequately (cf. Kunter & Baumert, 2006). Shared perceptions on the classroom / teacher level as well as individual perceptions on the student level were used as predictors.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "Teacher Reference Norm Orientations Teachers' reference norm orientations were assessed using student ratings. The students answered six items, which were introduced by the following sentence: \"Now think about your math teacher. What is -in his / her eyesa good result in mathematics?\" The items assessing a temporal frame of reference read, for example, as follows: \"My teacher takes the view that a good result in mathematics is defined as a result that is better than the one before.\" The items assessing a social frame of reference read for example as follow: \"My teacher takes the view that a good result in mathematics is if it is better than the other students' results.\" All items were answered on a scale ranging from 1 (totally disagree) to 6 (totally agree). The internal consistency of the TO scale (3 items) was \u03b1 = .84 and for the SO scale (3 items) the internal con- sistency was \u03b1 = .92 (see Plenter, 2004, for details on the psychometric quality of these two scales). Descriptives and internal consistencies for all scales are displayed in Table 1.\nIn order to verify the theorized two-dimensional structure of students' perceptions of the reference norm orientations of their teachers, we performed two-level confirmatory analyses (L\u00fcdtke, Trautwein, Schnyder, & Niggli, 2007). The hypothesized model comprised separate factors for temporal and social reference norm orientations on each, the level of the students and the level of the classrooms / teachers. The results clearly supported the distinction between the two reference norm orientations. The postulated model fit the data very well (\u03c72 = 101.9; df = 22; RMSEA = .05; CFI = .97; TLI = .97) and much better than a model with only one factor on each level (\u03c72 = 1677.4; df = 25; RMSEA = .21; CFI = .49; TLI = .36). As already obvious from the large differences in the fit indices, the postulated model fitted significantly better to the empirical data (Satorra-Bentler scaled \u03c72 difference test; \u0394\u03c72 (df = 3) = 1020.5; p < .001).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Students' Self-Concept",
+      "text": "We used a well-validated German measure for students' self-concept (scale \"Absolute self-concept\" from Sch\u00f6ne, Dickh\u00e4user, Spinath, & Stiensmeier-Pelster, 2012), which was adapted to mathematics. The scale includes 5 items that had to be answered by means of a 5-point rating scale.\nOne example item was \"Learning new things in mathematics for me is \u2026\" and had to be answered on a scale from 1 (very hard) to 5 (very easy). The internal consistency ranged between \u03b1 = .85 and \u03b1 = .94.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Implicit Theory of Intelligence as Incremental",
+      "text": "We used 4 items from the scale \"Modifiability of ability deficits\" validated by Ziegler and Stoeger (2010). One example item was \"I can enhance my mathematical abilities.\" Each item had to be answered on an answering format from 1 (totally disagree) to 6 (totally agree). The internal consistency of the scale ranged between \u03b1 = .67 and \u03b1 = .90.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Students' Prior Achievement",
+      "text": "In order to have a measure of students' achievement level prior to entering the secondary school, we asked students at Time 1 (i. e., at the beginning of 5 th grade) to report their grade in mathematics from their final report card at grade 4. In Germany, grades range from 1 (very good) to 6 (very poor). For the sake of simplicity, the grades were recoded in order to have higher values indicating higher achievement. For the present research purposes, grades are suitable indicators of students' prior achievement as they are directly communicated to the students (via the report cards) and can therefore be used by students to infer their achievement position within the classroom. Be- cause students are thus typically aware of their grades but not of their test scores (M\u00f6ller, Pohlmann, K\u00f6ller, & Marsh, 2009), grades are a more appropriate measure for our study than scores from standardized achievement tests.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Missing Values",
+      "text": "The rate of missing participants ranged between 6.7 % and 14.3 %. Item nonresponse occurred quite seldom (no more than 2.0 % for all items) -with the exception of the item assessing prior achievement (report card grade; 12.6 %). Overall, missing values occurred not completely at random (Little's MCAR Test: \u03c7 2 = 8603.4, df = 7882, p < .001). Inspection of potential dependencies revealed a small but significant correlation between prior achievement and the number of missing values (r = -.07, p < .01).\nFollowing the recommendations to minimize result biases when missing values do not occur at random, we imputed missing values from item nonresponse as well as nonparticipation on measurement occasions using the expectation-maximization algorithm (see Peugh & Enders, 2004).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Data Analysis",
+      "text": "Data were analyzed using growth-curve models with three levels (measurement occasions, students, classrooms / teachers; Singer & Willett, 2003). General developments in students' self-concepts and implicit theories (Hypothesis H1) and classroom differences in these developments (Hypothesis H2) were estimated by specifying the unconditional growth model:\nLevel 1: Outcome = \u03c0 0 + \u03c0 1 \u2022 Time + e\nLevel 2: \u03c0 0 = \u03b2 00 + r 0 \u03c0 1 = \u03b2 10 + r 1 Level 3: \u03b2 00 = \u03b3 000 + u 00 \u03b2 10 = \u03b3 100 + u 10\nIn this model, students' self-concepts or implicit theories are exclusively modeled as dependent on time (\u03c0 1 ), whereby this time effect is allowed to vary randomly between students and classrooms (random parameters r 0 , r 1 , u 00 , u 10 ). Students' self-concepts and implicit theories were standardized with respect to the first measurement occasions (M t1 = 0, SD t1 = 1). Time was coded in years (Time 1 to Time 5: 0.00, 0.25, 0.42, 1.08, 1.75 years), so that the coefficients of the time variable can be interpreted as changes per school year (quantified in Time 1 standard deviations of the outcome).\nThe relationships between teachers' reference norm orientations and classroom-specific developments in students' assumptions concerning their own mathematic abilities (Hypothesis H3) were estimated with a slope as outcome model. In this model, the slope of the time variable (i. e., the strength or steepness of the change over the 2 school years) was predicted by student perceptions of the reference norm orientations of their teacher: Of primary relevance for testing Hypothesis H3 are the effects of the shared perceptions held by all students within a classroom (\u03b3 101 , \u03b3 102 ). These shared perceptions can be interpreted as an indicator for the actual reference norm orientations of the teacher (grand-mean-centered classroom means on the classroom / teacher level; see Marsh et al., 2012). Given the potential importance of individual perceptions (e. g., Martin, Bobis, Anderson, Way, & Vellar, 2011), we simultaneously inserted perceived TO and SO on the student level (\u03b2 11 , \u03b2 12 ). Perceived teachers' reference norm orientations were z-standardized prior to analyses (shared perceptions were standardized on the classroom / teacher level, individual perceptions were standardized on the student level).\nIn order to test the expected moderation of the effect of teachers' social reference norm orientation on the focused developments through students' prior achievement-level (Hypothesis H3), the model was expanded to a moderation model: Here, a cross-level interaction between students' prior achievement on the student level (z-standardized, centered on the classroom means) and teachers' reference norm orientations on the classroom / teacher level (shared perceptions, z-standardized) was inserted as predictors of the slope of the time variable (\u03b3 131 , \u03b3 132 ). Additionally, potential effects of prior achievement on the initial level of the outcomes at Time 1 (which have to be assumed particularly for students' self-concepts; Helmke & van Aken, 1995) were represented on the student level (\u03b2 01 , grandmean-centered, z-standardized).   All models were estimated using HLM 6 (Raudenbush, Bryk, & Congdon, 2004) and restricted maximum likelihood estimation.\nLevel 1: Outcome = \u03c0 0 + \u03c0 1 \u2022 Time + e Level 2: \u03c0 0 = \u03b2 00 + \u03b2 01 \u2022 PriorAch + r 0 \u03c0 1 = \u03b2",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Descriptive Results",
+      "text": "Descriptive statistics for all variables are displayed in Table 2. The mean values illustrate that students' self-concepts and their view of mathematical ability as incremental decrease over time, whereas the standard deviations increase. With respect to students' perceptions of teach-ers' reference norm orientations, small but systematic differences between teachers (i. e., classrooms) were obvious for both TO (ICC = .06, p < .001) and SO (ICC = .04, p < .001). TO and SO correlated weakly at the student level (r = .15, p < .001; see Table 2 for zero-order correlations of all variables). There was no statistically significant correlation at the classroom / teacher level (r = .01, p = .91).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "General Developments",
+      "text": "The results for all models are displayed in Table 3. Estimating the unconditional growth model revealed, on average, noticeable strong declines in both students' as-  Psychologie (2017), 31 (3-4), 205-219 \u00a9 2017 Hogrefe sumptions regarding the perceived level (self-concept) and the changeability (implicit theory) of their mathematical abilities -as expressed by the fixed effects of time (\u03b3 100 , Hypothesis H1). This average decline was in the size of one-third to one-half of a standard deviation per school year.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Zeitschrift f\u00fcr P\u00e4dagogische",
+      "text": "As indicated by significant variances of the random slope of the time variable (u 10 ), the developments in both students' self-concepts and implicit theories varied significantly between mathematics classrooms (or mathematics teachers) -indicating that classroom or teacher factors exist that influence these developments (Hypothesis H2).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Teacher's Reference Norm Orientations as Developmental Factor",
+      "text": "As expected, the developments of students' self-concepts and implicit theories depended on the reference norm orientations of the teachers (Hypothesis H3). As can be seen from the slope as outcome model, teachers' TO and teachers' SO had significant effects on both students' self-concepts and implicit theories. In general, there was a greater decline in students' assumptions about their level and changeability of their own mathematical abilities the stronger teachers' SO was: Significant negative coefficients \u03b3 102 and \u03b2 12 indicated that the averagely negative effect of the time variable on the outcomes was further intensified when SO was strong. On the other hand, a stronger TO mitigated the negative developments (i. e., reduced the negative effect of time) as indicated by significant positive coefficients \u03b3 101 and \u03b2 11 . This pattern of results was true on the level of the perceptions that all classroom members share respecting the reference norm orientation of their mathematics teacher (classroom level) as well as on the level of the subjective perceptions the individual students hold about the reference norm orientation of his or her teacher (student level) -with the exception of one nonsignificant effect (students' individual perceptions of teachers' SO had no effect on the development of their self-concepts).\nFigure 1 illustrates for the shared perceptions of teachers' reference norm orientations that a strong TO and a weak SO were associated with lower decreases in students' self-concepts and their theory of math ability as incremental, whereas a weak TO and a strong SO were associated with higher decreases.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Moderation of the SO Effect",
+      "text": "Estimating the moderation model yielded a significant crosslevel interaction between students' prior achievement 2 In the slope as outcome model as well as in the moderation model, we also conducted exploratory analyses regarding potential interactive effects of TO and SO on students' self-concept and their implicit theory. All terms including the TO-SO interactions did not reach statistical significance (neither at the individual nor at the shared class level). and the SO of the teachers (\u03b3 132 ; see Table 3). A strong SO of the mathematical teachers was, as expected, especially harmful to students with poorer prior achievements -who had already started with a rather negative self-concept that was additionally impaired by the social comparisons carried out by their teachers (Figure 2). In contrast, students with good prior achievements were not harmed by a strong SO of their teachers, though they also did not benefit from extensive social comparisons of their teachers. The expected moderation effect was evident for students' self-concept but not for their implicit theories. Consistent with our assumptions, we observed no moderation effect for teachers' TO. 2",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    { "heading": "Discussion", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Development of Students' Motivation: The Effects of Teachers' Reference Norm Orientations",
+      "text": "In the present study, we investigated the potential effects of teachers' reference norm orientations on the development of students' beliefs concerning the level of their ability and their beliefs about the changeability of their ability. As outlined, teachers' reference norm orientations can be assumed to have an effect on both outcomes. The effects of a temporal reference norm orientation should be positive, and a social reference norm orientation should have negative effects on the development of both aspects of students' motivation. In addition, the effects of SO were predicted to differ depending on students' prior achievement level.\nOur longitudinal data across grades 5 and 6 showed a continuous negative trend of students' motivational beliefs, namely, a decrease in their mathematical self-concept and their implicit theory of mathematical ability as incremental. This downward trend was in line with Hypothesis 1 and was of remarkable size: Self-concept decreased about one-third, the implicit theory nearly onehalf of a standard deviation per school year. This negative trend is in line with findings documenting negative developments after the transition from elementary to secondary school (see Anderman & Maehr, 1994, for a review). However, research also pointed out that the changes in motivation are associated with contextual factors and are not merely a function of individual changes that occur when developing from childhood to adolescence (e. g., Urdan, Migdley, & Wood, 1995).\nIn line with Hypothesis 2, there were statistically significant differences between classes in the observed downward trend -a finding that is in line with the idea, that the motivational developments may be determined by contex-tual factors like teachers' reference norm orientations. The simultaneously observed large differences between students within the same classrooms (as indicated by Var(r 1 ) in Table 3) point to the idea, that other important contexts beyond the school classroom (e. g., peer group, family) may be driving motivational development during adolescence.\nAs predicted in Hypothesis 3, the developmental declines were determined by teachers' reference norm orientations. A higher (compared to a lower) temporal reference norm orientation at the shared class level was associated with a less steep decline in students' mathematical selfconcept and their implicit theory. In contrast, a higher (compared to a lower) social reference norm orientation at the class level was associated with a steeper decline in students' mathematical self-concept and their implicit theory. We interpret these findings as a clear reference that teachers' reference norm orientations (indicated by the shared perception of students within a class) are a significant contextual factor influencing motivational development. This assumption is supported by the fact that the effects of TO and SO at the shared class level (which are frequently seen as mostly relevant when analyzing contextual effects; Marsh et al., 2012) were consistently in the predicted direction and were statistically significant (the effects of TO and SO at the individual level were generally consistent with this pattern). As can be seen from the Figure 1 and from the coefficients for the slope as outcome model in Table 3, the TO effects seem to be more pronounced than the SO effects. This may be due to the fact that SO feedback -compared to TO feedback -is overall more likely to be negative, so that SO feedback may more often be reinterpreted in order to immunize the self (Greve & Wentura, 2003).\nThe effect of TO at the classroom level on the development of students' self-concept corresponds to the findings of L\u00fcdtke et al. (2005), who also found that students in classes with a higher teacher TO develop a more positive self-concept than students in classes with a lower TO. However, in the study by L\u00fcdtke et al., TO was assessed simultaneously with the criterion (academic self-concept). This allows for the alternative interpretation that the changes in students' self-concept might have determined the shared perception of teachers' TO. This alternative interpretation of the relation between TO and motivational development can at least partly be ruled out empirically by the present findings. As we pointed out, SO and TO were assessed at time 4. However, as illustrated in Table 1, the developmental trends in self-concept and implicit theory continuously take place from time 1 to time 5. Therefore, even though the development from time 1 to time 4 might have resulted in a specific kind of shared perception at time 4, the effect of TO and SO on motivational develop-http://econtent.hogrefe.com/doi/pdf/10.1024/1010-0652/a000208 -Friday, September 15, 2017 2:41:55 AM -Universit\u00e4t Trier IP Address:136.199.84.94 ment from time 4 to time 5 can rather be interpreted as the result of a teacher variable influencing students' development and not vice versa.\nIn the present paper, we assessed two core aspects of students' beliefs about their mathematical ability. Even though both constructs have been assumed and demonstrated to be core motivational constructs, they only rarely were related to teachers' reference norm orientations. Interestingly, there have been only very few studies at all that tested potential determinants of students' implicit theories. We are aware of only three studies that have attempted to directly test determinants of implicit theories: The study by Spinath, Spinath, Angleitner, and Riemann (2003) demonstrated that implicit theories are unrelated to personality and actual intelligence. Using an experimental design, Mueller and Dweck (1998) found that students' implicit theories depend on the type of successrelated feedback they receive: Ability-related praise was associated with a rather entitist view on intelligence, whereas effort-related feedback was associated with a more incremental view on intelligence. Dresel and Ziegler (2006), who also adopted an experimental approach, additionally demonstrated that attributional feedback provided in a sequence that implies that effort leads to improved abilities fosters an incremental theory. In line with research on teachers' reference norm orientation, it would be reasonable to assume that teachers' attributions of students' achievement to stable factors (which are typical for high SO) share an entitist view whereas teachers' attributions to instable factors (which are typical for high TO) shape an incremental view of intelligence. Even though the present study does not give an answer concerning the exact process leading to an incremental view of abilities, it is one of the very few studies to empirically prove determinants of students' implicit theories.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Different Reference Norm Orientations and the Importance of Students' Prior Achievement",
+      "text": "One strength of the present paper is that we used separate measures for TO and SO in order to disentangle potential effects. TO and SO were clearly separate constructs -a fact that had been ignored in prior research on teachers' reference-norm orientations. This theoretical reasoning is supported by the finding that TO and SO were only weakly related at best, and in the present study both at the individual and at the classroom level. The findings of the present study underline the necessity to separate these different forms of reference-norm orientations. As can be deduced from theoretical reasoning on teachers' reference-norm orientations, the potential negative effects of SO can be as-sumed to be moderated by students' prior achievement level, whereas the positive effects of TO should occur independent from achievement level. This prediction is based on the fact that achievement feedback on the basis on SO clearly depends on students' achievement range within the classroom (with a higher chance for positive feedback for students with achievement ranks above classroom average), whereas TO effects should be independent of students' prior achievement position (a positive feedback as the result of individual improvement is independent from students' achievement rank).\nThis was the core idea underlying Hypothesis 4. This hypothesis was supported for student's self-concept as the dependent variable. Here student's prior achievement cross-level moderated the SO effect in the predicted direction: The negative effects of SO on the development on students' self-concepts were more pronounced for students with initially poor achievement than for students with good achievement. This moderation was only predicted and found for SO; the positive effects on TO were not influenced by students' achievement level. For the second dependent variable, students' implicit theory, the predicted moderation was not supported. As pointed out in the theory section, teachers with a pronounced SO are less sensitive to changes in students' achievement. Probably because of this lower sensitivity, they signal their students that performance and the underlying factors (such as ability) are stable (see Rheinberg, 1980) and therefore unchangeable. As the lower sensitivity to changes of teachers with a higher SO exists independently of students prior achievement, this may be one explanation for the lacking moderation of the SO effect on students' implicit theory.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations",
+      "text": "In the present study, we investigated the effects of teachers' reference-norm orientations in mathematics classrooms. One may speculate whether the results therefore are confined to mathematics. We do not think that this is the case. To our knowledge this has to date never been tested empirically, so it seems plausible that the level of TO and SO may be effected by the subject taught by the teacher: In a subject like a foreign language, changes in students' competencies may be more salient to the teachers making it more easy to apply a TO, whereas in a subject like mathematics (chosen for the present study), the evaluation context may make it more difficult for a teacher to apply a TO. However, even though subjects may likely influence teachers' reference norm orientation, the present study illustrates that there exists a substantial amount of variation in teachers' reference norm orientation even if http://econtent.hogrefe.com/doi/pdf/10.1024/1010-0652/a000208 -Friday, September 15, 2017 2:41:55 AM -Universit\u00e4t Trier IP Address:136.199.84.94 the subject taught is held constant and that this variation corresponds with students' motivational development. There is no theoretical reason to assume that the effects of teachers' reference norm orientations on students may differ by school subjects. Future studies with a focus on determinants of reference norm orientations may want to empirically investigate potential effects of school subjects on teachers' TO and SO.\nThe present study investigated the effects of teachers' reference norm orientations on students' motivational development over a two year-period (from grade level 5 to grade level 6). Even though this long period of development represents an advantage of the present study, one may speculate whether the observed effects would continue to exist even over a longer period of time. At time 1 (beginning of 5th grade) all teachers were new to all students. Students may adapt to their new teachers' reference norm orientation over time, making it likely that the effects of teachers' reference norm orientation on students' motivational development may become smaller, the longer students are familiar with their teacher. This is due to the fact that individuals are sensitive to change, but may adapt to new situations over the long run (Bless & Burger, 2016). However, it is hard to estimate the period of time after which such an adaptation process might result in attenuated effects. In the present study, significant effects of teachers TO and SO could be observed even over a period of 2 years.\nIn order to have an indicator of students' prior achievement, we used grades from the final report card at level 4. This procedure has several advantages. Most importantly, grades are communicated to students directly. Therefore, the student can use grades to infer his or her own achievement position among peers. Because test scores are typically not subject to direct communication, we would not expect that the moderation between teachers' social reference norm orientation and students' prior achievement on students' self-concept would have been found if we had chosen test scores to operationalize student's prior achievement.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusions and Implications",
+      "text": "The main theoretical contribution of this paper on the concept of teachers' reference norm orientations is that it is important to conceptualize teachers' TO and SO as independent constructs since TO and SO are clearly separable and produce different effects that are differently moderated. Therefore, it seems more appropriate to speak of teachers' reference norm orientations instead of teachers' reference norm orientation (since the latter singular term would suggest that there is only one single orientation with two poles).\nConcerning the practical implications, the present study clearly underlines that teachers should be encouraged to rely on temporal comparisons when evaluating students' achievement in order to foster their motivation. In addition, given the negative effects of SO, teachers should refrain from social comparisons when evaluating students' achievement. This is also recommended in order to avoid students with initial low achievement showing a more pronounced downward trend in their motivational development in comparison to better performing students.\nEven though these recommendations on the use of reference norms fit other concepts of aspects of motivation classroom structures, the present investigation has the advantage of not focusing on whole sets of instructional behaviors of teachers, for example, as in the TAR-GET Model suggested by Ames (1992). In contrast, we cautiously investigated only one specific aspect of teachers, namely, teachers' reference norm orientation. This focus leads to the fact that the class-specific variations of students' self-concepts and their implicit theory cannot fully be explained. At the same time, the focus on teachers' preferences for temporal and social reference norms also leads to the practical recommendations regarding best teaching practices being very concise. Even though teachers' reference norm orientations have not been intensively studied throughout the international research community, the present investigation underlines that teachers' reference norm orientations are a fruitful concept, both from a theoretical and from a practical perspective.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Acknowledgments",
+      "text": "This research was funded by a grant from the German Federal Ministry of Education and Research to Oliver Dickh\u00e4user (01 HJ 0901) and Markus Dresel (01 HJ 0902). We would like to thank Katherina Drexler, Michaela Fasching, Ines Giermann, and Sebastian Nitsche for their support in carrying out this study.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Classroom goals, structures, and student motivation",
+      "journal": "Journal of Educational Psychology",
+      "year": "1992",
+      "authors": "C Ames"
+    },
+    {
+      "title": "Motivation and schooling in the middle grades",
+      "journal": "Review of Educational Research",
+      "year": "1994",
+      "authors": "E M Anderman; M L Maehr"
+    },
+    {
+      "title": "A closer look at social psychologists' silver bullet: Inevitable and evitable side effects of the experimental approach",
+      "journal": "Perspectives on Psychological Science",
+      "year": "2016",
+      "authors": "H Bless; A Burger"
+    },
+    { "title": "", "journal": "", "year": "2017-09-15", "authors": "" },
+    {
+      "title": "Mind-sets matter: A meta-analytic review of implicit theories and self-regulation",
+      "journal": "Psychological Bulletin",
+      "year": "2013",
+      "authors": "J L Burnette; E H O'boyle; E M Vanepps; J M Pollack; E J Finkel"
+    },
+    {
+      "title": "Goal theory, motivation, and school achievement: An integrative review",
+      "journal": "Annual Review of Psychology",
+      "year": "2001",
+      "authors": "M V Covington"
+    },
+    {
+      "title": "Antecedents and consequences of students' achievement goals: A mediation analysis",
+      "journal": "Learning and Individual Differences",
+      "year": "2013",
+      "authors": "F C Dinger; O Dickh\u00e4user; B Spinath; R Steinmayr"
+    },
+    {
+      "title": "Langfristige F\u00f6rderung von F\u00e4higkeitsselbstkonzept und impliziter F\u00e4higkeitstheorie durch computerbasiertes attributionales Feedback [Long-term enhancement of academic self-concept and implicit ability theory through computer-based attributional feedback",
+      "journal": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+      "year": "2006",
+      "authors": "M Dresel; A Ziegler"
+    },
+    {
+      "title": "Motivational processes affecting learning",
+      "journal": "American Psychologist",
+      "year": "1986",
+      "authors": "C S Dweck"
+    },
+    {
+      "title": "Development during adolescence: The impact of stage-environment fit on young adolescents' experiences in schools and in families",
+      "journal": "American Psy chologist",
+      "year": "1993",
+      "authors": "J S Eccles; C Midgley; A Wigfield; C M Buchanan; D Reuman; C Flanagan; D Mac Iver"
+    },
+    {
+      "title": "A 2 \u00d7 2 achievement goal framework",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2001",
+      "authors": "A J Elliot; H A Mcgregor"
+    },
+    {
+      "title": "A 3 \u00d7 2 achievement goal model",
+      "journal": "Journal of Educational Psychology",
+      "year": "2011",
+      "authors": "A J Elliot; K Murayama; R Pekrun"
+    },
+    {
+      "title": "Impact of teacher competencies on student emotions: A multi-method approach",
+      "journal": "Interna tional Journal of Educational Research",
+      "year": "2008",
+      "authors": "M Gl\u00e4ser-Zikuda; S Fu\u00df"
+    },
+    {
+      "title": "Immunizing the self: Self-concept stabilization through reality-adaptive self-definitions",
+      "journal": "Person ality and Social Psychology Bulletin",
+      "year": "2003",
+      "authors": "W Greve; D Wentura"
+    },
+    {
+      "title": "The causal ordering of academic achievement and self-concept of ability during elementary school: A longitudinal study",
+      "journal": "Journal of Educational Psy chology",
+      "year": "1995",
+      "authors": "A Helmke; M A G Van Aken"
+    },
+    {
+      "title": "Differential effects of teacher comments",
+      "journal": "Journal of Educational Psychology",
+      "year": "1987",
+      "authors": "G Krampen"
+    },
+    {
+      "title": "Die Ver\u00e4nderung von Einstellung, Mitarbeit und Lernleistung im Verlauf einer bezugsnormspezifischen Motivationsintervention",
+      "journal": "",
+      "year": "2005",
+      "authors": "S Krug; R Lecybyl"
+    },
+    {
+      "title": "Motivationsf\u00f6rderung im Schulalltag",
+      "journal": "Hogrefe",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Die Wirkung experimentell variierten Lehrerverhaltens auf Unterrichtswahnehmung, Lernbereitschaft und Leistung von Sch\u00fclern [The effect of experimentally induced teaching behavior on students' classroom-perceptions",
+      "journal": "",
+      "year": "2005",
+      "authors": "S Krug; R Lecybyl"
+    },
+    {
+      "title": "Motivationsf\u00f6rderung im Schulalltag",
+      "journal": "",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "Who is the expert? Construct and criteria validity of student and teacher ratings of instruction",
+      "journal": "Learning Environments Research",
+      "year": "2006",
+      "authors": "M Kunter; J Baumert"
+    },
+    {
+      "title": "Individuelle Bezugsnormorientierung und soziale Vergleiche im Mathematikunterricht [Individual reference norm and social comparisons in mathematics classes: The impact of different frames of reference on the domain-specific self",
+      "journal": "",
+      "year": "2002",
+      "authors": "O L\u00fcdtke; O K\u00f6ller"
+    },
+    {
+      "title": "Teacher frame of reference and the big-fish-little-pond effect. Contem porary Educational Psychology",
+      "journal": "",
+      "year": "2005",
+      "authors": "O L\u00fcdtke; O K\u00f6ller; H W Marsh; U Trautwein"
+    },
+    {
+      "title": "Simultane Analysen auf Sch\u00fcler-und Klassenebene: Eine Demonstration der konfirmatorischen Mehrebenen-Faktorenanalyse zur Analyse von Sch\u00fclerwahrnehmungen am Beispiel der Hausaufgabenvergabe [Simultaneous analyses at student and class level: A demonstration of multilevel confirmatory factor analysis of stu",
+      "journal": "",
+      "year": "2007",
+      "authors": "O L\u00fcdtke; U Trautwein; I Schnyder; A Niggli"
+    },
+    {
+      "title": "Verbal and math self-concepts: An internal / external frame of reference model",
+      "journal": "American Educational Research Journal",
+      "year": "1986",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "The Big-Fish Little-Pond effect on academic self-concept",
+      "journal": "Journal of Educational Psychology",
+      "year": "1987",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "A multidimensional, hierarchical model of self-concept: Theoretical and empirical justification",
+      "journal": "Educa tional Psychology Review",
+      "year": "1990",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "Classroom climate and contextual effects: Conceptual and methodological issues in the evaluation of group-level effects",
+      "journal": "Educational Psychologist",
+      "year": "2012",
+      "authors": "H W Marsh; O L\u00fcdtke; B Nagengast; U Trautwein; A J S Morin; A S Abduljabbar; O K\u00f6ller"
+    },
+    {
+      "title": "Patterns of multilevel variance in psycho-educational phenomena: Comparing motivation, engagement, climate, teaching, and achievement factors",
+      "journal": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+      "year": "2011",
+      "authors": "A J Martin; J Bobis; J Anderson; J Way; R Vellar"
+    },
+    {
+      "title": "Erziehungsziele von Lehrern und individuelle Bezugsnormen der Leistungsbewertung [Educational goals and teachers' preference of individual referencenorms in evaluating academic achievement",
+      "journal": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+      "year": "1995",
+      "authors": "C Mischo; F Rheinberg"
+    },
+    {
+      "title": "Dimensional comparisons: An experimental approach to the internal / external frame of reference model",
+      "journal": "Journal of Educational Psychology",
+      "year": "2001",
+      "authors": "J M\u00f6ller; O K\u00f6ller"
+    },
+    {
+      "title": "Berufliche Zielorientierungen von Lehrkr\u00e4ften: Entwicklungsbedingungen, Auswirkungen auf berufliche Kompetenzentwicklung, Effekte auf instruktionales Verhalten sowie Lernprozesse und Lernergebnisse von Sch\u00fclerinnen und Sch\u00fclern",
+      "journal": "Springer",
+      "year": "1998",
+      "authors": "C M Mueller; C S Dweck; S Nitsche; A.-K Praetorius; S Janke; K Drexler; M S Fasching; M Dresel; O Dickh\u00e4user"
+    },
+    {
+      "title": "Missing data in educational research",
+      "journal": "Review of Educational Research",
+      "year": "2004",
+      "authors": "J L Peugh; C K Enders"
+    },
+    {
+      "title": "Vorhersage von F\u00e4higkeitsselbstkonzepten: Zur Bedeutung von Einzel und Klassenleistung [Determinants of academic self-concepts: On the importance of individual and class achievement",
+      "journal": "",
+      "year": "2004",
+      "authors": "I Plenter"
+    },
+    {
+      "title": "HLM 6 for Windows (Computer software)",
+      "journal": "Scientific Software International",
+      "year": "2004",
+      "authors": "S W Raudenbush; A S Bryk; R Congdon"
+    },
+    {
+      "title": "Achievement goals for teaching and teachers' reference norms: Relations with instructional practices. Teaching and Teacher Education",
+      "journal": "",
+      "year": "2011",
+      "authors": "J Retelsdorf; C G\u00fcnther"
+    },
+    {
+      "title": "Leistungsbewertung und Lernmotivation [Performance evaluation and motivation for learning",
+      "journal": "Hogrefe",
+      "year": "1980",
+      "authors": "F Rheinberg"
+    },
+    {
+      "title": "Achievement evaluation: A fundamental difference and its motivational consequences",
+      "journal": "Studies in Educa tional Evaluation",
+      "year": "1983",
+      "authors": "F Rheinberg"
+    },
+    {
+      "title": "Teachers' reference norm orientation and student motivation for learning",
+      "journal": "",
+      "year": "2001-04",
+      "authors": "F Rheinberg"
+    },
+    { "title": "", "journal": "", "year": "2017-09-15", "authors": "" },
+    {
+      "title": "Motivationsf\u00f6rderung im Schulalltag [Fostering motivation at school",
+      "journal": "Hogrefe",
+      "year": "2005",
+      "authors": "F Rheinberg; S Krug"
+    },
+    {
+      "title": "Beeinflussung der Leistungsbewertung im Unterricht: Motivationale Auswirkungen eines Interventionsversuchs [The influence of teachers' evaluation behavior on motivation",
+      "journal": "",
+      "year": "1980",
+      "authors": "F Rheinberg; S Krug; E L\u00fcbbermann; K Landscheid"
+    },
+    {
+      "title": "Skalen zur Erfassung des schulischen Selbstkonzepts (SESSKO)",
+      "journal": "",
+      "year": "2012",
+      "authors": "C Sch\u00f6ne; O Dickh\u00e4user; B Spinath; J Stiensmeier-Pelster"
+    },
+    { "title": "", "journal": "", "year": "", "authors": ": G\u00f6ttingen;  Hogrefe" },
+    {
+      "title": "Zielorientierung und Bezugsnormorientierung: Zum Zusammenhang zweier Konzepte [Goal orientation and reference norm orientation: Two related constructs?",
+      "journal": "",
+      "year": "2004",
+      "authors": "C Sch\u00f6ne; O Dickh\u00e4user; B Spinath; J Stiensmeier-Pelster"
+    },
+    {
+      "title": "Implicit theories about personality and intelligence and their relationship to actual personality and intelligence",
+      "journal": "Personality and Individual Differences",
+      "year": "2003",
+      "authors": "B Spinath; F M Spinath; R Riemann; A Angleitner"
+    },
+    {
+      "title": "Applied longitudinal data analysis: Modeling change and event occurrence",
+      "journal": "Oxford University Press",
+      "year": "2003",
+      "authors": "J Singer; J Willett"
+    },
+    {
+      "title": "Multilevel analysis. An intro duction to basic and advanced multilevel modeling",
+      "journal": "Sage",
+      "year": "2012",
+      "authors": "T A B Snijders; R J Bosker"
+    },
+    {
+      "title": "Special issues in reforming middle level schools",
+      "journal": "Journal of Early Adolescence",
+      "year": "1995",
+      "authors": "T C Urdan; C Midgley; S Wood"
+    },
+    {
+      "title": "Expectancy-value theory of achievement motivation",
+      "journal": "Contemporary Educational Psycholo gy",
+      "year": "2000",
+      "authors": "A Wigfield; J S Eccles"
+    },
+    {
+      "title": "Research on a modified framework of implicit personality theories. Learning and individual Differ ences",
+      "journal": "",
+      "year": "2010",
+      "authors": "A Ziegler; H St\u00f6ger"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "http://econtent.hogrefe.com/doi/pdf/10.1024/1010-0652/a000208 -Friday, September 15, 2017 2:41:55 AM -Universit\u00e4t Trier IPAddress:136.199.84.94   ",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "http://econtent.hogrefe.com/doi/pdf/10.1024/1010-0652/a000208 -Friday, September 15, 2017 2:41:55 AM -Universit\u00e4t Trier IP Address:136.199.84.94 Zeitschrift f\u00fcr P\u00e4dagogische Psychologie(2017), 31 (3-4), 205-219 \u00a9 2017 Hogrefe",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_2",
+      "figure_caption": "Level 1 :1Outcome = \u03c0 0 + \u03c0 1 \u2022 Time + e Level 2: \u03c0 0 = \u03b2 00 + r 0 \u03c0 1 = \u03b2 10 + \u03b2 11 \u2022 TO individual + \u03b2 12 \u2022 SO individual + r 1 Level 3: \u03b2 00 = \u03b3 000 + u 00 \u03b2 10 = \u03b3 100 + \u03b3 101 \u2022 TO shared + \u03b3 102 \u2022 SO shared + u 10",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_3",
+      "figure_caption": "http://econtent.hogrefe.com/doi/pdf/10.1024/1010-0652/a000208 -Friday, September 15, 2017 2:41:55 AM -Universit\u00e4t Trier IP Address:136.199.84.94 Zeitschrift f\u00fcr P\u00e4dagogische Psychologie(2017), 31 (3-4), 205-219 \u00a9 2017 Hogrefe",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_4",
+      "figure_caption": "Figure 1 .1Figure 1. Predicted growth curves of students' self-concepts and implicit theories for weak (M -1 SD), average (M), and strong (M + 1 SD) temporal (TO) and social reference norm orientations (SO) of the teachers (classroom means of student perceptions).",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "",
+      "figure_id": "fig_5",
+      "figure_caption": "1Figure 2 .2Figure 2. Predicted growth curves of students' self-concepts for weak (M -1 SD), average (M), and strong (M + 1 SD) social reference norm orientation of the teachers (SO, classroom means of student perceptions), separately for students with poor (M -1 SD), average (M), and good (M + 1 SD) prior achievements.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Descriptive statistics",
+      "figure_data": "Range"
+    },
+    {
+      "figure_label": "",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "10 + \u03b2 11 \u2022 TO individual + \u03b2 12 \u2022 SO individual + \u03b2 13 \u2022 PriorAch + r 1 Level 3: \u03b2 00 = \u03b3 000 + u 00 \u03b2 10 = \u03b3 100 + \u03b3 101 \u2022 TO shared + \u03b3 102 \u2022 SO shared + u 10 \u03b2 13 = \u03b3 130 + \u03b3 131 \u2022 TO shared + \u03b3 132 \u2022 SO shared + u 13",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Zero-order correlation matrix    ",
+      "figure_data": "(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(1) Perceived TO of the teacher(2) Perceived SO of the teacher.15*Students' self-concept(3) Time 1.10*.05*(4) Time 2.17*.03.68*(5) Time 3.16*.05*.62*.71*(6) Time 4.23*.05*.54*.59*.66*(7) Time 5.19*.01.48*.54*.58*.69*Students' implicit theories(8) Time 1.05*.00.31*.23*.15*.12*.09*(9) Time 2.13*.02.24*.36*.25*.14*.13*.47*(10) Time 3.20*.00.22*.26*.32*.19*.16*.34*.48*(11) Time 4.37*-.03.18*.24*.22*.32*.21*.27*.32*.41*(12) Time 5.27*-.07*.16*.21*.20*.27*.37*.17*.26*.28*.40*(13) Students' prior achievement.11*.04.42*.40*.38*.41*.30*-.01.01.05*.05.05*Note. * p < .05."
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_4",
+      "figure_caption": "Results from growth curve modeling with three levels (measurement occasions, students, classrooms / teachers)",
+      "figure_data": "http://econtent.hogrefe.com/doi/pdf/10.1024/1010-0652/a000208 -Friday, September 15, 2017 2:41:55 AM -Universit\u00e4t Trier IP Address:136.199.84.94Intercept \u03b3 000 Prior achievement \u03b2 01 Time in school years \u03b3 100 TO (shared) \u03b3 101 SO (shared) \u03b3 102 TO (individual) \u03b2 11 SO (individual) \u03b2 12 Prior achievement \u03b3 130 TO (shared) \u03b3 131 SO (shared) \u03b3 132 Level 2 (students) Intercept Var(r 0 ) Time in school years Var(r 1 )Students' self-concept Unconditional growth model Slope as outcome model -0.037 (0.031) -0.037 (0.031) -0.037 (0.031) Moderation model Fixed effects Unconditional Students' implicit theories growth model Slope as outcome model Moderation model 0.042 (0.026) 0.042 (0.027) 0.041 (0.026) 0.406* (0.026) 0.018 (0.023) -0.366* (0.025) -0.367* (0.021) -0.367* (0.022) -0.430* (0.029) -0.429* (0.024) -0.428* (0.024) 0.101* (0.025) 0.099* (0.025) 0.117* (0.028) 0.127* (0.029) -0.047* (0.021) -0.037* (0.020) -0.052* (0.021) -0.058* (0.021) 0.110* (0.023) 0.103* (0.023) 0.286* (0.025) 0.285* (0.026) -0.007 (0.021) -0.014 (0.020) -0.093* (0.019) -0.094* (0.019) 0.099* (0.021) 0.025 (0.025) 0.010 (0.021) 0.011 (0.020) 0.041* (0.020) -0.017 (0.020) Random parameters 0.693* 0.693* 0.537* 0.421* 0.421* 0.421* 0.320* 0.314* 0.299* 0.385* 0.336* 0.330*Level 3 (classrooms / teachers)Intercept Var(u 00 )0.028*0.028*0.035*0.016*0.016*0.016*Time in school years Var(u 10 )0.019*0.008*0.011*0.025*0.010*0.008*Prior achievement Var(u 13 )0.0040.005"
+    }
+  ],
+  "doi": "10.1024/1010-0652/a000208"
+}

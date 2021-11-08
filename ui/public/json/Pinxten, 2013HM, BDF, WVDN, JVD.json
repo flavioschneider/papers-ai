@@ -1,0 +1,532 @@
+{
+  "title": "Enjoying mathematics or feeling competent in mathematics? Reciprocal effects on mathematics achievement and perceived math effort expenditure",
+  "abstract": "Background. The multidimensionality of the academic self-concept in terms of domain specificity has been well established in previous studies, whereas its multidimensionality in terms of motivational functions (the so-called affect-competence separation) needs further examination. Aim. This study aims at exploring differential effects of enjoyment and competence beliefs on two external validity criteria in the field of mathematics. Sample. Data analysed in this study were part of a large-scale longitudinal research project. Following a five-wave design, math enjoyment, math competence beliefs, math achievement, and perceived math effort expenditure measures were repeatedly collected from a cohort of 4,724 pupils in Grades 3-7. Method. Confirmatory factor analysis (CFA) was used to test the internal factor structure of the math self-concept. Additionally, a series of nested models was tested using structural equation modelling to examine longitudinal reciprocal interrelations between math competence beliefs and math enjoyment on the one hand and math achievement and perceived math effort expenditure on the other.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Results. Our results showed that CFA models with separate factors for math enjoyment and math competence beliefs fit the data substantially better than models without it. Furthermore, differential relationships between both constructs and the two educational outcomes were observed. Math competence beliefs had positive effects on math achievement and negative effects on perceived math effort expenditure. Math enjoyment had (mild) positive effects on subsequent perceived effort expenditure and math competence beliefs.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusion.",
+      "text": "This study provides further support for the affect-competence separation. Theoretical issues regarding adequate conceptualization and practical consequences for practitioners are discussed.\nIn educational research, academic self-concept has received considerable attention and it is widely accepted as both an important predictor for a wide range of academic outcomes (i.e., achievement and coursework selection) and a desirable outcome in itself (Craven & Marsh, 2008). In contrast with this, research linking emotions and achievement mostly narrows down to negative associations between anxiety and educational outcomes (Valiente, Swanson, & Eisenberg, 2012). Moreover, research on the role of positive emotions in academic achievement is scant. Until recently, empirical research on academic self-concept on the one hand and academic emotions on the other often has been considered as separate lines of research within the field of educational psychology (Goetz, Cronjaeger, Frenzel, L\u20ac udtke, & Hall, 2010).\nThe present study aims at bringing both lines together by empirically investigating the nature of the interrelations between math enjoyment and math competence beliefs on the one hand and math achievement and perceived math effort expenditure on the other. On the basis of a longitudinal research design with multiple measures throughout primary education, reciprocal linkages between these variables will be explored.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Academic self-concept: Separation between competence beliefs and affective responses",
+      "text": "From a historical perspective, academic self-concept research could be easily described as a rich and well-established research area wherein considerable attention is given to its internal multidimensional structure in terms of domain specificity (e.g., Brunner et al., 2010;Shavelson, Hubner, & Stanton, 1976;Skaalvik & Rankin, 1990). Academic self-concept is generally conceptualized as students' beliefs of their own domain-specific and/or global academic capabilities. In evaluating one's academic capacities, inevitably, both rational/cognitive and emotional/affective reactions come into play. Bong and Skaalvik (2003) distinguish at the conceptual level between two different views regarding the role of these affective reactions: affective responses as (1) part of the academic self-concept; or (2) as distinct constructs (i.e., expectancy-value theory perspective [EVT]). Academic self-concept researchers endorsing the former point of view generally consider affective responses and competence beliefs as distinguishable but highly related components of academic self-concept (Bong & Clark, 1999). More specifically, these affective emotions are labelled as an important aspect of the academic self-concept that even needs to be integrated in its construct definition (Bong & Skaalvik, 2003). Illustratively, in the different versions of the widely used Self Description Questionnaire (SDQ I, Marsh, 1992;SDQ II, Marsh, 1999), items such as 'I look forward to (a subject)' are added to the academic self-concept assessment. By contrast, from an EVT perspective (e.g., Eccles, 2005), clear conceptual distinctions are being made between competence perceptions (i.e., academic self-concept) and affective responses (i.e., intrinsic valueenjoyment; Wigfield & Eccles, 2000, p. 72). However, we would like to emphasize that there is no clear-cut distinction between both perspectives because even among academic self-concept researchers, there are ambivalent positions as to whether affective measures should be included. In conclusion, there is no consensus in the field that affective responses are conceptually part of the academic self-concept. Hence, there is a clear need for empirical studies attempting to shed light on the conceptual role of affective emotions.\nTo resolve this issue, several researchers empirically examined this, so-called, affect-competence distinction of academic self-concept (e.g., Arens, Yeung, Craven, & Hasselhorn, 2011;Marsh & Ayotte, 2003). All studies that explicitly investigated the affect-competence separation of academic self-concept used the SDQ I or SDQ II to assess academic self-concept. With the exception of three items assessing students' interest in the mathematical, verbal, and general school domain in the SDQ I, all affective items in the SDQ I and SDQ II refer to the positive emotion enjoyment. Because the measurement of affect in these instruments primarily narrows down to enjoyment, we will therefore specify affect as enjoyment throughout the remainder of this study. Marsh, Craven, and Debus (1999) argue in favour of both an internal and an external network approach when investigating the separation between competence beliefs (i.e., perceiving oneself as competent in a particular domain) and enjoyment (i.e., liking schoolwork in a particular domain). Whereas the first approach refers to the internal factor structure of academic self-concept, the latter concerns the investigation of differential relations with external validity criteria (educational outcomes). Based on the EVT premises, Arens et al. (2011) argue that both components yield different motivational characteristics. It is believed that competence beliefs primarily influence immediate outcomes such as actual performance on a test, whereas enjoyment is more strongly related to long-term educational choice outcomes such as subject enrolment and future aspirations.",
+      "n_publication_ref": 15,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Within-network approach",
+      "text": "Several studies examined the internal factor structure of academic self-concept in various domains (e.g., Arens et al., 2011;Marsh & Ayotte, 2003;Yeung, 2011). To test the enjoyment-competence separation, the model fit of confirmatory factor analysis (CFA) models wherein both components were considered as common indicators of academic self-concept was compared with models wherein both components were modelled as separate latent constructs. Arens et al. (2011) investigated this two-dimensional structure of academic self-concept in terms of motivational functions within three specific domains (math, language, and general school), and the authors found significant improvements in model fit when competence beliefs and enjoyment items were loaded on separate factors. Both factors were highly correlated within each domain: general school r = .73, math r = .81, and language r = .78 (similar correlations were reported by Marsh & Ayotte, 2003). By contrast, Goetz et al. (2010) found stronger correlations in quantitative domains (physics and math) than those in verbal domains. According to the authors, these larger correlations could be ascribed to the fact that the 'quantitative domains are more narrowly defined and have a more restricted range of class-room activities than do language domains' (p. 52). From a cross-cultural comparison perspective, domain-specific correlations among competence beliefs and enjoyment showed to be systematically higher in Arab countries than those in Anglo-Saxon countries (Marsh et al., 2012). Finally, Marsh et al. (1999) indicated that the enjoyment-competence separation is less pronounced for younger pupils in Grades 2 and 3.",
+      "n_publication_ref": 8,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Between-network approach",
+      "text": "A necessary condition for separating competence beliefs and enjoyment is their differential relation with external outcome criteria. To date, only three external validity criteria have been explicitly investigated within the framework of the enjoymentcompetence distinction of academic self-concept: academic achievement, effort expenditure, and educational aspirations (i.e., wanting to take more coursework in a particular domain).\nSeveral studies showed that within-domain correlations between competence beliefs and achievement were substantially larger than the correlations between enjoyment and achievement (Arens et al., 2011;Goetz, Frenzel, Hall, & Pekrun, 2008;Marsh et al., 2012;Shen & Tam, 2008). For example, for competence beliefs, correlations of .61 and .63 with achievement in the math and verbal domain, respectively, were observed, whereas for enjoyment, correlations of .37 and .33 with achievement in the math and verbal domain, respectively, were found (Arens et al., 2011). Thus, perceiving oneself as competent in a particular domain is more strongly related to actual performance than enjoying schoolwork in that particular domain. In contrast, Marsh et al. (2012) found that correlations between enjoyment and educational aspirations were substantially higher than the correlations between perceived competence and educational aspirations. For example, in the math domain, the authors observed correlations ranging from .27 to .49 for math competence beliefs, whereas for math enjoyment, correlations ranging from .49 to .70 were found. Apparently, liking math is more strongly related to taking more math courses than perceived competence in math. Nagengast et al. (2011) reached a similar conclusion regarding career aspirations in science. Finally, Yeung (2011) found that enjoyment was somewhat more correlated with school effort expenditure than competence beliefs. However, only relations between both variables in the general school domain were examined.\nIt should be noted that previously reported relations between enjoyment, competence beliefs, and external outcomes are merely cross-sectional/correlational in nature. Although informative, it is hard to pronounce upon 'cause' and 'effect' without a longitudinal measurement design (preferably with adequate control for prior measures). Therefore, in the next paragraph, we will focus on previous research that explicitly focused on the longitudinal interrelations between the variables at stake.",
+      "n_publication_ref": 8,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Longitudinal/reciprocal linkages between competence beliefs, enjoyment, and educational outcomes",
+      "text": "The reciprocal relation between competence beliefs in the academic domain and academic achievement has been well established (Marsh & Martin, 2011). A wide range of studies found evidence for the central premises of the reciprocal effects model (REM) implying that prior competence beliefs have a positive effect on later achievement and that prior achievement increases subsequent competence beliefs (e.g., Guay, Marsh, & Boivin, 2003;Marsh, Hau, & Kong, 2002;Marsh & O'Mara, 2008;Marsh, Trautwein, L\u20ac udtke, K\u20ac oller, & Baumert, 2005;M\u20ac oller, Retelsdorf, K\u20ac oller, & Marsh, 2011;Pinxten, De Fraine, Van Damme, & D'Haenens, 2010). Results from several meta-analyses showed no gender differences in this reciprocal relation (Huang, 2011;Valentine, Dubois, & Cooper, 2004). As advised by Skaalvik and Valas (1999), the large majority of these studies primarily included cognitive competence measures and, consequently, did not differentiate between competence beliefs and more affective items.\nUntil recently, the role of positive emotions, such as academic enjoyment, in learning and achievement has long been neglected in educational research (Pekrun, Goetz, Titz, & Perry, 2002;Valiente et al., 2012). However, stimulated by the advent of the positive psychology movement (e.g., Seligman & Csikszentmihalyi, 2000), more longitudinal research exploring this relationship emerged. For example, Goetz et al. (2008) found evidence for the mediational role of competence beliefs in the relation between prior achievement and subsequent enjoyment. Achievement had a positive within-domain effect on students' competence beliefs, which, in turn, was positively related to enjoyment in the same domain, and this relation was shown to be similar for boys and girls (Frenzel, Pekrun, & Goetz, 2007a). Interestingly, direct effects of math achievement on math enjoyment turned out negative when math competence beliefs were included into their models. Positively activating emotions are assumed to influence achievement positively through increased motivation and enhanced flexible learning strategies (Pekrun et al., 2002). As such, the authors presume a reciprocal feedback loop wherein '\u2026 emotions affect students' achievement, but feedback of achievement and related experiences of success and failure can in turn influence students' emotions\u2026' (p. 102). However, to date, research examining long-term reciprocal interrelations between positively activating emotions and competence beliefs on the one hand and academic achievement on the other is largely lacking.\nIn the motivational research literature, academic effort expenditure has been frequently investigated in relation to students' goal orientations and causal attributions of success and failure (e.g., Covington, 2000;Dweck, 2006;Robins & Pals, 2002). For example, a mastery goal orientation (i.e., an engagement primarily aimed at improving levels of competence and understanding) has been linked with maintained effort expenditure. Although one could argue that an emphasis on academic effort is advantageous in improving performance given its internal/controllable nature (Yeung, 2011), empirical research focusing on antecedents and consequences of academic effort expenditure as an educational outcome on its own is rather scarce.\nRegarding academic enjoyment, apparently no study investigated the predictive power of enjoying a particular subject on the exerted effort in that subject. Pekrun et al. (2002) reported a strong positive relation between academic enjoyment and effort exerted in schoolwork on the basis of cross-sectional data. However, failing to control for other variables in the equation results in a high degree of distortion. In contrast, several studies reported positive effects of perceived math competence on later effort exerted in math (Chouinard, Karsenti, & Roy, 2007;Greene, DeBacker, Ravindran, & Krows, 1999;Trautwein, L\u20ac udtke, Roberts, Schnyder, & Niggli, 2009). In general, students who perceive themselves as competent about their own academic capacities and who are confident about achieving learning objectives are generally willing to invest more effort in their academic work (Levpu s cek, Zupan ci c, & So can, 2012). Interestingly, Trautwein et al. (2009) found evidence for the mediational role of effort expenditure in the relation between prior competence beliefs and later achievement even after controlling for prior achievement.\nIt should be noted that all studies reported above focused on perceived rather than actual effort expenditure. Additionally, all these studies considered samples of secondary school students. This implies that students had already made some choices regarding the composition of their curriculum (e.g., with less or more math/science subjects). The deliberate decision to choose a particular study programme (i.e., curriculum) in secondary education logically explains the positive association found above. However, one might argue that in primary education (with a compulsory curriculum for all pupils), higher competence beliefs are linked with decreased academic effort exerted because these pupils already feel competent/confident for doing well in that particular subject.",
+      "n_publication_ref": 25,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Objectives",
+      "text": "In this study, we will examine the longitudinal relation between math enjoyment and math competence beliefs on the one hand and two educational outcomes, math achievement and perceived math effort expenditure, on the other. As such, this study extends previous research in three substantial ways. First, we go beyond a mere cross-sectional approach to examine the causal ordering of between-network relationships. Effects of math enjoyment and math competence beliefs on the outcome variables will be explored using longitudinal data. Second, instead of a single external criterion, both math achievement and perceived math effort expenditure will serve as outcome variables when examining differential effects of math enjoyment and math competence beliefs. Third, as stated above, to date, antecedents of perceived effort expenditure have been mostly explored in secondary school. This study aims at filling this gap by investigating effects of math enjoyment and math competence beliefs on perceived math effort expenditure on a large sample of primary school pupils.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Method",
+      "text": "Sample Data used in this study were part of the longitudinal SiBO project (Dutch acronym for Longitudinal Research in Primary Education; Maes, Ghesqui ere, Onghena, & Van Damme, 2002) in Flanders, the northern region of Belgium. One of its main goals was to gain insight into the educational trajectories of an original sample of approximately 6,000 pupils throughout the course of primary education. Achievement data were collected at the end of each grade (Grades 1-7), whereas questionnaires assessing academic self-concept and perceived effort expenditure were only administered from Grade 4 onward (Grades 4-7). Given the longitudinal research interest in this study, both pupils from the original sample and pupils who enrolled at a later time point were selected on condition that they had at least two measures available on each of the three core variables (math self-concept, perceived math effort expenditure, and math achievement), resulting in a final sample of 4,724 pupils. Of these 4,724 pupils, 3,638 pupils (77%) were part of the original SiBO sample and 1,086 pupils (23%) enrolled at a later point in time in the project. Thus, we focused on a subsample of 4,724 pupils when they were in Grades 3-7 (49.5% boys and 50.5% girls). Because the academic self-concept data of pupils who repeated a grade were only collected in the last grade of primary education, these pupils were not considered here. Over time, pupils' ages ranged between 9 and 13 years.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    { "heading": "Measures", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Math self-concept",
+      "text": "The SDQ I (Marsh, 1992) is generally considered as one of the best empirically evaluated instruments for measuring pre-adolescents' self-concept (Byrne, 1996). Therefore, six positively worded items were derived from the SDQ I to assess pupils' math self-concept at the end of Grades 4-7. From these six items, three items referred to pupils' competence beliefs in math (i.e., I learn things quickly in mathematics; I get good marks in mathematics; I'm good at mathematics), whereas the other three items assessed math enjoyment (i.e., I like mathematics; I enjoy doing work in mathematics; I look forward to mathematics). Because of problems with negatively worded items for younger pupils, the item I hate mathematics was not included. Additionally, given that the main focus of this study is on math enjoyment, the remaining affective item I am interested in mathematics was not considered. All six items, rated on a 5-point Likert-type scale, were part of an extensive pupil perception questionnaire and the reliabilities of the math self-concept subscale were good in Grades 4-7 (Cronbach's alpha .87, .90, .90, and .88, respectively). The following percentages of missing data were observed at the different measurement occasions: 19.3% (Grade 4), 13.5% (Grade 5), 10.3% (Grade 6), and 20.9% (Grade 7).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Math achievement",
+      "text": "Pupils' math achievement was measured by means of a curriculum relevant, standardized multiple choice test covering five math domains: mental arithmetic, arithmetic, algebraic problems, geometry, and applied arithmetic. In this study, we considered the math achievement tests administered at the end of Grades 3-7 (Cronbach's alpha .94, .88, .90, .89, and .90, respectively). From Grade 5 on, an A-version and a B-version were administered to low-and high-performing pupils, respectively (this assignment was based on the subjective evaluation of the teacher). A calibration procedure using item response theory (IRT) techniques was administered in advance to bring both test versions to a common metric. With respect to math achievement, the following percentages of missing data were observed at the five measurement points: 20% (Grade 3), 14.4% (Grade 4), 11.3% (Grade 5), 7.0% (Grade 6), and 20.3% (Grade 7).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Perceived math effort expenditure",
+      "text": "Rather than a measure of pupils' actual effort put into math, we measured pupils' perceptions of the amount of effort put into math by means of two items (I put a lot of effort into mathematics and I work hard for mathematics). Data on pupils' perceived math effort expenditure were collected at the end of Grades 4-7 with the following percentages of missing data, respectively: 18.7%, 13.5%, 10%, and 20.9%. Pupils were asked to rate these items on a 5-point Likert-type scale. Reliabilities of the perceived effort subscale were satisfactory in all grades (Cronbach's alpha .64,.76,.83,and .85,respectively).\nAll reported tests and questionnaires were collectively administered in the classroom at the end of each school year (May-June) by means of a pencil and paper method. Questionnaires measuring pupils' competence beliefs, enjoyment, and perceived effort expenditure in math were administered in conjunction with the math achievement tests.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    { "heading": "Analysis", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Missing data",
+      "text": "Missing data are a recurrent problem in longitudinal research projects. We applied two methods to handle missing data: multiple imputation (MI) with 10 imputed data sets and full-information maximum likelihood (FIML). Both approaches are generally considered to outperform more traditional methods such as listwise deletion and pairwise deletion (Graham, 2009). Structural path coefficients, factor loadings, and their respective standard errors were very alike for both MI and FIML estimation. Henceforth, only the FIML estimates will be reported.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Within-network approach",
+      "text": "To investigate the dual internal structure (competence beliefs vs. enjoyment) of the math self-concept, a CFA approach was applied using the statistical software of Mplus, version 6.12 (Muth en & Muth en, 1998. Two models were tested successively. In Model 1, both math enjoyment and math competence beliefs items were included as indicators of the same latent construct, whereas in Model 2, math enjoyment and math competence beliefs were considered as two separate constructs. Because the same items were used in each grade, we included a covariance term between error terms of parallel worded items (i.e., correlated uniqueness).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Between-network approach",
+      "text": "To validate the differentiation between enjoyment and competence beliefs, both constructs were related to two external validity criteria: math achievement and perceived math effort expenditure. Using structural equation modelling (SEM), three models were tested successively for math achievement (Models 3-5) and perceived math effort expenditure (Models 6-8). In a first step, a classic REM wherein math enjoyment and math competence beliefs items were included as common indicators of math self-concept was tested to examine its effect on math achievement (Model 3) and perceived math effort expenditure (Model 6). In a second step, separate models were tested investigating the reciprocal relation between math enjoyment and both outcome variables (Models 4a and 7a) on the one hand and the reciprocal relation between math competence beliefs and both outcome variables (Models 4b and 7b) on the other. In the last step, both math enjoyment and math competence beliefs were included as distinct latent constructs in the same model when examining the longitudinal reciprocal relation with math achievement (Model 5) and perceived math effort expenditure (Model 8). Finally, reciprocal effects were investigated in a model with both external validity criteria and the enjoyment-competence separation included (Model 9). Of these final models, separate models were estimated for boys and girls to examine gender differences in the structural relations (see Appendices S1-S3).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Structural equation modelling",
+      "text": "Math achievement was measured with a single indicator (i.e., IRT score on standardized achievement test) and included as a manifest variable in all SEM models. Given the hierarchical structure of our data, we used the TYPE=COMPLEX command in Mplus in combination with the MLR estimator to take into account the clustering of pupils within schools. To evaluate model fit, we emphasized the following set of goodness-of-fit indices: root mean square error of approximation (RMSEA), Comparative Fit Index (CFI), and Tucker-Lewis Index (TLI). Although it is a very delicate issue to posit rules of thumb regarding fit indices' cut-off values, a RMSEA value smaller than .05 and CFI and TLI values >.95 typically reflect an excellent fit to the data (M\u20ac oller et al., 2011). Two more specifications were applied in our structural equation models. First, all reported models were analysed with correlated uniquenesses included, because ignoring this would very likely result in inflated stability coefficients (Marsh & Hau, 1996). Second, all reported models were tested with correlations among latent constructs measured at the same wave.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measurement invariance",
+      "text": "A crucial condition when testing longitudinal covariance relations is the measurement invariance of math self-concept and perceived math effort measures to ensure that the meaning of each latent construct is the same over time (M\u20ac oller et al., 2011). Of particular relevance in this study is weak factorial invariance whereby a more complex model without equality constraints over time (i.e., configural invariance) is compared with a more parsimonious model wherein factor loadings are constrained to be equal over time (i.e., weak factorial invariance). For purposes of model comparison between complex models and more parsimonious models, the following rough guidelines were employed in the present paper. A decrease in fit of the more parsimonious model of <.01 in CFI (Chen, 2007;Cheung & Rensvold, 2002) and an increase of <.015 in RMSEA (Chen, 2007;Chen, Curran, Bollen, Kirby, & Paxton, 2008) provided support for the more parsimonious model. Our configural model (without constraints) fits the data well: v\u00b2(350) = 1,176, CFI = .988, TLI = .983, and RMSEA = .022. Constraining all factor loadings of the same latent construct to be equal over time resulted in a non-substantial decline in model fit: v\u00b2(365) = 1,612, CFI = .982, TLI = .975, and RMSEA = .027. Thus, we can legitimately conclude that factor loadings were equal over time.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Preliminary analysis",
+      "text": "In general, boys reported higher levels of math enjoyment and math competence beliefs (Table 1). Thus, on average, boys perceived themselves as being more competent in math and they enjoyed math more than girls. However, it should be noted that gender differences in math enjoyment declined substantially over time. Regarding math achievement, in all grades, boys outperformed girls. Second, for both boys and girls, reported math enjoyment and math competence beliefs scores decreased throughout the second stage of primary education, and this decline was more pronounced for math enjoyment than for math competence beliefs.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Within-network test of internal structure",
+      "text": "The fit of the first model, wherein enjoyment items and competence beliefs items were considered as common indicators of math self-concept, was poor (Table 2). In contrast, the second model, with math enjoyment and math competence beliefs as separate latent constructs, showed a close fit to the data. In line with our expectations, models with correlated error terms included showed an improved fit over models without it (Model 2 vs. Model 1). An inspection of the factor loadings of the latter model showed that both constructs were well defined over all grades, although it should be noted that both components were highly correlated (.72, .69, .66., and .60 in Grades 4-7, respectively; see Table 3). However, no correlations close to 1 were observed, so we could legitimately conclude that the affect and competence beliefs component of math self-concept are separable constructs. Correlations between perceptions of math competence and math enjoyment became slightly smaller with increasing age.\nBetween-network relations: Math achievement Both math enjoyment and math competence beliefs were positively related to math achievement (Table 3). It should be noted that cross-sectional correlations between math competence beliefs and math achievement (.47-.60) were in general about twice as large as the correlations between math enjoyment and math achievement (.17-.29).    To test the longitudinal causal relation between the variables at stake, three models were tested successively (Models 3-6). In all presented models, high stability path coefficients were observed for math achievement (ranging between .61 and .83). These high stability paths indicate large proportions of explained variance and, as a consequence, leave little room for other variables to significantly contribute to the prediction of subsequent math achievement.\nModel 3 (see Figure 1) did not fit the data accurately (see Table 4). In contrast, both Model 4a (reciprocal relation between math enjoyment and math achievement) and Model 4b (reciprocal relation between math competence beliefs and math achievement) showed a good fit to the data. Although effect sizes were larger for math competence beliefs than for math enjoyment, both Models 4a and 4b provided support for the REM (see Figure 2). Enjoying math positively predicted later math achievement, and math achievement had a positive effect on subsequent math enjoyment (except for the last waves). For math competence beliefs, a full REM was supported: In all waves, prior math competence beliefs had a positive effect on subsequent math achievement and vice versa. Note. RMSEA = root mean square error of approximation; CFI = Comparative Fit Index; TLI = Tucker -Lewis Index. Model 5 presented a more balanced picture because longitudinal relations between math enjoyment and math competence beliefs were modelled simultaneously. An inspection of the pattern of the structural cross-paths revealed slightly different causal patterns for math enjoyment and math competence beliefs (see Figure 3). Regarding the latter, our results showed a persistent pattern of positive relations between math competence beliefs and math achievement. Additionally, prior math achievement positively predicted subsequent math enjoyment. However, when juxtaposing the results of Model 4a and Model 5, effects of prior math enjoyment on math achievement became slightly negative. Thus, when math competence beliefs were taken into account, the unique component of math enjoyment that cannot be explained in terms of competence beliefs had a small negative effect on achievement. Furthermore, prior math enjoyment positively predicted subsequent math competence beliefs, whereas prior math competence beliefs had no significant influence on subsequent math enjoyment. Separate models for boys and girls revealed only small differences, thus confirming similar structural relationships between math enjoyment, math competence beliefs, and achievement for male and female pupils (Appendix S1).\nBetween-network relations: Perceived math effort expenditure In general, math enjoyment was more strongly correlated with perceived effort (cross-sectional correlations between .21 and .46) than math competence beliefs (correlations between \u00c0.04 and .32; see Table 3). Similar to math achievement, these correlations decreased throughout primary education. Additionally, math achievement was negatively correlated with perceived math effort expenditure: Lower performing students reported spending more time and energy in studying math in comparison with their better achieving peers.\nIn Model 6, no significant effects of prior math self-concept on subsequent perceived effort put into math were observed (see Figure 4). When math enjoyment and math competence beliefs were tested separately, no effect was found of prior math enjoyment on perceived math effort expenditure (Model 7a). Enjoying math did not lead to increased self-reported levels of effort put into math (see Figure 5). A totally different pattern of the structural relations was observed for math competence beliefs (Model 7b). Our results showed support for a consistent pattern of negative relations between prior math competence beliefs and later perceived math effort expenditure implying that pupils who perceived themselves as more competent in math put less effort into math. This pattern was replicated in Model 8 (see Figure 6). By contrast, math enjoyment only had a limited positive effect on subsequent exerted effort in math (math enjoyment at the end of Grade 5 had a small positive effect (.08) on perceived math effort expenditure in Grade 6). Gender-specific models showed that the mild positive effect of prior math enjoyment on later perceived math effort expenditure was mainly pronounced for girls (Appendix S2). All other path coefficients of the structural paths were largely the same for boys and girls suggesting only small gender differences.  Between-network relations: Perceived math effort expenditure and math achievement combined The final Model 9 fits the data closely, and the same structural relations as in the previous models were observed. Additionally, both prior math competence beliefs (standardized path coefficients ranging between \u00c0.09 and \u00c0.12) and prior math achievement (standardized path coefficients ranging between \u00c0.06 and \u00c0.20) negatively predicted perceived math effort expenditure (Appendix S3). Pupils who perform worse in math or who perceive themselves as less competent in it reported putting more effort into math (probably to compensate for their underperformance). Similar to Model 8, prior math enjoyment only had a mild positive effect on subsequent perceived effort expenditure and this was mostly the case for girls.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 6
+    },
+    {
+      "heading": "Discussion",
+      "text": "This study aimed to investigate the two-dimensional separation between affect (enjoyment) and competence beliefs of math self-concept. From a within-network perspective, a  two-dimensional model more adequately reflected the internal factor structure of the math self-concept compared with unidimensional models wherein enjoyment and competence beliefs were included together: Models incorporating this distinction fit the data substantially better than models that did not. A between-network approach, examining differential relationships with educational outcome variables, revealed considerable differences between math enjoyment and math competence beliefs. Going beyond a mere correlational/cross-sectional examination, math competence beliefs had positive longitudinal effects on math achievement and negative effects on subsequent perceived math effort expenditure. The juxtaposition of models with math enjoyment and math competence beliefs combined in a single model, and separate models for both enjoyment and competence beliefs yielded some interesting results. For example, when considered in a separate model, prior math enjoyment had a small but positive effect on subsequent achievement. However, when math competence beliefs were simultaneously controlled for, this positive relation disappeared. This finding is consistent with the findings of Marsh et al. (2005) who observed that previous positive effects of math interest on achievement turned out non-significant when math competence beliefs were included in the model. Thus, given that math competence beliefs and enjoyment are so highly correlated, we conclude that the unique component of math enjoyment that cannot be explained in terms of competence beliefs has a small negative effect on math achievement.\nWe would like to refer back to the conceptual question raised in the introduction of this study: Should enjoyment and competence beliefs still be considered as separate subcomponents under the banner of academic self-concept or should we bring the academic self-concept notion back to its core essence, that is, perceived competence in the academic domain? In line with Arens et al. (2011) and other motivational researchers who suggest that perceived competence and affective reactions (such as enjoyment) may be treated as separate constructs (e.g., Deci & Ryan, 2000), we would like to argue in favour of the latter. Given the strong empirical support for the affect-competence separation of both the present study and previous studies, we recommend that future researchers explicitly differentiate between both constructs and avoid ambivalent positions regarding this distinction. More specifically, rather than talking of affective subcomponents/dimensions of the academic self-concept construct, affective/emotional constructs (such as anxiety and enjoyment) should be treated and conceptualized as full constructs at the same level as the academic self-concept construct.\nIn our opinion, this position does not ignore the high correlation between both constructs nor does it set aside the involvement of emotional/affective responses in the self-evaluation of one's domain-specific competence. In line with Marsh and Ayotte (2003), an interesting question then remains why academic self-concept and enjoyment are so synchronous and whether one of both constructs is causally predominant over the other. The results of the present study enable us to pronounce upon the causal ordering of both constructs. A consistent pattern of positive relations of prior enjoyment to subsequent academic self-concept was observed, whereas no effect of prior academic self-concept on later enjoyment was found. Apparently, positive emotions (such as enjoyment) mediate processes that lead to perceptions of greater competency. In this respect, researchers should explore whether actual effort expenditure, rather than perceived effort expenditure, serves as a mediator between enjoyment/competence beliefs and achievement as it seems reasonable that it relates to achievement via decreased or increased actual effort put into math. Unfortunately, because of the lack of a time lag between predictors (enjoyment/competence beliefs), mediator (effort), and outcome (achievement), we were unable to address this topic within the framework of the present study.\nAlthough beyond the scope of the present study, another important direction for future research is a thorough investigation of the nature of the interaction between enjoyment and academic self-concept in relation to important educational outcomes. Nagengast et al. (2011;also see Trautwein et al., 2012) empirically investigated the latent interaction between academic self-concept (reflecting expectancy) and enjoyment (reflecting value) in an EVT framework. For both the pursuit of extracurricular science-related activities and science career aspirations, the authors found evidence for a significant statistical interaction in a way that the effects of science self-concept on both outcomes became more positive when science enjoyment was high and vice versa. In this respect, an external validity criterion that has not been investigated previously is coursework selection (Arens et al., 2011). For example, do two students who feel equally competent about their mathematical ability make different educational choices based on different levels of math enjoyment? Within this framework, an exploration of interrelations with students' perception of the utility of math (e.g., Watt et al., 2012) would be a valuable contribution to the existing research literature.",
+      "n_publication_ref": 8,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Implications for practice",
+      "text": "The results of this study yield important practical implications for primary school teachers. It is important for teachers to acknowledge pupils' declining levels of both math self-concept and math enjoyment throughout the second stage of primary education. The strong positive effects of math self-concept on achievement suggest that enhancing pupils' academic self-concept can have beneficial consequences on their achievement. For example, O'Mara, Marsh, Craven, and Debus (2006) showed that interventions aimed at enhancing academic self-concept are generally effective and that direct (activities designed to improve students' academic self-concept directly) and domain-specific interventions are more effective than indirect (skill building) and general interventions, respectively. Following the premises of the REM, Marsh et al. (2005) already emphasized that teachers should target and enhance academic self-concept and achievement simultaneously to establish sustained learning gains.\nThe question then remains whether it would be beneficial to make math classes more attractive/enjoyable (and thus increasing pupils' enjoyment levels) in order to improve pupils' math performance, academic self-concept, or effort expenditure. Our results show that compared with the rather large positive effects sizes of math self-concept on achievement, there is less gain in improving pupils' achievement directly through increased levels of math enjoyment. However, prior math enjoyment is positively associated with pupils' later math self-concept (which in turn is positively related to subsequent math achievement) and, although to a lesser extent, perceived math effort expenditure. As such, making math more attractive to increase levels of enjoyment can be considered as one of the more indirect strategies to enhance math achievement. For example, a higher judgement of the quality of math instruction by students was linked with increased levels of math enjoyment (Frenzel, Pekrun, & Goetz, 2007b; also see Vandecandelaere, Speybroeck, Vanlaar, De Fraine, & Van Damme, 2012). Altogether, practitioners in the field should be aware of the substantial correlation between math enjoyment and math self-concept.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Extending previous research, this study empirically established differential causal relationships between math enjoyment and math self-concept on the one hand and two educational outcomes, math achievement and perceived math effort expenditure, on the other. Separating the competence beliefs from the affect component yields important implications for both future self-concept researchers and practitioners.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Supporting Information",
+      "text": "The following supporting information may be found in the online edition of the article: Appendix S1. Standardized path coefficients and their respective standard errors of the structural paths of Model 5 (Math Achievement) for total sample, boys and girls. Appendix S2. Standardized path coefficients and their respective standard errors of the structural paths of Model 8 (Perceived Math Effort Expenditure) for total sample, boys and girls after controlling for prior math achievement (not reported). Appendix S3. Standardized path coefficients and their respective standard errors of the structural paths of Model 9 (Perceived Math Effort Expenditure and Math Achievement combined) for total sample, boys and girls.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "The two-fold multidimensionality of academic self-concept: Domain specificity and separation between competence and affect components",
+      "journal": "Journal of Educational Psychology",
+      "year": "2011",
+      "authors": "A K Arens; A S Yeung; R G Craven; M Hasselhorn"
+    },
+    {
+      "title": "Comparison between self-concept and self-efficacy in academic motivation research",
+      "journal": "Educational Psychologist",
+      "year": "1999",
+      "authors": "M Bong; R E Clark"
+    },
+    {
+      "title": "Academic self-concept and self-efficacy: How different are they really?",
+      "journal": "Educational Psychology Review",
+      "year": "2003",
+      "authors": "M Bong; E M Skaalvik"
+    },
+    {
+      "title": "The structure of academic self-concepts revisited: The nested Marsh/Shavelson Model",
+      "journal": "Journal of Educational Psychology",
+      "year": "2010",
+      "authors": "M Brunner; U Keller; C Dierendonck; M Reichert; S Ugen; A Fischbach; R Martin"
+    },
+    {
+      "title": "Measuring self-concept across the life span: Issues and instrumentation",
+      "journal": "American Psychological Association",
+      "year": "1996",
+      "authors": "B M Byrne"
+    },
+    {
+      "title": "Sensitivity of goodness of fit indexes to lack of measurement invariance",
+      "journal": "Structural Equation Modeling",
+      "year": "2007",
+      "authors": "F F Chen"
+    },
+    {
+      "title": "An empirical evaluation of the use of fixed cutoff points in RMSEA test statistic in structural equation models",
+      "journal": "Sociological Methods and Research",
+      "year": "2008",
+      "authors": "F F Chen; P J Curran; K A Bollen; J Kirby; P Paxton"
+    },
+    {
+      "title": "Evaluating goodness-of-fit indexes for testing measurement invariance",
+      "journal": "Structural Equation Modeling",
+      "year": "2002",
+      "authors": "G W Cheung; R B Rensvold"
+    },
+    {
+      "title": "Relations among competence beliefs, utility value, achievement goals, and effort in mathematics",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2007",
+      "authors": "R Chouinard; T Karsenti; N Roy"
+    },
+    {
+      "title": "Goal theory, motivation, and school achievement",
+      "journal": "Annual Review of Psychology",
+      "year": "2000",
+      "authors": "M V Covington"
+    },
+    {
+      "title": "The centrality of self-concept construct for psychological well-being and unlocking human potential: Implications for child and educational psychologists",
+      "journal": "Educational and Child Psychology",
+      "year": "2008",
+      "authors": "R G Craven; H W Marsh"
+    },
+    {
+      "title": "The \"what\" and \"why\" of goal pursuits: Human needs and the self-determination of behavior",
+      "journal": "Psychological Inquiry",
+      "year": "2000",
+      "authors": "E L Deci; R M Ryan"
+    },
+    {
+      "title": "Mindset. The new psychology of success",
+      "journal": "Random House",
+      "year": "2006",
+      "authors": "C S Dweck"
+    },
+    {
+      "title": "Subjective task values and the Eccles et al. model of achievement related choices",
+      "journal": "Guilford Press",
+      "year": "2005",
+      "authors": "J S Eccles"
+    },
+    {
+      "title": "Girls and mathematics -A \"hopeless\" issue? A control-value approach to gender differences in emotions towards mathematics",
+      "journal": "European Journal of Psychology of Education",
+      "year": "2007",
+      "authors": "A C Frenzel; R Pekrun; T Goetz"
+    },
+    {
+      "title": "Perceived learning environment and students' emotional experiences: A multilevel analysis of mathematics classrooms. Learning and Instruction",
+      "journal": "",
+      "year": "2007",
+      "authors": "A C Frenzel; R Pekrun; T Goetz"
+    },
+    {
+      "title": "Academic self-concept and emotion relations: Domain specificity and age effects",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2010",
+      "authors": "T Goetz; H Cronjaeger; A C Frenzel; O L\u20ac Udtke; N C Hall"
+    },
+    {
+      "title": "Antecedents of academic emotions: Testing the internal/external frame of reference model for academic enjoyment",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2008",
+      "authors": "T Goetz; A C Frenzel; N C Hall; R Pekrun"
+    },
+    {
+      "title": "Missing data analysis. Making it work in the real world",
+      "journal": "Annual Review of Psychology",
+      "year": "2009",
+      "authors": "J W Graham"
+    },
+    {
+      "title": "Goals, values, and beliefs as predictors of achievement and effort in high school mathematics classes",
+      "journal": "Sex Roles",
+      "year": "1999",
+      "authors": "B A Greene; T K Debacker; B Ravindran; A J Krows"
+    },
+    {
+      "title": "Academic self-concept and academic achievement: Developmental perspectives on their causal ordering",
+      "journal": "Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "F Guay; H W Marsh; M Boivin"
+    },
+    {
+      "title": "Self-concept and academic achievement: A meta-analysis of longitudinal relations",
+      "journal": "Journal of School Psychology",
+      "year": "2011",
+      "authors": "C Huang"
+    },
+    {
+      "title": "Predicting achievement in mathematics in Adolescent students: The role of individual and social factors",
+      "journal": "Journal of Early Adolescence. Advance online publication",
+      "year": "2012",
+      "authors": "M P Levpu S Cek; M Zupan Ci C; G So Can"
+    },
+    {
+      "title": "Longitudinaal onderzoek in het basisonderwijs: Van doelstellingen tot onderzoeksopzet",
+      "journal": "",
+      "year": "2002",
+      "authors": "F Maes; P Ghesqui Ere; P Onghena; J Van Damme"
+    },
+    {
+      "title": "Steunpunt Loopbanen doorheen Onderwijs naar Arbeidsmarkt",
+      "journal": "",
+      "year": "",
+      "authors": "Belgium Leuven"
+    },
+    {
+      "title": "Self Description Questionnaire I: SDQ I. A theoretical and empirical basis for the measurement of multiple dimensions of preadolescent self-concept. An interim test manual and research monograph",
+      "journal": "",
+      "year": "1992",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "Self Description Questionnaire II: SDQ II",
+      "journal": "",
+      "year": "1999",
+      "authors": "H W Marsh"
+    },
+    {
+      "title": "Do multiple dimensions of self-concept become more differentiated with age? The differential distinctiveness hypothesis",
+      "journal": "Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "H W Marsh; V Ayotte"
+    },
+    {
+      "title": "Separation of competency and affect components of multiple dimensions of academic self-concept: A developmental perspective",
+      "journal": "Merrill-Palmer Quarterly",
+      "year": "1999",
+      "authors": "H W Marsh; R G Craven; R Debus"
+    },
+    {
+      "title": "Assessing goodness of fit: Is parsimony always desirable?",
+      "journal": "The Journal of Experimental Education",
+      "year": "1996",
+      "authors": "H W Marsh; K.-T Hau"
+    },
+    {
+      "title": "Multilevel causal ordering of academic self-concept and achievement: Influence of language of instruction",
+      "journal": "",
+      "year": "2002",
+      "authors": "H W Marsh; K.-T Hau; C K Kong"
+    },
+    {
+      "title": "",
+      "journal": "American Educational Research Journal",
+      "year": "",
+      "authors": "Hong Kong Students"
+    },
+    {
+      "title": "Academic self-concept and academic achievement: Relations and causal ordering",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2011",
+      "authors": "H W Marsh; A J Martin"
+    },
+    {
+      "title": "Reciprocal effects between academic self-concept, self-esteem, achievement, and attainment over seven adolescent years: Unidimensional and multidimensional perspectives of self-concept",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "2008",
+      "authors": "H W Marsh; A Mara"
+    },
+    {
+      "title": "Factor structure, discriminant and convergent validity of TIMSS math and science motivation measures: A comparison of Arab and Anglo-Saxon countries",
+      "journal": "Journal of Educational Psychology. Advance online publication",
+      "year": "2012",
+      "authors": "H W Marsh; K Saud; A S Abduljabbar; M M Abu-Hilal; A J S Morin; F Abdelfattah; P Parker"
+    },
+    {
+      "title": "The Reciprocal Internal/External Frame of Reference Model: An integration of models of relations between academic achievement and self-concept",
+      "journal": "American Educational Research Journal",
+      "year": "2005",
+      "authors": "H W Marsh; U Trautwein; O L\u20ac Udtke; O K\u20ac Oller; J Baumert; J Oller; J Retelsdorf; O K\u20ac Oller; H W Marsh"
+    },
+    {
+      "title": "Mplus user's guide",
+      "journal": "",
+      "year": "1998",
+      "authors": "L K Muth En; B O Muth En"
+    },
+    {
+      "title": "Who took the \"x\" out of the Expectancy-Value Theory? A psychological mystery, a substantive-methodological synergy, and a cross-national generalization",
+      "journal": "Psychological Science",
+      "year": "2011",
+      "authors": "B Nagengast; H W Marsh; L F Scalas; M K Xu; K.-T Hau; U Trautwein"
+    },
+    {
+      "title": "Do self-concept interventions make a difference? A synergistic blend of construct validation and meta-analysis",
+      "journal": "Educational Psychologist",
+      "year": "2006",
+      "authors": "A J O'mara; H W Marsh; R G Craven; R L Debus"
+    },
+    {
+      "title": "Academic emotions in students self-regulated learning and achievement: A program of qualitative and quantitative research",
+      "journal": "Educational Psychologist",
+      "year": "2002",
+      "authors": "R Pekrun; T Goetz; W Titz; R P Perry"
+    },
+    {
+      "title": "Causal ordering of academic self-concept and achievement: Effects of type of achievement measure",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2010",
+      "authors": "M Pinxten; B De Fraine; J Van Damme; E Haenens"
+    },
+    {
+      "title": "Implicit self-theories in the academic domain: Implications for goal orientation, attributions, affect, and self-esteem change",
+      "journal": "Self and Identity",
+      "year": "2002",
+      "authors": "R W Robins; J L Pals"
+    },
+    {
+      "title": "Positive psychology: An introduction",
+      "journal": "American Psychologist",
+      "year": "2000",
+      "authors": "M E P Seligman; M Csikszentmihalyi"
+    },
+    {
+      "title": "Self-concept: Validation of construct interpretations",
+      "journal": "Review of Educational Research",
+      "year": "1976",
+      "authors": "R J Shavelson; J J Hubner; G C Stanton"
+    },
+    {
+      "title": "The paradoxical relationship between student achievement and self-perception: A cross-national analysis based on three waves of TIMSS data",
+      "journal": "Educational Research and Evaluation",
+      "year": "2008",
+      "authors": "C Shen; H P Tam"
+    },
+    {
+      "title": "Math, verbal and general academic self-concept: The Internal/External Frame of Reference Model and gender differences in self-concept structure",
+      "journal": "Journal of Educational Psychology",
+      "year": "1990",
+      "authors": "E M Skaalvik; R J Rankin"
+    },
+    {
+      "title": "Relations among achievement, self-concept and motivation in mathematics and language arts. A longitudinal study",
+      "journal": "Journal of Experimental Education",
+      "year": "1999",
+      "authors": "E M Skaalvik; H Valas"
+    },
+    {
+      "title": "Different forces, same consequence: Conscientiousness and competence beliefs are independent predictors of academic effort and achievement",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2009",
+      "authors": "U Trautwein; O L\u20ac Udtke; B W Roberts; I Schnyder; A Niggli"
+    },
+    {
+      "title": "Probing for the multiplicative term in modern Expectancy-Value Theory: A latent interaction modeling study",
+      "journal": "Journal of Educational Psychology",
+      "year": "2012",
+      "authors": "U Trautwein; H W Marsh; B Nagengast; O L\u20ac Udtke; G Nagy; K Jonkmann"
+    },
+    {
+      "title": "The relation between self-beliefs and academic achievement: A meta-analytic review",
+      "journal": "Educational Psychologist",
+      "year": "2004",
+      "authors": "J C Valentine; D L Dubois; H Cooper"
+    },
+    {
+      "title": "Linking students' emotions and achievement: When and why emotions matter",
+      "journal": "Child Development Perspectives",
+      "year": "2012",
+      "authors": "C Valiente; J Swanson; N Eisenberg"
+    },
+    {
+      "title": "Learning environment and students' mathematics attitude. Studies in Educational Evaluation. Advance online publication",
+      "journal": "",
+      "year": "2012",
+      "authors": "M Vandecandelaere; S Speybroeck; G Vanlaar; B De Fraine; J Van Damme"
+    },
+    {
+      "title": "Gendered motivational processes affecting high school mathematics participation, educational aspirations, and career plans: A comparison of samples from Australia, Canada, and the United States",
+      "journal": "Developmental Psychology. Advance online publication",
+      "year": "2012",
+      "authors": "H M G Watt; Z A Morris; J D Shapka; A M Durik; D P Keating; J S Eccles"
+    },
+    {
+      "title": "Expectancy-Value Theory of achievement motivation",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2000",
+      "authors": "A Wigfield; J S Eccles"
+    },
+    {
+      "title": "Student self-concept and effort: Gender and grade differences",
+      "journal": "An International Journal of Experimental Educational Psychology",
+      "year": "2011",
+      "authors": "A S Yeung"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Table 1 .1Descriptive statistics and gender differences based on manifest scale",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "Tucker-Lewis Index; v\u00b2/df = ratio chi-square/degrees of freedom; MENJOY_1 = first item math enjoyment; MENJOY_2 = second item math enjoyment; MENJOY_3 = third item math enjoyment; MCOM_1 = first item math competence beliefs; MCOM_2 = second item math competence beliefs; MCOM_3 = third item math competence beliefs; Msc_G4 = math self-concept Grade 4; Msc_G5 = math self-concept Grade 5; Msc_G6 = math self-concept Grade 6; Msc_G7 = math self-concept Grade 7** \u00c0.28** \u00c0.28** \u00c0.25** \u00c0.24** .34** .54** -** \u00c0.22** \u00c0.22** \u00c0.22 \u00c0.16** .12** .28** .53** -Note. Cross-sectional correlations between math enjoyment and math competence beliefs on the one hand and math achievement and perceived effort expenditure on the other are marked in bold. *p < .05; **p < .01.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_2",
+      "figure_caption": "Figure 1 .1Figure1. Classic reciprocal effects model with math self-concept and math achievement (Model 3); Msc4 = math self-concept Grade 4; Msc5 = math self-concept Grade 5; Msc6 = math self-concept Grade 6; Msc7 = math self-concept Grade 7; Mach3 = math achievement Grade 3; Mach4 = math achievement Grade 4; Mach5 = math achievement Grade 5; Mach6 = math achievement Grade 6; Mach7 = math achievement Grade 7; intrawave latent correlations and correlated uniqueness included (not depicted). **p < .01.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "",
+      "figure_id": "fig_3",
+      "figure_caption": "Figure 2 .2Figure 2. Model 4a with math enjoyment and Model 4b with math competence beliefs; Menjoy4 = math enjoyment Grade 4; Menjoy5 = math enjoyment Grade 5; Menjoy6 = math enjoyment Grade 6; Menjoy7 = math enjoyment Grade 7; Mcom4 = math competence beliefs Grade 4; Mcom5 = math competence beliefs Grade 5; Mcom6 = math competence beliefs Grade 6; Mcom7 = math competence beliefs Grade 7; Mach3 = math achievement Grade 3; Mach4 = math achievement Grade 4; Mach5 = math achievement Grade 5; Mach6 = math achievement Grade 6; Mach7 = math achievement Grade 7; intrawave latent correlations and correlated uniqueness included (not depicted). *p < .05; **p < .01.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "345",
+      "figure_type": "",
+      "figure_id": "fig_4",
+      "figure_caption": "Figure 3 .Figure 4 .Figure 5 .345Figure 3. Standardized factor loadings and path coefficients of Model 5 with separate math enjoyment and math competence beliefs constructs; Menjoy4 = math enjoyment Grade 4; Menjoy5 = math enjoyment Grade 5; Menjoy6 = math enjoyment Grade 6; Menjoy7 = math enjoyment Grade 7; Mcom4 = math competence beliefs Grade 4; Mcom5 = math competence beliefs Grade 5; Mcom6 = math competence beliefs Grade 6; Mcom7 = math competence beliefs Grade 7; Mach3 = math achievement Grade 3; Mach4 = math achievement Grade 4; Mach5 = math achievement Grade 5; Mach6 = math achievement Grade 6; Mach7 = math achievement Grade 7; intrawave latent correlations and correlated uniquenesses included (not depicted). *p < .05; **p < .01.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "6",
+      "figure_type": "",
+      "figure_id": "fig_5",
+      "figure_caption": "Figure 6 .6Figure 6. Standardized factor loadings and path coefficients of Model 8 with separate math enjoyment and math competence beliefs constructs; parameter estimates after controlling for prior math achievement (not depicted). Menjoy4 = math enjoyment Grade 4; Menjoy5 = math enjoyment Grade 5; Menjoy6 = math enjoyment Grade 6; Menjoy7 = math enjoyment Grade 7; Mcom4 = math competence beliefs Grade 4; Mcom5 = math competence beliefs Grade 5; Mcom6 = math competence beliefs Grade 6; Mcom7 = math competence beliefs Grade 7; Meff4 = perceived math effort expenditure Grade 4; Meff5 = perceived math effort expenditure Grade 5; Meff6 = perceived math effort expenditure Grade 6; Meff7 = perceived math effort expenditure Grade 7; intrawave latent correlations and correlated uniquenesses included (not depicted); *p < .05; **p < .01.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Internal factor structure of math self-concept (N =",
+      "figure_data": "4,724)Model 1 (enjoyment and competence beliefs Model 2 (enjoyment and competence beliefsas one factor) as two separate factors)RMSEA CFI TLI v\u00b2/df RMSEA CFI TLI v\u00b2/dfGoodness-of-fit indicesUncorrelated uniqueness .115 .716 .682 63.58 .031 .981 .977 5.55Correlated uniqueness .103 .807 .747 50.83 .026 .989 .984 4.14Msc_G4 Msc_G5 Msc_G6 Msc_G7 Menjoy_G4 Mcom_G4 Menjoy_G5 Mcom_G5 Menjoy_G6 Mcom_G6 Menjoy_G7 Mcom_G7Factor loadings (models with correlated uniqueness)Indicators.910 .908 MENJOY_1 .866 .888 .892 .851 .881 .912.858 .804 MENJOY_2 .828 .798 .833 .775 .845 .805.816 .816 MENJOY_3 .740 .821 .796 .758 .757 .843.776 .773 .804 MCOM_1 .582 .631 .616 .666 .694.827 .873 .848 MCOM_2 .607 .627 .643 .639 .785.897 .937 .930 MCOM_3 .660 .689 .698 .700 .858Note. RMSEA = root mean square error of approximation; CFI = Comparative Fit Index; TLI ="
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Goodness-of-fit indices of the longitudinal models of the between-network relations",
+      "figure_data": "ModelRMSEACFITLIMath achievementModel 3.090.821.778Model 4a.051.969.952Model 4b.047.974.960Model 5.032.979.971Perceived math effort expenditureModel 6.073.831.798Model 7a.038.970.959Model 7b.042.963.950Model 8.032.970.962Math achievement and perceived math effort expenditureModel 9.027.979.972"
+    }
+  ],
+  "doi": "10.1111/bjep.12028"
+}

@@ -1,0 +1,672 @@
+{
+  "title": "Social Support Matters: Longitudinal Effects of Social Support on Three Dimensions of School Engagement From Middle to High School",
+  "abstract": "This study examined the relative influence of adolescents' supportive relationships with teachers, peers, and parents on trajectories of different dimensions of school engagement from middle to high school and how these associations differed by gender and race or ethnicity. The sample consisted of 1,479 students (52% females, 56% African American). The average growth trajectories of school compliance, participation in extracurricular activities, school identification, and subjective valuing of learning decreased from 7th to 11th grades (mean ages = 12.9 years to 17.2 years). Different sources of social support were not equally important in their impact on school engagement, and the effect of these sources differed by the aspect of engagement studied. For instance, peer social support predicted adolescents' school compliance more strongly and school identification less strongly than teacher social support. This project was supported by a Pathway to Adulthood Fellowship to Ming-Te Wang and a grant from Spencer Foundation to both Ming-Te Wang and Jacquelynne S. Eccles.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Active school engagement is vital to a student's educational success and development as a competent member of society (Van Acker & Wheby, 2000). Although considerable research has focused on school engagement (Appleton, Christenson, Kim, & Reschly, 2006), few longitudinal studies have investigated the influence of contextual factors on school engagement developmental trajectories. Research suggests that social support from teachers, peers, and parents can promote positive academic outcomes and prevent negative psychological outcomes during adolescence (Garnefski & Diekstra, 1996;Malecki & Demaray, 2007;Wang, Selman, Dishion, & Stormshak, 2010). Can these three sources of social support also facilitate school engagement? In this study, we examine the trajectories of four indicators of school engagement (school compliance, participation in extracurricular activities, school identification, and subjective valuing of learning at school) from 7th through 11th grades and investigate whether social support from teachers, peers, and parents contributes to changes in school engagement over time.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Multidimensional Construct of School Engagement",
+      "text": "School engagement is a multidimensional construct that includes behavioral, emotional, and cog-nitive components (Fredricks, Blumenfeld, & Paris, 2004). Behavioral engagement includes (a) positive conduct, compliance with school rules, and absence of disruptive behaviors (Connell, 1990) and (b) participation in school-related activities (Finn, 1993). Emotional engagement includes (a) positive affective reactions in the classroom such as enjoyment and interest (Skinner & Belmont, 1993) and (b) personal identification and belonging (Voelkl, 1997). Cognitive engagement includes (a) motivation to learn, intrinsic motivation, and task valuing in school (Ames, 1992) and (b) self-regulated learning strategies such as planning, monitoring, and evaluating one's own progress (Zimmerman, 1990). Until quite recently, most empirical studies have measured school engagement as either a unidimensional construct of these various indicators or at most two of the three types of school engagement (Perry, Liu, & Pabian, 2010). These practices preclude investigation of the differences among the various types of engagement and understanding their possible antecedents and consequences. Thus, we conceptualize school engagement as a multidimensional construct reflecting each of the three subtypes suggested by Fredricks et al. (2004): (a) school compliance (behavioral engagement), (b) participation in extracurricular activities (behavioral engagement), (c) school identification (emotional engagement), and (d) subjective valuing of learning (cognitive engagement).",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Trajectories of School Engagement During Adolescence",
+      "text": "In several studies, older adolescents report lower levels of school engagement than younger adolescents on various indicators of school engagement (Johnson, Crosnoe, & Elder, 2001;Marks, 2000). However, most existing studies of school engagement have relied on cross-sectional or very short term longitudinal studies-making it difficult to confirm whether age-related differences indicate true developmental trends rather than cohort effects (Archambault, Janosz, Morizot, & Pagani, 2009;Skinner, Kinderman, & Furrer, 2010;. Our first goal is to document these trajectories of change using extended longitudinal data.\nTo more fully understand differences in the trajectories of school engagement, it is also important to examine the individual characteristics of adolescents that may influence trajectories of change in school engagement. As a first step toward this understanding, our second goal is to assess the association of gender and race or ethnicity with adolescents' school engagement over the secondary school years.\nGender is related to school engagement, with girls reporting high levels of school engagement (Meece, Glienke, & Burg, 2006;Sirin & Rogers-Sirin, 2005), high levels of subjective valuing of learning (Eccles et al., 1993), greater extracurricular participation, and fewer school behavior problems (Martin, 2004), whereas boys feel more negative about school and are less likely to report school attachment in middle school (Voelkl, 1997;Wang, 2009). Taken together, these patterns reflect consistent gender differences in the three types of school engagement, but it is unclear whether these differences are consistent across the secondary school years and whether gender moderates the trajectories of changes in school engagement.\nThere is evidence that African American students are not performing as well academically as their European American counterparts. Researchers have suggested that racial barriers and lack of accessibility cause African American students to perceive school and related academic aspirations as unimportant or unattainable, leading to their academic disengagement from school (Mickelson, 1990;Ogbu, 2003). Research on school engagement, however, has produced mixed evidence on racial or ethnic differences (Ainsworth-Darnell & Downey, 1998;Sirin & Rogers-Sirin, 2005). In Johnson et al. (2001), African American students reported lower levels of school attachment but were more likely to pay attention and complete homework. In contrast, Ainsworth-Darnell and Downey's (1998) analysis of students in the National Education Longitudinal Study (NELS) found that African American students reported spending less time on homework than European American students. In Voelkl (1997), African American students had higher levels of school identification (sense of belonging and valuing school) than European American students. Moreover, many of the existing studies on racial or ethnic differences in school engagement and achievement confound ethnicity with social class due to marked ethnic group differences in the distribution of social class within each group and the different historical reasons for variations in social class across different ethnic groups (Harris, 2006). These mixed results therefore underscore the need for a more rigorous examination of how school engagement trajectories may differ as a function of race or ethnicity.",
+      "n_publication_ref": 18,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Impact of Social Support on Students' Engagement in School",
+      "text": "In general, researchers argue that school engagement declines over the course of an adolescent's academic career, in part, due to changes in the social context that adolescents experience as they move into and through secondary school (e.g., larger school, less teacher-student interaction, and shifts in social support from teachers, peers, and parents; Wang & Holcombe, 2010). In support of this argument, social environments that are sensitive to adolescents' developmental needs (e.g., relatedness, autonomy) have been associated with increased achievement motivations, behaviors, and emotions, whereas environments that are at odds with the developmental needs of young adolescents have been associated with a decline in academic achievement and engagement (Eccles et al., 1993). However, such work has primarily addressed the middle school years only and has focused on a limited range of school characteristics. Our third goal is to investigate whether social supports modify the shape of individuals' trajectories of school engagement across the secondary school years.\nAccording to Brofenbrenner's (2005) bio-ecological theory of human development, although general social environments set the stage for development, it is the proximal processes within the environment that are the primary mechanisms through which developmental outcomes are produced. These proximal processes such as interpersonal relationships and social support can either promote or hinder adolescents' ability to achieve desired outcomes (Bowen, Rose, Powers, & Glennie, 2008). By and large, the literature suggests that positive social support will facilitate school engagement, particularly if the social partners encourage engagement. However, few studies have looked at different sources of social support in relation to different dimensions of school engagement, and no studies have looked at whether social support can protect against the normative declines in school engagement over the course of adolescence.\nThrough their actions in the school or classroom, teachers can convey a sense of caring, respect, and appreciation for their students that may lead to students' greater engagement in school. Teacher social support predicts a range of indicators of behavioral, emotional, and cognitive engagement (Wang & Holcombe, 2010). Students who feel supported socially by teachers tend to exhibit greater compliance with a teacher's expectations, which, in turn, should reduce their involvement in distractive and deviant behaviors (Birch & Ladd, 1997;Garnefski & Diekstra, 1996). Increased teacher social support also leads to increases in students' liking of school and improves students' achievement outcomes (Roeser, Eccles, & Sameroff, 1998). Students who perceive their teachers to be caring report feelings of ''school belongingness'' (Roeser, Midgley, & Urdan, 1996) as well as increased interest and enjoyment in school (Wentzel, 1998). In addition, when students feel socially supported by teachers, they are more likely to focus on mastery goals as well as experience lower levels of task engagement anxiety (Stipek, 2002).\nPeer social support is critical during adolescence. Feelings of peer support and acceptance fulfill adolescents' need for relatedness and help them to develop a sense of satisfaction in school. Friendships characterized by positive features (self-disclosure, prosocial behavior, and support) are linked to increased involvement in school whereas friendships typified by negative features (conflict and rivalry) are associated with disengagement from school (Berndt & Keefe, 1995;Kurdek & Sinclair, 2000). Students with positive peer relationships at school are more behaviorally and emotionally engaged in school (Garcia-Reid, 2007). In contrast, peer rejection increases the risk for misconduct, and lower participation and interest in school (French & Conrad, 2001). Although few studies have looked at the role of peer social support on cognitive engagement, there is evidence to suggest that adolescents develop both confidence and competence in discussing points of view and critiquing each other's work when they feel peer acceptance for academic accom-plishment (Guthrie & Wigfield, 2000). Thus, we expect that peer social support will be associated positively with subjective valuing of learning.\nParental social support can foster adolescents' school outcomes (Eccles, Wigfield, & Schiefele, 1998;Simons-Morton & Chen, 2009). A variety of elements of the family context are related to school engagement including a child's feelings of relatedness to the parents, positive parent-child interactions, and the parenting style adopted (Steinberg, 1996). Adolescents from supportive homes are more likely to be involved in prosocial activities, to be interested in and actively participate in school, and to avoid getting into trouble at school (Anderson, Sabatelli, & Kosutic, 2007;Wang, Dishion, Stormshak, & Willett, 2011). Firm but receptive parenting is positively connected to adolescents' academic engagement and success, whereas hostile parenting is associated with poorer academic grades and task oriented beliefs and behaviors (Furrer & Skinner, 2003;Wolley & Bowen, 2007). Furthermore, adolescents' perceptions of support and care from parents enhance both academic motivation and mastery goal orientations-both of which are linked to cognitive engagement (Wentzel, 1998).\nCurrent research on group differences as a moderator of social support effects on student engagement is equivocal. For example, although girls and boys perceive different levels of support from teachers and parents in school, teacher and parental support has similar positive effects on academic adjustment for both genders (Rueger, Malecki, & Demaray, 2010). Research suggests that boys are more likely to base their friendships around shared tasks while girls are more apt to establish intimacy in their friendships (McNelles & Connolly, 1999). Girls tend to seek social support as a coping strategy, whereas boys tend to adopt avoidance as a coping strategy (Frydenberg & Lewis, 1993). These findings suggest that peer social support might play a more significant role in school engagement of girls than boys.\nThere has been mixed evidence regarding racial or ethnic differences when examining social support in relation to academic outcomes. Some studies report no racial or ethnic differences in the relation between school social climate characterized by teacher and peer support and students' academic adjustment (Harris, 2006;Smerdon, 1999). Shin, Daly, and Vera (2007) found that among a racially diverse sample of seventh and eighth graders, peer influences were significantly related to school engagement across different ethnicities.\nOther researchers have found that the impact of positive relationships with teachers on school engagement is stronger for African American students than for European American students (Downey & Ainsworth-Darnell, 2002;Ferguson & Mehta, 2004). Graham, Taylor, and Hudley (1998) also revealed that African American adolescents tend to value and show preference for low-achieving peers over high-achieving peers, which may lead to their lower academic efforts and engagement compared to European American adolescents. To date, no study, however, has employed a multidimensional construct of school engagement to examine potential moderation effects of gender and racial/ethnic group on the relation between provision of social support and school engagement.\nAlthough each group of social support providers has been linked with indicators of adolescents' developmental outcomes, there is very little research examining how the three sources of social support predict indicators of school engagement simultaneously. It is unclear which social factors or combinations of factors have the most influence on each type of engagement. Moreover, because very few studies have examined whether social support from teachers, peers, or parents interact in the prediction of school engagement, it remains unclear whether the effect of social support is additive or multiplicative (e.g., Does it matter whether a student perceives one, two, or three of these providers as highly supportive?). Thus, we seek to understand the relative and additive influence of social support from teachers, peers, and parents on specific aspects of school engagement longitudinally over the secondary school years.",
+      "n_publication_ref": 33,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Current Study",
+      "text": "Our purpose is to bring a multidimensional and developmental perspective to the study of school engagement, using longitudinal data to explore individual trajectories of school engagement over the secondary school years. The specific research questions are:\n1. What are the patterns of growth in adolescents' perceived school engagement (i.e., school compliance, participation in extracurricular activities, school identification, and subjective valuing of learning) from 7th through 11th grades? 2. Do the patterns of growth in school engagement differ by adolescents' gender and race or ethnicity ?\n3. Does social support from teachers, peers, and parents reduce the rate of decline commonly reported in studies of school engagement? Does either gender or race or ethnicity moderate the association between social support and school engagement?\nBased on research reviewed earlier, we predict that school compliance, participation in extracurricular activities, school identification, and subjective valuing of learning will decrease across the secondary school years. Regarding gender and race or ethnicity, we predict that girls will display higher levels of school engagement at all grade levels and less decline in school engagement than boys over time. We treat the race or ethnicity analyses as exploratory in the absence of a strong empirical basis. Finally, we predict that social support from teachers, peers, and parents will be associated with higher initial levels of and reduced decreases in the four types of school engagement. We have no predictions regarding the moderating role of gender and race or ethnicity on the strength of these associations due to the absence of a strong empirical basis.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Sample",
+      "text": "The sample was part of an ongoing longitudinal study that was designed to examine the influence of social contexts on adolescent development. Participants were recruited from 23 schools in a single large and ethnically diverse county near Washington, DC. A total of 1,961 families expressed an interest in the study by signing a form permitting use to contact them. A subsample of 1,472 families was selected to participate on the basis of a stratified sampling procedure designed to obtain a representative sample of families from each of the 23 middle schools. To examine sampling bias, the district provided selected data on all students in the district during the study years (N = 25,627), including students who joined the school system partway through the year and those from whom we did not receive parental consent. Cook and his colleagues evaluated the differences between our sample and the data for the entire district. They found only two significant differences across a full range of sociodemographic and school achievement data: Our sample has a small underrepresentation of males and students who were receiving subsidized lunches; these differences amounted to less than 0.1 of a standard deviation. Thus, although not a random sample, very little systematic bias was evident in a comparison of this sample and the larger full community sample from which the participants were drawn and it did not lead to nonrepresented values at the extreme of ranges (see Cook, Herman, Phillips, & Setterstein, 2002, for details).\nStudy participants have been measured at five points in time, ranging from early adolescence (7th grade) through young adulthood (3 years after high school graduation). In this study, we examine data from three of the five waves of data: Wave 1 collected when the adolescents were in 7th grade (mean age = 12.9 years), Wave 2 collected during the fall when the adolescents were making the transition from 8th to 9th grade (mean age = 14.3 years), and Wave 3 collected when most of the adolescents were in 11th grade (mean age = 17.2 years). The investigators used a mixture of selfadministered questionnaires, face-to-face interviews, and school records to collect the data. In this study, we used reports from the target youth, the teacher, and the primary caregiver, who was most often the youth's mother.\nOf these respondents, approximately 54% were African American, 36% were European American, and 10% were either biracial or other ethnic minorities. In this study, we used only data of the African American and European American target adolescents from Wave 1 (N = 1,479), Wave 2 (N = 1,057), and Wave 3 (N = 1,054) because the other ethnic groups were too small to be included in the analyses. Additionally, approximately 52% of the students were females. The sample is broadly representative of different socioeconomic levels, with the mean pretax, family annual income between $45,000 and $49,999 (range = $5,000 to > $75,000) and 86% of primary caregivers reported being employed. Fifty-four percent of primary caregivers were high school graduates and 40% were college graduates. Furthermore, the range of our socioeconomic status (SES) indicators was approximately the same for both the African American and European American families, thus eliminating the usual confound between race or ethnicity and social class found in many studies.\nBoth Waves 2 and 3 retained 89% and 81% of the sample from Wave 1, respectively. To ascertain whether the students who dropped out of the study in Wave 2 and Wave 3 differed from the students who participated in all three waves, a series of independent contingency table analyses and t tests were conducted with all study variables at Wave 1. The results revealed that those who participated in the study for all three waves did not differ from those who dropped out of the study.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Procedures",
+      "text": "Seventh graders were recruited through letters to their families. Those families interested in participating in the study were asked to sign and return a consent form. Students' advisory teachers were also asked to participate in this study. Advisory teachers promote school connectedness and provide academic counseling to the same students for at least a year. Ninety-seven percent of students' advisory teachers agreed to participate (N = 135). Data were collected through self-administered questionnaires and individual face-to-face interviews with adolescents and their primary caregivers for Waves 1, 2, and 3. This data collection took place in the home of the adolescent, with the race or ethnicity of the interviewers-primarily women with bachelor's degrees-matching the race or ethnicity of the adolescents. The face-to-face interviews took approximately 1 hr, and the self-administered questionnaire took approximately 30 min to complete. Participating adolescents were given $20 at each wave of data collection. During the same testing periods, advisory teachers completed separate assessments of their relationship and classroom interactions for each of their student advisees in our study.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "School engagement. Using the student self-report items available in the data set, we developed indexes for adolescents' perceptions of school engagement in 7th, 9th, and 11th grades. These scales have been shown to be both reliable and valid in prior research (Wang, Willett, & Eccles, 2011). Four constructs were confirmed to underline the 19 items measuring adolescents' school engagement.\nSchool compliance. The construct of school compliance was drawn from the work of Elliott, Huizinga, and Menard (1989). This scale was the average of five items that measured the extent to which the students engaged in misconduct and had trouble getting homework done like: ''During the past 6 months, how often have you (a) skipped class? (b) had trouble getting homework done? (c) disrupted the class? (d) been involved in a physical fight? and (e) been sent to office?'' Each question on this measure was rated along a 5-point scale, ranging from 1 (almost never) to 5 (almost always). Item responses for the items were reverse coded so that higher scores indicate greater levels of school compliance. This measure demonstrated good internal consistency at each of the three time points (as = .77,.75,.76,at Grades 7,9,and 11,respectively).\nParticipation in extracurricular activities. The construct of participation in extracurricular activities was drawn from the work of Eccles and Barber (1999). This scale was the mean of four items that measured the level to which the adolescents participated in extracurricular activities (e.g., ''During the last year, how often did you spend time on school activities?'' ''athletic or sports teams?'' ''volunteer services?'' and ''scouts or school clubs?''). Each item was rated along a 6-point scale, ranging from 1 (less than once a month) to 6 (usually everyday). This measure demonstrated good internal consistency at each of the three time points (as = .77, .75, .74, at Grades 7, 9, and 11, respectively).\nSchool identification. The construct of school identification measured students' sense of school belonging and valuing of education by using items from the Michigan Study of Adolescent Life Transitions (MSALT; Eccles et al., 1993), items from the work of Mickelson (1990), and items from the Philadelphia Study (Furstenberg, Cook, Eccles, Elder, & Sameroff, 1999). This scale was the mean of seven items that asked students to rate their feelings about school, the degree to which they felt part of their school, and the degree to which they felt it was important to go to school (e.g., ''In general, I like school a lot''; ''I have to do well in school if I want to be a success in life''). The item responses ranged from 1 (strongly disagree) to 5 (strongly agree). This scale yielded good internal consistency at each time point (as = .74, .74, .76, at Grades 7, 9, and 11, respectively).\nSubjective valuing of learning. The construct of subjective valuing of learning was the mean of three items that measured adolescents' perceived motivation focusing on learning, personal improvement, and mastery of content and tasks. This measure was created by Eccles and her colleagues for MSALT. Sample items are ''I go to school because I enjoy my classes,'' ''I go to school because learning makes me smart,'' and ''I go to school because I like what I am learning.'' Adolescents rated how important from 1 (not an important reason) to 7 (a very important reason) each of these reasons is to them. This measure yielded good internal consistency at each of the three time points (as = .75, .76, .82, at Grades 7, 9, and 11, respectively).\nTeacher social support. A four-item scale from teacher self-report developed for the MSALT was used to assess teacher social support: (a) ''How often do you help this student out when he or she has a personal or social problem at school?'' (b) ''How often do you talk to this student about how things are going in his or her life?'' (c) ''How often do you really understand how this student feels?'' (d) ''How often do you really respect this student's opinions?'' Each question on this scale were rated along a 5-point scale, ranging from 1 (almost never) to 5 (almost always) and these items were averaged for a scale score. This measure demonstrated good internal consistency at each of the three time points (as = .80, .70, .73, at Grades 7, 9, and 11, respectively).\nPeer social support. A four-item scale assessing an adolescent's perceived level of peer acceptance and social support was drawn from items created by Eccles and Barber (1999) for the MSALT: (a) ''How often do you and your friends talk about how things are going in your life?'' (b) ''How often do you talk to your friends about how things are going with your parents?'' (c) ''How often do you talk with your friends about your plans for the future?'' (d) ''How often do you talk with your friends about problems you are having in school?'' Item responses for the scale ranged from 1 (almost never) to 5 (almost always) and were averaged to create a scale score. This scale yielded good internal consistency at each of the three time points (as = .78, .82, .80, at Grades 7, 9, and 11, respectively).\nParent social support. A six-item scale from parent self-report was used to assess parental social support: (a) ''How often do your child and you talk about what is going on in his or her life?'' (b) ''Talk about things are going with his or her friends?'' (c) ''Talk about his or her plans for future?'' (d) ''Talk about problems he or she is having at school?'' (e) ''Talk about future jobs he or she might have?'' (f) ''Talk about what courses he or she should take in school and how these courses will prepare him or her for these future jobs?'' Each question on this scale was rated along a 5-point scale, ranging from 1 (almost never) to 5 (almost always) and items were averaged to create a scale score. This measure yielded good internal consistency at each of the three time points (as = .74, .77, .70, at Grades 7, 9, and 11, respectively).\nDemographic variables. Sociodemographic characteristics of the participating adolescents and their families were used as statistical controls. These measures included adolescents' gender (0 = girl, 1 = boy), race or ethnicity (0 = African American, 1 = European American), and family SES. The SES index included highest family education and combined family income. Primary caregivers reported total family income before taxes and educational attainment (in years). In addition, as an indicator of prior academic ability, adolescents' standardized test scores on the California Achievement Test taken during their third-and fifth-grade school year served as a statistical control for prior academic achievement.",
+      "n_publication_ref": 14,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Data Analysis",
+      "text": "To investigate how adolescents' school engagement changed from Grades 7 to 11, and how this change differed depending on adolescents' gender, race, or ethnicity, and social support, we used multilevel growth modeling (Raudenbush & Bryk, 2002). All analyses were conducted by using HLM, full information maximum-likelihood estimation (Bryk & Raudenbush, 1992). The Level 1 model (within-person) described individual change over time in adolescents' engagement outcomes. The Level 2 model (between person) described how these individual changes vary by demographic characteristics. To answer our three research questions, we conducted the following steps. First, we examined the empirical growth trajectories for all adolescents over time in order to identify an appropriate Level 1 model to describe the growth trajectories of individual adolescent. After testing a variety of possible specifications, we found that the best fitting Level 1 specification for school engagement included linear components only.\nY ij \u00bc p 0i \u00fe p 1i \u00f0GRADE \u00c0 7\u00de ij \u00fe e ij \u00f0Level 1: School Engagement\u00de\u00f01\u00de\np 0i \u00bc c 00 \u00fe f 0i p 1i \u00bc c 10 \u00fe f 1i\u00f02\u00de\nIn Equation 1, Y ij represents the intended outcome for adolescent i at time j. By centering time metric at Grade 7, the individual growth parameters have the following interpretations: p 0i represents adolescent i's true scores in the outcome at Grade 7, and p 1i represents adolescent i's true rate of growth over time. The Level 2 models treated the individual growth parameters from Level 1 as outcomes that enabled us to examine whether adolescents differed in their initial status, or rates of change, and if so, what predicted that variation. The Level 2 specifications were unconditional growth models which included no substantive pre-dictors and allow each Level 1 parameters to vary randomly around its population.\nSecond, we added gender and race or ethnicity variables, along with their interactions with grade, to the unconditional growth model to examine whether the developmental course of adolescents' school engagement varied with respect to adolescent gender and race or ethnicity.\nFinally, to examine whether changes in social support predicted changes in adolescent school engagement, we fit the following model:\nY ij \u00bc p 0i \u00fe p 1i \u00f0GRADE \u00c0 7\u00de ij \u00fe p 2i \u00f0TEACHERS\u00de ij \u00fe p 3i \u00f0PEERS\u00de ij \u00fe p 4i \u00f0PARENTS\u00de ij \u00fe e ij\u00f03\u00de\np 0i \u00bc c 00 \u00fe f 0i p 1i \u00bc c 10 \u00fe f 1i p 2i \u00bc c 20 p 3i \u00bc c 30 p 4i \u00bc c 40\u00f04\u00de\nIn addition to the intercept and linear change parameters in the general Level 1 model, the three time-varying social support predictors were added to the models one at a time first to examine the individual effects of adolescents' exposure to these supportive conditions. Only the significant timevarying predictors were selected to move into the next phase of the model-building process. We then simultaneously entered all significant predictors into the Level 1 equations in order to examine the associations between changes in social support and changes in school engagement, controlling for demographic characteristics (Bryk & Raudenbush, 1992). The three time-varying social support variables were grand mean centered, which ensured that adding these variables did not change the meaning of the other coefficients in the model (Raudenbush & Bryk, 2002). In addition, three variables representing each adolescent's mean over time for social support from teacher, peer, and parent (7th-11th grades), centered around the grand mean, were added into the Level 2 equations. By doing so, both the within-person relations between social support and school engagement (Level 1) and the between-person differences in initial status and growth in school engagement associated with social support (Level 2) were examined. As a last step, we tested cross-level interactions between the Level 2 adolescent characteristics and each of the timevarying predictors. This step was undertaken to determine whether certain characteristics of the adolescent (gender and race or ethnicity) moderated the associations between social support and school engagement outcomes. All two-way interactions among the three social support sources in the prediction of adolescents' school engagement were also examined.\nTo account for students nested in schools, we included a school level (a third level) so that the analysis can take into account the particular school that students attend and produce correctly adjusted standard error in the model estimations. However, when running models with the school level, results were consistent with those reported with two-level models, and the variance components in the school level were not statistically significant. Thus, to simplify the presentation, we present two-level model analyses in this study.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Results",
+      "text": "Table 1 provides the means, standard deviations, and correlations for each domain of the social support and the school engagement outcomes. Among the findings, teacher social support, peer social support, and parent social support were positively correlated with each other, and all of them were positively correlated with school compliance, participation in extracurricular activities, school identification, and subjective valuing of learning, with the exception that peer social support was negatively associated with school compliance.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Average Trajectories of School Engagement",
+      "text": "The results for the first two research questions are summarized for each outcome separately in Tables 2-5. Model 1 in Tables 2-5 presents the results of fitting the unconditional growth model. Model 2 in Tables 2-5 presents the results of fitting the growth model controlling for demographic characteristics.\nGrowth in school compliance. The result of the unconditional growth model suggested decline of school compliance over time (see Table 2, Model 1). There were gender and racial or ethnic differences in seventh-grade level of school compliance but not in the rate of change (see Table 2, Model 2). Boys and African American adolescents reported less school compliance than did girls and European American adolescents respectively in seventh grade.\nGrowth in participation of extracurricular activities. In Table 3, Model 1, the negative linear term   of grade was statistically significant, indicating decline of participation of extracurricular activities from 7th to 11th grades. The intercept (but not the slope) differed by gender: Boys participated in less extracurricular activities than did girls in 7th grade. There were racial or ethnic differences in intercept, but we found no racial or ethnic differences in the growth of participation of extracurricular activities over time (see Table 3, Model 2). European American adolescents reported higher levels of participation in extracurricular activities than did African American adolescents in 7th grade.\nGrowth in school identification. The unconditional growth model suggested that adolescents experienced a decrease in school identification from 7th to 11th grades (see Table 4, Model 1). There were gender and racial or ethnic differences in the intercept of school identification (see Table 4, Model 2). Boys reported lower levels of school identification than did girls in 7th grade. African American adolescents reported higher levels of school identification than did European American adolescents in 7th grade. There were no gender or racial or ethnic differences in the growth of school identification.\nGrowth in subjective valuing of learning. For the average adolescent, subjective valuing decreased from 7th to 11th grades (see Table 5, Model 1). There were gender differences in 7th-grade level and growth of subjective valuing of learning (see Table 5, Model 2). Boys had lower levels of subjective valuing than did girls in 7th grade, and the gender differences in subjective valuing increased over time. Compared to European American adolescents, African American adolescents reported higher subjective valuing in 7th grade, but there were no racial or ethnic differences in the rate of growth.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Effects of Social Support on Adolescent School Engagement",
+      "text": "Based on Model 2 in Tables 2-5, the three social support predictors were added to the models one at a time to examine the individual effects of adolescents' exposure to these supportive conditions. Models 3, 4, and 5 in Tables 2-5 present the individual effect of each source of social support on adolescents' school engagement. Model 6 in Tables 2-5 presents the final parsimonious model, which shows the effect of social support predictors on initial status and the rate of change in adolescent engagement outcomes. Effect of social support on school compliance. Increases in social support from teachers and parents were related to higher school compliance from 7th to 11th grades (see Table 2, Model 6). The standardized effect sizes (d), calculated according to Raudenbush and Xiao-Feng (2001), suggest that a standard deviation increase in teacher social support and parental social support was linked to a reduced rate of decline of 0.37 and 0.41 SD in adolescents' school compliance, respectively. Thus, such support protected against the normative rate of decline in school compliance. However, contrary to our hypothesis, a standard deviation increase in peer social support was related to a faster decrease of 0.28 SD in school compliance. There were no gender or racial or ethnic differences in the associations between social support and school compliance. Teacher social support and parent social support had similar protective effects on adolescent school compliance, and none of the two-way inter-actions between the three time-varying social support predictors were significant. According to the pseudo-R 2 , we conclude that 35% of the within-person variation in school compliance was explained by social support. The residual variance was reduced by 43% for the intercept and by 36% for the slope.\nAdditional analyses for peer support. We speculated in the introduction that the influence of peer social support on school engagement might vary depending on the type of peers one has. The negative association between peer social support and school compliance could reflect the impact of peers on different groups of adolescents. It is plausible that those adolescents who report low levels of school compliance are primarily getting negative input from their antisocial peer group, while those reporting more school compliance are adolescents who are getting largely positive encouragement for positive behaviors from the nondelinquent peer group. To investigate this possibility, we separated the sample into two groups based on the type of peers-positive peers or negative peers-they consider to be their best friends.   Adolescents were categorized in the positive peer group if they reported having more good friends with prosocial values and in the negative peer group if they reported having more friends with antisocial values. We found a positive association between peer social support and school compliance for the group with positive peers (b = .036, p = .06, d = 0.42) and conversely a negative association between peer social support and school compliance for the group with negative peers (b = ).092, p < .001, d = 0.49). These findings indicate that prosocial and antisocial friends have different impacts on adolescents' school compliance.\nEffect of social support on participation in extracurricular activities. Adolescents were more likely to participate in extracurricular activities when they experienced increased support from their peers and parents from 7th through 11th grades (see Table 3, Model 6). A standard deviation increase in parental social support and peer social support was associated with a reduced decrease of 0.50 and 0.72 SD in participation in extracurricular activities, respectively. Thus, having social support from these sources protects against the normative declines in participation in extracurricular activities. There were no significant two-way interactions among the social support predictors. The pseudo-R 2 indicates that 23% of the within-person variation in extracurricular activities participation was explained by social support. The residual variance was reduced by 31% for the intercept and by 22% for the slope.\nEffect of social support on school identification. As shown in Table 4, Model 6, adolescents were more likely to identify themselves with schools when they had increased social support from teachers, peers, and parents from 7th to 11th grades. With 1 SD increase in teacher support, peer support, and parental support, adolescents experienced a reduced decrease of 0.58, 0.54, and 0.40 SD in school identification, respectively. Thus, once again having these sources of social support protected against the normative declines in school  identification. There were no gender differences and no two-way interactions among the social support predictors. By contrast, there was a significant race or ethnicity by peer social support interaction, with the association between peer social support and school identification being stronger for African American adolescents (d = 0.20). After including social support predictors, the residual variance was reduced by 39% for the within-person level, 23% for the intercept, and 28% for the slope in school identification. Effect of social support on subjective valuing of learning. Increases in social support from teachers, peers, and parents were associated with reduced decreases in subjective task value from 7th to 11th grades (see Table 5, Model 6). A 1 SD increase in teacher support, peer support, and parental support reduced the decline of adolescents' subjective valuing of learning by 0.42, 0.24, and 0.38 SD, respectively. Therefore, having these sources of social support protects against the normative declines in the subjective valuing of learning. There were no gender differences in the associations between social support and subjective valuing of learning and no two-way interactions among the social support predictors. The significant interaction of race or ethnicity by peer social support indicated that the positive impact of peer social support on subjective valuing of learning was stronger for African Americans than European Americans (d = 0.28). The pseudo-R 2 indicates that 30% of the within-person variation in subjective valuing of learning was explained by social support. The residual variance was reduced by 34% for the intercept and by 25% for the slope.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Discussion",
+      "text": "As predicted, the average growth trajectories of school compliance, extracurricular activity participation, school identification, and subjective valuing  of learning at school decreased from 7th to 11th grades. These declines may result from the potential mismatch between the youth's stage of development and the opportunities provided in the secondary school environment (Eccles et al., 1993). For instance, in comparison to elementary schools, middle and high schools are more departmentalized, larger, and more performance oriented-resulting in more social comparison grading standards and fewer opportunities to develop strong and positive personal relationships between school adults and students, and to participate in extracurricular activities at a time when adolescents need strong nonfamilial social relationships and opportunities to feel competent at their school work (Eccles et al., 1993). If, on average, students are provided with fewer opportunities to feel competent in their academic subjects, then the subjective valuing of learning are likely to drop. Similarly, if, on average, students have fewer opportunities to have strong, positive relationships with teachers, then their identification with school and school compliance will decline.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Gender Differences in School Engagement",
+      "text": "Also as hypothesized, girls reported higher levels of school compliance, participation in extracurricular activities, school identification, and subjective valuing of learning than boys in seventh grade (Voelkl, 1997). Girls' engagement with school may reflect a greater concern on their part for academic performance, perhaps as a result of gender socialization processes and differential expectations of parents and teachers (Eccles, 2007;Wilkinson & Marrett, 1985). For instance, parents tend to monitor girls' progress more closely, correct girls' mistakes, and make decisions for girls more than they do for boys (Bumpus, Crouter, & McHale, 2001). Such practices may communicate to girls, more so than to boys, the importance of regulating their progress toward their goals, and putting effort into meeting their goals as a way to attend to parents. Similarly, teachers often respond differently to boys and girls in the classrooms in ways that may lead students to believe that certain behavior patterns associated with their gender are expected by their teachers (Eccles, 2007). Girls may be expected to display more emotional connectedness to school than boys, whereas boys may believe that it is not socially acceptable to admit having high levels of connectedness to school (Bembenutty, 2007). These gender biases and beliefs favoring girls may lead girls in the seventh grade to engage in school more than boys. However, our findings indicate that although girls experience higher levels of school engagement in the seventh grade, girls and boys experience similar decline rates on the three dimensions of school engagement. It therefore seems that these gender biases and beliefs do not prevent girls from disengaging from secondary school once they enter this system.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Racial \u2044 Ethnic Differences in School Engagement",
+      "text": "Like several other studies (Johnson et al., 2001;Voelkl, 1997), African American youth in this study reported higher initial levels of school identification and subjective valuing of learning but lower levels of school compliance than European American adolescents. The results may reflect both the populations being studied and the historical period in which the work was done. This study was conducted in a largely middle-class, majority African American county in the 1990s. Many of the African American families had moved into this county recently in response to expanded professional job opportunities in Washington, DC. The political systems in the county were largely controlled by African Americans. Thus, the youth had many examples of the benefits of education for adult occupational success. Thus, the African American youth in this study believe that education may pay off in terms of adult occupational opportunities (Eccles, Wong, & Peck, 2006). In fact, the parents of the African American adolescents in this study stressed exactly this message (Gutman & Eccles, 2007).\nRegarding behavioral engagement, African American students reported lower levels of compliance with school rules than did European American students. Thus, African American students reported higher levels of getting into discipline problems at school at the start of the study. One possible explanation lies in differential timing of pubertal development in African American and European American populations (Michael & Eccles, 2003;Simmons & Blyth, 1987): African Americans move through pubertal development at a slightly younger age than European Americans. Both Simmons and Blyth (1987) and Eccles et al. (1993) found that early maturing students engage in more school problem behaviors after the transition to junior high school than do on time or later maturing students. If this is true, then the racial or ethnic difference we found in initial rates of school problem behaviors might reflect racial or ethnic differences in pubertal maturation rates. To test this hypothesis, future studies should include indicators of pubertal development in order to be able to control for this possible confound with school transition effects. Another possible explanation lies in the experiences of racial discrimination at school. According to Wong, Eccles, and Sameroff (2003), the African American students in this sample reported higher rates of racial discrimination at school in the seventh grade, and those students who reported higher rates of racial discrimination also reported higher rates of school problem behaviors. If this is so, then the small difference in reported compliance between the two groups in this study could reflect group differences in experiences of racial discrimination at school.",
+      "n_publication_ref": 9,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Role of Social Supports",
+      "text": "The multidimensional perspective of engagement enables us to estimate the unique role each source of social support plays in different dimensions of school engagement. As we expected, different sources of social support are not equally important in their impact on adolescents' school engagement, and the effect of these sources differed by the aspect of school engagement studied. Our results suggest that supportive teachers play a particularly important role in reducing the declines in school compliance, sense of school identification, and subjective valuing of learning at school across the secondary school years. Adolescence is a period when relationships with nonparental adults take on increased meaning because adolescents are seeking support and guidance from adults outside of the home (Murray, 2009;Roeser et al., 1998). In often large and impersonal secondary school settings, teachers can support students' need for relatedness, as well as their positive engagement with school through maintaining good quality relationships with students and emphasizing a high level of care, respect, and appreciation in the interaction (Wentzel, 1998). We find these results particularly important given the common stereotype that adolescents are most heavily influenced by their peers rather than the adults around them.\nPeer social support has a more complex association with school engagement. As expected, peer social support was associated with reduced declines in participation in extracurricular activities, sense of school identification, and subjective valuing of learning at school. It is noteworthy, however, that the impact of teacher social support on emotional and cognitive engagement was greater than peer social support. This pattern of findings suggests that the shift in adolescent social priorities toward peer relationships is not as universal as is often assumed to be true. Perceived support from both teachers and parents is an important buffer against the general declines in school engagement found during the secondary school years. Our results suggest that most adolescents continue to be influenced substantially by their teachers and parents when it comes to school engagement even though they may be tempted into misbehavior outside of the classroom by their peers (Smetana, Campione-Barr, & Metzger, 2006).\nFindings regarding peer social support yielded a somewhat mixed predictive association, with changes in behavioral engagement depending on the type of peers the student had as friends. On average, there was a negative association between peer social support and school compliance-the greater the increase in peer social support, the greater the decrease in school compliance. However, this association differed when we broke the students into two groups based on the nature of their friends. The association between peer support and behavioral engagement was negative only for those youth who reported hanging out with antisocial friends. By contrast, this association was positive for youth with prosocial friends. Thus, the unexpected finding of a negative association between peer support and school compliance likely reflects the impact of different kinds of peers on different groups of adolescents. It is conceivable that those adolescents who report low levels of school compliance are primarily getting negative input from their antisocial peer group, while those reporting more school compliance are getting largely positive encouragement for behavioral engagement from their prosocial peer group. Future studies should include peer group as a possible moderator in order to control for differential peer effects on school engagement.\nPeer influence is especially important to consider in this study given that the peak in susceptibility occurs during the middle and high school years (Jessor, Jill, Vanderryn, Costa, & Turbin, 1995). As discussed by Luthar and McMahon (1996), peer social support does not necessarily equate with affirmation by peer engagement in positive and socially acceptable behavior. Demands from the peer group may run counter to school rules. For instance, behaviors considered ''deviant'' by mainstream society may sometimes be endorsed by the peer group as effective ways to achieve personal goals and resolve conflict. Such behaviors may also be associated with relatively high prestige and status within the immediate subcultural group (Coie & Jacobs, 1993). Accordingly, this type of support and comfort from one's peers may have negative consequences for behavioral outcomes. Our supplementary analyses support these suggestions. Furthermore, peer social support was a slightly stronger predictor of behavioral outcomes than both teacher and parent support. These findings are consistent with developmental research showing that during adolescence, peers may be more important social factors than nonfamilial adults on problematic school behavior (Wentzel, 1998). Thus, across all of the behavioral components of school engagement, peers are just as likely to exert positive influences on adolescents as negative influences.\nAs predicted, we found positive associations between parent social support and all indicators of school engagement. Indeed, parent social support was an even stronger predictor of three of the four indicators (participation in extracurricular activities, school identification, and subjective valuing of learning) of school engagement than peer social support. Adolescents face the challenge of renegotiating their roles and relationships with teachers, peers, and parents. Although some research demonstrates that parents' impact on adolescents decreases from elementary school to secondary school (Larson & Richards, 1991;Steinberg & Silverberg, 1986), other research, including ours, demonstrates that parents remain a very important source of influence throughout adolescence (see Smetana et al., 2006). Parents are still considered a critical source of social support for the educational endeavors of youth. Differences of research findings regarding the role of parents likely reflects a focus on different aspects of adolescents' behaviors, attitudes, and values.\nThere were no moderation effects of gender on the relation between social support and school engagement. It suggests that the primary positive effects of social support from teachers, peers, and parents on the aspects of school engagement examined in this study are similar across adolescent gender. With respect to racial or ethnic difference, peer social support was more strongly associated with increased sense of school identification and subjective valuing of learning among African American adolescents, indicating that positive peer influences serve as a stronger protective or buffering effect among African American than among European American adolescents. This may reflect the nature of our sample discussed earlier. In addition, this finding may be the result of the higher base levels of school identification and value of learning in African American adolescents relative to European American adolescents. African American adolescents' higher initial status of school identification and subjective value of learning may allow peer social support to exert a stronger effect on them. Thus, it is necessary to consider both the extent and the relative level of change when examining the social support effects on adolescent school engagement.\nThe findings of this study provide support for an additive model of social support and an explanation for how social support facilitates positive school engagement. Although supportive qualities of interpersonal relationships were significant contributors to behavioral, emotional, and cognitive aspects of school engagement in the present study, we did not find interactions among the various sources of perceived social support as significant predictors of engagement outcomes. In other words, teachers, peers, and parents seem to play relatively independent roles in adolescents' development of school engagement. On the one hand, this pattern of results is consistent with the interpretation that the effects of having multiple sources of social support on school engagement are additive rather than compensatory (Cook et al., 2002;Furstenberg et al., 1999). On the other hand, the fact that each source of influence makes an independent contribution also reflects the fact that one can benefit from the support available from an individual source even if support is not forthcoming from multiple sources. In terms of positive school behaviors, the youth most at risk are those who have little social support from their parents and teachers coupled with strong social support from their peers. In contrast, social support from one's teachers and parents can totally counteract the negative influence of peer support on positive behaviors. Thus, in psychological rather than statistical logic, one could conclude that social supports in one domain do compensate for lack of social supports in another domain.",
+      "n_publication_ref": 13,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Implications for Prevention and Intervention",
+      "text": "The study of engagement as multidimensional and as an interaction between the individual and the social environment helps us to better understand the complexity of adolescents' experiences in school and to identify antecedents of engagement that could be the target of interventions. Overall, the influence of each source of social support depended in part on the engagement outcomes being studied. For promotion of school compliance, social support from teachers and parents had positive associations, but peer social support had both positive and negative influences depending on what type of peer groups adolescents affiliated with. For participation in extracurricular activities, both peer and parent support had a positive impact, whereas teacher support had no significant association. Social support from teachers, peers, and parents had a positive influence on school identification as well as the subjective valuing of learning at school. Therefore, we can conclude from the analyses reported here that research in the area of school engagement must include attention to the multiple social contexts with which adolescents interact and no single variable will fully or adequately explain the engagement outcomes; by extension, no single intervention will be able to promote adolescents' school engagement. Thus, interventions designed to target specific engagement outcomes need to account for different aspects of adolescents' social relationships and environment.\nSchool engagement is of particular interest to researchers not only because it is related to a variety of important developmental outcomes but also because it is believed to be malleable and responsive to interactions between the individual and the social environment (Fredricks et al., 2004). Results from this study can inform the design and implementation of interventions to promote adolescents' school achievement and engagement. More recent trends in the prevention sciences have reflected growing interest in strength-based rather than deficit-based studies (Moore, Lippman, & Brown, 2004). Strength-oriented approaches allow researchers and practitioners to reduce risk and promote youth assets (e.g., active engagement and social support). The present study supplements youth development research by examining the combined effects of multiple social influences from the school, peer group, and family on positive youth development.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations and Conclusions",
+      "text": "Several limitations of this study and some caveats need to be noted. First, it is noteworthy that we collected information about parental and teacher social support via adult-report measures. The use of multiple informants to assess social processes provides a more comprehensive perspective of the social support. However, this study mainly relies on self-report information from adolescents to assess school engagement. Although bio-ecological theory posits that perceptions or experiences (rather than some notion of objective reality) are key to understanding individuals' efforts to adapt to their social contexts, future use of multiple sources of information (informants, teachers, and parents) and multiple methodologies (interviews, observations, surveys) can provide a more robust, valid method of identifying school engagement (Fredricks et al., 2004). Second, the nonexperimental nature of this study limits our ability to eliminate the prospective reciprocal relations between social support and adolescent school engagement. It is possible that highly engaged adolescents are simply welladjusted individuals who also enjoy supportive relationships with their teachers and parents. Thus, researchers should examine the reciprocal nature of social support and adolescent engagement outcomes and conduct experimental trials to make causal inferences. Finally, the study identified the protective roles of specific aspects of social support on various objective indicators of adolescents' school engagement. However, little is known regarding processes in terms of how adolescents' perceived social support influences their engagement. While longitudinal analyses eliminate questions concerning the temporal precedence of effects, it does not exclude the alternative explanation that a third variable accounts for the relations between social support and adolescent engagement outcomes. Thus, future research examining mediators would extend our understanding of the processes underlying effects of social support.\nDespite its limitations, this study advances our understanding of school engagement by suggesting a developmental course of school compliance, participation in extracurricular activities, school identification, and subjective valuing of learning that are predicted by social support from teachers, peers, and parents. The study thus underscores the importance of studying development of school engagement within an ecological perspective (Brofenbrenner, 2005). Social contexts in which adolescents are embedded work differently for adolescents of different genders and ethnicities. School engagement seems to be influenced by the proximal process in the form of interpersonal relationships and social support and by the resources that adolescents can draw on during this process of development. Advancing our knowledge about the complex processes and interactions of personal and contextual factors in school engagement can help teachers and parents create environments that support adolescents while they navigate challenges and barriers in their quest for school success and completion.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Standard errors in parentheses. )2LL = )2 log-likelihood",
+      "journal": "",
+      "year": "",
+      "authors": ""
+    },
+    { "title": "SES = socioeconomic status", "journal": "", "year": "", "authors": "" },
+    { "title": "", "journal": "AIC = Akaike information criterion", "year": "", "authors": "" },
+    {
+      "title": "Assessing the oppositional culture explanation for racial \u2044 ethnic differences in school performance",
+      "journal": "American Sociological Review",
+      "year": "1998",
+      "authors": "J W Ainsworth-Darnell; D B Downey"
+    },
+    {
+      "title": "Classrooms: Goals, structures, and student motivation",
+      "journal": "Journal of Educational Psychology",
+      "year": "1992",
+      "authors": "C Ames"
+    },
+    {
+      "title": "Families, urban neighborhood youth centers, and peers as contexts for development",
+      "journal": "Family Relations",
+      "year": "2007",
+      "authors": "S A Anderson; R M Sabatelli; I Kosutic"
+    },
+    {
+      "title": "Measuring cognitive and psychological engagement: Validation of the student engagement instrument",
+      "journal": "Journal of School Psychology",
+      "year": "2006",
+      "authors": "J J Appleton; S L Christenson; D Kim; A L Reschly"
+    },
+    {
+      "title": "Adolescent behavioral, affective, and cognitive engagement in school: Relationship to dropout",
+      "journal": "Journal of School Health",
+      "year": "2009",
+      "authors": "I Archambault; M Janosz; J Morizot; L Pagani"
+    },
+    {
+      "title": "Self-regulation of learning and academic delay of gratification: Gender and ethnic differences among college students",
+      "journal": "Journal of Advanced Academics",
+      "year": "2007",
+      "authors": "H Bembenutty"
+    },
+    {
+      "title": "Friends' influence on adolescents' adjustment to school",
+      "journal": "Child Development",
+      "year": "1995",
+      "authors": "T J Berndt; K Keefe"
+    },
+    {
+      "title": "The teacher-child relationship and children's early school adjustment",
+      "journal": "Journal of School Psychology",
+      "year": "1997",
+      "authors": "S Birch; G Ladd"
+    },
+    {
+      "title": "The join effects of neighborhoods, schools, peers, and families on changes in the school success of middle school students",
+      "journal": "Family Relations",
+      "year": "2008",
+      "authors": "G L Bowen; R A Rose; J D Powers; E J Glennie"
+    },
+    {
+      "title": "Making human beings human: Bioecological perspectives on human development",
+      "journal": "Sage",
+      "year": "2005",
+      "authors": "U Brofenbrenner"
+    },
+    {
+      "title": "Hierarchical linear modeling applications and data analysis methods",
+      "journal": "Sage",
+      "year": "1992",
+      "authors": "A S Bryk; S W Raudenbush"
+    },
+    {
+      "title": "Parental autonomy granting during adolescence: Exploring gender differences in context",
+      "journal": "Developmental Psychology",
+      "year": "2001",
+      "authors": "M F Bumpus; A C Crouter; S M Mchale"
+    },
+    {
+      "title": "The role of social context in the prevention of conduct disorder",
+      "journal": "Development and Psychopathology",
+      "year": "1993",
+      "authors": "J D Coie; M R Jacobs"
+    },
+    {
+      "title": "Context, self, and action: A motivational analysis of self-system processes across the lifespan",
+      "journal": "University of Chicago Press",
+      "year": "1990",
+      "authors": "J P Connell"
+    },
+    {
+      "title": "Some ways in which neighborhoods, nuclear families, friendship groups, and schools jointly affect changes in early adolescent development",
+      "journal": "Child Development",
+      "year": "2002",
+      "authors": "T D Cook; M R Herman; M Phillips; R A Setterstein"
+    },
+    {
+      "title": "The search for oppositional culture among Black students",
+      "journal": "American Sociological Review",
+      "year": "2002",
+      "authors": "D B Downey; J W Ainsworth-Darnell"
+    },
+    {
+      "title": "Where are all the women? Gender differences in participation in physical science and engineering",
+      "journal": "American Psychological Association",
+      "year": "2007",
+      "authors": "J S Eccles"
+    },
+    {
+      "title": "Student council, volunteering, basketball, or marching band: What kind of extracurricular involvement matters",
+      "journal": "Journal of Adolescent Research",
+      "year": "1999",
+      "authors": "J S Eccles; B L Barber"
+    },
+    {
+      "title": "Development during adolescence: The impact of stage-environment fit on young adolescents' experiences in schools and in families",
+      "journal": "American Psychologist",
+      "year": "1993",
+      "authors": "J S Eccles; C Midgley; A Wigfield; C M Buchanan; D Reuman; C Flanagan"
+    },
+    {
+      "title": "Motivation",
+      "journal": "Wiley",
+      "year": "1998",
+      "authors": "J S Eccles; A Wigfield; U Schiefele"
+    },
+    {
+      "title": "Ethnicity as a social context for the development of African-American adolescents",
+      "journal": "Developmental Psychology",
+      "year": "2006",
+      "authors": "J S Eccles; C A Wong; S C Peck"
+    },
+    {
+      "title": "Multiple problem youth: Delinquency, substance, and mental health problems",
+      "journal": "Springer-Verlag",
+      "year": "1989",
+      "authors": "D S Elliott; D Huizinga; S Menard"
+    },
+    {
+      "title": "An unfinished journey: The legacy of Brown and the narrowing of the achievement gap",
+      "journal": "Phi Delta Kappan",
+      "year": "2004",
+      "authors": "R F Ferguson; J Mehta"
+    },
+    {
+      "title": "School engagement and students at risk",
+      "journal": "",
+      "year": "1993",
+      "authors": "J D Finn"
+    },
+    {
+      "title": "School engagement: Potential of the concept, state of the evidence",
+      "journal": "Review of Educational Research",
+      "year": "2004",
+      "authors": "J A Fredricks; P C Blumenfeld; A H Paris"
+    },
+    {
+      "title": "School dropout as predicted by peer rejection and antisocial behavior",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2001",
+      "authors": "D C French; J Conrad"
+    },
+    {
+      "title": "Boys play sports and girls turn to others: Age, gender, and ethnicity as determinants of coping",
+      "journal": "Journal of Adolescence",
+      "year": "1993",
+      "authors": "E Frydenberg; R Lewis"
+    },
+    {
+      "title": "Sense of relatedness as a factor in children's academic engagement and performance",
+      "journal": "Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "C Furrer; C Skinner"
+    },
+    {
+      "title": "Managing to make it: Urban families in adolescent success",
+      "journal": "University of Chicago Press",
+      "year": "1999",
+      "authors": "F Furstenberg; T Cook; J Eccles; G Elder; A Sameroff"
+    },
+    {
+      "title": "Examining social capital as a mechanism for improving school engagement among low income Hispanic girls",
+      "journal": "Youth and Society",
+      "year": "2007",
+      "authors": "P Garcia-Reid"
+    },
+    {
+      "title": "Perceived social support from family, school, and peers: Relationship with emotional and behavioral problems among adolescents",
+      "journal": "American Academy of Child and Adolescent Psychiatry",
+      "year": "1996",
+      "authors": "N Garnefski; R F Diekstra"
+    },
+    {
+      "title": "Exploring achievement values among ethnic minority early adolescents",
+      "journal": "Journal of Educational Psychology",
+      "year": "1998",
+      "authors": "S Graham; A Taylor; C Hudley"
+    },
+    {
+      "title": "Engagement and motivation in reading",
+      "journal": "",
+      "year": "2000",
+      "authors": "J T Guthrie; A Wigfield"
+    },
+    {
+      "title": "Stage-environment fit during adolescence: Trajectories of family relations and adolescent outcomes",
+      "journal": "Developmental Psychology",
+      "year": "2007",
+      "authors": "L M Gutman; J S Eccles"
+    },
+    {
+      "title": "I (don't) hate school: Revisiting oppositional culture theory of Blacks' resistance to schooling",
+      "journal": "Social Forces",
+      "year": "2006",
+      "authors": "A L Harris"
+    },
+    {
+      "title": "Protective factors in adolescent problem behavior: Moderator effects and developmental changes",
+      "journal": "Developmental Psychology",
+      "year": "1995",
+      "authors": "R Jessor; V D Jill; J Vanderryn; F M Costa; M S Turbin"
+    },
+    {
+      "title": "Students' attachment and academic engagement: The role of the race and ethnicity",
+      "journal": "Sociology of Education",
+      "year": "2001",
+      "authors": "M K Johnson; R Crosnoe; G Elder"
+    },
+    {
+      "title": "Psychological, family, and peer predictors of academic outcomes in first-through fifth-grade children",
+      "journal": "Journal of Educational Psychology",
+      "year": "2000",
+      "authors": "L A Kurdek; R J Sinclair"
+    },
+    {
+      "title": "Daily companionship in late childhood and early adolescence: Changing developmental contexts",
+      "journal": "Child Development",
+      "year": "1991",
+      "authors": "R Larson; M H Richards"
+    },
+    {
+      "title": "Peer reputation among inner city adolescents: Structure and correlations",
+      "journal": "Journal of Research on Adolescence",
+      "year": "1996",
+      "authors": "S S Luthar; T J Mcmahon"
+    },
+    {
+      "title": "Social support as a buffer in the relationship between socioeconomic status and academic performance",
+      "journal": "School Psychology Quarterly",
+      "year": "2007",
+      "authors": "C K Malecki; M K Demaray"
+    },
+    {
+      "title": "Student engagement in instructional activity: Patterns in elementary, middle and high school years",
+      "journal": "American Educational Research Journal",
+      "year": "2000",
+      "authors": "H M Marks"
+    },
+    {
+      "title": "School motivation of boys and girls: Differences of degree, differences of kind, or both?",
+      "journal": "Australian Journal of Psychology",
+      "year": "2004",
+      "authors": "A J Martin"
+    },
+    {
+      "title": "Intimacy between adolescent friends: Age and sex differences in intimate affect and mandate behavior",
+      "journal": "Journal of Research on Adolescence",
+      "year": "1999",
+      "authors": "L R Mcnelles; J A Connolly"
+    },
+    {
+      "title": "Gender and motivation",
+      "journal": "Journal of School Psychology",
+      "year": "2006",
+      "authors": "J L Meece; B B Glienke; S Burg"
+    },
+    {
+      "title": "When coming of age means coming undone: Links between puberty and psychosocial adjustment among European American and African American girls",
+      "journal": "Cambridge University Press",
+      "year": "2003",
+      "authors": "A Michael; J S Eccles"
+    },
+    {
+      "title": "The attitude-achievement paradox among Black Americans",
+      "journal": "Sociology of Education",
+      "year": "1990",
+      "authors": "R A Mickelson"
+    },
+    {
+      "title": "Indicators of child well-being: The promise for positive youth development",
+      "journal": "American Academy of Political and Social Science",
+      "year": "2004",
+      "authors": "K A Moore; L Lippman; B Brown"
+    },
+    {
+      "title": "Parent and teacher relationships as predictors of school engagement and functioning among low-income urban youth",
+      "journal": "Journal of Early Adolescence",
+      "year": "2009",
+      "authors": "C Murray"
+    },
+    {
+      "title": "Black American students in an affluent suburb: A study of academic disengagement",
+      "journal": "Erlbaum",
+      "year": "2003",
+      "authors": "J U Ogbu"
+    },
+    {
+      "title": "School engagement as mediator of academic performance among urban youth: The role of career preparation, parental career support, and teacher support",
+      "journal": "The Counseling Psychologist",
+      "year": "2010",
+      "authors": "J C Perry; X Liu; Y Pabian"
+    },
+    {
+      "title": "Hierarchical linear models: Applications and data analysis methods",
+      "journal": "Sage",
+      "year": "2002",
+      "authors": "S W Raudenbush; A S Bryk"
+    },
+    {
+      "title": "Effects of study duration, frequency of observation, and sample size on power in studies of group differences in polynomial change",
+      "journal": "Psychological Methods",
+      "year": "2001",
+      "authors": "S W Raudenbush; L Xiao-Feng"
+    },
+    {
+      "title": "Academic and emotional functioning in early adolescence: Longitudinal relations, patterns, and prediction by experience in middle school",
+      "journal": "Development and Psychopathology",
+      "year": "1998",
+      "authors": "R W Roeser; J S Eccles; A J Sameroff"
+    },
+    {
+      "title": "Perception of the school environment and early adolescents' psychological and behavioral functioning in school: The mediating role of goals and belonging",
+      "journal": "Journal of Educational Psychology",
+      "year": "1996",
+      "authors": "R W Roeser; C Midgley; T C Urdan"
+    },
+    {
+      "title": "Relationship between multiple sources of perceived social support and psychological and academic adjustment in early adolescence: Comparisons across gender",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2010",
+      "authors": "S Y Rueger; C K Malecki; M K Demaray"
+    },
+    {
+      "title": "The relationships of peer norms, ethnic identity, and peer support to school engagement in urban youth",
+      "journal": "Professional School Counseling",
+      "year": "2007",
+      "authors": "R Shin; B Daly; E Vera"
+    },
+    {
+      "title": "Moving into adolescence: The impact of pubertal change and school context",
+      "journal": "Aldine de Gruyler",
+      "year": "1987",
+      "authors": "R G Simmons; D A Blyth"
+    },
+    {
+      "title": "Components of school engagement among African American adolescents",
+      "journal": "Applied Developmental Science",
+      "year": "2005",
+      "authors": "S R Sirin; L Rogers-Sirin"
+    },
+    {
+      "title": "Motivation in the classroom: Reciprocal effect of teacher behavior and student engagement across the school year",
+      "journal": "Journal of Educational Psychology",
+      "year": "1993",
+      "authors": "E A Skinner; M J Belmont"
+    },
+    {
+      "title": "A motivational perspective on engagement and disaffection: Conceptualizing and assessment of children's behavioral and emotional participation in academic activities in the classroom",
+      "journal": "Educational and Psychological Measurement",
+      "year": "2010",
+      "authors": "E A Skinner; T A Kinderman; C J Furrer"
+    },
+    {
+      "title": "Engagement and achievement: Differences between African-American and White high school students",
+      "journal": "Research in Sociology of Education and Socialization",
+      "year": "1999",
+      "authors": "B A Smerdon"
+    },
+    {
+      "title": "Adolescent development in interpersonal and societal contexts",
+      "journal": "Annual Review of Psychology",
+      "year": "2006",
+      "authors": "J G Smetana; N Campione-Barr; A Metzger"
+    },
+    {
+      "title": "Beyond the classroom: Why school reform has failed and what parents need to do",
+      "journal": "Simon & Shuster",
+      "year": "1996",
+      "authors": "L Steinberg"
+    },
+    {
+      "title": "The vicissitudes of autonomy in early adolescence",
+      "journal": "Child Development",
+      "year": "1986",
+      "authors": "L Steinberg; S B Silverberg"
+    },
+    {
+      "title": "Good instruction is motivating",
+      "journal": "Academic Press",
+      "year": "2002",
+      "authors": "D Stipek"
+    },
+    {
+      "title": "Exploring the social contexts influencing student success or failure: Introduction",
+      "journal": "Preventing School Failure",
+      "year": "2000",
+      "authors": "R Van Acker; J H Wheby"
+    },
+    {
+      "title": "Identification with school",
+      "journal": "American Journal of Education",
+      "year": "1997",
+      "authors": "K E Voelkl"
+    },
+    {
+      "title": "School support for behavioral and psychological adjustment: Testing the mediating effect of social competence",
+      "journal": "School Psychology Quarterly",
+      "year": "2009",
+      "authors": "M T Wang"
+    },
+    {
+      "title": "Trajectories of family management practices and early adolescence behavioral outcomes in middle school",
+      "journal": "Developmental Psychology",
+      "year": "2011",
+      "authors": "M T Wang; T J Dishion; E A Stormshak; J B Willett"
+    },
+    {
+      "title": "Adolescent behavioral, emotional, and cognitive engagement trajectories in school and their differential relations to educational success",
+      "journal": "Journal of Research on Adolescence. Advance online publication",
+      "year": "2011",
+      "authors": "M T Wang; J S Eccles"
+    },
+    {
+      "title": "Adolescents' perceptions of classroom environment, school engagement, and academic achievement",
+      "journal": "American Educational Research Journal",
+      "year": "2010",
+      "authors": "M T Wang; R Holcombe"
+    },
+    {
+      "title": "A Tobit regression analysis of the covariation between middle school students' perceived school climate and behavioral problems",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2010",
+      "authors": "M T Wang; R L Selman; T J Dishion; E A Stormshak"
+    },
+    {
+      "title": "The assessment of school engagement: Examining dimensionality and measurement invariance by gender and race \u2044 ethnicity",
+      "journal": "Journal of School Psychology",
+      "year": "2011",
+      "authors": "M T Wang; J B Willett; J S Eccles"
+    },
+    {
+      "title": "Social relationships and motivation in middle school: The role of parents, teachers, and peers",
+      "journal": "Journal of Educational Psychology",
+      "year": "1998",
+      "authors": "K R Wentzel"
+    },
+    {
+      "title": "Gender influences in classroom interaction",
+      "journal": "Academic Press",
+      "year": "1985",
+      "authors": "L C Wilkinson; C B Marrett"
+    },
+    {
+      "title": "In the context of risk: Supportive adults and the school engagement of middle school students",
+      "journal": "Family Relations",
+      "year": "2007",
+      "authors": "M E Wolley; G L Bowen"
+    },
+    {
+      "title": "The influence of ethnic discrimination and ethnic identification on African-Americans adolescents' school and socio-emotional adjustment",
+      "journal": "Journal of Personality",
+      "year": "2003",
+      "authors": "C A Wong; J S Eccles; A Sameroff"
+    },
+    {
+      "title": "Self-regulated learning and academic achievement: An overview",
+      "journal": "Educational Psychologist",
+      "year": "1990",
+      "authors": "B J Zimmerman"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "152*** (0.061) )0.121*** (0.063) )0.064*** (0.065) )0.117 ** (0.061) )0.047*** (0078*** (0.032) )0.076*** (0.033) )0.088*** (0.032) )0.067*** (0.032) )0.079*** (0.033) For linear slope Intercept )0.040*** (0.014) )0.044*** (0.018) )0.042*** (0.019) )0.047*** (0.019) )0.043*** (0.017) )0.046*** (0.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_2",
+      "figure_caption": "097*** (0.031) )0.092*** (0.030) )0.073*** (0.032) )0.082*** (0.030) )0.080*** (0.030) White -)0.175*** (0.034) )0.163*** (0.033) )0.177*** (0.034) )0.171*** (0.033) )0.161*** (0102*** (0.006) )0.098*** (0.007) )0.088*** (0.007) )0.105*** (0.008) )0.075*** (0.008) )0.075*** (0Standard errors in parentheses. )2LL = )2 log-likelihood; SES = socioeconomic status; AIC = Akaike information criterion. *p < .05. **p < .01. ***p < .001.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_3",
+      "figure_caption": "120*** (0.095) )0.197*** (0.082) )0.146*** (0.088) )0.159*** (0.021) )0.144*** (0.083) White -)0.239*** (0.094) )0.198 ** (0.091) )0.246*** (0.094) )0.230*** (0.091) )0.193*** (0074*** (0.045) )0.038*** (0.043) )0.089*** (0.045) )0.052*** (0.043) )0.032*** (0.042) For linear slope Intercept )0.049*** (0.015) )0.048*** (0.013) )0.044*** (0.009) )0.043*** (0.020) )0.090*** (0.021) )0.087*** (0",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Correlational data for the time-varying measures, including teacher social support from teacher, peer, and parents, school compliance, participation in extracurricular activities, school identification, and subjective valuing of learning represent across-time averages. SES = socioeconomic status.",
+      "figure_data": "1.000.63 (0.32)--1.00).10***0.44 (0.11)--).03.030.48 (0.14)--.07***4.52 (1.81)4.49 (1.52)4.35 (1.51).07***3.89 (0.55)3.51 (0.61)3.42 (0.64).023.55 (1.20)3.45 (1.11)3.43 (1.27).06*4.54 (0.69)4.23 (0.96)4.03 (1.16).13***4.11 (1.08)3.68 (1.14)3.00 (1.15).05*3.06 (1.02)2.98 (0.88)3.04 (0.89).07***2.93 (1.05)2.84 (1.02)2.49 (1.06)10. SESMean (SD) at Grade 7Mean (SD) at Grade 9Mean (SD) at Grade 11Note."
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Fixed Effects, Variance Components, and Fit Statistics for the Growth Models of School Compliance",
+      "figure_data": "School complianceModel 1Model 2Model 3Model 4Model 5Model 6Fixed effectsFor initial statusIntercept4.515*** (0.020)4.337*** (0.102)4.238*** (0.114)4.440*** (0.117)4.222*** (0.118)4.274*** (0.089)Male-)0.293*** (0.043) )0.290*** (0.043) )0.318*** (0.044) )0.286*** (0.043) )0.321*** (0.044)White-0.091*** (0.048)0.098*** (0.048)0.094*** (0.048)0.091 ** (0.048)0.106*** (0.048)SES-0.149*** (0.045)0.147*** (0.045)0.155*** (0.045)0.134*** (0.046)0.137*** (0.046)Prior achievement-0.082*** (0.023)0.086*** (0.023)0.084*** (0.023)0.084*** (0.023)0.094*** (0.023)For linear slopeIntercept)0.123*** (0.010) )0.120*** (0.013) )0.108*** (0.013) )0.112*** (0.013) )0.110*** (0.014) )0.087*** (0.015)Teacher social supportIntercept--0.032*** (0.019)--0.034*** (0.020)Peer social supportIntercept---)0.033*** (0.018)-)0.052*** (0.018)Parent social supportIntercept----0.035*** (0.018)0.038*** (0.019)Random effectsInitial status0.014***0.010***0.009***0.012*0.013***0.008***Linear slope0.015***0.019***0.012*0.018***0.019***0.013**Level 1 residual0.573***0.530***0.524***0.522***0.530***0.519***Goodness of fit)2LL7,941.54,617.94,422.94,546.94,603.94,401.3AIC7,953.54,637.94,444.94,568.94,625.94,427.3"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Fixed Effects, Variance Components, and Fit Statistics for the Growth Models of Participation in Extracurricular Activities",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "table",
+      "figure_id": "tab_4",
+      "figure_caption": "Note. Standard errors in parentheses. )2LL = )2 log-likelihood; SES = socioeconomic status; AIC = Akaike information criterion. p < .10. *p < .05. **p < .01. ***p < .001.",
+      "figure_data": "016)Teacher social supportIntercept--0.002*** (0.028)--)0.044*** (0.030)Peer social supportIntercept---0.088*** (0.026)-0.057*** (0.028)Parent social supportIntercept----0.135*** (0.027)0.125*** (0.029)Random effectsInitial status0.351***0.317***0.326***0.310***0.310***0.306***Linear slope0.048***0.050***0.050***0.046**0.049***0.047**Level 1 residual1.079***1.017***1.002***1.018***1.009***1.003***Goodness of fit)2LL7,571.14,955.24,753.94,851.14,925.14,699.5AIC7,583.14,977.24,777.94,875.14,949.14,727.5"
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_5",
+      "figure_caption": "Fixed Effects, Variance Components, and Fit Statistics for the Growth Models of School Identification",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "5",
+      "figure_type": "table",
+      "figure_id": "tab_6",
+      "figure_caption": "Fixed Effects, Variance Components, and Fit Statistics for the Growth Models of Subjective Valuing of Learning",
+      "figure_data": ""
+    }
+  ],
+  "doi": "10.1111/j.1467-8624.2012.01745.x"
+}

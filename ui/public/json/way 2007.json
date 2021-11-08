@@ -1,0 +1,649 @@
+{
+  "title": "Students' Perceptions of School Climate During the Middle School Years: Associations with Trajectories of Psychological and Behavioral Adjustment",
+  "abstract": "A cross-domain latent growth curve model was used to examine the trajectories of change in student perceptions of four critical dimensions of school climate (i.e., teacher support, peer support, student autonomy in the classroom, and clarity and consistency in school rules and regulations) among 1,451 early adolescents from the beginning of sixth through the end of eighth grade; and the effects of such trajectories on the rate of change in psychological and behavioral adjustment. Findings indicated that all of the dimensions of perceived school climate declined over the 3 years of middle school. Furthermore, declines in each of the dimensions of perceived school climate were associated with declines over time in psychological and behavioral adjustment. Moreover, the direction of effects between each dimension of perceived school climate and psychological or behavioral adjustment were often unidirectional rather than bi-directional, underscoring the role of perceived school climate in the psychological and behavioral health of early adolescents. Gender and socioeconomic class differences in these patterns are noted.",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "text": "Middle schools play an important role in the development of adolescents. They provide a context in which students learn, implicitly and explicitly, about themselves and relationships, and about how to navigate the turbulent waters of early adolescence. There is considerable evidence that the interpersonal, organizational, and instructional ''climate'' of middle schools strongly influences students' adjustment across multiple domains (Eccles and Roeser 1999;Roeser et al. , 2000Kuperminc et al. 1997;Skinner and Wellborn 1997). Middle school climates often challenge early adolescents' adaptive capacities and account for at least some of the difficulties that arise during this developmental stage . Despite growing interest in students' perceptions of their middle schools, and evidence for the influence of such perceptions on psychological and behavioral adjustment, our understanding of this construct and its association with adjustment rests on a relatively small base of empirical findings (Bachman and O'Malley 1986;Brand et al. 2003;Hoge et al. 1990;Kuperminc et al. 1997;Way and Robinson 2003). Most studies have focused on how perceptions of school climate shape academic adjustment (Bryk and Driscoll 1988;Griffith 1995;Skinner et al. 1990), giving far less consideration to its emotional and behavioral consequences. This is surprising given that the emergence of depressive symptoms, lowered self-esteem, and behavioral difficulties often coincides with the middle-school years (Blyth et al. 1983;Seidman et al. 1994).\nMoreover, studies of school climate have predominantly focused on how students' perceptions change during the transition from elementary to middle school, as opposed to the changing patterns of students' perceptions during middle school itself. Such research has also typically treated students' perceptions of school climate as static, baseline predictors of other outcomes variables (see Brand et al. 2003;Kuperminc et al. 1997;Way and Robinson 2003). Yet subtle factors, such as shifts in student-teacher relationships or peer relationships, can easily influence adolescents' perceptions of their schools. These changes in perceptions of school climate, in turn, are likely to have various psychological and behavioral implications.\nIn this study, we used cross-domain latent growth curve models to examine trajectories of change in students' perceptions of four critical components of school climate (i.e., teacher support, peer support, student autonomy in the classroom, and clarity and consistency in school rules) among early adolescents from the beginning of sixth through the end of eighth grade, and the effects of such trajectories on the rate of change in psychological and behavioral adjustment. This investigation is a secondary analysis of a data set drawn from the Illinois Center for Prevention Research (see Felner et al. 1997).",
+      "n_publication_ref": 18,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Theoretical and Empirical Background",
+      "text": "Theorists and researchers have underscored the importance for middle school students' wellbeing of four aspects of school climate: (1) the nature of relationships between teachers and students; (2) the nature of relationships between students; (3) the extent to which student autonomy is allowed in the decision-making process; and (4) the extent to which the school provides clear, consistent, and fair rules and regulations (Bachman and O'Malley 1986;Connell and Wellborn 1991;Epstein and Karweit 1983;Kuperminc et al. 1997;Haynes and Emmons 1994;Skinner and Wellborn 1997). These elements of the school climate (i.e., relatedness, opportunities for autonomy, and clarity/consistency) are considered particularly important for students during the middle school years because they match with the developmental needs of early adolescents (Eccles and Midgley 1989;Eccles et al. 1993;Connell and Wellborn 1991). Researchers have noted that if there is not a ''person-environment fit'' or the school is not perceived by the students as supporting their need for relatedness, autonomy, and consistency, 1 their psychological and behavioral health will be at risk (Connell and Wellborn 1991;Eccles et al. 1993). An important component of these models linking school climate with psychological and behavioral adjustment is that it is the adolescents' perceptions or experiences of the school environment rather than a more objective account of the school that is most relevant for understanding adolescents' adjustment and wellbeing (Connell and Ryan 1987;Connell and Wellborn 1991;Eccles et al. 1993).\nThe empirical research examining the association between students' perceptions of the teacher support, peer support, student autonomy, and clarify and consistency in school rules on psychological or behavioral adjustment has suggested that they are strongly associated with one another (Brand et al. 2003;Kuperminc et al. 1997;Hoge et al. 1990;Way and Robinson 2003). For example,  found that students' perceptions of their schools' learning environment (i.e., teacher support, and support for student autonomy) during seventh grade significantly predicted change over time in emotional functioning from seventh to eighth grade, even after accounting for demographic characteristics. In other words, improvements in emotional functioning from seventh to eighth grade was significantly predicted by higher reports of teacher support and support for student autonomy during the seventh grade. Similarly, Hoge et al. (1990) found that more positive perceptions of school climate, including perceptions of teacher support, predicted increases in global self-esteem from fall to spring during the sixth and seventh grade, after accounting for IQ, sex, race, single parent family, and socioeconomic status. Others have also found significant associations between teacher and/or peer support, opportunities for autonomy, and clarity and consistency in school rules and students' emotional adjustment (see Brand et al. 2003;Bachman and O'Malley 1986;Kuperminc et al. 1997;Way and Robinson 2003).\nIn addition, linkages between teacher and/or peer support, opportunities for autonomy, and clarity and consistency in school rules and behavior problems have been reported (Brand et al. 2003;Bryk and Driscoll 1988;Kuperminc et al. 1997;Rutter et al. 1979;Sommer 1985). For example, Kasen et al. (1990) found that an increase in students' perceptions of autonomy in the classroom in middle school over one-year period predicted decreases in alcohol use, conduct problems, and oppositional behavior. In their study of 188 middle schools, Brand et al. (2003) found that students' perceptions of different dimensions of school climate, including teacher and peer support (and negative peer interaction), was significantly associated with self-esteem, depressive symptoms, delinquency, and substance use.\nTaken together, these studies shed light on the range of psychological and behavioral outcomes associated with students' perceptions of middle schools environments and underscore the importance of schools addressing the psychological needs of early adolescence (Connell and Wellborn 1991). To a certain extent, however, the statistical methods that have been most commonly employed have masked patterns of change and adjustment over time. These techniques, which have spanned from correlational and mean level analyses of groups of students (e.g., ANOVA's, MANOVA's), to more complex grouping and structural models, rest on a more static view of a period that is typically characterized by heterogeneity and flux. Snapshot views of this developmental phase do not adequately describe the different patterns over time of perceived school climate nor do they explain the changing nature of psychological and behavioral adjustment. For some students, the middle schools years may be marked by ongoing patterns of success and emotional wellbeing. Initial positive reactions to the school environment might portend ongoing opportunities for positive growth and development. For others, however, a honeymoon period might gradually give way to disappointment with their middle school's limitations. Still others might experience transitional struggles that forecast either continued negative perceptions of the school or gradual adaptation to the setting. Each of these scenarios is likely to predict different levels of emotional and behavioral adjustment. The goal in this study is to extend the research on school climate by tracking the effects of various patterns of perceptions of school climate over time.\nOur work is not only guided by developmental theories such as those by Eccles and colleagues (e.g., Eccles et al. 1993; and motivational theories such as those by Connell and colleagues (Connell and Wellborn 1991), but also by an integrated systems perspective that recognizes that perceptions of school climate are closely tied to various demographic variables such as gender and socioeconomic status (SES). Research, for example, has suggested that adolescent girls may experience school as a less supportive environment than boys, stemming from institutional gender biases, and a greater likelihood of sexual harassment from male peers (AAUW 1992;Brown and Gilligan 1992;Orenstein 1994;Sadker and Sadker 1994). These difficult experiences may translate into more negative perceptions of school. In addition, since the harassment from peers often increases during middle school as girls reach puberty, girls' perceptions of school climate may be more likely than boys to decline over time (Orenstein 1994). Furthermore, increasing levels of relational aggression among girls in middle schools has been noted by researchers (Crick and Rose 2000;Rys and Bear 1997) and may lead girls to grow increasingly dissatisfied with their peers-a key component of the interpersonal dimension of school climate.\nAlong similar lines, lower SES students may hold more negative views of their schools than their higher SES counterparts, as the former groups are more likely to attend under-funded and understaffed schools that have few resources to create positive learning environments (Alvidrez and Weinstein 1999;Conchas and Noguera 2004;Kuperminc et al. 1997;Way 1998). Researchers over the past three decades have documented the negative perceptions of school evident among many low SES students (Anyon and Wilson 1997;Fine 1991;Kozol 1992;Way 1998). Furthermore, the perceptions of school climate among lower SES middle school students may become more negative over time, in comparison with higher SES students, as their ability to recognize the limits of their school grows stronger (Conchas and Noguera 2004).",
+      "n_publication_ref": 49,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Current Study",
+      "text": "In this study, we sought to examine four questions: (1) How do students' perceptions of teacher support, peer support, opportunities for autonomy in the classroom, and clarity and consistency of school rules and regulations change during the middle school years? (2) Does gender or SES explain variations in perceptions of these four dimensions of school climate over time? (3) Are changes in perceptions of these four dimensions associated with changes in psychological and behavioral adjustment? (4) What is the direction of effect between each dimension of perceived school climate and psychological and behavior adjustment? Although researchers have tested the hypothesis that students' perceptions of school climate influence their psychological and behavioral adjustment, it is also plausible that students' adjustment may influence their perceptions of their school environments. Researchers have not, however, tested both possibilities in one study.\nBased on previous research (e.g., Eccles et al. 1993), we hypothesized that students' perceptions of the teacher and student support, opportunities for autonomy, and consistency and clarity of school rules would become more negative during the middle school years. We also expected that boys and higher SES students would report more positive perceptions of the school environment and less sharp declines over time than girls and lower SES students, respectively. Finally, we hypothesized that perceptions of school climate would influence adjustment, rather than the reverse (see Fig. 1).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 1
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Source of Data",
+      "text": "Data were drawn from a larger ongoing longitudinal study of the role of educational environments and state-wide change efforts on early adolescents in middle schools. 2 The schools that participated in this study were all members of a statewide middle school association, which serves students from geographically and socio-economically diverse backgrounds. Administrators in the schools agreed to participate in the study as part of statewide school assessment plan. The assessment was not tied to a particular intervention.\nThe original study included 2,860 students from 30 schools. The response rate ranged from 70 to 90%. We eliminated those students who had missing information and those who did not have complete data for all 3 years of the study. Since we sought to understand changes during the 3 years of middle school, we also eliminated schools that did not have grades six, seven, and eight. The current study focused on the 1,451 middle school students (from 22 middle schools) who had complete data from the three consecutive years of the study, 1995-1997, when the students were in sixth, seventh, or eighth grade.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Participants",
+      "text": "At Time 1, the sample consisted of 1,451 early adolescents who had begun sixth grade in 1995. Slightly over half the sample was female (54.2%) and the majority was European American (91%). Eligibility to receive free or reducedprice lunches was taken as a marker of low-income status.\nAt the beginning of middle school, 20% of the sample reported receiving free or reduced-price lunches. A little over one-third of the students reported that their mothers had completed college (37.4%) and over half reported that their fathers had two or more years of college (17%) or had completed college (41.6%). The majority of the adolescents (85%) also reported living in two-parent families. The students were drawn from 22 Midwestern schools all housing grades six through eight. The schools represented diverse geographical locales with half of the schools in small town or rural areas and 40.8% situated in urban areas. Six grade enrollment in each school ranged from 68 to 414 students.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Procedures",
+      "text": "Data collection occurred in participating schools during the Spring of 1995Spring of , 1996Spring of , and 1997. The IRB at the participating University reviewed and approved Human Subject procedures. 3 The informed consent of students and their parents was obtained and confidentiality was assured. Teachers distributed the surveys in classrooms to students, and read them aloud to reduce disparities in reading level. Teachers were always present during survey administration. The surveys were typically completed in two class  3 A two tiered consent procedure developed and approved by the Institutional Review Board at the participating university allowed the investigators to use passive consent procedures. The first step required each school to create a Parent Advisory Team (PAT) that was reflective of the children and families attending that school. The PAT was asked to review the surveys and consent form that would subsequently be sent home to parents for their approval. The PAT was to consider community norms and values when reviewing the topics covered in the surveys, and they were to determine if the consent form accurately represent the goals and purposes of the study. Parents serving on PAT team were also asked to serve as resources to other parents who might have questions supporting the surveys, and copies were kept in the school from office for parental review. Once the PAT signed the advisory form, schools were required to send home letters to parents and were asked to return the form if they did not want their child to participate. periods over a 2-day period. The schools determined the class to administer the survey. Some schools administered the survey during homeroom while others used a class within the school day. Once surveys were completed, surveys were collected and returned to the university for processing.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    { "heading": "Measures", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "School Climate",
+      "text": "In order to examine school climate, we examined teacher support, peer support, student autonomy and clarity and consistency in school rules (see Appendix A). These four dimensions were assessed through subscales of the Perceived School Climate Scale (1993) developed by the Center for Prevention Research and Development (CPRD) (see Felner et al. 1997). The questionnaire is based on the Classroom Environment Scale (Trickett and Moos 1973), a widely used and well-validated measure. Changes to the Classroom Environment Scale involved rewording items to eliminate double negatives and providing more familiar language for colloquial terms. The Perceived School Climate Scale has been found to be a valid and reliable measure of school climate (see Brand et al. 1994Brand et al. , 2003.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Teacher Support",
+      "text": "The six items on this subscale of the Perceived School Climate Scale indexed students' perceptions of teacher support in the school. Students rated on a 5-point scale (1 = never to 5 = always) how true statements were for their school such as teachers go out of their way to help students and teachers take a personal interest in students. Higher scores indicate higher levels of teacher support. Internal consistency of the scale for the 3 years of the present study was .74, .74, and .79, respectively.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Peer Support",
+      "text": "Two subscales of the Perceived School Climate Scale assessed adolescent's perceptions of peer support: negative peer interactions and affiliation. The negative peer interactions subscale (Time 1 a = .77, Time 2 a = .77, Time 3 a = .82) and the affiliation subscale (Time 1 a = .69, Time 2 a = .70, Time 3 a = .78) assessed on a 5-point scale (1 = never to 5 = always) how well students in the school got along with each other, enjoyed working together, helped each other, or were mean to each other. The items on the negative peer interaction subscale were recoded and the composite score of the two subscales was used. Higher scores on this dimension indicate a positive peer climate. Internal consistency for the combined scale for the 3 years of the present study was .77, .72, and .75, respectively.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Opportunities for Student Autonomy",
+      "text": "This construct was assessed through the 5-item student decision-making subscale of the Perceived School Climate Scale. Rated on a 5-point scale (1 = never to 5 = always), the scale assessed whether students felt that they had a say in how things worked in school, helped decide how class time was spent, given a chance to help make decisions, and asked what they would like to learn about. Higher scores imply a greater degree of student decision-making. Internal consistency for the 3 years of the present study was .70, .72, and .75, respectively.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Clarity and Consistency in School Rules",
+      "text": "Two subscales of the Perceived School Climate Scale, school structure and school harshness, were combined to assess clarity and consistency in school rules and regulations. School structure (Time 1 a = .68, Time 2 a = .75, Time 3 a = .82) and School harshness (Time 1 a = .65, Time 2 a = .69, Time 3 a = .75), assessed on a 5-point scale (1 = never to 5 = always), indexed the degree to which students perceived clarity in the school rule structure and their perceptions of arbitrary or punitive discipline practices in the school. The harshness subscale was recoded and then a composite subscale score was obtained. Higher scores on this dimension implied perceptions of clarity, consistency, and fairness in the school. Internal consistency for the combined scale for the 3 years of the present study was .62, .65, and .59, respectively.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    { "heading": "Indices of Wellbeing", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Behavior Problems",
+      "text": "The Behavior Problems Scale was based on the Delinquency Scale of the Youth Self-Report (Achenbach and Edelbrock 1987). The scale is a shortened version of the original scale indexing frequency rather than severity of problem behavior. The scale was shortened by The CPRD (Felner et al. 1997). The 10-item measure indexed on a 5point scale (1 = never to 5 = more than 12 times) how often students, over the past 6 months, reported having committed a problem behavior, including telling lies, breaking rules at school, cutting classes or skipping school, hitting other people, and acting mean toward others. Internal consistency over 3 years for the current study was a = .85, a = .88, and a = .90 respectively.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Self-esteem",
+      "text": "Self-esteem was indexed by the six-item general selfesteem subscale of the Self-Evaluation Questionnaire (SEQ, DuBois and Felner 1991;DuBois et al. 1996). DuBois et al. (1996) have reported convergent and discriminant validity of the scale. Students rated statements such as ''I like being the way I am,'' ''I am happy with myself as a person,'' ''I am as good a person as I want to be,'' on a 4-point scale (strongly disagree to strongly agree) with higher ratings indicating higher levels of self-esteem. Internal consistency of the subscale for the 3 years was a = .83, a = .84, and a = .86, respectively.",
+      "n_publication_ref": 3,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Depressive Symptoms",
+      "text": "Depressive symptoms were indexed with a shortened version of the Children's Depressive Inventory (Kovacs 1980(Kovacs / 1981. The sixteen-item self-report scale measures cognitive, affective, and behavioral symptoms of depressive symptoms. For each item, students selected one of three statements (increasing in symptom severity) that best described their feelings and ideas during the previous 2 weeks. The scale yields a single aggregate measure of depressive symptomology reflecting an underlying unidimensional construct. Lower scores indexed lower levels of reported depressive symptoms. Reliability for the 3 years was a = .85, a = .80, and a = .89, respectively.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Demographic Characteristics",
+      "text": "Single items were used to assess students' grade level, gender (female coded 1), whether they received free lunch or reduced price lunch at school (free or reduced-price lunch coded 1), race or ethnicity (minority status coded 1), father and mother's educational level, and with whom they have lived in the past year.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Analytic Strategy",
+      "text": "Cross-domain growth modeling was used to test the hypotheses of the current study. Technical discussions (e.g., Sayer and Willett 1998;Willet and Keiley 2000) as well as longitudinal applications (e.g., Willett and Sayer 1996) of this methodology are available in the literature.\nCross-domain modeling capitalizes on the richness of two methodologies, individual growth modeling, and covariance structure analysis. The former permits the assessment of systematic differences in change within and between individuals, while the latter allows a more flexible system of testing inter-relationships among these changes. For instance, one can investigate not only whether individual differences in change in a particular domain are related to a specific set of predictors but also if change in one domain is related to change in another.\nIndividual growth models specify ''intercept'' and ''slope'' growth parameters and define within-person or level-1 models. The intercept parameter represents initial status as defined by the investigator whereas the slope parameter represents the rate of change over time. Covariance structure analyses then allows the specification and test of relationships among different individual growth models and thereby defines the between-person or level-2 models. In cross-domain modeling, level-1 models are first mapped onto a covariance structure matrix. In structural equation modeling terms, each level-1 model can be treated as an exogenous or endogenous measurement models. The repeated observations of each construct form indicators that delineate two latent growth parameters, the intercept and slope. An important step in defining both growth parameters is choosing a suitable mathematical model to represent change over time. Since we were constrained by only three waves of data, a linear trajectory in growth was selected for the current model. As the observations were taken during each academic year, this defined a time interval of t = 1, 2, 3. In order for the intercept to represent status in the sixth grade, we rescaled the time metric by subtracting one (so that t = 0, 1, 2). Apart from ensuring that the intercept represented initial status, this rescaling also implied that the slope represents linear rate of change over time. The first growth parameter, the intercept, is defined by the first latent factor and represents the initial levels or status of the measures when the adolescent is in the sixth grade. The second growth parameter, slope, is represented by the equal spaced loadings (i.e., 0, 1, and 2) of the observed variables and defines the linear rate of change of growth over time. Note that all individuals of the sample are assumed to have the same linear form of growth but different individuals may have different values for the two growth parameters. The means of these latent intercept and slope factors represent group growth factors and are the estimate of the average true intercept and slope in the population. Heterogeneity in growth is captured by the variances of the intercept and slope latent factors. Predictors of this variability can thus be easily introduced using the structural equation modeling (SEM) framework by regressing the predictors on the intercept and slope latent factors.\nThe power of the cross-domain analyses is obtained when such individual latent growth models are combined together. In SEM terminology, these combined models represent structural models that specify relationships between the individual growth models. These combined models therefore define between-person or level-2 models. These models can further be expanded by adding specific person-level characteristics that are used as predictors of initial status and growth.\nIn the case of the current study, we were interested in (a) unconditional models that would highlight the average trajectories of change over time for each dimension of school climate as well as each outcome variable, (b) the effects of student gender and socioeconomic status on both the initial levels and slopes of each dimension of perceived school climate, (c) the associations among changes in the different dimensions of school climate perceptions and the concomitant changes in self-esteem, depressive symptoms, and behavior problems, and (d) models that examined the alternative hypothesis, namely, that the direction of effects between each dimension of perceived school climate and adjustment is bi-directional rather than unidirectional. Secondary to these analyses, we also report the nature of the relation between initial levels of the school climate dimensions and initial levels of depressive symptoms, general self-esteem, and behavior problems, and the relation between initial levels of school climate dimensions and rates of change in depressive symptoms, self-esteem, and behavior problems. Cross-domain growth modeling was selected for the current study because it allows us to fully examine each of our research questions. All models were estimated using LISREL 8.50 (J\u00f6reskog and S\u00f6rbom 2001). In the LISREL model, the standardized regression coefficient is the effect size (Kline 1998). As suggested by Kline, the interpretation of the absolute magnitudes of path coefficients can follow the general recommendations by Cohen (1988). Standardized path coefficients with absolute values less than .10 indicate a ''small'' effect; values around .30 a ''medium'' effect; and values of .50 and above reflect a ''large'' effect.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Treatment of Missing Data",
+      "text": "Comparison of the retained and eliminated sample revealed that students who were retained for analysis were more likely to be female, white, and have mothers who were college educated. Furthermore these students were also more likely to come from two-parent families. The list-wise deletion of the student data also resulted in the elimination of one school from the sample. The eliminated school had a greater percentage of African American students than the retained schools in the sample. Ethnic variability in school composition was controlled for by controlling for minority status in the combined models.\nTo test the nature of any probable bias in the list-wise elimination process, multiple imputation procedures were conducted using NORM software (Schafer 2000). Preliminary data screening revealed percent of missing data for each variable in the analyses, which ranged from .80 to 7.87%. Four imputed data sets were created using a twostep process under the multivariate normal model. These data sets were then utilized to obtain parameter estimates for the unconditional models, the conditional models for the school climate dimensions, and the final combined and alternative models reported in the study. Results from each of the four separate runs (one for each of the imputed data sets) were then re-combined in NORM. The results indicated that the patterns of outcomes were similar for the imputed and the reduced sample models. Given overall similarities and our desire to maintain parsimony in reporting, the findings reported in the study rely on the reduced sample size (N = 1,451). All models were estimated using LISREL 8.30 (J\u00f6reskog and S\u00f6rbom 2001).",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Descriptive Analysis",
+      "text": "Means, standard deviations, univariate skewness coefficients, and correlations among the demographic variables, perceptions of each dimension of school climate and the outcome variables in the model are presented in Table 1. The effect sizes of the correlations are presented in Table 2. The overall observed means show declines in each of the dimensions of school climate and in the wellbeing variables during middle school. The skewness coefficients ranged from -.52 to 1.86, none indicating significant deviations from symmetry. The four dimensions of school climate were moderately and positively related to each other with the highest coefficients for teacher support and clarity and consistency in school rules. Significant correlations between the dimensions of school climate and behavior problems, depressive symptoms, and general self-esteem were in the expected direction. Medium to large effect sizes were typically indicated for each dimension of school climate on behavioral or psychological adjustment. Gender was consistently, positively correlated with and indicated medium effect sizes on each dimension of school climate except student decision-making. Surprisingly, no significant correlation between gender and self-esteem or depressive symptoms was obtained. Socioeconomic status was positively related to all 3 years of depressive symptoms. Apart from this latter finding, SES did not show any consistent pattern of association with the other variables in the model.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Initial Analytical Step: Unconditional Models",
+      "text": "To examine how students' perceptions of school climate as well as indices of psychological and behavioral adjustment change over the course of middle school, seven unconditional individual growth models were estimated, one each for the repeated measures of the four dimensions of perceived school climate (i.e., teacher support, peer support, opportunities for student autonomy, and clarity and consistency in school rules), behavioral problems, depressive symptoms, and general self-esteem. This permitted the examination of average growth trajectories as well as the presence of individual variability about the average growth parameters. Furthermore, we also examined the role of gender and SES on each dimension of school climate by regressing these predictors on the intercept and growth latent factors. Since the focus of our paper is on the predictors and effects of four dimensions of perceived school climate, for the unconditional models we did not examine the influence of gender or SES on our three outcome variables.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Change Over Time in Perceived School Climate",
+      "text": "Results from the unconditional models can be seen in Table 3. For the dimensions comprising teacher support and peer support, the models fit the data reasonably well. 4 The average growth trajectory revealed significant (i.e., different from zero) levels of perceptions of teacher support and peer support in the sixth grade. Students had positive perceptions of both teacher and peer support at the start of sixth grade. However, as students progressed through middle school, their perceptions of teacher support and peer support declined significantly every year (as can be seen in the negative and significant slopes). Significant heterogeneity in the initial status (at the sixth grade) and slope of individual trajectories of teacher and peer support were also found.  Note: These effect sizes were calculated from the r values using the following formula: 2r/sqrt(1 -r 2 ) (Rosenthal and Rosnow 1992). Absolute values displayed\nThe models for student autonomy and clarity and consistency of school rules also fit the data reasonably well. The average growth trajectory revealed significant (i.e., different from zero) levels of perceptions of student autonomy and clarity and consistency of school rules in the sixth grade. Moreover, the average trajectory for the slope indicated that the perceptions of student autonomy as well as those for clarity and consistency of school rules declined over the course of middle school. Significant heterogeneity in the initial status and slope of individual trajectories of student autonomy and clarity and consistency of school rules were also found.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Impact of SES and Gender",
+      "text": "To further examine the nature of the significant individual variation in initial status and growth over time in the teacher and peer support, student autonomy, and clarity and consistency in school rules, the intercept and the slope factors of each of the models discussed above were regressed on gender and SES (see Table 4). For each model, non-significant pathways were specified to zero and the models were re-fitted. In each case, the re-fitted models did not show significant degradation from the originals.\nThe impact of gender and/or SES on each dimension of school climate indicated a small to medium effect size as indicated by the path coefficient.\nFor teacher support, girls at the beginning of the sixth grade reported more teacher support than boys. Similarly, adolescents from a lower socioeconomic background (i.e., receiving free or reduced price lunch) reported more positive perceptions of teacher support at the sixth grade than students from a higher socioeconomic status (i.e., not eligible for free or reduced price lunch). With respect to peer support, at the start of middle school, girls tended to perceive more peer support than boys. However, as the girls progressed through middle school, they evidenced steeper declines in their perceptions of peer support than the boys. In addition, students from a lower socioeconomic background reported less positive peer support at the start of middle school than the students from higher socioeconomic backgrounds, but the change over time did not differ by SES.\nFor student autonomy, gender predicted initial levels such that girls at the start of middle school perceived greater opportunities for student involvement in the decision-making in their classrooms than boys. There were no SES differences indicated for the intercept or slope of opportunities for student autonomy. For clarity and  consistency in school rules, girls perceived greater clarity, consistency, and fairness at the start of middle school than boys. Students from lower socioeconomic backgrounds reported less clarity, consistency, and fairness at the start of middle school than their more privileged counterparts.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Indices of Wellbeing",
+      "text": "The unconditional models for behavior problems, general self-esteem, and depression were also tested (see Table 3).\nThe average trajectory for behavior problems revealed the following. Initial status of behavior problems was significantly different from zero. The estimate of the slope was positive and also significantly different from zero, indicating population average increased in reports of behavior problems over time. With respect to general self-esteem, a negative significant slope factor indicated declining levels of self-esteem over the course of middle school for the average population growth trajectory. The average growth trajectory for symptoms of depression revealed significant levels of depression in the sixth grade. The estimate of the slope was positive and also significantly different from zero indicating an increase in reports of symptoms of depression over time. Significant variance in both initial status and slope factors was obtained for all three indices of wellbeing, indicating the presence of heterogeneity in the individual trajectories over time (see Table 3).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Summary",
+      "text": "In summary, adolescents in the study tended to perceive middle schools as increasingly negative over time. Furthermore, they report declining levels of wellbeing, as indicated by increasing levels of depressive symptoms, behavior problems, and decreasing levels of general selfesteem over the course of middle school. Gender differences were detected for the initial levels of all four dimensions of school climate, with girls perceiving more positive school climates at the start of middle school. Girls also reported sharper declines in peer support than boys. Socioeconomic differences were also observed for the initial levels of teacher support, peer support, and clarity and consistency in school rules. There were no SES differences in the rates of decline for any of the school climate dimensions.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Combined Models",
+      "text": "The third aim of the current study was to examine the nature of associations between each of the dimensions of perceived school climate and psychological and behavioral adjustment (see Fig. 1). To this end, we tested a combined model that included the unconditional models presented above. Four different models were thus explored; one for each dimension of school climate. The associations among the growth parameters across the domains were estimated via regression coefficients between the respective initial status and slopes. Specifically, initial status and slopes of the outcome variables (i.e., behavior problems, general self-esteem, and depressive symptoms) were regressed on the initial status of each of the dimensions of school climate to examine the influence of initial levels of the specific dimension of school climate on behavior problems, self-esteem, or depressive symptoms growth trajectories. To explore how rates of changes each of the dimensions of school climate predicted rates of changes in psychological and behavioral outcomes over the course of middle school, the slope of the outcome variables were regressed on the slope of school climate dimension. Additionally in each model, the initial status and the slope of each of dimension of school climate was regressed on gender, SES, and minority status. Although we included minority status in these models given research that suggests across group variation in the association between school climate and adjustment (see Way and Robinson 2003), we do not interpret the nature of this relationship in any meaningful way given the insufficient sample size for minority students (only 9% of the sample). By including minority status, however, any possible variation attributed to this variable was controlled for in the models. Furthermore, in light of previous research findings suggesting gender differences in depressive symptoms, self-esteem, and behavioral problems (e.g., Block and Robins 1993;Cicchetti and Toth 1998;Nolen-Hoeksema and Girgus 1994) the growth parameters for the outcome variables (i.e., both status and slope factors) were regressed on gender.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Teacher Support",
+      "text": "The combined model fit the data well (v 2 (43) N = 1,451) = 192.34, RMSEA = .05, CI = .04-.06, CFI = .98). Neither minority status nor SES significantly predicted the initial status or slope of teacher support. Additionally, gender did not significantly predict depressive symptoms or any of the slopes of the variables in the model. We therefore re-estimated this model setting these paths to zero. The test of the nested chi-square revealed that the model fit was not significantly degraded (v d 2 (9) = 15.95, p [ .05). This latter model is thus reported (see Fig. 2). Gender differences were found with respect to the initial status of teacher support (as reported in the unconditional models), general self-esteem, and behavior problems. At the beginning of sixth grade, girls reported significantly lower levels of self-esteem, while boys reported higher incidences of behavior problems at the start of middle school. The intercept of teacher support (the sixth grade assessment) was significantly associated with the intercepts of self-esteem and depressive symptoms and with the intercept and slope of problem behavior.\nWith respect to our primary question regarding the association between changes over time in teacher support on changes over time in depressive symptoms, self-esteem, or behavior problems, the slope of teacher support was significantly (i.e., different from zero) related to the slopes of depressive symptoms and behavior problems. A decline in perceptions of positive teacher support over time was associated with corresponding increases in depressive symptoms and behavior problems. The associations between the intercept and/or slope of teacher support and the intercept and/or slope of self-esteem, depressive symptoms, or problem behavior suggested medium to large effect sizes, with the slope of teacher support on the slopes of problem behavior and depressive symptoms suggesting particularly large effect sizes (see Fig. 2).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Peer Support",
+      "text": "The model that assessed the degree of influence of peer support in the school fit the data well (v 2 (43) N = 1,451) = 155.23, RMSEA = .04, CI = .03-.05, CFI = .98). Examination of this model revealed that gender significantly predicted the initial status and slope of peer support (as reported in the unconditional models), initial status and slope of behavior problems, and initial status of both general self-esteem and depressive symptoms. SES predicted the initial status of peer support (as reported in the unconditional models). All non-significant paths in the relationships between the demographic variables and the other variables in the model were set to zero and the model re-estimated. The chi-square difference test indicated that the final model was not significantly degraded (v d 2 (5) = 5.20, p [ .05) (see Fig. 3). As expected, girls reported lower levels of behavior problems, lower self-esteem, and higher levels of depressive symptoms at the beginning of middle school. Boys were more likely to report sharper increases in behavior problems over middle school when compared to the girls. The intercept of peer support was significantly associated with the intercept and slope of selfesteem and depressive symptoms and the intercept of problem behavior.\nWith respect to the association between change over time in peer support and change over time in adjustment, the findings indicated that perceptions of declining peer support were associated with declines in psychological and behavioral adjustment. As students reported declines in peer support, there were corresponding increases in depressive symptoms and behavior problems and declines in general self-esteem. The association between the intercept and/or slope of peer support and the intercept and/or slope of self-esteem, depression, or problem behavior indicated medium to large effect sizes (See Fig. 3).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 2
+    },
+    {
+      "heading": "Opportunities for Student Autonomy",
+      "text": "The combined model for opportunities for student autonomy fit the data well (v 2 (43) N = 1,451) = 176.75, Fig. 2 Final combined crossdomain model for student perceptions of teacher support.\nFor the sake of clarity, only significant paths are represented. All parameter values are standardized. Model v 2 (52, N = 1,451) = 208.29, RMSEA = .05, CI = .04-.05, CFI = .97 RMSEA = .05, CI = .04-.05, CFI = .97). With the exception of the path from gender to initial status of student autonomy (as reported in the unconditional models) and behavior problems, gender, SES, and minority status did not significantly predict the variables in the model. We therefore set these non-significant paths to zero and reestimated the model. There was no significant degradement of the final model (v d 2 (10) = 14.39, p [ .05) (see Fig. 4). Boys reported higher levels of problem behaviors than the girls at the sixth grade. The intercept of opportunities for student autonomy was significantly associated with the intercept of depressive symptoms and self-esteem and the intercept and slope of behavior problems.\nThe rate of change in perceptions of opportunities for student autonomy was significantly related to the rate of changes in depressive symptoms, behavior problems, and self-esteem. As students perceived sharper declines in opportunities for student decision-making in the classroom over time, they also reported increases in depressive symptoms and behavior problems over time, and decreases in self-esteem. The association between the intercept and/ or slope of student autonomy and the intercept and/or slope of self-esteem, depressive symptoms, or behavior problems indicated medium effect sizes (see Fig. 4).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 3
+    },
+    {
+      "heading": "Clarity and Consistency in School Rules",
+      "text": "The combined model for clarity and consistency in school rules fit the data well (v 2 (43) N = 1,451) = 150.05, Fig. 3 Final combined crossdomain model for student perceptions of peer support. For the sake of clarity, only significant paths are represented. All parameter values are standardized. Model v 2 (48, N = 1,451) = 160.43, RMSEA = .04, CI = .03-.05, CFI = .98 RMSEA = .04, CI = .03-.05, CFI = .98). SES status did not significantly predict either the initial status or slope of clarity and consistency in school rules. In addition, minority status and gender were significantly associated with the intercept but not with the slope of clarity and consistency in school rules. Gender also predicted each of the outcome variables (i.e., behavior problems, depressive symptoms, and self-esteem). The non-significant paths were next set to zero and the model was re-estimated. There was no significant degradement of the final model (v d 2 (7) = 8.58, p [ .05). This final model is graphically displayed in Fig. 5. Girls in the sixth grade reported higher levels of depressive symptoms and lower levels of self-esteem than boys, while boys reported higher levels of problem behavior than girls. The intercept of clarity and consistency in school rules was significant associated with the intercept of self-esteem and depressive symptoms and with the intercept and slope of problem behavior.\nOur findings with regards to the slope of clarity and consistency in school rules indicated that for students who reported an increase in perceptions of clarity and consistency in school rules, there was a corresponding decrease in depressive symptoms and behavior problems over time. The association between the intercept and/or slope of clarity and consistency in school rules and the intercept and/or slope of self-esteem, depressive symptoms, or behavior problems indicated medium to large effect sizes (See Fig. 5).\nIn summary, students' perceptions of teacher and peer support, student autonomy, and clarity and consistency in school rules in sixth grade (initial status) was significantly associated with students' reported levels of depressive symptoms, general self-esteem, and behavior problems in the sixth grade. In addition, students who perceived their school as having increasingly more teacher and peer support, a greater degree of student autonomy, and more clarity and consistency in school over time also reported declines over time in depressive symptoms and behavior problems. Moreover, reports of increasingly positive peer support and a greater degree of student autonomy were significantly related to increases over time in student reports of general self-esteem. The effect sizes in each model suggested medium to large effect sizes, with the slope of peer support, teacher support, and clarity and consistency in school rules on the slope of depressive symptoms suggesting a larger effect size than the other paths in the model (with the exception of the slope of teacher support and the slope of problem behavior).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 3
+    },
+    {
+      "heading": "Testing for Direction of Effects",
+      "text": "To assess whether the effects of each dimension of school climate on psychological and behavioral adjustment were bi-directional rather than simply unidirectional, a series of alternative models for each of the four dimensions of school climate were tested. In these models, each dimension of school climate was viewed as the outcome variable and the three indicators of wellbeing (i.e., behavior problems, general self-esteem, and depressive symptoms) were entered as predictors. Student gender, socioeconomic, and minority status were included in the model as defined earlier. We could thus make qualitative comparisons of model effects and gain some degree of insight as to the direction of effects from the different dimensions of school climate to wellbeing. Teacher Support\nThe overall model fit the data as well as the original (v 2 (43) N = 1,451) = 172.68, RMSEA = .05, CI = .04-.05, CFI = .98). Initial status of behavior problems were significantly related to the initial status of perceptions of teacher support such that students who report higher incidences of behavior problems in the sixth grade also tended to report less positive perceptions of teacher support (b = -.29, p \\ .001). A significant negative relationship was also found between the slope of behavior problems and the slope of teacher support such that students who report increasing incidences of behavior problems over middle school also tended to show steeper declines in perceptions of teacher support over time (b = -.40, p \\ .001). However, neither the slopes of general self-esteem nor depressive symptoms significantly predicted the slope of perceptions of teacher support (self-esteem: b = .12, p [ .10; depressive symptoms: b = -.24, p [ .10).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Peer Support",
+      "text": "The overall alternative model for the nature of peer support in the school fit the data as well as the original (v 2 (43) N = 1,451) = 190.39, RMSEA = .05, CI = .04-.05, CFI = .98). In this alternative model, apart from the significant path from the initial status of behavior problems and the initial status of peer support (b = -.11, p \\ .01), the only other significant paths were from the initial status and slope of depressive symptoms to the status (b = -.59, p \\ .001) and slope (b = -.85, p \\ .02) of peer support. Students who reported increasing levels of depressive symptoms over the course of middle school also tended to report declining levels of positive peer support in the school. However, neither the slopes of general self-esteem nor problem behavior significantly predicted the slope of peer support.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Opportunities for Student Autonomy",
+      "text": "The overall model fit the data as well as the original (v 2 (43) N = 1,451) = 158.26, RMSEA = .04, CI = .04-.05, CFI = .98). As in the model for teacher support, the only significant paths were found for behavior problems. The initial status and slope of behavior problems were significantly related to the intercept (b = -.22, p \\ .001) and slope (b = -.49, p \\ .05) of student autonomy, respectively. Students who report increases in behavior problems over the course of middle school also tended to show steeper declines in perceptions of student autonomy. Yet the initial status or slopes of general self-esteem or depressive symptoms did not significantly predict the initial status or slope of student decision-making.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Clarity and Consistency in School Rules",
+      "text": "The overall model for the alternative hypothesis for clarity and consistency in school rules fit the data as well as the original model (v 2 (43) N = 1,451) = 153.27, RMSEA = .04, CI = .03-.05, CFI = .98). Once again, the only significant path was between the slope of behavior problems and the slope of clarity and consistency in school rules (b = -.40, p \\ .01). Students who reported an increasing incidence of behavior problems over middle school also tended to show steeper declines in perceptions of clarity and consistency in school rules over time. Additionally, the initial status of depressive symptoms (b = -.26, p \\ .05) and behavior problems (b = -.33, p \\ .001) were significantly related to the initial status of clarity and consistency in school rules. However, neither the slopes of depressive symptoms nor general self-esteem predicted the slope of clarity and consistency in school rules. In summary, the pattern of findings suggests that the influence of teacher support, student autonomy, and clarity and consistency in school rules on depressive symptoms is indeed from the dimensions of perceived school climate to depressive symptoms rather than the reverse. Furthermore, the pathway of influence between student decision-making and self-esteem appear to be from changes in student autonomy to changes in self-esteem rather than the reverse. Finally, the pathways of influence for peer support appear to be from changes in perceptions of peer support to changes in behavior problems and general self-esteem rather than the reverse. 5",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Discussion",
+      "text": "The major goals of this study were to examine changes in students' perceptions of teacher and peer support, opportunities for student autonomy in the classroom, and clarity and consistency of school rules during the middle school years, the effects of gender and SES on those changes, and the psychological and behavioral effects of various patterns of change over time in the different dimensions of perceived school climate. Our unconditional models revealed that, across gender and SES, perceptions of all four dimensions of school climate declined over the 3 years of middle school. The decline in perceptions of school climate may be based on a growing mismatch between what students need (i.e., relatedness, opportunities for autonomy, and consistency) and what the school actually provides (Eccles et al. 1993;Connell and Wellborn 1991). It is also possible, however, that middle school students grow increasingly dissatisfied with their schools, irrespective of the actual climate of their schools. Numerous researchers have documented the biological, cognitive, and psychological changes that early adolescents endure (Eccles et al. 1993). Such difficult changes may lead early adolescents to perceive their school environments as increasingly more negative over time regardless of the actual schools they attend. Future research should examine both the objective (e.g., how much opportunity do the students have in their classes to participate in decisionmaking) and subjective aspects of school climate to assess the association between what the school actually provides for its students and how the students perceive the school.\nAlthough students reported declines in each of the four dimensions of school climate, girls reported sharper declines in peer support than boys over time (although the effect size for gender was small). This finding is consistent with our hypothesis and supports the research that suggests that peer relations during middle school are particularly difficult for girls (Crick and Rose 2000;Sadker and Sadker 1994). Our findings did not, however, consistently support our hypotheses that girls would experience their school more negatively than boys. In the sixth grade, girls reported better teacher and peer support and better clarity and consistency in school rules and student autonomy than boys. Previous research with secondary school teachers suggest that teachers often believe that girls work harder in school than boys, and report having better relationships with their female students than with their male students (Suarez-Orozco and Qin-Hilliard 2004). These biases and beliefs favoring girls may lead girls in the sixth grade to perceive their school environment as more supportive than boys. Yet these biases do not seem to protect the girls from perceiving their school to be decreasingly supportive, consistent, and fair over time.\nSimilar to our findings regarding gender differences, our findings with respect to SES differences in perceptions of school climate both supported and failed to support our hypotheses. In support of our hypotheses, we found that lower SES students compared to higher SES students reported lower peer support and poorer perceptions of clarity and consistency in school rules at the sixth grade assessment. However contrary to our hypothesis, lower SES students reported higher levels of teacher support at the sixth grade assessment and both the lower and higher SES students reported similar rates of decline in all four dimensions of school climate. Furthermore, the effect sizes for SES on perceptions of school climate were typically small. These findings suggest that while SES appears to differentiate, at least to some degree, students' perceptions of school climate in the sixth grade (but not necessarily in a consistent manner), SES does not make a difference in the trajectory of students' perceptions of school climate over time. Understanding when and how SES makes a difference in students' perceptions of their school is an important direction for future research.\nAnother primary goal of our analysis was to explore the association between rates of change in perceptions of each of the four dimensions of school climate and rates of change in psychological and behavioral adjustment. As hypothesized, the rates of change for teacher and peer support, student autonomy, and clarity and consistency in school rules were significantly associated with the rates of change for selfesteem, depressive symptoms, and problem behavior. Declines in teacher support, peer support, student autonomy, and clarity and consistency in school rules were associated with declines in psychological and behavioral adjustment. Furthermore, these models of change indicated medium to large effect sizes. These findings underscore the importance of not only examining the association between students perceptions of their schools and their adjustment, but also of examining the ways in which change in perceptions of school is associated with change in adjustment over time. Our data clearly indicate that neither of these types of perceptions or experiences are static or unchanging over time. Thus, any analysis assessing their mutual influence should account for the dynamic nature of these processes. Strikingly, our test for direction of effect indicated that the influence of teacher support, peer support, or clarity and consistency in school rules on depressive symptoms was unidirectional; the influence of peer support and student autonomy on self-esteem was unidirectional; and the influence of peer support on problem behavior was unidirectional. These findings indicate that it is often the students' perceptions of school climate, particularly their perceptions of peer support that predicts adjustment and not the students' adjustment predicting perceptions of school climate.\nTaken together, these analyses underscore the role of teacher and peer support, opportunities for student autonomy, and clarity and consistency in school rules and regulations in the psychological and behavioral health of students during the middle school years. We must take students' perceptions of school seriously as they consistently appear to be significantly associated with students' health and wellbeing. Students' perceptions of the school climate appear to be important not just during the transition from elementary to middle school (see Eccles et al. 1993), but also during middle school itself. Drops in self-esteem and increases in depressive symptoms have become almost expected markers of adolescence, presumed to be as decontextualized and inevitable as the loss of a child's first set of teeth. Yet our results suggest that students' emotional struggles, especially with depressive symptoms, are closely linked with their perceptions of the school culture. Indeed, the covariation of students' adjustment with their perceptions of different dimensions of school climate over 3 years, as well as the unidirectional influence of perceptions of school climate on adjustment, particularly depressive symptoms, provides us with unusually strong evidence for the influence of perceptions of school on student wellbeing.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations",
+      "text": "Although the current study provides important data regarding the experience of middle school for students as well as the correlates of such experience, there were several limitations to the study. A key limitation was the small number of ethnic minority students in the sample. Although we included ethnic minority adolescents in the analysis, our small numbers did not allow us to compare across ethnic groups. Our assessment of SES was also limited. Free or reduced lunch can be an imprecise measure of SES given that not all students who qualify sign up for this program and standards for qualifying vary across school districts. However, it is a commonly used technique of assessing SES and is more reliable as a marker of SES than student self-report of family income (Conchas and Noguera 2004;Way 1998). The study sample, which had relatively high rates of both parental college education and free lunch eligibility, was not necessarily representative of the broader US population. These particular demographics may have been a function of the broad array of communities-urban, suburban, small town, and rural-that were sampled as well as an oversampling of schools with high levels of economically and socially disadvantaged students.\nFuture research should also examine additional predictors of perceived school climate aside from gender or SES. For example, the size of the student body, as well as the location (urban versus rural) may have an impact on perceptions of school climate. While a preliminary data analysis indicated that inclusion of grade size (e.g., sixth grade) did not change the pattern of results observed in the current study, 7 future research should investigate schoollevel factors that may shape adolescents' perceptions of their school environment.\nFinally, although the current data structure is very well suited for hierarchical linear modeling, cross-domain growth modeling was selected as the aim was to study the nature of the relationship of change across different domains. We acknowledge that the nested structure of the current data is not incorporated in the planned analyses and this may compromise, to some unknown degree, the resulting standard errors. We have thus been conservative in interpreting the significance of our results relying on a more stringent alpha level.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Our findings suggest that students' experiences of the school environment during the middle school years may be as important in shaping psychological and behavioral adjustment as the transition from elementary school to middle school. Indeed, students' perceptions appear mutable during middle school and, in fact, initially positive perceptions can grow increasingly less positive and these perceptions appear to affect adaptation. These patterns of decline in student perceptions of the school climate may even be more dramatic if one were to examine student perceptions in the last 7 years as schools have become more focused on testing in response to the ''no child left behind'' policies and harsher and more regimented due to catastrophes like Columbine and Jonesboro. Our findings further suggest that there is considerable variation among students in perceptions of the teacher and peer support, clarity and consistency in school rules, and student autonomy and that the influence of such perceptions extend beyond academic outcomes to include students' emotional and behavioral wellbeing. Taken together, these findings highlight the need for additional research on this critical period of development. Why do most students perceive their school environment more negatively over time? What accounts for the variation in these perceptions? What types of students maintain positive perceptions over time? What can be done to improve students' perceptions of middle schools? These questions seem particularly critical when the overwhelming focus in many schools in the United States at this time is on academic standards and testing rather than on creating an environment that is perceived by the students to be positive, supportive, and safe.\nTeacher Support 1. Teachers take a personal interest in students. 2. Teachers go out of their way to help students. 3. If students want to talk about something, teachers will find time to do it. 4. Students really enjoy their classes. 5. Teachers help students to organize their work. 6. Teachers help students catch up when they return from an absence.\nPeer Support ",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "",
+      "text": "Acknowledgment We gratefully acknowledge the support of Peter Mulhall at the Illinois Center for Prevention Research. In addition, we are grateful for the support of the Spencer Foundation who provided the first and third author with a grant to analyze the data presented in this paper.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Appendix A",
+      "text": "Instructions: How often are the following things true about THIS SCHOOL? Mark the best answer for each statement.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Never",
+      "text": "Hardly ever Sometimes Most of the time Always\n(1) (5)",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Manual for the youth and self-report and profile",
+      "journal": "",
+      "year": "1987",
+      "authors": "T M Achenbach; C Edelbrock"
+    },
+    {
+      "title": "Early teacher perceptions and later student academic achievement",
+      "journal": "Journal of educational psychology",
+      "year": "1999",
+      "authors": "J Alvidrez; R Weinstein"
+    },
+    {
+      "title": "How schools shortchange girls",
+      "journal": "Marlowe & Company",
+      "year": "1992",
+      "authors": ""
+    },
+    {
+      "title": "Ghetto schooling: A political economy of urban reform",
+      "journal": "Teachers College Press",
+      "year": "1997",
+      "authors": "J Anyon; W J Wilson"
+    },
+    {
+      "title": "Self-concepts, selfesteem, and educational experiences: The frog pond revisited (again)",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1986",
+      "authors": "J G Bachman; P M Malley"
+    },
+    {
+      "title": "A longitudinal study of consistency and change in self-esteem from early adolescence to early adulthood",
+      "journal": "Child Development",
+      "year": "1993",
+      "authors": "J Block; R W Robins"
+    },
+    {
+      "title": "The adjustment of early adolescents to school transitions",
+      "journal": "Journal of Early Adolescence",
+      "year": "1983",
+      "authors": "D Blyth; R G Simmons; S Carlton-Ford"
+    },
+    {
+      "title": "School climate in middle schools; Development and prelimiary validation of the PSCS",
+      "journal": "",
+      "year": "1994",
+      "authors": "S Brand; R D Felner; D L Dubois; P M Mulhall; N Flowers"
+    },
+    {
+      "title": "Middle school improvement and reform: Development and validation of a school-level assessment of climate, cultural pluralism, and school safety",
+      "journal": "Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "S Brand; R Felner; M Shim; A Seitsinger; T Dumas"
+    },
+    {
+      "title": "Meeting at the Crossroads",
+      "journal": "Harvard University Press",
+      "year": "1992",
+      "authors": "L M Brown; C Gilligan"
+    },
+    {
+      "title": "The high school as community: Contextual influences and consequences for students and teachers",
+      "journal": "",
+      "year": "1988",
+      "authors": "A S Bryk; M E Driscoll"
+    },
+    {
+      "title": "The development of depression in children and adolescents",
+      "journal": "American Psychologist",
+      "year": "1998",
+      "authors": "D Cicchetti; S L Toth"
+    },
+    {
+      "title": "Statistical power analysis for the behavioral sciences",
+      "journal": "Erlbaum Associates",
+      "year": "1988",
+      "authors": "J Cohen"
+    },
+    {
+      "title": "Explaining the academic success of African American males",
+      "journal": "",
+      "year": "2004",
+      "authors": "G Conchas; P Noguera"
+    },
+    { "title": "", "journal": "Am J Community Psychol", "year": "2007", "authors": "" },
+    {
+      "title": "A developmental theory of motivation in the classroom",
+      "journal": "Teacher Education Quarterly",
+      "year": "1984",
+      "authors": "J P Connell; R M Ryan"
+    },
+    {
+      "title": "Competence, autonomy, and relatedness: A motivational analysis of self-system processes",
+      "journal": "Lawrence Erlbaum Associates, Inc",
+      "year": "1991",
+      "authors": "J P Connell; J G Wellborn"
+    },
+    {
+      "title": "Toward a gender-balanced approach to the study of social-emotional development: A look at relational aggression",
+      "journal": "Routledge Press",
+      "year": "2000",
+      "authors": "N Crick; A Rose"
+    },
+    {
+      "title": "Reliability and validity data for the self-esteem questionnaire",
+      "journal": "",
+      "year": "1991",
+      "authors": "D L Dubois; R D Felner"
+    },
+    {
+      "title": "Early adolescent self-esteem: A developmentalecological framework and assessment strategy",
+      "journal": "Journal of Research on Adolescence",
+      "year": "1996",
+      "authors": "D L Dubois; R D Felner; S Brand; R S C Phillips; A M Lease"
+    },
+    {
+      "title": "Self-evaluations of competence, task values, and selfesteem",
+      "journal": "American Psychological Association",
+      "year": "1999",
+      "authors": "J Eccles; B Barber; D Jozefowicz; O Malenchuk; M Vida"
+    },
+    {
+      "title": "Stage/environment fit: Developmentally appropriate classrooms for early adolescents",
+      "journal": "Academic Press",
+      "year": "1989",
+      "authors": "J S Eccles; C Midgley"
+    },
+    {
+      "title": "Development during adolescence: The impact of stage/environment fit",
+      "journal": "American Psychologist",
+      "year": "1993",
+      "authors": "J S Eccles; C Midgley; C M Buchanan; A Wigfield; D Reuman; D Mac Iver"
+    },
+    {
+      "title": "School and community influences on human development",
+      "journal": "Erlbaum Press",
+      "year": "1999",
+      "authors": "J Eccles; R Roeser"
+    },
+    { "title": "Friends in school", "journal": "Academic Press", "year": "1983", "authors": "" },
+    {
+      "title": "The impact of school reform for the middle grades: A longitudinal study of a network engaged in Turning Points-based comprehensive school transformation",
+      "journal": "",
+      "year": "1997",
+      "authors": "R Felner; A Jackson; D Kasak; P Mulhall; S Brand; N Flowers"
+    },
+    {
+      "title": "Preparing adolescents for the twenty-first century: Challenges facing Europe and the United States",
+      "journal": "Sage Press",
+      "year": "",
+      "authors": " Hamburg"
+    },
+    {
+      "title": "Framing dropouts: Notes on the politics of an urban public high school",
+      "journal": "SUNY Press",
+      "year": "1991",
+      "authors": "M Fine"
+    },
+    {
+      "title": "An empirical examination of a model of social climate in elementary schools",
+      "journal": "Basic and Applied Social Psychology",
+      "year": "1995",
+      "authors": "J Griffith"
+    },
+    {
+      "title": "The role of school climate in students' psycho-social development",
+      "journal": "",
+      "year": "1994",
+      "authors": "N Haynes; C Emmons"
+    },
+    {
+      "title": "School experiences predicting changes in self-esteem of sixth-and seventh-grade students",
+      "journal": "Journal of Educational Psychology",
+      "year": "1990",
+      "authors": "D R Hoge; E K Smit; S L Hanson"
+    },
+    {
+      "title": "",
+      "journal": "Scientific Software International, Inc",
+      "year": "2001",
+      "authors": "K J\u00f6reskog; D S\u00f6rbom"
+    },
+    {
+      "title": "The impact of school emotional climate on student psychopathology",
+      "journal": "Journal of Abnormal Child Psychology",
+      "year": "1990",
+      "authors": "S Kasen; J Johnson; P Cohen"
+    },
+    {
+      "title": "Principles and practice of structural equation modeling: Methodology in the social sciences",
+      "journal": "Guilford Press",
+      "year": "1998",
+      "authors": "R Kline"
+    },
+    {
+      "title": "Affective disorders in children and adolescents",
+      "journal": "American Psychologist",
+      "year": "1980",
+      "authors": "M Kovacs"
+    },
+    {
+      "title": "Savage inequalities: Children in America's schools",
+      "journal": "Harper Perennial Press",
+      "year": "1992",
+      "authors": "J Kozol"
+    },
+    {
+      "title": "Perceived school climate and problem behaviors in middleschool students: The protective function of a positive educational environment",
+      "journal": "Journal of Applied Developmental Science",
+      "year": "1997",
+      "authors": "G Kuperminc; B J Leadbeater; C Emmons; S J Blatt"
+    },
+    {
+      "title": "The emergence of gender differences in depression during adolescence",
+      "journal": "Psychological Bulletin",
+      "year": "1994",
+      "authors": "S Nolen-Hoeksema; J S Girgus"
+    },
+    {
+      "title": "Schoolgirls: young women, self esteem, and the confidence gap",
+      "journal": "Anchor Publishers",
+      "year": "1994",
+      "authors": "P Orenstein"
+    },
+    {
+      "title": "Retrospection and persistent school absenteeism",
+      "journal": "Educational Research",
+      "year": "1983",
+      "authors": "K Reid"
+    },
+    {
+      "title": "Adolescents' perceptions of middle school: Relation to longitudinal changes in academic and psychological adjustment",
+      "journal": "Journal of Research on Adolescence",
+      "year": "1998",
+      "authors": "R W Roeser; J S Eccles"
+    },
+    {
+      "title": "Academic and emotional functioning in early adolescence: Longitudinal relations, patterns, and prediction by experience in middle school",
+      "journal": "Developmental and Psychopathology",
+      "year": "1998",
+      "authors": "R Roeser; J Eccles; A Sameroff"
+    },
+    {
+      "title": "School as a context of early adolescents' academic and social-emotional development: A summary of research findings",
+      "journal": "Elementary School Journal",
+      "year": "2000",
+      "authors": "R Roeser; J Eccles; A Sameroff"
+    },
+    {
+      "title": "Essentials of behavioral research: Methods and data analysis",
+      "journal": "McGraw Hill",
+      "year": "1992",
+      "authors": "R Rosenthal; R L Rosnow"
+    },
+    {
+      "title": "Fifteen thousand hours: Second schools and their effects on children",
+      "journal": "Harvard University Press",
+      "year": "1979",
+      "authors": "M Rutter; B Maughan; P Mortimore; J Ouston; A Smith"
+    },
+    {
+      "title": "Relational aggression and peer relations: Gender and developmental issues",
+      "journal": "Merrill-Palmer Quarterly",
+      "year": "1997",
+      "authors": "G Rys; G Bear"
+    },
+    {
+      "title": "Failing at fairness: How America's schools cheat girls",
+      "journal": "Charles Scribner's Sons",
+      "year": "1994",
+      "authors": "M Sadker; D Sadker"
+    },
+    {
+      "title": "A cross-domain model for growth in adolescent alcohol expectancies",
+      "journal": "Multivariate Behavioral Research",
+      "year": "1998",
+      "authors": "A G Sayer; J B Willett"
+    },
+    {
+      "title": "NORM: Multiple imputation of incomplete multivariate data under a normal model, version 2.03 [Computer Software",
+      "journal": "",
+      "year": "2000",
+      "authors": "J L Schafer"
+    },
+    {
+      "title": "The impact of school transitions in early adolescence on the self-esteem and perceived social context of poor urban youth",
+      "journal": "Child Development",
+      "year": "1994",
+      "authors": "E Seidman; L Allen; L Aber; C Mitchell"
+    },
+    {
+      "title": "What it takes to do well in school and whether I've got it: A process model of perceived control and children's engagement and achievement in school",
+      "journal": "Journal of Educational Psychology",
+      "year": "1990",
+      "authors": "E A Skinner; J G Wellborn; J P Connell"
+    },
+    {
+      "title": "Handbook of children's coping: Linking theory and intervention",
+      "journal": "Issues in clinical child psychology",
+      "year": "1997",
+      "authors": "E A Skinner; J G Wellborn"
+    },
+    {
+      "title": "What's different about truants? A comparision study of eight graders",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "1985",
+      "authors": "B Sommer"
+    },
+    {
+      "title": "Immigrant Boys' Experiences in U.S. Schools",
+      "journal": "New York University Press",
+      "year": "2004",
+      "authors": "C Suarez-Orozco; D Qin-Hilliard"
+    },
+    {
+      "title": "The social environment of junior high and high school classrooms",
+      "journal": "Journal of Educational Psychology",
+      "year": "1973",
+      "authors": "E Trickett; R H Moos"
+    },
+    {
+      "title": "Everyday courage: The lives and stories of urban teenagers",
+      "journal": "New York University Press",
+      "year": "1998",
+      "authors": "N Way"
+    },
+    {
+      "title": "Effects of perceived family, friends, and school experiences on change in self-esteem among urban, low-SES adolescents",
+      "journal": "Journal of Adolescent Research",
+      "year": "2003",
+      "authors": "N Way; M G Robinson"
+    },
+    {
+      "title": "Using covariance structure analysis to model change over time",
+      "journal": "",
+      "year": "2000",
+      "authors": "J B Willett; M K Keiley"
+    },
+    {
+      "title": "Handbook of applied multivariate statistics and mathematical modeling: A comprehensive guide for applied researchers in the biological sciences, social sciences, and humanities",
+      "journal": "Academic Press",
+      "year": "",
+      "authors": " Brown"
+    },
+    {
+      "title": "Cross-domain analyses of change over time: Combining growth modeling, covariance structure analysis",
+      "journal": "Erlbaum",
+      "year": "1996",
+      "authors": "J B Willet; A G Sayer"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Fig. 11Fig. 1 Perceived middle school environment: Theoretical model",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "3: Behavior problems 0.24 0.49 0.56 0.30 0.45 0.61 0.24 0.32 0.39 0.49 0.72 0.80 0.93 1.28 16. Time 1: Self-esteem 0.35 0.30 0.22 0.63 0.49 0.37 0.24 0.22 0.22 0.49 0.28 0.28 0.52 0.43 17. Time 2: Self-esteem 0.22 0.43 0.28 0.32 0.63 0.52 0.10 0.28 0.26 0.30 0.41 0.28 0.30 0.47 18. Time 3: Self-esteem 0.26 0.26 0.47 0.35 0.39 0.41 0.14 0.12 0.37 0.35 0.24 0.47 0.35 0.47 19. Time 1: Depression 0.49 0.39 0.28 0.68 0.65 0.49 0.30 0.24 0.24 0.61 0.41 0.35 0.65 0",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "5",
+      "figure_type": "",
+      "figure_id": "fig_2",
+      "figure_caption": "Fig. 55Fig.5Final combined crossdomain model for student perceptions of school clarity and consistency in school rules. For the sake of clarity, only significant paths are represented. All parameter values are standardized. Model v 2 (50, N = 1,451) = 158.64, RMSEA = .04, CI = .03-.05, CFI = .98",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Means, standard deviations, univariate skewness, and zero-order correlations for the perceptions of school climate, the outcome wellbeing measures, and the demographic variables Student decision-making .24 .30 .57 .13 .16 .19 .29 .44 -10. Time 1: Clarity and consistency in school rules .57 .32 .21 .46 .27 .21 .39 .24 .15 -11. Time 2: Clarity and consistency in school rules .28 .63 .26 .22 .45 .38 .20 .40 .22 .43 -.22 .29 .38 -.34 -.35 -.56 .40 .48 -22. Gender .15 .16 .13 .13 .14 .09 .04 .10 .02 .16 .19 .14 -.23 -.24 -.23 -.02 -.03 -.02 -.02 -.03 .01 -23. Student SES .07 .06 .02 -.05 -.10 -.06 .05 .04 -.01 .08 -.02 -.03 .04 .08 .01 -.11 -.07 -.04 .14 .13 .05 -.02 -24. Student minority status .08 -.02 .07 .01 -.05 -.02 .08 -.00 .02 -.08 -.08 -.02 .02 .09 -.01 .01 .03 .05 .08 .07 .00 -.02 .38 -Mean 3.27 2.98 2.85 3.34 3.25 3.26 2.35 2.16 2.10 3.45 3.28 3.16 1.61 1.71 1.89 3.14 3.06 2.98 1.33 1.33 1.37 .54 .20 .09 Standard deviation .73 .70 .72 .53 .51 .49 .69 .69 .66 .47 .50 .48 .62 .70 .82 .58 .58 .61 .32 .32 .37 .50 .40 .29 Skewness -.31 -.26 -.22 -.41 -.37 -.41 .20 .29 .40 -.60 -.60 -.58 1.83 1.87 1.53 -.54 -.52 -.52 1.42 1.54 1.63 -.17 1.50 2.88",
+      "figure_data": "Variables 9. Time 3: Am J Community Psychol (2007) 40:194-213 1. Time 1: Teacher support -2. Time 2: Teacher support .42 -3. Time 3: Teacher support .34 .43 -4. Time 1: Peer support .44 .21 .20 -5. Time 2: Peer support .23 .42 .24 .47 -6. Time 3: Peer support .20 .38 .21 .37 .72 -7. Time 1: Student decision-making .53 .27 .21 .28 .18 .15 -8. Time 2: Student decision-making .29 .52 .29 .15 .29 .28 .39 -"
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Cohen's d effect sizes for the perceptions of school climate, the outcome measures, and the demographic variables",
+      "figure_data": "Variables12345678910111213141. Time 1: Teacher support-2. Time 2: Teacher support0.93 -3. Time 3: Teacher support0.72 0.95 -4. Time 1: Peer support0.98 0.43 0.41 -5. Time 2: Peer support0.47 0.93 0.49 1.06 -6. Time 3: Peer support0.41 0.82 0.43 0.80 2.08 -7. Time 1: Student decision-making1.25 0.56 0.43 0.58 0.37 0.30 -"
+    },
+    {
+      "figure_label": "4",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Model fit and estimates for the influence of gender and SES on school dimensions",
+      "figure_data": "Modelv 2 (d.f.)RMSEA (CI)CFIv diff 2(d.f.)From GenderFrom SESTo statusTo slopeTo statusTo slopeTeacher support48.81 (8).06 (.04-.08).975.56 (4).21***-.09**-Peer support38.42 (7).06 (.04-.07).981.31 (3).29***-.07*-.16**-Student decision-making47.82 (9).05 (.04-.07).9510.33 (5).07*---Clarity and consistency in school rules27.78 (8).04 (.03-.05).985.26 (4).15***-.10**-"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_4",
+      "figure_caption": "Model fit and coefficients for the unconditional models",
+      "figure_data": "Modelv 2RMSEA (CI)CFICoefficientsVariancerStatusSlopeStatusSlopeTeacher support19.51.11 (.07-.16).973.23***-.20***.25***.04**-.37*Peer support26.24.13 (.09-.18).983.31***-.02**.15***.06***-.29**Student decision-making19.63.11 (.07-.16).972.33***-.12***.23***.05***-.43***Clarity and consistency in school rules11.98.09 (.05-.13).983.45***-.16***.13***.04***-.46***Behavior problems9.06.07 (.04-.12).991.60***.14***.25***.05***-.14*General self-esteem.003\\.01 (.00-.00)1.03.13***-.08***.19***.02*-.39*Depressive symptoms11.48.08 (.05-.13).991.32***.02***.05***.01*-.18Note: The v 2 is based on (1, N = 1,451). The RMSEA confidence interval is for the 90%CI. The correlation is between initial status and slope*p \\ .05; **p \\ .01; ***p \\ .001"
+    },
+    {
+      "figure_label": "",
+      "figure_type": "table",
+      "figure_id": "tab_7",
+      "figure_caption": "Negative peer interactions 1. Students in this school are mean to each other. 2. There are kids in this school who pick on other kids. 3. Students in this school have trouble getting along with each other. 4. In classes, students find it hard to get along with each other. 5. Students in this school fell students are mean to them. Affiliation 1. Students in this school get to know each other really well. 2. Students in this school are very interested in getting to know other students. 3. Students enjoy working together on projects. 4. Students get to know each other well in classes. 5. Students enjoy doing things with each other in school activities. Students in this school have a say in how things work. 2. Students help decide how class time is spent. 3. In our school, students are given the chance to help make decisions. 4. Students get to help decide some of the rules in this school. 5. Teachers ask students what they want to learn about.Clarity and Consistency in School RulesSchool Structure 1. Teachers make a point to sticking to the rules in classes.2. When teachers make a rule, they mean it.3. Students are given clear instructions about how to do their work in classes. 4. Students understand what will happen to them if they break a rule. 5. If some students are acting up in class, the teachers will do something about it. Students get in trouble for breaking small rules. 3. Students get in trouble for talking. 4. It is easy for a student to get kicked out of class in this school. 5. The rules in this school are too strict.",
+      "figure_data": "Student Autonomy Climate 1. School Harshness 1. Teachers are very strict here. 2."
+    }
+  ],
+  "doi": "10.1007/s10464-007-9143-y"
+}

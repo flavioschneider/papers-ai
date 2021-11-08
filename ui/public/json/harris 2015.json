@@ -1,0 +1,596 @@
+{
+  "title": "Do Parents Foster Self-Esteem? Testing the Prospective Impact of Parent Closeness on Adolescent Self-Esteem",
+  "abstract": "Close parent-child relationships are viewed as important for the development of global self-esteem. Cross-sectional research supports this hypothesis, but longitudinal studies provide inconsistent prospective effects. The current study uses data from Germany (N = 982) and the United States (N = 451) to test longitudinal relations between parent-child closeness and adolescent self-esteem. The authors used self-, parent-, and observerreported parent-child closeness and self-reported self-esteem from ages 12 to 16. Results replicated concurrent correlations found in the literature, but six longitudinal models failed to show prospective relations. Thus, the longitudinal effect of parent-child closeness and self-esteem is difficult to detect with adolescent samples. These findings suggest the need for additional theorizing about influences on adolescent self-esteem development and longitudinal research with younger samples. The authors would like to thank Ulrich Orth for feedback on prior versions of this manuscript.",
+  "sections": [
+    {
+      "heading": "",
+      "text": "A number of theories suggest that positive parentchild relationships foster children's healthy feelings of overall self-worth (i.e., global self-esteem). For example, Susan Harter, an expert on the development of self-esteem, posited, \"For securely attached infants, a working model of self as valued, loved, and competent will emerge in the context of a working model of parents as emotionally available, loving, sensitive, and supportive of mastery attempts\" (2006a, p. 519), and Alan Sroufe, an expert on parent-child relationships, stated, \"Nothing is more important for the child's development than the quality of care received\" (2002, p. 187). Cross-sectional, correlational studies provide ample support for a consistent relation between parentchild closeness and self-esteem (e.g., Barber, Chadwick, & Oerter, 1992;Rice, 1990;Verschueren, Marcoen, & Schoefs, 1996;Whitbeck et al., 1991). However, longitudinal research does not provide clear support that positive parent-child relation-ships predict the development (i.e., change) of selfesteem over time (Allen, Hauser, Bell, & O'Connor, 1994;Boudreault-Bouchard et al., 2013;Greene & Way, 2005;Roberts & Bengtson, 1996;Yang & Schaninger, 2010). This pattern of conflicting findings (i.e., robust concurrent correlation but no consistent longitudinal correlation) could mean that (a) the relation between parent-child relationships and self-esteem reflects a reverse effect (i.e., self-esteem predicts the development of positive parent-child relationships over time), (b) the relation is complex and requires appropriate complex statistical modeling to capture the process by which parent-child relationships impact the development of selfesteem, (c) the inconsistency in longitudinal studies reflects critical methodological differences between studies (i.e., the existence of moderators), (d) the true effect is small and therefore difficult to detect without adequate sample sizes, and/or (e) the relation between self-esteem and parent-child relationships is attributable to a third variable. The current study evaluates evidence for these possibilities during adolescence, a critical time to study self-esteem change.\nWhy Study the Development of Self-Esteem?\nThere is substantial evidence that self-esteem, a subjective feeling of one's overall worthiness, is associated with mental and physical health indicators. For example, self-esteem is related to positive affectivity (Brown & Marshall, 2001), subjective wellbeing (DeNeve & Cooper, 1998), task persistence (Di Paula & Campbell, 2002), economic wealth (Kuster, Orth, & Meier, 2013;Trzesniewski et al., 2006), lower rates of depressive symptoms (Orth, Robins, Trzesniewski, Maes, & Schmitt, 2009;Sowislo & Orth, 2013;Steiger, Allemand, Robins, & Fend, 2014), loneliness (Jones, Freemon, & Goswick, 1981), and anxiety (Sedikides, Rudich, Gregg, Kumashiro, & Rusbult, 2004;Sowislo & Orth, 2013). In addition, self-esteem has been shown to have a long-term impact. For example, adolescents with lower selfesteem, compared to those with higher self-esteem, are more likely as adults to have mental and physical health problems, antisocial behavior, and educational, occupational, and monetary trouble (Steiger, Allemand, Robins, & Fend, 2014;Trzesniewski et al., 2006). These findings underscore the idea that selfesteem is associated with consequential life outcomes.\nWhere Does Self-Esteem Come From?\nGiven that self-esteem is related to important life outcomes, it is important to understand its developmental antecedents. A longstanding belief is that self-esteem stems from relationships with others. For example, Cooley (1902) and Mead (1934) suggested that a person comes to view himsellf or herself through the lens of others' opinions (i.e., reflected appraisals). This concept is illustrated in research showing that having a warm and supportive relationship partner leads to increases in selfesteem over time (Murray, Holmes, & Griffin, 2000). Others have taken this theory further by suggesting that dispositional self-esteem is an adaptive trait that evolved to serve as an indicator of how accepted one is by a social group. That is, given that humans need to belong to a social group to survive, it is necessary to know when one is being rejected. According to this sociometer theory, selfesteem therefore serves as a social indicator of acceptance or rejection (Leary & Baumeister, 2000;Leary, Cottrell, & Phillips, 2001).\nA number of explicitly developmental theories suggest that self-esteem develops directly from the quality of the parent-child relationship. For example, attachment theory suggests that a secure attachment with a primary caregiver will facilitate feelings of self-worth and importance (Sroufe, 2002;Thompson, 2006). Through consistent, warm, and supportive interactions with a caregiver, a child is thought to develop an internal working model that consists of positive views of the self; that is, the child will develop a view of self as important and worthy of love (Thompson, 2006). This perspective emphasizing parents fits well with the broader theories about larger social groups given that parents are likely to be major factors in the social worlds of developing individuals. In short, a number of perspectives converge on the idea that close and supportive relationships (particularly with parents) are an important influence on the development of selfesteem.\nWhen in Development Should the Relation Between the Parent-Child Relationship and Self-Esteem Be Studied?\nAlthough there is a clear conceptual connection between parent-child relationships and global selfesteem, there is ambiguity concerning the optimal time to test for these associations. One reason for this ambiguity is that the internal working model is thought to develop during the 1st year of life (Thompson, 2006), whereas a rudimentary sense of self does not develop until the 2nd year of life (Harter, 2006a), and a global evaluation of the self is thought to not develop until early or even middle childhood (Harter, 2006a). Due to these considerations, self-esteem development has scarcely been investigated before middle childhood. In addition, despite the development of some methodologies for assessing young children's global self-esteem (see Verschueren et al., 1996), there continues to be debate as to whether childhood self-evaluations are valid. That is, self-esteem during middle childhood tends to be unrealistically positive and may not be comparable to global self-esteem in adolescence and adulthood (e.g., Harter, 2006a;Marsh, Craven, & Debus, 1991;Trzesniewski, Kinal, & Donnellan, 2010). Thus, adolescence rather than childhood is a less controversial time to study the antecedents of global self-esteem.\nIdeally, the relation between the parent-child relationship and self-esteem would be studied at a time of initial development of the two, but that is not possible given these developmental and methodological issues. An alternative is to study the relation at a time of transition when either the parent-child relationship, the child's self-esteem, or both are changing. Adolescence is such a period given that an adolescent's self-view is changing and their relationships with their parents are also going through a period of reorganization (e.g., changing expectations, independence). Although the classic idea of adolescence being a time of intense and unqualified \"storm and stress\" (Hall, 1904) is usually dismissed by developmentalists (e.g., Eccles et al., 1993;Petersen, 1988;Steinberg & Morris, 2001), adolescence is still considered a time of relatively large amounts of change and asynchrony in the maturation of different developmental systems (Arnett, 1999;Casey et al., 2010). For example, Eccles (1999) stated, \"Few developmental periods are characterized by so many changes at so many different levels as early adolescence\" (p. 36; see also Blakemore & Mills, 2014;Steinberg, 2005). These changes are likely to impact the family system and lead to changes in parent-child relationships, thereby providing an important opportunity to evaluate the dynamic connections between selfesteem and parent-child relationships.\nThere is one complicating factor concerning connections between self-esteem and parent-child relationships during adolescence. Namely, there are indications that parent influences might weaken as children progress through the adolescent period. For example, social relationships become less hierarchical throughout adolescence, with a greater focus on peers (Bornstein, Jager, & Steinberg, 2012). This suggests that parents might have a declining impact on the development of self-esteem during the adolescent years. On the other hand, there is no reason to believe that parental support is unimportant for self-esteem during adolescence (Harter, 2006a), and attachment research suggests that relationships with parents exert a continuing influence on the development of the self. Thus, although there are potential caveats regarding the development of self-esteem during adolescence and parentchild relationships, parents are still viewed as important figures in the lives of adolescents.",
+      "n_publication_ref": 48,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Previous Research on Parent-Child Relationships and Self-Esteem",
+      "text": "Given the theoretical connections between parent-child relationships and self-esteem, it is important to consider the empirical evidence. Numerous studies have found a significant, concurrent relation between relationships with parents (conceptualized in these studies as perceived attachment, conflict, warmth, trust, support, affection, or responsiveness) and self-esteem (conceptualized in these studies as social worth, self-regard, mastery, low self-denial, and positiveness of self). This relation has been found across countries (e.g., Norway, Australia, United States, China, Japan) and ages (e.g., Barber et al., 1992;Verschueren et al., 1996;Whitbeck et al., 1991). In addition, a meta-analysis of this literature found a significant aggregated correlation between parent-child relationships and self-esteem when pooling across adolescence and young adulthood (r = .35); however, the strength of this effect declined with age as individuals presumably transitioned away from the family of origin (r = .40 in high school and r = .24 in young adulthood; Rice, 1990).\nThe clear and consistent relation between selfesteem and parent-child relationships found in cross-sectional studies is less evident when examined with longitudinal studies. Table 1 summarizes the results across studies as well as showing differences in methodology used to test the underlying ideas (i.e., sample sizes, reporters of parent-child relationships, measures used for parent-child relationships, ages of participants, time lags, statistical models used to test change, and controls included in the analyses). These differences in methodology might be contributing to the inconsistencies in findings, leading to uncertainty about the dynamic relations between parent-child relationships and selfesteem. For example, Roberts and Bengtson (1996) used a path model to estimate the association between parental affection and later self-esteem and found no effect independent from that of selfesteem stability, whereas Boudreault-Bouchard et al. (2013) used growth curve modeling and found an effect of parental emotional support on later self-esteem. These two statistical methods test different types of change. Path models test whether parent-child relationships predict the over-or underestimation of the child's later self-esteem, based on what would be expected by a person's baseline self-esteem, whereas the growth curve analysis models linear change in mean scores using information from more than two time points, thus providing an overall trajectory to predict. Theories of parent-child relationships and self-esteem do not provide sufficient information to hypothesize the precise way in which parent-child closeness might impact self-esteem development. Thus, it is not possible to claim that there is a single \"best test\" of the associations between parent-child relationships and self-esteem because different statistical models address different questions. One possible next step toward identifying the true relation could be to conduct a meta-analysis and test for moderators of the resultant effect size. However, the small number of studies and the variability across the studies makes this option difficult. For example, control variables varied across studies, and different authors used different statistical models, both of which make it difficult to gather consistent types of effect sizes for meta-analyzing. Thus, we suggest that a productive next step is to conduct a comprehensive evaluation in which the various statistical models used in previous studies are evaluated within a single data set.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The Current Study",
+      "text": "Accordingly, the goal of the present study is to conduct a number of tests of the prospective relation between parent-child relationships and selfesteem. The present study extends previous research by providing a comprehensive test of this relation through the use of multiple methodologies that have been used in previous studies, all tested within a single study. Combining the different methodologies within a single study can help address questions of inconsistency across studies by holding sample characteristics and measurement constructs constant and varying the statistical analyses and measurement methodology. Specifically, we test the four longitudinal models that have been used by past researchers and add two newer models that may be more effective at capturing the dynamic relations between parent-child relationships and self-esteem (the latent difference score [LDS] and enduring effects models). In addition, we test all of these models in two different samples from two countries to assess the robustness and generalizability of the findings. Finally, we test each of the different ways that the parent-child relationship has been assessed: observational reports of mother-child and father-child interactions (Allen et al., 1994), parent-reported closeness (Yang & Schaninger, 2010), and child-reported closeness. In sum, we believe that the current study captures the breadth of methodologies that have been used in previous research, and we believe that testing all of these methodologies within a single study will bring us closer to detecting the true effect between parent-child closeness and child selfesteem. Study 1 is based on a sample of German adolescents followed from ages 12 to 16 and childreported parent-child closeness. Study 2 is based on a sample of American adolescents followed from ages 13 to 16 and child-, parent-, and observer-reported parent-child closeness. Self-reported selfesteem using the Rosenberg Self-Esteem Scale (RSE; Rosenberg, 1965) is used in both studies, as this is the most commonly used measure of global selfesteem in the literature and was developed for use with adolescents (see Donnellan, Trzesniewski, & Robins, 2015). As noted above, parent-child relationships are assessed in different ways across studies, but there is clear theoretical guidance suggesting that warmth and communication between a parent and child helps the child develop a positive view of self (e.g., attachment research; Sroufe, 2002;Thompson, 2006). We capture those ideas with measures that reflect parent-child relationships that are high in trust, low in avoidance, and include quality time with shared experiences. We refer to these measures as parent-child closeness. In addition, in Study 2, we test whether the relation between parent-child closeness and self-esteem is spurious by introducing a number of controls for conceptually relevant third variables to test whether they reduce the cross-sectional correlation between parent-child closeness and self-esteem.",
+      "n_publication_ref": 7,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Analytic Approach",
+      "text": "First, we report correlations between self-esteem and parent closeness at each wave and across each interval to show that the robust cross-sectional relation between parent-child closeness and self-esteem replicates in both studies. These correlations do not imply any type of temporal sequences between the two processes. To test longitudinal relations, we used six different approaches: regressions, cross-lag models with latent variables, latent growth curve model (LGCM), growth mixture model (GMM), LDS model, and enduring effects versus revisionist models. Next is an overview of these models. Only the best fitting models are discussed in the Results. Additional information (e.g., descriptive statistics, model specifications, fit indices of competing models) is available in Results S1 in the online Supporting Information. Given the sample sizes and the number of statistical tests conducted, we used a cutoff of p < .01 to determine significance throughout the article.\nPerhaps the simplest longitudinal model is to use regression to predict later self-esteem scores from previous levels of closeness, controlling for previous self-esteem. We begin with this approach and then use latent variable structural models that conceptualize change in different ways and to address concerns with measurement error. Prior to testing the five latent variable models, we tested for longitudi-nal measurement invariance of the models and found evidence for strong measurement invariance for both self-esteem and parent-child closeness (i.e., equal factor loadings and equal intercepts over time). Across all of the models we used this final invariant model as our base model. We then tested a series of models with increasing constraints. We used a cutoff of > .01 change in confirmatory fit index and/or root mean square error of approximation to determine substantive decrease in model fit (see Cheung & Rensvold, 1999, 2002Yap et al., 2014), with one exception: The parent-child closeness invariance models showed that weak invariance fit better than strong invariance. However, we chose to retain strong invariance in this specification to be consistent across all models. Moreover, some of the weak invariant models (e.g., cross-lag, growth curve with the weak invariance parentchild closeness model) failed to converge. One possibility for this could be the large number of parameters in the weak invariance model. See Results S1, p. 7 for methodology and comparative model fit indices used to establish measurement invariance.\nAutoregressive Cross-Lag Model (J\u20ac oreskog, S\u20ac orbom, & Magidson, 1979;Kenny, 1975) We began by fitting an autoregressive cross-lag model, which tests predictive relations while controlling for previous levels of the outcome and tests the direction of the relation between the parentchild relationship and self-esteem.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Latent Growth Curve Model (McArdle & Epstein, 1987)",
+      "text": "The LGCM tests the association between trajectories of the parent-child relationship and self-esteem. To examine possible nonlinearities in the changes over time, we used a latent growth approach in which we only estimated some of the slope loadings. In particular, we set the initial slope loading to zero and the last slope loading to one. We then allowed the loadings in between those fixed values to be freely estimated. One controversy with this model pertains to the estimation of the cross-paths (see McArdle, 2009, pp. 594-595). Given that we wanted to test whether parent-child closeness will predict change over time in self-esteem, we were particularly interested in the cross-paths. To test this, we set the intercept to be at age 12 (Study 1) and age 13 (Study 2). These intercepts do not reflect a true zero point. Instead, they represent a transi-tion point in which many changes are occurring and thus a reasonable starting point for studying longitudinal associations between parent-child relationships and adolescent self-esteem. However, we acknowledge that this intercept does not represent the beginning of the relation between parent-child closeness and self-esteem.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Growth Mixture Model (Muth en & Muth en, 2000)",
+      "text": "We conducted a GMM to test for different patterns of growth for subgroups of adolescents, as the existence of qualitatively different types of developmental trajectories in self-esteem could potentially obscure connections with parent-child closeness if not modeled. This analysis tests whether there are relatively distinct classes of change for self-esteem. If there is no compelling reason to specify distinct classes, then the LGCM approach is appropriate. (McArdle, 2001;McArdle & Hamagami, 2001) The LDS model specifies changes in two processes over time as well as the lead-lag relations between them, identifying sequences from one variable at a given occasion on subsequent changes in the other variable. For example, the LDS model can uncover the relation from parent-child closeness at a time t on changes in self-esteem at a next time t + 1 (Ferrer & McArdle, 2010;McArdle, 2009). Above and beyond examining change in terms of the rank order of self-esteem (as in the cross-lagged model), the LDS model can predict dynamic changes (i.e., difference scores; Ferrer & McArdle, 2003) between levels of self-esteem and parentchild closeness.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "LDS Model",
+      "text": "Enduring Effects Versus Revisionist Model (Fraley, Roisman, & Haltigan, 2012) This test is a way to distinguish between two ways of conceptualizing the dynamic relation between prior experiences (e.g., maternal sensitivity) and later outcomes (e.g., social competence; Fraley et al., 2012). The first is called the enduring effects model, which suggests that a construct at one point in development can have a concurrent relation with another construct that then persists across time. In other words, this enduring effects model would suggest that the initial level of closeness would be correlated with the initial level of adolescent self-esteem, and the initial level of closeness would have a lasting impact on all later assessments of self-esteem. On the other hand, the revisionist model suggests that a construct at one point in development can have a concurrent relation with another construct, but the relation dissipates across development. That is, initial levels of closeness may be correlated with initial levels of self-esteem and may impact later self-esteem indirectly through its stability over time, but there is no direct effect to later self-esteem.\nGiven existing theories that posit parental contributions to adolescents' self-esteem, we expected that each statistical model had the potential to capture the prospective relation between parent-child closeness and self-esteem. However, we did not believe that existing theories are specific enough to dictate a particular kind of dynamic relation as captured by a single statistical model. Thus, we predicted that the latent change model, which taps several different types of change (growth curve, cross-lag), in addition to testing the impact of change in parent-child relationships on change in self-esteem across each time point (something none of the other models can detect), would be the most likely to find evidence for the presumably dynamic relation between parent-child closeness and adolescent self-esteem development. We describe the unique contributions of each of our models below. We also expected results to replicate in both samples, given there are not strong theories predicting differences in this relation across cultures. Finally, we predicted that the largest effects would be found using child-reported parent-child closeness (both because of shared method variance with selfesteem and because the child's perception likely has a larger impact on their beliefs about themselves than others' perceptions), whereas the smallest would be found using observer-rated closeness, and effect sizes for parent-reported closeness would be in between child-and observer-rated effects.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    { "heading": "Study 1: Germany", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Method Participants and Procedures",
+      "text": "Data came from a study of German youth (8.4% non-German) followed annually from ages 12 to 16 from 1979 to 1983 (for details see Fend, 1990bFend, , 1994; see also Steiger et al., 2014). Participants were part of the Life Study, an ongoing, longitudinal study that currently has seven waves of data on two generations (Fend et al., 2012). Individuals were originally recruited via study partici-pation of schools from the city of Frankfurt and two rural areas in the region of Hessen (West Germany). Students in Germany are allocated to different schools based on their school performance at the age of 10. In order to gain a representative sample of all students, schools were chosen according to the representative percentage of students within each school level in Germany. The large majority of the participants (76.1%) lived in a household with both parents, whereas 14.3% of all parents were separated or divorced. A small percentage of the participants lived with a single mother (12.1%), or a single father (4.9%). Most mothers (36.2%) were housewives, 22% worked full-time, 28.5% worked part-time, and 12.8% worked from time to time by the hour. The study was conducted within the school setting by trained researchers, and participants completed standardized questionnaires at all five measurement occasions.\nThe first measurement wave was initiated when adolescents had a mean age of 12 years (N = 2,054). Each year, around 250 students were lost due to relocation of families, sickness, or some students had to repeat a school term. However, a similar number of students were gained for some of the same reasons (Fend, 1994; T2: N = 2,047; T3: N = 2,003; T4: N = 1,952; T5: N = 1,790). For the subsequent analyses, sample sizes for individuals with data on both self-esteem and parent closeness are, T1: N = 982; T2: N = 1,129, T3: N = 1,079, T4: N = 1,101, T5: N = 965.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "Global self-esteem. Self-esteem in adolescence was measured yearly from age 12 to 16 years with eight items from the RSE. Participants rated each item on a dichotomous scale (1 = disagree, 2 = agree). The items were summed to create a total score (potential range = 8-16) and then percentage of maximum possible (POMP) scored (Cohen, Cohen, Aiken, & West, 1999) to facilitate comparison across studies. Participants who responded to fewer than four items were deleted from the analyses. Missing items were filled with a mean score of the completed responses for participants who responded to four or more items. Kuder and Richardson (1937) reliability estimates (KR-20) ranged between .72 and .77 for the five measurement occasions. Global selfesteem was moderately stable over time in terms of year-to-year correlations (age = 12-13: r = .58; age = 13-14: r = .59; age = 14-15: r = .63; age = 15-16: r = .58). Means and standard deviations ranged from 69.29 (25.25) at age 12 to 74.93 (25.58) at age 16 (see Results S1, p. 3 for descriptive statistics at each year).\nParent closeness. Parent closeness was assessed yearly from ages 12 to 16 years with eight items indicating how a child perceives each of his or her parents with regard to closeness, interest, attention, and rejection. The scale was developed for the German Youth Study Project (see Specht & Fend, 1986) based on a theoretical definition of functional parent-adolescent relationships. Items are: \"When I have problems, I'd rather keep them to myself than tell my mom or dad,\" \"I have the feeling I can talk to my mom or dad about everything,\" \"My mom or dad doesn't really care much about me,\" \"My mom or dad often has other things to do when I want to be with them,\" \"Between my mom or dad and me, there are a lot of fights,\" \"My mom or dad always listens attentively when I want to tell him or her something,\" \"My mom or dad is not really interested in what I think and feel,\" and \"My mom or dad shows a lot of understanding for my problems,\" and participants rated each item on a 5-point Likert scale ranging from 1 (totally disagree) to 5 (totally agree). The items were summed to create a total score (potential range = 8-40) and then POMP scored (Cohen et al., 1999) to facilitate comparison across studies. Participants who responded to fewer than four items were excluded from the analyses. Missing items were filled with a mean score of the completed responses for participants who responded to four or more items. Cronbach's alpha reliability was high for all measurement occasions, as = .85-.87. This parent-child closeness scale has been widely used in previous studies (e.g., Fend, 1990aFend, , 1990bFend, Berger, & Grob, 2009;Trautwein, 2003) and correlates moderately to highly with other theoretically important measures of parenting such as appreciation and respect, inconsistency and arbitrariness in discipline, and intensity of punishment and neglect. Means and standard deviations ranged from 67.48 (19.68) at age 12 to 64.18 (17.85) at age 16 (see Results S1, p. 3 for descriptive statistics at each year).",
+      "n_publication_ref": 8,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Results and Discussion",
+      "text": "Are Self-Esteem and Parent Closeness Related?\nWe replicated previous research showing that self-esteem and closeness are consistently positively correlated across ages and time lags (see Results S1, p. 4). The correlations ranged from .22 to .36 (M = .29, SD = .04). The mean and standard deviation were calculated using z-scored correlations and then translated back to rs. Does Parent Closeness Predict Change in Self-Esteem?\nRegression. Results from regression analyses showed that although all but one of the coefficients were significant, the standardized effect sizes were relatively small, ranging from .07 to .14 for the effect of closeness on self-esteem and ranging from .02 to .13 for the effect of self-esteem on closeness. Regressions based on child report for mother and father separately revealed similar results. We also tested Parent Closeness 9 Gender interactions for all three equations (composite parent, mother, and father ratings). Interactions did not explain a significant amount of the variance in self-esteem and will not be discussed further. Output files are available upon request.\nAutoregressive cross-lag model. We tested seven models that had increasing levels of constraints. Across all models, there was no reduction of model fit (see Results S1, p. 11); therefore, we accepted the most parsimonious model (Model 7). In Model 7, cross-paths from parent closeness to self-esteem and from self-esteem to parent closeness were set to zero. Model 7 fit the data well (see Table 2, row 1), and showed no support for a longitudinal relation between parent closeness and self-esteem. Across all models, self-esteem and closeness showed high stability (bs ranged from .68 to .88), perhaps explaining the fact that there was no evidence for cross-lagged effects in either direction.\nLatent growth curve model. The slope of selfesteem was positive and significantly different from zero (B = 5.17, b = .35, p = .00), and had significant variance (\u03a6 = 214.59, p = .00). Thus, self-esteem, on average, increased yearly across adolescence, and there were individual differences in the amount of change. For closeness, there was a significant decreasing slope (B = \u00c07.09, b = \u00c0.63, p = .00) and significant variance (\u03a6 = 126.20, p = .00).\nWe tested four models that had increasing levels of constraints. Across all models, there was no reduction of model fit (see Results S1, p. 14); therefore, we accepted the most parsimonious model (Model 4). In Model 4, the cross-paths from the intercept of each construct to the slope of the other construct were set to zero. Model 4 fit the data well (see Table 2, row 5) and thus shows no support for a longitudinal relation between parent closeness and self-esteem. Consistent with the robust cross-sec-    tional results, the intercepts of parent closeness and self-esteem were correlated (r = .43, p = .00). However, slopes were not related (r = .19, p = .02) in the final model, given our strict cutoff criterion for significance (see the Analytic Approach section above).\nGrowth mixture model. Of three models, we found that a two-group solution fit the data best (i.e., Akaike information criterion [AIC] or Bayesian information criterion [BIC] was lower), but only 4% of the sample were in the second group. Therefore, we concluded that growth in self-esteem is best modeled by a single group trajectory.\nLDS model. We tested seven models that had increasing levels of constraints. Across the seven models, there was no reduction in fit (see Results S1, p. 16); therefore, we accepted the most parsimonious model (Model 7), which fit the data well (see Table 2, row 9). Model 7 is the most parsimonious model and has all level to change and all change to change couplings set to equal zero, indicating that neither parent closeness levels nor changes in closeness were linked with changes in self-esteem, and likewise, neither self-esteem levels nor changes were linked with changes in parent closeness.\nEnduring effects versus revisionist model. The analyses thus far have shown a robust concurrent relation between closeness and self-esteem, but weak to nonexistent longitudinal relation. This pattern is reminiscent of the revisionist model proposed by Fraley et al. (2012). Thus, we conducted one last analysis to further probe the longitudinal relation from parent-child closeness to self-esteem. We expected a revisionist model that would fit the data the best because concurrent correlations are high, but the longitudinal effects show no relation. We tested seven models that had increasing levels of constraints. Across the seven models, there was no reduction in model fit, but not all of the models were nested, so we based our final decision on the AIC, which suggested that Model 7 was the best fitting model (see Results S1, p. 21). Model 7 fit the data well (see Table 2, row 13) and indicates that after accounting for the relation between initial level of parent closeness and adolescent self-esteem (bs = .46, p = .00), selfesteem first-order stabilities (bs = .37-.64, p = .00), self-esteem second-order stabilities (bs = .20-.35, p = .00), and parent closeness first-order stabilities (bs = .73-.88, p = .00), parent closeness continues to have a small, concurrent effect on self-esteem across adolescence (bs = .13-.15, p = .00), but no prospective effect. This finding is consistent with the robust concurrent correlation between parentchild closeness and self-esteem, but again suggests that this relation does not represent a large prospective effect of parent closeness on change in self-esteem.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Study 2: United States",
+      "text": "Results from Study 1 provide little evidence for a longitudinal connection between parent-child closeness and self-esteem. It is possible that the failure to find a relation is due to culture (e.g., factors other than parent-child closeness might have a more prominent impact on self-esteem in Germany), different levels of challenge during adolescence (e.g., German students have fewer school transitions than American students and therefore might not experience the same challenges that impact the parent-child relationship and the child's self-esteem), the measurement of self-esteem (only 8 of the 10 RSE items were included in the study, and they were rated on a 0-1 scale; thus, a restricted range of scores might have attenuated the correlations), or who is reporting about the parent-child relationship (only child report was available in Germany and perhaps the child's perception is less impactful than the parent's perception, which might be closer to reality). Study 2 addresses many of these limitations testing the longitudinal effect of parent-child closeness on child selfesteem using a U.S. sample, prior to a major life transition (the transition to high school), the full RSE rated on a 5-point Likert scale, and multiple raters of the parent-child relationship (child, parent, observational).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Method Participants and Procedures",
+      "text": "The current sample consisted of 451 White married parents (1.8% non-White) and their adolescents living in rural Iowa. We used annual assessments of adolescent self-esteem from ages 13 to 16 (collected from 1989 to 1992). These families were a part of the Iowa Youth and Families Project (IYFP), an ongoing, longitudinal study that currently has 23 waves of data on four generations (now called Family Transitions Project; see Conger & Conger, 2002). Families were originally recruited by phone and in person from 34 public and private schools from eight counties in North Central Iowa in communities of fewer than 6,501 people. Seventy-eight percent of the families eligible for the study agreed to participate. The current study uses survey and observational data from the first four waves of IYFP, and thus some data are missing (Wave 1: N = 451; Wave 2: N = 424; Wave 3: N = 407; Wave 4: N = 403-404). Observer-report data had the following sample sizes: 446, 420, 406, and 398, respectively.\nTrained interviewers visited the homes of the families for approximately 2 hr on two occasions. For the first visit, families completed questionnaires focusing on individual characteristics. During the second visit, the researchers videotaped two structured family interaction tasks. The first task lasted 30 min and involved all four family members (father, mother, target, and sibling). Family members took turns reading and discussing cards that asked general questions about family life. The second task lasted 15 min and also included all four family members. Family members discussed and tried to resolve an issue they had previously identified as being problematic for their family. Independent observers later coded videos for study variables.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "Global self-esteem. Global self-esteem was assessed with 10 items from the RSE. Participants rated each item on a 5-point scale (1 = strongly disagree, 5 = strongly agree). POMP scores (Cohen et al., 1999) were created for all items, which were then averaged to create a composite score. Cronbach's alpha was high for all measurement occasions, as = .84-.89. Global self-esteem was moderately stable over time in terms of year-to-year rank-order stability (age = 12-13: r = .57; age = 13-14: r = .67; age = 14-15: r = .72). Means and standard deviations ranged from 73.74 (15.46) at age 13 to 74.35 (16.95) at age 16 (see Results S1, p. 5 for descriptive statistics at each year).\nParent closeness. Parent closeness was assessed with six items indicating how the adolescents perceived each of their parents with regard to closeness, attention, and rejection. This scale was adapted from items developed by Kessler and his colleagues that were designed to tap the positive and negative characteristics of social interactions (R. Kessler, personal communication, December 7, 1989). Items were selected for the current analyses to match the German assessment of parent closeness. Items for child report were: \"How much do you talk to you mom or dad about things that you don't want others to know?\" \"How often does your mom or dad make you feel she or he really cares about you?\" \"How often does your mom or dad make you feel she or he is there for you when you really need her or him?\" \"How often does your mom or dad make you feel tense while you are around her or him?\" \"How often does your mom or dad show concern for your feelings and problems?\" and \"How often does your mom or dad understand the way you feel about things?\" Items for parent report similarly measured relationship quality and trust with children in addition to general feelings about children. For example, items asked the extent to which each parent \"experiences strong feelings of love for his or her child,\" \"is satisfied with his or her relationship with his or her child,\" and \"really trusts his or her child\" (see Results S1, p. 22 for full list of items). Participants rated each item on a 4-or 5-point Likert scale ranging from 1 (strongly disagree) to 4 or 5 (strongly agree). POMP scores (Cohen et al., 1999) were created for all items, which were then averaged to create composite scores about mothers and fathers. There were no differences in findings for mothers versus fathers. Therefore, mother and father reports were averaged to create composite parent closeness scores. Cronbach's alpha was high for all measurement occasions: as = .81-.86 for child report; as = .84-.90 for parent report. Means and standard deviations ranged from 76.04 (14.46) at age 13 to 67.16 (16.08) at age 16 for child report and from 80.73 (10.74) at age 13 to 80.38 (12.73) at age 16 for parent report (see Results S1, p. 5 for descriptive statistics at each year). Child-reported closeness to parents correlated with concurrent parent-reported closeness to children between .27 and .36 across the four waves (see Results S1, p. 6 for full correlation matrix within time).\nObserved parent closeness was coded from previously recorded interactions as described above. Scales were created from the average scores of observer rating of mother and father variables, consistent with previous research (e.g., Conger, Cui, Bryant, & Elder, 2000). Coders used a 9-point rating scale (1 = low, 9 = high) for all constructs. We chose 18 constructs to indicate typical behaviors and relationship processes at the dyadic level. These variables are associated with individual adjustment and relationship quality (Melby et al., 1998), and therefore closely map the constructs assessed by the measures completed by children and parents. We used the following variables from Task 1: positive communication, positive assertiveness, prosocial, warmth and support, responsiveness, encourages independence, inconsistent discipline, harsh discipline, indulgent-permissive, quality time, monitoring, positive reinforcement, consistent discipline, parent influence, and inductive reasoning. We used the following variables from Task 2: hostility, or the extent to which hostile, angry, critical, disapproving, or rejecting behavior is directed toward another interactor's behavior, actions, appearance, or personal characteristics; antisocial, or demonstrations of self-centered, egocentric, acting out, and out-of-control behavior that show defiance, active resistance, insensitivity toward others, and lack of constraint, immaturity, age-inappropriate behaviors; and angry coercion, or control attempts that include hostile, threatening, or blaming behavior. All constructs were coded as the parents' behavior toward the child. Cronbach's alphas were high for all measurement occasions, as = .81-.88. Means and standard deviations ranged from 60.90 (11.18) at age 13 to 51.17 (9.43) at age 16 (see Results S1, p. 5 for descriptive statistics at each year). Observer-rated closeness correlated with concurrent child-reported closeness between .20 and .27, and with concurrent parent-reported closeness between .30 and .41 across the four waves (see Results S1, p. 6 for full correlation matrix within time).",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Results and Discussion",
+      "text": "Are Self-Esteem and Parent Closeness Related?\nWe replicated previous research showing that concurrent self-esteem and parent closeness are consistently positively correlated across ages and time lags across self-report (M = .38, SD = .08), parent report (M = .29, SD = .05), and observer report (M = .13, SD = .02). The means and standard deviations were calculated using z-scored correlations and then translated back to rs. See Results S1, p. 7 for full correlation tables.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Does Parent Closeness Predict Change in Self-Esteem?",
+      "text": "Regression. Consistent with Study 1, standardized effect sizes for regression equations ranged between .03 and .12, with only one showing a significant effect of child-reported closeness on self-esteem. For parent-reported closeness, effect sizes ranged between \u00c0.04 and .12, and for observer-reported closeness, effect sizes ranged between .01 and .08, none of which reached significance. Thus, there was little evidence for longitudinal relations between parent closeness (by any reporter) and adolescent self-esteem based on these regression analyses. Regressions based on child report for mother and father separately revealed similar results. We also tested parent closeness by gender interactions for all three equations (com-posite parent, mother, and father ratings). Gender interactions did not explain a significant amount of the variance in self-esteem and will not be discussed further. Output files are available upon request.\nWe tested eight additional child-reported parenting dimensions (i.e., communication, harsh discipline, inconsistent discipline, hostility and coercion, induction, monitoring, problem solving, and warmth and support) using measures independent from that of parent-child closeness (see Results S1, p. 22 for scale names and citations) and found only modest and inconsistent effects on self-esteem change in adolescence (b = \u00c0.07 to .12). This is perhaps unsurprising given these different parenting scales are moderately related to each other (rs = .26-.77), suggesting that they tap common aspects of the parent-child relationship.\nAutoregressive cross-lag model. We tested the same seven autoregressive cross-lag models as in Study 1 with increasing levels of constraints. We found that for each type of reporter, there was no reduction in model fit (see Results S1, pp. 11-13). Thus, we again chose the model with cross-paths between parent closeness and self-esteem set to zero (Model 7), which fit the data well for child, parent, and observer report of parent closeness (see Table 2, rows 2-4). Across all models and reporters, self-esteem and closeness again showed high stability (bs = .67-.81).\nLatent growth curve model. The slope of selfesteem was not significantly different from zero (B = .58, b = .07, p = .49), but the variance was (\u03a6 = 70.57, p = .00), indicating that adolescents varied in their trajectories of self-esteem. There was a significant decreasing slope of closeness for child report (B = \u00c09.61, b = \u00c01.10, p = .00), parent report (B = \u00c01.68, b = \u00c0.25, p = .00), and observer report (B = \u00c05.77, b = \u00c01.06, p = .00), and there was significant variance around the slope of closeness for child report (\u03a6 = 76.28, p = .00) and parent report (\u03a6 = 44.80, p = .00), but not for observer report (\u03a6 = 29.58, p = .03).\nWe tested the same four models as in Study 1, with increasing levels of constraints. Across all models, there was no reduction in model fit for all reporters (see Results S1, pp. 14-15); therefore, we chose the most parsimonious model (Model 4) for all three types of reporters. As in Study 1, the most parsimonious model is the bivariate LGCM with cross-paths between the intercept and slope of selfesteem and closeness set to zero. Model 4 fit the data well (see Table 2, rows 6-8) and provides no support for a longitudinal relation between parent closeness and self-esteem. Closeness intercepts were positively related to self-esteem intercepts for child report (r = .62, p = .00), parent report (r = .50, p = .00), and observer report (r = .22, p = .00). In addition, the self-esteem slope was positively related to the closeness slope for child report (r = .92, p = .00), but not for parent report (r = .26, p = .06), or observer report (r = .15, p = .22).\nGrowth mixture model. We tested two models of one and two groups respectively. The twogroup model for self-esteem fit better than the single-group model (i.e., AIC or BIC was lower), but there was only one individual in the second group. Therefore, we chose the single-group model, which suggests that there are no subgroups of individuals regarding change patterns in self-esteem.\nLDS model. We fit the same seven LDS models as in Study 1, with increasing constraints. There was no reduction in model fit across the seven models for any type of reporter (see Results S1, pp. 17-19). Thus, for all types of reporter, we chose Model 7 (see Table 2, rows 10-12), in which all level to change and all change to change couplings are set to equal zero, indicating that neither parent closeness levels nor changes in closeness were linked with changes in self-esteem, and likewise, neither self-esteem levels nor changes were linked with changes in parent closeness.\nEnduring effects versus revisionist model. We tested the same seven models as in Study 1, with increasing levels of constraints and for each type of reporter. There was no reduction in model fit, but not all of the models were nested, so we based our final decision on the AIC, which suggested that Model 7 was the best fitting model for child report, whereas Model 4 fit the best for parent and observer report (see Results S1, pp. 21-23). Model 7 is an inclusive model with concurrent paths from closeness to self-esteem constrained to be equal and indicates that after accounting for the relation between initial level of child-reported parent closeness and adolescent self-esteem, self-esteem first-order stabilities, self-esteem second-order stabilities and parent closeness stabilities, parent closeness continues to have a small, concurrent relation with self-esteem across adolescence, but no prospective effect. Model 4 suggests that after accounting for self-esteem second-order stabilities, parent closeness as reported by parents and observers continues to have a strong, concurrent relation with self-esteem at age 13 and no prospective effects. See Table 2, rows 14-16 for fit indices and parameter estimates of final models for each type of reporter.\nSpurious correlation. Thus far we have found null effects with multiple longitudinal models that test whether parent closeness impacts the development of self-esteem across adolescence or vice versa. However, there is a robust, positive correlation between self-esteem and parent closeness both in our data and in the extant literature; therefore, the next step is to test whether this correlation represents a spurious relation. That is, whether an environmental, family, parent, or child characteristic can explain the relation between self-esteem and parent closeness. Based on theories of self-esteem we identified and tested several constructs within each of these categories (see Table 3). We first tested partial correlations for each construct individually and then for all constructs simultaneously. We found that many of the constructs were concurrently related to self-esteem and parent closeness at each age (see Table 3, columns 2 and 3 for correlations at age 13). However, partial correlations revealed that no parent characteristics reduced the correlation by more than .02. Child characteristics were more strongly correlated with self-esteem and closeness, but still only accounted for a trivial amount of the correlation between closeness and self-esteem. Results replicated across the next 3 years of adolescence. Next, we tested whether controlling for all 17 constructs simultaneously would have a greater impact on the correlation between self-esteem and closeness. It did, but self-esteem was still moderately related to closeness, and the correlation only declined by .10 on average across the four waves. Finally, this relation held when controlling for prior self-esteem in addition to the 17 constructs (partial rs = .23-.31). Thus, the relation between self-esteem and closeness is not easily explained by the potential third variables we considered.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "General Discussion",
+      "text": "The present study sought to evaluate the longitudinal connection between parent-child closeness and adolescent self-esteem. Previous research has shown a pervasive, concurrent relation between the parent-child relationship and self-esteem (e.g., Barber et al., 1992;Rice, 1990;Verschueren et al., 1996;Whitbeck et al., 1991), whereas the existing longitudinal evidence is less conclusive. Thus, we specified a wide range of models designed to capture dynamic associations between parent-child relationships and global self-esteem. We conducted the same kinds of analyses in two samples-one from Germany and one from the United States-to potentially identify generalizable patterns.\nOverall, we found a robust, cross-sectional correlation between parent-child closeness and self-esteem. Effects replicated across samples and across waves. Thus, our results were consistent with previous cross-sectional studies. Despite this robust concurrent relation, we found little support for a longitudinal connection between self-esteem and parent-child relationships using six different models. Following Felson and Zielinski, we started with the most basic test of change: regression equations controlling for previous self-esteem. However, unlike Felson and Zielinski (1989), we found only very weak and inconsistent prospective effects. In addition, we did not find moderation of effects by adolescent gender. Differences in results may have been due to the younger age of the sample used by Felson and Zielinski, as their first assessment was in late childhood (age 10), when parents may have a greater prospective effect on child self-esteem. We return to this interesting developmental question below.\nOur next test was to model and link average trajectories (i.e., correlated growth curves) of parent-child closeness and self-esteem. Past studies have modeled trajectories of self-esteem across adolescence and tested associations between initial levels of parent responsiveness and trajectories of self-esteem (e.g., Yang & Schaninger, 2010), but few studies have moved beyond this analysis to test whether the trajectory of parent-child closeness is related to the trajectory of the adolescent's selfesteem. Consistent with the findings of Greene and Way (2005), who also tested correlated trajectories, we found no relation between the slopes of parentchild closeness and adolescent self-esteem. Specifically, the effect sizes detected by Greene and Way (e.g., c = .02) and in the current study were too small to interpret as meaningful. Interestingly, the current study and previous studies examining the association between initial levels of parent-child closeness on adolescent self-esteem trajectories  (Conger, 1988), as well as their own selfesteem (Rosenberg Self-Esteem Scale), positive affect (Veit & Ware, 1983), agreeableness, neuroticism, conscientiousness, positive emotion, authoritarian values, and vulnerability using the NEO Personality Inventory (Costa & McCrae, 1985). Depression, anxiety, and hostility were all self-reported using the Symptom Checklist-90-Revised (Derogatis, 1983). *p < .01.\nfound negative effects of closeness on self-esteem (see Results S1, p. 14). However, unlike the previous studies, we tested an alternative model in which the path was set to zero and found no reduction in model fit. This indicates that in the current study, and perhaps in previous studies, these effects do not statistically differ from zero. We also specified two newer longitudinal models that had not been tested previously. These models are designed to test dynamic relations specific to the interval between each assessment (rather than the average change across intervals), but we again failed to detect effects across time. These models tested for enduring effects of initial level of parentchild closeness on later self-esteem and for the impact of change in parent-child closeness between each assessment on subsequent change in adolescent self-esteem across the following assessment periods.\nThe one exception to our null prospective findings was that we found correlated changes between parent closeness and adolescent selfesteem; however, we only found this with the sample from the United States and only when using adolescent self-reported parent closeness. Correlated changes were not found in the German sample or in the U.S. sample when parent closeness was reported by the parents or based on observer ratings. These results could mean that adolescents' own perceptions of closeness with their parents are the more significant psychological contributor to the development of self-esteem, over perceptions of parents and observers. Alternatively, shared method biases or Type I errors could serve as plausible explanations. This issue can only be resolved with future studies.\nDespite these null results, there were interesting results in terms of patterns of stability and change for self-esteem and parent-child closeness. For instance, we found replicable evidence for average declines in parent closeness (i.e., negative slopes in both samples as reported by adolescents, as well as in the U.S. sample when reported by parents and observers). This supports the idea of changes in parent-child relationships during adolescence along the lines of reorganization and increasing autonomy and thus a potential distancing from parents. In terms of self-esteem, adolescents tended to report an overall increase in self-esteem (as in Study 1) or no average change (as in Study 2). In other words, we found no evidence for major declines in self-esteem during adolescence. However, in both studies, there was significant variance around the slopes of self-esteem, indicating that there were individual differences in trajectories for both samples.\nIt is also important to emphasize that we replicated previous cross-sectional results in two samples and with multiple methods in Study 2. Thus, we have no reason to believe that the crosssectional association is somehow an artifact. Indeed, we conducted a series of analyses designed to evaluate possible \"third-variable\" explanations for the connection between selfesteem and parent-child closeness and were unsuccessful. In other words, we were unable to \"break\" the cross-sectional association despite our best efforts. This suggests that parents are likely to be a source of self-esteem for individuals but that parent-child closeness is unlikely to be a strong correlate of changes in self-esteem during adolescence. This is the type of situation that the enduring effects versus revisionist models were developed to test. That is, some developmental processes may operate in a fashion in which an early life relationship or event has a significant impact on an outcome and continues to have an impact through the stability of the outcome over time. More studies examining the longitudinal relation of parenting and self-esteem earlier in the life span and examining other third-variable explanations can help inform this revisionist model of parents' influences on self-esteem.\nIn sum, there is a robust relation between concurrent parent closeness and self-esteem, but this relation has proved difficult to identify in longitudinal analyses. It does not represent a process by which parent closeness leads to differences in the development of self-esteem or a process by which self-esteem leads to differences in the growth of parent closeness, and it does not appear to be a spurious relation based on the limited set of constructs tested in the present research. What is clear is that the longitudinal effect of parent closeness on self-esteem is difficult to detect with the sample sizes used in the current study and is likely to be small rather than large.",
+      "n_publication_ref": 11,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Strengths and Limitations",
+      "text": "There are some caveats that should be considered. First, the consistency of findings across two national data sets strengthens our confidence in the results. The comparisons between these two samples regarding ages of participants, measures, and procedures is quite noteworthy as well, and researchers should continue to make comparisons with these and other national data sets to replicate findings. However, given that both of our samples were majority White, and despite the consistent within-time correlation between parent-child closeness and self-esteem across countries, our longitudinal findings may not generalize to non-White families. Therefore, future studies should replicate these analyses in diverse samples.\nAlthough there are many conceptualizations of the parent-child relationship, we found small effect sizes across alternative dimensions of parenting (e.g., communication, harsh discipline), which is consistent with the few other studies that tested alternative parenting dimensions, such as child-reported parental coercive control (b = \u00c0.17, p > .05 for fathers; b = \u00c0.02, p > .05 for mothers; Boudreault-Bouchard et al., 2013), psychological control (b = .07, p > .05; Yang & Schaninger, 2010), and punishment (b = \u00c0.04, p > .05). Felson and Zielinski (1989) found some consistent, moderate findings for affection (b = .19, p < .05), praise (b = .23, p < .05), criticism (b = \u00c0.26, p < .05), and sibling favoritism (b = \u00c0.20, p < .05) in a younger age group than was used in the current study, which we discuss below. Thus, we have no compelling reason to suspect that alternative conceptualizations of parenting would reveal significant longitudinal effects in comparable samples to those used in the current study. We also acknowledge that our test of third-variable explanations was selective and by no means exhaustive. In addition to other family, environmental, and personal third variables, shared genetic origins could account for the relation between parent closeness and selfesteem.\nIt is also important to consider that we investigated the adolescent period because there is less controversy over the assessment of global selfesteem during this period of the life span and because we suspected that parent-child dynamics would be changing as the child traverses the adolescent years and the related challenges. We found evidence that parent-child closeness changed in ways that were consistent with our expectations. However, there was still a considerable degree of rank-order consistency in parent-child relationships as well as self-esteem. Thus, it is possible that there is a relatively enduring dynamic between parents and children that is largely established prior to early adolescence. Thus, larger and more robust effects might be found during early childhood when children are forming their first self-evaluations. Therefore, an interesting area for future research could be to examine the longitudinal effect of parent-child relationships on emerging self-evaluations of young children.\nLast, we acknowledge that parents are but one potential factor related to the development of self-esteem. Future research should examine the longitudinal relations between positive peer relationships and changes in self-esteem. Peers become an increasingly important social factor during adolescence and serve as people with whom adolescents have significant social relationships. Thus, support in peer relationships might be an increasingly impactful factor in self-esteem development during adolescence. However, given that adolescent peer groups rapidly fluctuate (i.e., shift from middle to high school; changing classmates every semester) it could be the case that current peer relationships predict only short-term changes in self-esteem. Furthermore, it could be the case that peer relationships interact with parent relationships to impact self-esteem over time (see Skogbrott Birkeland, Breivik, & Wold, 2013). Thus, an intriguing area of future research will be to continue to test the importance of peer relationships and the interplay between peer and parent relationships in the development of selfesteem during adolescence. In addition, as the current study did not take into account factors related to parenting such as marital status or stability, future studies should use samples of children with divorced, single, or widowed parents, heightened levels of marital risk, conflict-resolution and problem-solving strategies, as well as other factors that may help capture the complexity of the parent-child relationship and, in turn, its relation with children's self-esteem.\nIn conclusion, the current study extends the existing literature by providing a comprehensive set of analyses designed to test the longitudinal connections between adolescent self-esteem and parent-child closeness. The few studies that have tested this link have provided inconsistent findings. We found little evidence for prospective associations using a variety of longitudinal models applied to two different data sets. Likewise, we found no evidence that self-esteem has a prospective association with closeness. However, correlations within and across time lags support theory and research that suggests that parent closeness is consistently correlated with adolescent self-esteem, and we were not able to explain this away by testing a variety of third-variable explanations. Three potential areas for future research are to test whether: (a) the relation between parent-child closeness can be explained by common genetic influences, (b) a prospective relation can be found at younger ages, and (c) peer relationships contribute to self-esteem development. Such studies may shed additional light on the developmental antecedents of selfesteem.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Supporting Information",
+      "text": "Additional supporting information may be found in the online version of this article at the publisher's website:\nResults S1. Full Report for Descriptive Statistics and Model Indices",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Longitudinal assessment of autonomy and relatedness in adolescent-family interactions as predictors of adolescent ego development and self-esteem",
+      "journal": "Child Development",
+      "year": "1994",
+      "authors": "J P Allen; S T Hauser; K T Bell; T G Connor"
+    },
+    {
+      "title": "Adolescent storm and stress, reconsidered",
+      "journal": "American Psychologist",
+      "year": "1999",
+      "authors": "J J Arnett"
+    },
+    {
+      "title": "Parental behaviors and adolescent self-esteem in the United States and Germany",
+      "journal": "Journal of Marriage and Family",
+      "year": "1992",
+      "authors": "B K Barber; B A Chadwick; R Oerter"
+    },
+    {
+      "title": "Is adolescence a sensitive period for sociocultural processing?",
+      "journal": "Annual Review of Psychology",
+      "year": "2014",
+      "authors": "S Blakemore; K L Mills"
+    },
+    {
+      "title": "Adolescents, parents, friends/peers: A relationships model (with commentary and illustrations)",
+      "journal": "",
+      "year": "2012",
+      "authors": "M H Bornstein; J Jager; L D Steinberg"
+    },
+    { "title": "Developmental psychology", "journal": "Wiley", "year": "", "authors": " Mistry" },
+    {
+      "title": "Impact of parental emotional support and coercive control on adolescents' self-esteem and psychological distress: Results of a four-year longitudinal study",
+      "journal": "Journal of Adolescence",
+      "year": "2013",
+      "authors": "A Boudreault-Bouchard; J Dion; J Hains; J Vandermeerschen; L Laberge; M Perron"
+    },
+    {
+      "title": "Self-esteem and emotion: Some thoughts about feelings",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "2001",
+      "authors": "J D Brown; M A Marshall"
+    },
+    {
+      "title": "The storm and stress of adolescence: Insights from human imaging and mouse genetics",
+      "journal": "Developmental Psychobiology",
+      "year": "2010",
+      "authors": "B J Casey; R M Jones; L Levita; V Libby; S S Pattwell; E J Ruberry; F Soliman; L H Somerville"
+    },
+    {
+      "title": "Evaluating goodness-of-fit indexes for testing measurement invariance",
+      "journal": "Structural Equation Modeling",
+      "year": "1999",
+      "authors": "G W Cheung; R B Rensvold"
+    },
+    {
+      "title": "Testing factorial invariance across groups: A reconceptualization and proposed new method",
+      "journal": "Journal of Management",
+      "year": "2002",
+      "authors": "G W Cheung; R B Rensvold"
+    },
+    {
+      "title": "The problem of units and the circumstance for POMP",
+      "journal": "",
+      "year": "1999",
+      "authors": "P Cohen; J Cohen; L S Aiken; S G West"
+    },
+    { "title": "", "journal": "Multivariate Behavioral Research", "year": "", "authors": "" },
+    {
+      "title": "Rating of target neuroticism and deviant peers (Iowa Youth and Families Project Tech",
+      "journal": "",
+      "year": "1988",
+      "authors": "R D Conger"
+    },
+    {
+      "title": "Resilience in Midwestern families: Selected findings from the first decade of a prospective longitudinal study",
+      "journal": "Journal of Marriage and Family",
+      "year": "2002",
+      "authors": "R D Conger; K J Conger"
+    },
+    {
+      "title": "Competence in early adult romantic relationships: A developmental perspective on family influences",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2000",
+      "authors": "R D Conger; M Cui; C M Bryant; G H E Elder;  Jr"
+    },
+    {
+      "title": "Human nature and the social order",
+      "journal": "Scribner",
+      "year": "1902",
+      "authors": "C H Cooley"
+    },
+    {
+      "title": "The NEO Personality Inventory manual",
+      "journal": "Psychological Assessment Resources",
+      "year": "1985",
+      "authors": "P T Costa; R R Mccrae"
+    },
+    {
+      "title": "Longitudinal trajectories of self-esteem from early to middle adolescence and related psychosocial variables among rural adolescents",
+      "journal": "Journal of Research on Adolescence",
+      "year": "1997",
+      "authors": "L M Deihl; J R Vicary; R C Deike"
+    },
+    {
+      "title": "The happy personality: A meta-analysis of 137 personality traits and subjective well-being",
+      "journal": "Psychological Bulletin",
+      "year": "1998",
+      "authors": "K M Deneve; H Cooper"
+    },
+    {
+      "title": "SCL-90-R: Administration, scoring and procedures manual",
+      "journal": "Clinical Psychometric Research",
+      "year": "1983",
+      "authors": "L R Derogatis"
+    },
+    {
+      "title": "Self-esteem and persistence in the face of failure",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2002",
+      "authors": "A Di Paula; J D Campbell"
+    },
+    {
+      "title": "Measures of self-esteem",
+      "journal": "Elsevier",
+      "year": "2015",
+      "authors": "M B Donnellan; K H Trzesniewski; R W Robins"
+    },
+    {
+      "title": "The development of children ages 6 to 14",
+      "journal": "The Future of Children",
+      "year": "1999",
+      "authors": "J S Eccles"
+    },
+    {
+      "title": "Development during adolescence: The impact of stageenvironment fit on young adolescents' experiences in schools and in families",
+      "journal": "American Psychologist",
+      "year": "1993",
+      "authors": "J S Eccles; C Midgley; A Wigfield; C M Buchanan; D Reuman; C Flanagan; D Mac Iver"
+    },
+    {
+      "title": "Children's selfesteem and parental support",
+      "journal": "Journal of Marriage and Family",
+      "year": "1989",
+      "authors": "R B Felson; M A Zielinski"
+    },
+    {
+      "title": "Ego-strength development and pattern of social relationships",
+      "journal": "Springer",
+      "year": "1990",
+      "authors": "H Fend"
+    },
+    {
+      "title": "From childhood to adolescence. The transition and its risks",
+      "journal": "Huber",
+      "year": "1990",
+      "authors": "H Fend"
+    },
+    {
+      "title": "The discovery of the self and the processing of puberty",
+      "journal": "Hans Huber",
+      "year": "1994",
+      "authors": "H Fend"
+    },
+    {
+      "title": "Life pathways, life coping, life happiness: Results of the LifE-study",
+      "journal": "Wiesbaden",
+      "year": "2009",
+      "authors": "H Fend; F Berger; U Grob"
+    },
+    {
+      "title": "",
+      "journal": "Parent Closeness on Adolescent Self-Esteem",
+      "year": "",
+      "authors": ""
+    },
+    {
+      "title": "LifE-Pathways from adolescence to middle adulthood",
+      "journal": "",
+      "year": "2012",
+      "authors": "H A Fend; W Lauterbach; U Rob; A Berger; W Georg; K Maag Merki"
+    },
+    {
+      "title": "Alternative structural models for multivariate longitudinal data analysis",
+      "journal": "Structural Equation Modeling",
+      "year": "2003",
+      "authors": "E Ferrer; J J Mcardle"
+    },
+    {
+      "title": "Longitudinal modeling of developmental changes in psychological research",
+      "journal": "Current Directions in Psychological Science",
+      "year": "2010",
+      "authors": "E Ferrer; J J Mcardle"
+    },
+    {
+      "title": "The legacy of early experiences in development: Formalizing alternative models of how early experiences are carried forward over time",
+      "journal": "Developmental Psychology",
+      "year": "2012",
+      "authors": "R C Fraley; G I Roisman; J D Haltigan"
+    },
+    {
+      "title": "Self-esteem trajectories among ethnic minority adolescents: A growth curve analysis of the patterns and predictors of change",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2005",
+      "authors": "M L Greene; N Way"
+    },
+    { "title": "", "journal": "Adolescence", "year": "1904", "authors": "G S Hall" },
+    {
+      "title": "Developmental perspectives on the self",
+      "journal": "Wiley",
+      "year": "2006",
+      "authors": "S Harter"
+    },
+    {
+      "title": "Self-esteem issues and answers: A sourcebook of current perspectives",
+      "journal": "Psychology Press",
+      "year": "2006",
+      "authors": "S Harter"
+    },
+    {
+      "title": "The persistence of loneliness: Self and other determinants",
+      "journal": "Journal of Personality",
+      "year": "1981",
+      "authors": "W H Jones; J E Freemon; R A Goswick"
+    },
+    {
+      "title": "Advances in factor analysis and structural equation models",
+      "journal": "University Press of America",
+      "year": "1979",
+      "authors": "K G J\u20ac Oreskog; D S\u20ac Orbom; J Magidson"
+    },
+    {
+      "title": "Cross-lagged panel correlation: A test for spuriousness",
+      "journal": "Psychological Bulletin",
+      "year": "1975",
+      "authors": "D A Kenny"
+    },
+    {
+      "title": "The theory of the estimation of test reliability",
+      "journal": "Psychometrika",
+      "year": "1937",
+      "authors": "G F Kuder; M W Richardson"
+    },
+    {
+      "title": "High selfesteem prospectively predicts better work conditions and outcomes",
+      "journal": "Social Psychological and Personality Science",
+      "year": "2013",
+      "authors": "F Kuster; U Orth; L L Meier"
+    },
+    {
+      "title": "The nature and function of self-esteem: Sociometer theory",
+      "journal": "Academic Press",
+      "year": "2000",
+      "authors": "M R Leary; R F Baumeister"
+    },
+    {
+      "title": "Deconfounding the effects of dominance and social acceptance on self-esteem",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2001",
+      "authors": "M R Leary; C A Cottrell; M Phillips"
+    },
+    {
+      "title": "Selfconcepts of young children 5 to 8 years of age: Measurement and multidimensional structure",
+      "journal": "Journal of Educational Psychology",
+      "year": "1991",
+      "authors": "H W Marsh; R G Craven; R Debus"
+    },
+    {
+      "title": "A latent difference score approach to longitudinal dynamic structural analysis",
+      "journal": "Scientific Software International",
+      "year": "2001",
+      "authors": "J J Mcardle"
+    },
+    {
+      "title": "Latent variable modeling of differences and changes with longitudinal data",
+      "journal": "Annual Review of Psychology",
+      "year": "2009",
+      "authors": "J J Mcardle"
+    },
+    {
+      "title": "Latent growth curves within developmental structural equation models",
+      "journal": "Child Development",
+      "year": "1987",
+      "authors": "J J Mcardle; D Epstein"
+    },
+    {
+      "title": "Latent difference score structural models for linear dynamic analyses with incomplete longitudinal data",
+      "journal": "American Psychological Association",
+      "year": "2001",
+      "authors": "J J Mcardle; F Hamagami"
+    },
+    {
+      "title": "Mind, self, and society",
+      "journal": "University of Chicago Press",
+      "year": "1934",
+      "authors": "G H Mead"
+    },
+    {
+      "title": "The Iowa Family Interaction Rating Scales",
+      "journal": "",
+      "year": "1998",
+      "authors": "J Melby; R D Conger; R Book; M Rueter; L Lucy; D Repinski; L Scaramella"
+    },
+    {
+      "title": "Selfesteem and the quest for felt security: How perceived regard regulates attachment processes",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2000",
+      "authors": "S L Murray; J G Holmes; D W Griffin"
+    },
+    {
+      "title": "Integrating person-centered and variable-centered analyses: Growth mixture modeling with latent trajectory classes",
+      "journal": "Alcoholism: Clinical and Experimental Research",
+      "year": "2000",
+      "authors": "B O Muth En; L K Muth En"
+    },
+    {
+      "title": "Low self-esteem is a risk factor for depressive symptoms across the life span",
+      "journal": "Journal of Abnormal Psychology",
+      "year": "2009",
+      "authors": "U Orth; R W Robins; K H Trzesniewski; J Maes; M Schmitt"
+    },
+    {
+      "title": "Adolescent development",
+      "journal": "Annual Review of Psychology",
+      "year": "1988",
+      "authors": "A C Petersen"
+    },
+    {
+      "title": "Attachment in adolescence: A narrative and meta-analytic review",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "1990",
+      "authors": "K G Rice"
+    },
+    {
+      "title": "Affective ties to parents in early adulthood and self-esteem across 20 years",
+      "journal": "Social Psychology Quarterly",
+      "year": "1996",
+      "authors": "R E L Roberts; V L Bengtson"
+    },
+    {
+      "title": "Society and the adolescent self-image",
+      "journal": "Princeton University Press",
+      "year": "1965",
+      "authors": "M Rosenberg"
+    },
+    {
+      "title": "Are normal narcissists psychologically healthy? Self-esteem matters",
+      "journal": "",
+      "year": "2004",
+      "authors": "C Sedikides; E A Rudich; A P Gregg; M Kumashiro; C Rusbult"
+    },
+    {
+      "title": "Peer acceptance protects global self-esteem from negative effects of low closeness to parents during adolescence and early adulthood",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2013",
+      "authors": "M Skogbrott Birkeland; K Breivik; B Wold"
+    },
+    {
+      "title": "Does low self-esteem predict depression and anxiety? A meta-analysis of longitudinal studies",
+      "journal": "Psychological Bulletin",
+      "year": "2013",
+      "authors": "J F Sowislo; U Orth"
+    },
+    {
+      "title": "Educational environments",
+      "journal": "Development in Adolescence",
+      "year": "1986",
+      "authors": "W Specht; H Fend"
+    },
+    {
+      "title": "From infant attachment to promotion of adolescent autonomy: Prospective, longitudinal data on the role of parents in development",
+      "journal": "Erlbaum",
+      "year": "2002",
+      "authors": "L A Sroufe"
+    },
+    {
+      "title": "Low and decreasing self-esteem in adolescence predict adult depression two decades later",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2014",
+      "authors": "A E Steiger; M Allemand; R W Robins; H A Fend"
+    },
+    {
+      "title": "Cognitive and affective development in adolescence",
+      "journal": "Trends in Cognitive Sciences",
+      "year": "2005",
+      "authors": "L Steinberg"
+    },
+    {
+      "title": "Adolescent development",
+      "journal": "Annual Review of Psychology",
+      "year": "2001",
+      "authors": "L Steinberg; A S Morris"
+    },
+    {
+      "title": "The development of the person: Social understanding, relationships, conscience, self",
+      "journal": "Wiley",
+      "year": "2006",
+      "authors": "R A Thompson"
+    },
+    {
+      "title": "School and self-esteem. M\u20ac unster, Germany: Waxmann",
+      "journal": "",
+      "year": "2003",
+      "authors": "U Trautwein"
+    },
+    {
+      "title": "Low self-esteem during adolescence predicts poor health, criminal behavior, and limited economic prospects during adulthood",
+      "journal": "Developmental Psychology",
+      "year": "2006",
+      "authors": "K H Trzesniewski; M B Donnellan; T E Moffitt; R W Robins; R Poulton; A Caspi"
+    },
+    {
+      "title": "Self-enhancement and self-protection in developmental context",
+      "journal": "Guilford Press",
+      "year": "2010",
+      "authors": "K H Trzesniewski; M Kinal; M B Donnellan"
+    },
+    {
+      "title": "The structure of psychological distress and well-being in general populations",
+      "journal": "Journal of Consulting and Clinical Psychology",
+      "year": "1983",
+      "authors": "C Veit; J E Ware;  Jr"
+    },
+    {
+      "title": "The internal working model of the self, attachment, and competence in five-year-olds",
+      "journal": "Child Development",
+      "year": "1996",
+      "authors": "K Verschueren; A Marcoen; V Schoefs"
+    },
+    {
+      "title": "",
+      "journal": "",
+      "year": "1991",
+      "authors": "L B Whitbeck; R L Simons; R D Conger; F O Lorenz; S Huck; G H Elder;  Jr"
+    },
+    { "title": "", "journal": "Social Psychological Quarterly", "year": "", "authors": "" },
+    {
+      "title": "The impact of parenting strategies on child smoking behavior: The role of child self-esteem trajectory",
+      "journal": "Journal of Public Policy and Marketing",
+      "year": "2010",
+      "authors": "Z Yang; C M Schaninger"
+    },
+    {
+      "title": "Investigating measurement invariance of the multi-group ethnic identity measure in a multiethnic sample of college students",
+      "journal": "Journal of Counseling Psychology. Advance online publication",
+      "year": "2014",
+      "authors": "S C Y Yap; M B Donnellan; S J Schwartz; S Y Kim; L G Castillo; B L Zamboanga"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "",
+      "figure_type": "",
+      "figure_id": "fig_1",
+      "figure_caption": "from P to SE at Time 1; b SE2, 3, 4, 5 ? P1 = standardized beta coefficients from P at Time 1 to SE at Times 2, 3, 4, and 5; b SE ? Pconcurrent = standardized beta coefficients from P to SE at each subsequent, concurrent assessment; B SEdiff ? P = unstandardized beta coefficients from levels of P to changes in SE; B Pdiff ? SE = unstandardized beta coefficients from levels of SE to changes in P; B SEdiff ? Pdiff = unstandardized beta coefficients from changes in P to changes in SE; B Pdiff ? SEdiff = unstandardized beta coefficients from changes in SE to changes in P. a Equality constraints equate unstandardized coefficients. Because error variances are not equated over time, standardized paths may vary by approximately .01. *p < .01.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Summary of Previous Research on the Longitudinal Link Between Parent Closeness and Global Self-Esteem",
+      "figure_data": "ControlsPsychiatric history,number of speeches intask; constraining-enabling; variousparenting componentsSelf-esteem at Time 1Father's occupationalstatus, mother'seducation, familyincome, child's age,child's sex, self-esteemstability acrossadulthoodPuberty, high schooltransition, gender,parent and familysmoking behaviors,family structure, SES,parental monitoringResultb = .51(only fathers)b = .18 (fathers);b = .37 (mothers)F = 32.54(only 10th grade)b = .24 (only girls)c = .02b = .11, nsb = .01, nsb = \u00c0.28LongitudinalanalysisRegressionLatent growthcurve modelCluster analysis oftrajectories;MANOVARegressionLatent growthcurve modelPath modelLatent growthcurve modelTime lags(years)22, 41, 2, 311, 2, 3, 417, 202, 4, 6Age atTime 1 (year)14141210-131416-2610-11Reporter andAuthors (year) N parent measureAllen, Hauser, Bell, and 77 Observer-rated ParentO'Connor (1994) Autonomous Relatedness 9Inhibiting RelatednessBoudreault-Bouchard 605 Child-reported parentalet al. (2013) emotional supportDeihl, Vicary, and Deike (1997) 142 Child-reported parent-childrelationship qualityFelson and Zielinski (1989) 373 Child-reported parent-childcommunicationGreene and Way (2005) 205 Child-reportedmean family supportRoberts and Bengtson (1996) 273 Child-reported parent affectiontoward childYang and Schaninger (2010) 3,434 Parent-and child-reported parentresponsiveness toward childNote. MANOVA = multivariate analysis of variance; SES = socioeconomic status."
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Fit Indices and Parameter Estimates for Final Models",
+      "figure_data": "Fit indicesStudy and informant"
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_3",
+      "figure_caption": "Zero-Order Correlations Between Potential Third Variables, Self-Esteem, and Child-Reported Parent Closeness, and Partial Correlations Between Self-Esteem and Parent Closeness, Controlling for Potential Third Variables at Age 13 (Study 2) Note. Raw correlation between self-esteem and parent closeness = .45*. Parents reported adolescents' school problems (frequency over the last 12 months), conduct disorder (Quay's Conduct Disorder Scale, 1983), and neuroticism",
+      "figure_data": "Partial correlationbetween self-esteem and parentThird variableSelf-esteemParent closenesscloseness, controlling for third variableTarget child behaviorSchool problems\u00c0.19*\u00c0.21*.43*Conduct disorder\u00c0.30*\u00c0.23*.41*Target child personality and psychopathologyTarget neuroticism.23*.09.45*Target anxiety\u00c0.40*\u00c0.28*.39*Target depression\u00c0.47*\u00c0.32*.36*Target hostility (general)\u00c0.38*\u00c0.32*.38*Parent personality and psychopathologyParent self-esteem.20*.05.45*Parent positive affect.23*.12*.44*Parent depression\u00c0.20*\u00c0.07.45*Parent anxiety\u00c0.15*\u00c0.06.45*Parent hostility (general)\u00c0.20*\u00c0.09.45*Parent agreeableness.04.10.45*Parent neuroticism\u00c0.21*\u00c0.08.45*Parent conscientiousness.12.02.45*Parent thoughts and feelingsParent positive emotion.10.10.45*Parent authoritarian values\u00c0.14*\u00c0.01.46*Parent vulnerability\u00c0.03\u00c0.09.45*All simultaneous.34*"
+    }
+  ],
+  "doi": "10.1111/cdev.12356"
+}

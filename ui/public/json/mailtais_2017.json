@@ -1,0 +1,680 @@
+{
+  "title": "Learning climate, academic competence, and anxiety during the transition to middle school: Parental attachment as a protective factor",
+  "abstract": "Introduction. -The contribution of the learning climate and attachment security to students' academic competence and anxiety symptoms during the middle school transition has not been examined. Objectives. -The main purpose of this prospective study was to examine the complementary contributions of these two contextual determinants. A second goal was to test the moderating effect of attachment security perceived by students in the relationship between the learning climate and both outcomes (academic competence, anxiety symptoms). Method and results. -Participants were 627 students in Grade 6 (54% girls). Latent structural modeling analysis revealed that a mastery climate predicted higher levels of perceived academic competence perceived in the first year of middle school, although attachment security to the mother in Grade 6 predicted perceived academic competence and anxiety symptoms in the first year of middle school. A moderating effect was found, in which greater attachment security to the mother appeared to lessen the relationship between a performance climate and anxiety symptoms during the middle school transition. Conclusion. -The results suggest that attachment security to the mother predicts perceived academic competence and anxiety symptoms during the middle school transition. Additionally, attachment security to the mother can moderate the potentially harmful effects of a learning climate emphasizing social comparison and performance on anxiety.",
+  "sections": [
+    {
+      "heading": "r \u00e9 s u m \u00e9",
+      "text": "Introduction. -La contribution du climat d'apprentissage per\u00e7 u et de la perception de la s\u00e9curit\u00e9 d'attachement \u00e0 la m\u00e8re sur les perceptions de comp\u00e9tence scolaire et les sympt\u00f4mes anxieux durant la transition au secondaire n'avait pas encore \u00e9t\u00e9 examin\u00e9e. Objectifs. -Cette \u00e9tude prospective visait \u00e0 examiner la contribution compl\u00e9mentaire de ces deux d\u00e9terminants contextuels. L'effet mod\u00e9rateur de la s\u00e9curit\u00e9 d'attachement sur la relation entre le climat d'apprentissage et les perceptions de comp\u00e9tence et sympt\u00f4mes d'anxi\u00e9t\u00e9 a aussi \u00e9t\u00e9 explor\u00e9. M\u00e9thodologie et r\u00e9sultats. -Un total de 627 \u00e9l\u00e8ves entre 11 et 12 ans (54 % filles) ont particip\u00e9 \u00e0 cette \u00e9tude. Les r\u00e9sultats des analyses en structure latente ont r\u00e9v\u00e9l\u00e9 que le climat de ma\u00eetrise augmente les perceptions de comp\u00e9tence scolaire en premi\u00e8re secondaire, alors que la s\u00e9curit\u00e9 d'attachement \u00e0 la m\u00e8re en 6 e ann\u00e9e pr\u00e9dit les perceptions de comp\u00e9tence scolaire et les sympt\u00f4mes d'anxi\u00e9t\u00e9 en premi\u00e8re secondaire. La pr\u00e9sence d'un effet mod\u00e9rateur a \u00e9galement \u00e9t\u00e9 d\u00e9cel\u00e9e alors que les perceptions d'un climat d'apprentissage ax\u00e9 sur la performance augmentent l'anxi\u00e9t\u00e9 durant le passage vers le secondaire, tout sp\u00e9cialement chez les \u00e9l\u00e8ves ayant per\u00e7 u moins de s\u00e9curit\u00e9 dans la relation d'attachement avec la m\u00e8re.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Perceived academic competence and anxiety in the transition to middle school",
+      "text": "Perceived academic competence and anxiety symptoms are two personal characteristics well established in the field of motivation Freiberger, Steinmayr, & Spinath, 2012;Ley & Young, 2001). Perceived academic competence refers to students' subjective evaluations of their ability to perform and their beliefs about resources they need to do well (Bandura, 1986;Bouffard, Marcoux, Vezeau, & Bordeleau, 2003). As for anxiety, it is defined as a reaction to a real or anticipated threat, expressed via a complex system of behaviors cognitions, emotions, and physiological symptoms (American Psychiatric Association, 2013; Weissman, Antinoro, & Chu, 2009). Studies have shown that perceived academic competence (or analogous constructs) and anxiety symptoms are closely related to the school experience. For instance, perceived academic competence has been associated with a stronger endorsement of mastery-approach goals (Elliot & Church, 1997;Maltais, Duchesne, Ratelle, & Feng, 2015;Poulin, Duchesne, & Ratelle, 2010) and, in certain cases, with the endorsement of performance-approach goals (Elliot & Church, 1997;Linnenbrink, 2005). On the other hand, anxiety has been positively associated with endorsing performance-avoidance goals Elliot & Church, 1997;Linnenbrink, 2005;Maltais et al., 2015) and negatively with academic engagement, perseverance, and achievement Guay et al., 2003;Marsh et al., 2005;Shen & Tam, 2008).\nOther studies have considered changes in perceptions of academic competence and anxiety symptoms (or negative emotions) in the transition to middle school. Many found that perceived academic competence declined between the end of elementary school and the beginning of middle school (Eccles et al., 1989;Wigfield et al., 2006;Wigfield, Eccles, Mac Iver, Reuman, & Midlgey, 1991). Others found greater stress and emotional problems during this period Roeser & Eccles, 1998;Urdan & Midgley, 2003). Some studies corroborate the notion that early adolescence is a period when anxiety symptoms could first appear (Hale, Raaijmakers, Muris, Van Hoof, & Meeus, 2008;Jones, 2013). In sum, research suggests that many youths are at risk for motivational (lower perceived academic competence) and emotional problems (greater anxiety symptoms) in early adolescence.\nStudies that have examined positive and negative predictors of motivation and emotional well-being in young adolescents have identified two categories of contextual factors that must be taken into account: learning climate (Ames, 1992;Anderman & Patrick, 2012) and the parent-adolescent relationship (Epstein, 1989;Grolnick, Kurowski, Dunlap, & Hevey, 2001). Surprisingly, there is very little information on the relative contribution of these two relational contexts. In line with past research (Duchesne, Ratelle, Larose, & Guay, 2007;Friedel, Cortina, Turner, & Midgley, 2007;Gonida, Voulala, & Kiosseoglou, 2009), we expect that taking into account both contexts will yield a deeper understanding of the role of the learning climate and parental attachment security in predicting perceived academic competence and anxiety symptoms. Such knowledge will provide the basis of preventive measures to be implemented in the transition to middle school by schools and families.",
+      "n_publication_ref": 30,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Learning climate, perceived academic competence, and anxiety symptoms",
+      "text": "Achievement goal theory (AGT; Anderman & Patrick, 2012;Elliot, 2005) proposes a conceptualization of the learning climate in which learning is achieved through a mastery or performance goal structure (Ames, 1992;Meece, Anderman, & Anderman, 2006). On the one hand, a mastery-oriented climate (MC) is structured around the development of competence as well as academic progress and achievement. In an MC, learning situations are diversified and stimulating. Teachers emphasize effort and understanding, support student autonomy, and provide feedback that students can use to fix their self-reference standards and realize that errors are a part of the learning process. On the other hand, a performance-oriented climate (PC) places the emphasis on demonstrated competence and outperforming others. Here, students are more likely to be organized into groups based on their levels of achievement. Also, social recognition is more likely to be bestowed on students who meet prescriptive performance standards, with special privileges granted to high achievers. Furthermore, assessment methods encourage students to compare themselves with others or normative standards.\nBoth MC and PC have been associated with a host of academic consequences, including academic competence and anxiety. Researchers largely agree that MC is beneficial for academic outcomes in terms of perceived academic competence and positive emotions (Duchesne et al., 2012;Linnenbrink, 2005), whereas PC appears to foster negative emotions and anxiety, particularly during evaluative contexts (Linnenbrink, 2005;Patrick, Ryan, & Kaplan, 2007;Skaalvik, 1997;Wolters, 2004). However, the potentially harmful effects of a PC may vary according to students' personal characteristics, such as feeling competent at school (Anderman & Patrick, 2012) or presenting anxious dispositions (Duchesne et al., 2012). In the latter case, it was demonstrated that students who expressed worries about social relationships in Grade 6 reported more adjustment problems in the second year of middle school if they were exposed to a PC in the first year of middle school (Duchesne et al., 2012). Hence, perceiving the learning climate as performance-oriented upon entering middle school could interact with other variables (e.g., parent-child relationship) during this transition, which would help to explain undesirable effects on the school experience.\nOthers studies have documented significant changes in the learning climate after the transition to middle school, especially in math classes (Cleary & Chen, 2009;McLeod, 1992). Indeed, math activities are less adaptable to individual differences, offer fewer opportunities for peer collaboration, and allow less autonomy (Cleary & Chen, 2009;Feldlaufer, Midgley, & Eccles, 1988;Ryan & Patrick, 2001;Van de Grift & Houtveen, 2006). Also, math teachers have tighter timelines for teaching content (Van de Grift & Houtveen, 2006) and, as a result, tend less to reinforce students' effort and progress (Meece et al., 2006). Overall, the literature suggests that teaching and learning practices in math classes are more performance-oriented.",
+      "n_publication_ref": 21,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Attachment, academic competence, and anxiety symptoms",
+      "text": "Another contextual factor considered to prevent motivational and emotional problems in the transition to middle school is attachment to parents (Duchesne et al., 2009;Maltais et al., 2015;Papini & Roggman, 1992). Studies on this topic have mostly found direct associations linking parental attachment to perceived academic competence and anxiety symptoms. However, attachment security might interact with other variables (e.g., personal characteristics), because it has been reported to provide strong protection against situations perceived as threatening or stressful (Ainsworth, Blehar, Waters, & Walls, 1978;Bretherton & Munholland, 2008;Brumariu & Kerns, 2010;.\nAttachment is a system of motivational and emotional regulation based on the establishment of a deep and enduring emotional bond with an attachment figure, usually the mother (Ainsworth et al., 1978;Bowlby, 1973). The comfort that the attachment figure provides in times of distress encourages the child to explore the environment. Over time, these experiences of comfort and security are incorporated into an internal working model, i.e. a cognitive framework that represents the world, the self, and others as either trustworthy or untrustworthy. A secure (trustworthy) internal working model allows children to view themselves as worthy of respect and affection, and that others will be responsive and supportive to help them deal with stressful situations. Conversely, when children anticipate rejection or inconsistent responses by the attachment figure in times of distress, they tend to develop a deep feeling of discomfort or insecurity. Thus, insecurely attached children build self-representations that foster the belief that they are not worthy of respect or affection from others (Maier et al., 2005).\nStudies based on attachment theory have shown that parental attachment is an important predictor of academic competence and anxiety symptoms in young adolescents. The findings indicate that securely attached young adolescents perceive themselves as more competent at the beginning of middle school (Maltais et al., 2015;Papini & Roggman, 1992) and present low levels of worries regarding the middle school transition (Duchesne et al., 2009). Attachment security to the mother was also related to fewer internalized problems such as anxiety and depression in the transition to middle school (Duchesne et al., 2009;Kenny, Lomax, Brabeck, & Fife, 1998;Maltais et al., 2015;Nada Raja, McGee, & Stanton, 1992;Papini & Roggman, 1992;Sund & Wichstr\u00f8m, 2002). Specifically, securely attached young adolescents are more apt to self-regulate negative emotions (e.g., lack of aggression, better ego control), compared to their insecurely attached peers, who are more inclined to exhibit distress (Allen, Moore, Kuperminc, & Bell, 1998;Armsden, McCauley, Greenberg, Burke, & Mitchell, 1990), especially in the transition to middle school .",
+      "n_publication_ref": 20,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Learning climate and attachment security: direct and moderating effects",
+      "text": "Despite the growing evidence for the contribution of the learning climate and parental attachment to the academic outcomes of young adolescents in the transition to middle school, studies have not considered the relative contributions of these two factors in explaining changes in academic competence perceived by students and anxiety symptoms. The few relevant research findings suggest that the magnitude of the parents' contribution is greater than the learning climate in explaining motivational and emotional variables Friedel et al., 2007). For example,  showed that when relationships were examined with both parents and teachers, only relationships with parents explained differences in academic and emotional adjustment in students entering college. In a similar vein, Friedel et al. (2007) found that students' achievement goals were more strongly predicted by the achievement goals encouraged by their parents than those encouraged by their teachers.\nIn addition to having independant contributions, parental attachment and the learning climate could interact in predicting students' academic competence and anxiety symptoms. Several studies (e.g., Duchesne et al., 2009;Kenny et al., 1998;Nada Raja et al., 1992;Papini & Roggman, 1992;Sund & Wichstr\u00f8m, 2002) have suggested that attachment security would lessen anxiety during threatening situations. Thus, young adolescents who are securely attached to their mother would be more prone to develop a positive self-image and perceptions of competence, engage in autonomous and confident exploration in times of instability (e.g., a new math learning climate), and express and regulate their emotions appropriately. In turn, appropriate emotional expression and regulation would flourish in an autonomy-supportive environment that encourages effort and provides opportunities to learn from mistakes. At the same time, these young adolescents could be more resistant to environmental stimuli that they perceive as undesirable (e.g., recognition of performance or better performing students).",
+      "n_publication_ref": 7,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "The present study",
+      "text": "This study pursued two objectives. The first goal was to examine the relative contributions of the learning climate (mastery or performance-oriented classroom climate) in a math class (Grade 7) and attachment security to the mother to explain changes in perceived academic competence and anxiety symptoms in the transition to middle school. A second goal was to test the moderating effect of perceived attachment security on the relationship between perceived classroom learning climate and perceived competence and anxiety symptoms. We focused on attachment to the mother because previous findings have shown that young adolescents perceive the mother's attachment more positively than the father's attachment .\nSix hypotheses were formulated: (1) Mastery climate (MC) and (2) attachment to the mother were expected to be positively associated with perceived academic competence; (3) MC and (4) attachment to the mother were expected to be negatively associated with anxiety symptoms; (5) the performance climate (PC) was expected to be negatively related to perceived academic competence but ( 6) positively to anxiety. The second objective was to explore the moderating effect of attachment security to the mother on relationships between the perceived learning climate in math and perceived academic competence and anxiety symptoms. Despite the exploratory nature of these two objectives, we formulated two more hypotheses: (7) relationships between MC and outcome variables (academic competence and anxiety) will be stronger for youths who perceived a higher level of attachment security to the mother; and (8) PC will be more strongly associated with the outcome variables for youths who perceive a weaker level of attachment security to the mother.\nIn testing the research hypotheses, perceived academic competence and anxiety in Grade 6 were taken into account to control for stability effects, thereby allowing a better understanding of the contributions of the learning climate and attachment security. We also controlled for the contribution of gender, given that gender differences in this study's variables have already been reported previously. In general, girls report a more secure attachment relationship to the mother than boys (Duchesne et al., 2009). Girls also report more anxiety symptoms than boys (Ma & Cartwright, 2003;Nolen-Hoeksema & Girgus, 1994;Zahn-Waxler, Shirtcliff, & Marceau, 2008) and perceive themselves as less competent in math (Hyde & Durik, 2005).",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    { "heading": "Method", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Participants",
+      "text": "The data for this study comes from a large-scale study on students' academic trajectories across adolescence. Students were selected from a random list of names generated by Quebec's education ministry in order to build a representative sample of students in Grade 6 attending public, French-speaking elementary schools in the province of Quebec, Canada, during the 2005-2006 school year. The sample was stratified according to gender, socioeconomic status, and geographic region. Between March and April of each year, students completed a questionnaire that they received by regular or electronic mail. In the latter case, they were assigned a unique identification code to access a secure online platform. All participants and their parents gave their written informed consent to participate in the study.\nThe study was conducted on a sample of 627 students who were in Grade 6 at Time 1. More than half of them (54%) were girls, and the average age was 11.83 years (SD = 0.47). Most participants were born in the province of Quebec (92%), spoke French at home (98%), and lived with both biological parents (73%). Mothers' average age was 40.59 years (SD = 4.53). The median annual household income ranged from $50,000 to $59,000, which is comparable to that for a middle-class household in Quebec at the time of the first data collection (Statistics Canada, 2009).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measures",
+      "text": "A complete list of all items is presented in the Appendix, Table A1-A4.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Perceived academic competence (Grade 6 and first year of middle school)",
+      "text": "Students' perceptions of their academic competence were measured with the academic subscale of the \u00c9chelle des perceptions de comp\u00e9tence dans les domaines de vie [Perceived Competence in Life Domains Scale] (Losier, Vallerand, & Blais, 1993). Three of the four items in this scale were used in the present study (e.g., \"At school, I've generally developed very good competence as a student\"). Participants rated their agreement with each statement on a 7-point Likert scale ranging from 1 (\"Strongly disagree\") to 7 (\"Strongly agree\"). Losier et al. (1993) obtained an internal consistency coefficient (Cronbach's alpha) of .81 for this subscale and a test-retest reliability coefficient of .84 after 1 month. In the present study, the alpha coefficient was .64 in Grade 6 and .73 in the first year of middle school.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Anxiety symptoms (first year of middle school)",
+      "text": "Students' anxiety symptoms were measured with the worry/oversensitivity subscale of the French version of the Children's Manifest Anxiety Scale (Turgeon & Chartrand, 2003). This instrument assesses habitual anxiety in children with 12 self-rated items (e.g., \"I worry a lot of the time\"), for which participants provided a yes (1) or no (2) response. All items were summed to provide a total, where a low score (12 minimum) indicated low anxiety and a high score (24 maximum) indicated elevated anxiety. This scale has demonstrated good reliability and validity (Turgeon & Chartrand, 2003). In the present study, the alpha coefficient was .74 in Grade 6 and .79 in the first year of middle school.",
+      "n_publication_ref": 2,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Attachment security (Grade 6)",
+      "text": "Attachment security to the mother was measured with a short version of the Security Scale (Kerns, Klepac, & Cole, 1996). We used 10 of the original 15 items to assess the degree to which students perceived the attachment figure (AF; in this case, the mother) as responsive, available, supportive, comforting, and open to communication in times of stress and discomfort. Students were presented with statements such as, \"Some kids find it easy to trust their mom, BUT other kids are not sure if they can trust their mom.\" and were asked to rate how these applied to them on a 4-point scale ranging from 1 (Sort of true) to 4 (Really true). An average score was then calculated for all items, where 1 represented lower attachment security with the mother and 4 represented higher attachment security. The reliability and consistency of this scale have been well demonstrated (Kerns et al., 1996;Van Ryzin & Leve, 2012). In the present study, the alpha coefficient was .78.\n6.2.4. Learning environment in math class (first year middle school)\nThe students' perceptions of the learning approach adopted by their math teacher were measured with the Teacher Mastery Goal (Mastery Climate or MC) and Teacher Performance-Approach Goal (Performance Climate or PC) scales of the Patterns of Adaptive Learning Scales (Midgley et al., 2000). On each scale, students were asked to circle the number that best corresponded to their perceptions, rated on a 5-point Likert scale from 1 (\"Not at all true\") to 5 (\"Very true\"). The MC scale (5 of the 6 original items) assessed the degree to which the students perceived that their teacher emphasized engaging in their academic work in order to develop competence (e.g., \"My teacher thinks mistakes are okay as long as we are learning\"). The PC scale (4 of the original 5 items) assessed students' perceptions that their teacher emphasized engaging in their academic work in order to demonstrate competence (e.g., \"My teacher points out those students who get good grades as an example to all of us\"). Internal consistency coefficients of 0.83 for the MC and .79 for the PC scale have been reported (Midgley et al., 2000).\nIn the present study, internal consistency coefficients were .80 for MC and .67 for PC.",
+      "n_publication_ref": 5,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Data analyses and treatment of missing data",
+      "text": "All analyses were performed with Mplus (Muth\u00e9n & Muth\u00e9n, 2008-2012version 7.0). Missing data were imputed using full maximum likelihood (FIML) with robust standard errors, which allowed treating missing data by constructing a covariance matrix that closely approximates the normal multivariate distribution. In Mplus, MLR estimation is used to estimate parameters by maximum likelihood (ML), an equivalent method to FIML with robust standard errors, also called Sandwich or Huber-White errors. In the present study, complete data on all the variables assessed at the two measuring times were available for 389 of the 627 participants (62%). Little's missing completely at random (MCAR) test was run, which has important implications for results generalization (Tabachnick & Fidell, 2013). The results were statistically non-significant ( 2 [54] = 44.43, p = .82), indicating a completely random pattern of missing data.\nConfirmatory factor analysis (CFA) was performed to ascertain that latent factors were adequately assessed by their respective items. This analysis estimates whether the factorial structure provides an adequate fit to the data. We examined the model fit using the comparative fit index (CFI), Tucker-Lewis Index (TLI), also known as the Bentler-Bonett non-normed fit index (NNFI; Bentler & Bonnet, 1980), and root mean square error of approximation (RMSEA). Values for the CFI and TLI are considered acceptable when they exceed .90 (Bentler, 1990;Muth\u00e9n & Muth\u00e9n, 2008-2012.\nValues for the RMSEA that are below .05 are deemed satisfying, with values from .05 to .08 indicating a reasonable model fit (Browne & Cudeck, 1993).\nModeration analyses were performed using latent structural modeling (LSM) to directly estimate the measurement model, including interactive effects between the learning climate (MC and PC) and attachment security to the mother (Kelava et al., 2011;Klein & Moosbrugger, 2000). Unlike linear regression analysis, LSM uses algorithms to integrate data, which allows reducing the probability of type II errors (i.e., accepting a false null hypothesis). In linear regression, type II errors are more likely to be caused by the presence of manifest variables (centered variables), used to reduce multicolinearity problems (Moosbrugger, Schermelleh-Engel, Kelava, & Klein, 2009). On the other hand, LSM analyses with Mplus cannot estimate simple linear models used to calculate fit indices (e.g., CFI, RMSEA, 2 ) or standardized values. In addition, this analysis does not provide the interaction variance, because it does not set the variance of the interactive items. Nevertheless, a guideline developed by Muth\u00e9n andMuth\u00e9n (2008-2012) allows calculating variance and R 2 for the model, standardized parameters, and plotting interaction. Computations were simplified by fixing the parameter variances to 1. Finally, the effect size was interpreted according to Cohen's criteria, which stipulate that a coefficient (\u00c1 2 ) of .01 corresponds to a small effect size, .09 to a medium effect size, and .14 to a large effect size (Cohen, 1988).\nA single model was tested to predict perceived academic competence and anxiety symptoms in the first year of middle school. The contributions of three categories of predictors were tested. The first set of predictors includes the students' gender as well as Grade 6 perceived academic competence and anxiety symptoms, which were included to control for stability effects. The second set is the key variables for testing hypotheses 1 to 6, that is, perceptions of the learning climate in the first year of middle school (MC and PC) and attachment security to the mother in Grade 6. Finally, we included interaction terms between MC and attachment to the mother and between PC and attachment to the mother.",
+      "n_publication_ref": 15,
+      "n_figure_ref": 0
+    },
+    { "heading": "Results", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    { "heading": "Preliminary analysis", "text": "", "n_publication_ref": 0, "n_figure_ref": 0 },
+    {
+      "heading": "Data screening",
+      "text": "Before testing the research hypotheses, the data were examined to ensure that it met basic statistical assumptions. We first examined the variables' distribution, univariate normality, linearity, and homocedasticity, as well as multivariate normality. Results of the descriptive analysis (means, SDs) are presented in Table 1. Some extreme univariate cases were found for attachment, perceived academic competence (Grade 6 and first year of middle school), anxiety symptoms (Grade 6), and perceived MC. These outliers were brought closer to the mean by assigning them a value within the 3 standard deviations range from the mean (Tabachnick & Fidell, 2013). Data distributions were also assessed (i.e., skewness and kurtosis coefficients), and the results showed no violations of normality. Linearity and homocedasticity between the independent variables were assessed using a residuals plot. The assumptions of linearity and homocedasticity were met, suggesting independent data.",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Measurement model",
+      "text": "CFA was performed to determine whether indicators (observed variables) adequately measured the expected latent constructs (factors). Three latent factors (MC, PC, and perceived academic competence) were measured by their respective items, and two latent factors (attachment and anxiety) were measured by their agglomerate indicators. In the latter case, the 10 items for attachment were grouped into 5 indicators and the 12 anxiety items into 4 indicators in order to limit the number of parameters to estimate and thereby improve the analysis reliability (Marsh & Yeung, 1998). Fit indices for the CFA model indicated satisfactory relationships between the indicators and their respective latent factors, 2 (303; n = 613) = 522.55, p < .01; CFI = .93; TLI = .92; RMSEA = .03. Factor loadings varied from .40 to .82 (Table 2).",
+      "n_publication_ref": 1,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Correlations between latent factors",
+      "text": "Table 1 shows that most latent factors were correlated with each other and in the expected direction. Based on Cohen's criteria, correlations between pre-and post-transition measures of the same constructs indicated high stability for perceived academic competence (r = .49, p < .001) and anxiety symptoms (r = .69, p < .001) (Table 1). Correlation coefficients also showed a moderate positive association between attachment in Grade 6 and perceived academic competence in the first year of middle school (r = .28, p < .01), as well as a moderate negative association between attachment  in Grade 6 and anxiety in the first year of middle school (r = \u2212.25, p < .001). MC in the first year of middle school was also moderately and positively correlated with perceived academic competence (r = .26, p < .001) whereas PC was weakly, yet positively, associated with anxiety (r = .15, p < .05). These results indicate weak to moderate relationships between key variables of our model.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Testing the model",
+      "text": "The LSM results are presented in Table 3. In line with the stability effect reported in the CFA model, pre-transition academic competence was the strongest predictor of post-transition perceived competence (\u02c7 = .41, p < .001). Moreover, pre-transition attachment security to the mother (\u02c7 = .15, p < .01) and post-transition MC in math (\u02c7 = .23, p < .001) predicted increases in perceived academic competence in the transition to middle school. There is no significant contribution for PC to perceived academic competence. Attachment to the mother did not moderate the contribution of MC to post-transition perceived academic competence.\nWith respect to anxiety symptoms, the results showed that girls were more likely than boys to express increased anxiety in the first year of middle school (\u02c7 = 20, p < .05). As for perceived competence, pre-transition anxiety was the strongest predictor of post-transition anxiety symptoms (\u02c7 = .63, p < .001). Results also indicated that attachment security to the mother predicted decreases in anxiety symptoms during the middle school transition (\u02c7 = \u2212.12, p < .05). There was no significant contribution for MC and PC on anxiety. However, moderation analyses revealed that the PC*attachment interaction had a significant contribution to explaining changes in anxiety symptoms across the middle school transition (\u02c7 = \u2212.15, p < .05). As illustrated in Fig. 1, perceived PC predicted higher anxiety symptoms in students who perceived lower security in their attachment to their mother in Grade 6, compared to students who are more securely attached to their mother.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 1
+    },
+    {
+      "heading": "Discussion",
+      "text": "These findings indicate that secure attachment to the mother and the perceived MC in math class predicted increases in perceived academic competence from Grade 6 to the first year of middle school. Also, the hypothesis about the protective role of attachment security in the relationship between the PC and anxiety symptoms in the first year of middle school was supported.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Prediction of perceived academic competence in the first year of middle school",
+      "text": "Our results indicate that perceiving MC in math classes in the first year of middle school predicts perceived academic competence, over and beyond academic competence one year before the transition and gender. This relationship (MC \u2192 perceived academic competence) concurs with findings from previous studies, showing how teaching practices that refrain from using extrinsic motivation (e.g., rewards) encourage active and autonomous exploration, emphasize initiative without penalizing errors, and promote student engagement in academic tasks, emotional well-being, persistence in the face of challenge, and academic achievement (Linnenbrink, 2005;Patrick et al., 2007;Urdan & Midgley, 2003;Wolters, 2004). For these students, the consequences of an MC (e.g., active participation, enjoyment, improvement) can in turn support perceived academic competence.\nThe results also show that perceived attachment security to the mother in Grade 6 predicts increases in perceived academic  competence one year later. This finding is in line with other studies that have indicated attachment security was negatively associated with worries regarding the transition to middle school (Duchesne et al., 2009), but positively with academic engagement and achievement (Jacobsen & Hofmann, 1997). Perceived attachment to the mother might therefore encourage self-beliefs (\"I am worthy of attention, affection, and respect\") that facilitate confident exploration of new and demanding situations. This combination of positive self-beliefs and an exploratory disposition could encourage young adolescents in interpreting their experiences early in middle school as positive (e.g., feeling that they could handle assignments and complete them successfully), which would sustain, or even improve, self-perceptions of academic competence in the first year of middle school. Contrary to the hypothesis that a PC in math would predict decreases in perceived academic competence in the first year of middle school, we found no association between these two constructs. Moreover, this lack of an association was independent from perceived attachment security to the mother. Given this information, it is possible that a PC is indirectly associated with perceived academic competence through a third variable, such as anxiety. This would concur with prior research showing that youths who perceive their parents as exerting a strong pressure to conform to their expectations tend to develop anxiety symptoms, which in turn promote the adoption of achievement goals out of fear of being incompetent . The same process could apply when students perceive their learning environment as highly competitive and focused on peer comparisons. Such an environment could enhance anxiety and lead students to feel less competent academically.",
+      "n_publication_ref": 6,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Prediction of anxiety symptoms in the first year of middle school",
+      "text": "The results indicated that an enduring feeling of comfort and security in students' relationships with their mother at the end of Grade 6 contributed to lower anxiety symptoms at the end of their first year of middle school. This relationship remained, even after controlling for the contribution of Grade 6 anxiety symptoms. Several studies have suggested that attachment security to the mother fosters youths' effective emotion regulation (Allen et al., 1998;Armsden et al., 1990;Duchesne et al., 2009;. Youths who have integrated a representation of their mother as responsive, available, comforting, and open to communication could more easily access their emotions, enabling the mother to be more aware of her child's distress so that she could intervene more rapidly to deal with it (Duchesne et al., 2009;. The benefit of a mother's psychological support would be particularly critical during anxiety-provoking contexts, which is potentially the case in the transition to middle school.\nThe results also showed that young adolescents who perceived that their math teacher created a learning climate structured around performance goals (PC) were more liable to report anxiety symptoms if they perceived their attachment relationship to the mother as insecure at the end of elementary school. These associations remained even when controlling for gender and pretransition anxiety symptoms. Duchesne et al. (2012) showed that perceptions of a PC can undermine social, academic, and psychological adjustments for young adolescents who are inclined to worry. When exposed to a PC, where messages and learning methods are usually oriented toward peer comparisons and individual aptitudes (Meece et al., 2006), some adolescents might not feel as good as their classmates (i.e., less worthy) and might have adjustment problems (Duchesne et al., 2012). However, our results suggest that such anxiety-provoking climates could be offset by a secure attachment relationship with the mother. A mother who provides a feeling of security can be receptive and supportive when her child expresses negative emotions about school experiences. For instance, she could be understanding, help the child find solutions, and spend time doing enjoyable activities together to help the child build a positive self-image .\nContrary to the hypotheses, perceptions of an MC classroom were not associated with changes in anxiety symptoms. Yet, previous studies have shown that an MC is generally related to positive effects on adaptive learning (e.g., positive affects, high perceived self-efficacy; Urdan & Midgley, 2003), as well as satisfaction with learning (Anderman & Midgley, 1997), and lower anxiety during competitive physical education events (Papaioannou & Kouli, 1999). The general explanation for these associations is that an MC classroom tends to have structured tasks and encourages goals and strategies that emphasize progress, effort, and the enjoyment of learning. The lack of an association in the present study suggests that such a learning climate, as perceived by students, would not heighten anxiety symptoms in stressful times (i.e., during the middle school transition). However, it is also plausible that the MCanxiety association is moderated by students' gender such that MC would protect girls more than boys (see below).",
+      "n_publication_ref": 10,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Gender differences",
+      "text": "Our results indicated that, regardless of perceived attachment security or the learning climate, girls making the transition to middle school are at a greater risk for anxiety compared to boys. These findings concur with those of other studies showing that girls are more liable to express anxiety (Duchesne et al., 2009;Ma & Cartwright, 2003;Zahn-Waxler et al., 2008), which could be explained by the fact that, in early adolescence, girls have to deal with two simultaneous stressors (puberty and the middle school transition), whereas most boys experience a peak in puberty later. The combination of personal and environmental stressors increases girls' vulnerability to develop emotional problems at this time (Nolen-Hoeksema & Girgus, 1994).",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Implications",
+      "text": "The results of this study have practical implications for parents and teachers. A first application is for parents, and particularly mothers. Here, we found that young adolescents' perceived attachment security to their mother contributes to their perceived academic competence, while at the same time buffers against anxiety symptoms in the transition to middle school. This suggests that a mother who is available, accessible, responsive, warm, and open to discussion is more liable to creating the conditions that foster emotional regulation during this highly stressful time . Hence, education and social professionals working with parents of children undergoing a school transition should encourage parents to be supportive of their children in order to help them manage feelings that threaten their sense of well-being.\nThe second implication pertains to the need for teachers to be aware of their teaching practices. In light of our results, youths who are exposed to a learning environment that emphasizes competition and performance (PC) would be more liable to present anxiety symptoms in the first year of middle school if they perceive an insecure attachment relationship with their mother. Teachers should therefore be made aware that these youths might be more vulnerable than others to messages and practices that stress individual aptitudes and peer comparisons. The meaning underlying such messages can have detrimental effects on students' perceptions that they can meet the teacher's demands, their motivation in class, their interactions with peers, and their psychological well-being.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Limitations",
+      "text": "Until now, the contributions of attachment security, learning climate, and their interactions with perceived academic competence and anxiety symptoms in young adolescents entering middle school had not been investigated. The present study examined these relationships in a prospective study using pre-and posttransition measures, while considering gender, perceived academic competence, and anxiety in Grade 6 as covariables. Despite these methodological strengths, this study has some limitations.\nFirst, the correlational design of the study does not allow making causal inferences between the study variables. For example, young adolescents' anxiety symptoms may have undermined their ability to objectively assess their perceptions of attachment security to their mother, or the type of learning climate to which they were exposed. Second, the fact that the data were obtained from a single source (adolescents themselves) increases the likelihood that the observed effects were attributable to shared method variance. Future studies should consider using additional data sources, such as parents, to assess attachment security. Third, perceptions of the learning climate were measured with respect to a math class. Consequently, the results might not be generalized to all school subjects in the first year of middle school. Fourth, we did not consider some crucial antecedents of perceived academic competence and anxiety symptoms in our model (e.g., actual level of performance, importance attached to maths, individual goal orientation, socioeconomic status; Barron & Harackiewicz, 2001;Bouffard et al., 2003;Duchesne et al., 2008;Harackiewicz & Elliot, 1998). Considering such factors could undermine the direct contribution of attachment security to perceived academic competence or its protective effect on the negative relationship from a performance climate to anxiety symptoms. Finally, only attachment security to the mother was considered in this study. It would be useful, in future studies, to examine if the contribution of attachment security to the father is similar to or different from attachment security to the mother. Along this line, a recent study found that attachment security to the father made a unique and complementary contribution to changes in depressive symptoms during adolescence .\nIn conclusion, the aim of the present study was to ascertain the direct contributions of attachment in Grade 6 and the learning climate (mastery or performance) in the first year of middle school on perceived academic competence and anxiety symptoms at the end of the first year of middle school, as well as the moderating role of attachment security in the relationship with the learning climate. The results showed that perceived attachment security to the mother at the end of elementary school predicted perceived academic competence at the end of the first year of middle school. Furthermore, attachment security appeared to protect against anxiety symptoms in students who perceived their teacher's practices as emphasizing competition and social comparison (PC). Taken together, these results suggest that attachment security to the mother can play a significant role in the promotion of perceived academic competence and the prevention of anxiety symptoms during the transition from elementary to middle school.",
+      "n_publication_ref": 4,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Acknowledgments",
+      "text": "This research was entirely supported by grants from the Social Sciences and Humanities Research Council of Canada (SSHRC) and the Fonds qu\u00e9b\u00e9cois de recherche sur la soci\u00e9t\u00e9 et la culture (FQRSC).",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Disclosure of interest",
+      "text": "The authors declare that they have no competing interest.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    },
+    {
+      "heading": "Appendix A. Supplementary data",
+      "text": "Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/j.erap.2017.01.002.",
+      "n_publication_ref": 0,
+      "n_figure_ref": 0
+    }
+  ],
+  "references": [
+    {
+      "title": "Patterns of attachment: A psychological study of the strange situation",
+      "journal": "Erlbaum",
+      "year": "1978",
+      "authors": "M S Ainsworth; M C Blehar; E Waters; S Wall"
+    },
+    {
+      "title": "Attachment and adolescent psychosocial functioning",
+      "journal": "Child Development",
+      "year": "1998",
+      "authors": "J P Allen; C Moore; G Kuperminc; K Bell"
+    },
+    {
+      "title": "Classrooms: Goals, structures, and student motivation",
+      "journal": "Journal of Educational Psychology",
+      "year": "1992",
+      "authors": "C Ames"
+    },
+    {
+      "title": "Diagnostic and statistical manual of mental disorders",
+      "journal": "American Psychiatric Association",
+      "year": "2013",
+      "authors": ""
+    },
+    {
+      "title": "Changes in achievement goal orientations, perceived academic competence, and grades across the transition to middle level schools",
+      "journal": "Contemporary Educational Psychology",
+      "year": "1997",
+      "authors": "E M Anderman; C Midgley"
+    },
+    {
+      "title": "Achievement goal theory, conceptualization of ability/intelligence, and classroom climate",
+      "journal": "Springer Science Business Media",
+      "year": "2012",
+      "authors": "E M Anderman; H Patrick"
+    },
+    {
+      "title": "Parent and peer attachment in early adolescent depression",
+      "journal": "Journal of Abnormal Child Psychology",
+      "year": "1990",
+      "authors": "G C Armsden; E Mccauley; M T Greenberg; P M Burke; J R Mitchell"
+    },
+    {
+      "title": "Social foundations of thought and action: A social cognitive theory",
+      "journal": "Prentice-Hall, Inc",
+      "year": "1986",
+      "authors": "A Bandura"
+    },
+    {
+      "title": "Achievement goals and optimal motivation: Testing multiple goal models",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "2001",
+      "authors": "K E Barron; J M Harackiewicz"
+    },
+    {
+      "title": "Comparative fit indexes in structural models",
+      "journal": "Psychological Bulletin",
+      "year": "1990",
+      "authors": "P M Bentler"
+    },
+    {
+      "title": "Significance tests and goodness of fit in the analysis of covariance structures",
+      "journal": "Psychological Bulletin",
+      "year": "1980",
+      "authors": "P M Bentler; D C Bonnet"
+    },
+    {
+      "title": "Changes in self-perceptions of competence and intrinsic motivation among elementary school children",
+      "journal": "British Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "T Bouffard; M F Marcoux; C Vezeau; L Bordeleau"
+    },
+    {
+      "title": "Attachment and loss: Volume 2. Separation: Anxiety and anger",
+      "journal": "NY: Basic Books",
+      "year": "1973",
+      "authors": "J Bowlby"
+    },
+    {
+      "title": "Internal working models in attachment relationships: Elaborating a central construct in attachment theory",
+      "journal": "The Guilford Press",
+      "year": "2008",
+      "authors": "I Bretherton; K A Munholland"
+    },
+    {
+      "title": "Alternative ways of assessing model fit",
+      "journal": "Sage",
+      "year": "1993",
+      "authors": "M W Browne; R Cudeck"
+    },
+    {
+      "title": "Parent-child attachment and internalizing symptomatology in childhood and adolescence: A review of empirical findings and future directions",
+      "journal": "Development and Psychopathology",
+      "year": "2010",
+      "authors": "L E Brumariu; K A Kerns"
+    },
+    {
+      "title": "Self-regulation, motivation, and math achievement in middle school: Variations across grade level and math context",
+      "journal": "Journal of School Psychology",
+      "year": "2009",
+      "authors": "T J Cleary; P P Chen"
+    },
+    {
+      "title": "Parenting, marital conflict and adjustment from early-to mid-adolescence: Mediated by adolescent attachment style?",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2005",
+      "authors": "A B Doyle; D Markiewicz"
+    },
+    {
+      "title": "Adolescent parental attachment and academic motivation and performance in early adolescence",
+      "journal": "Journal of Applied Social Psychology",
+      "year": "2007",
+      "authors": "S Duchesne; S Larose"
+    },
+    {
+      "title": "Parental behaviors and adolescents' achievement goals at the beginning of middle school: Emotional problems as potential mediators",
+      "journal": "Journal of Educational Psychology",
+      "year": "2010",
+      "authors": "S Duchesne; C F Ratelle"
+    },
+    {
+      "title": "Attachment security to mothers and fathers and developmental trajectories of depressive symptoms in adolescence: Which parent for which trajectory?",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2014",
+      "authors": "S Duchesne; C F Ratelle"
+    },
+    {
+      "title": "Developmental trajectories of achievement goal orientations during the middle school transition: The contribution of emotional and behavioral dispositions",
+      "journal": "Journal of Early Adolescence",
+      "year": "2014",
+      "authors": "S Duchesne; C F Ratelle; B Feng"
+    },
+    {
+      "title": "Adjustment trajectories in college science programs: Perceptions of qualities of parents' and college teachers' relationships",
+      "journal": "Journal of Counseling Psychology",
+      "year": "2007",
+      "authors": "S Duchesne; C F Ratelle; S Larose; F Guay"
+    },
+    {
+      "title": "Early adolescent attachment to parents, emotional problems, and teacher-academic worries about the middle school transition",
+      "journal": "Journal of Early Adolescence",
+      "year": "2009",
+      "authors": "S Duchesne; C F Ratelle; S C Poitras; E Drouin"
+    },
+    {
+      "title": "Worries about the middle school transition and subsequent adjustment: The role of classroom goal structure",
+      "journal": "Journal of Early Adolescence",
+      "year": "2012",
+      "authors": "S Duchesne; C F Ratelle; A Roy"
+    },
+    {
+      "title": "Trajectories of anxiety during elementary-school years and prediction of high school noncompletion",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "2008",
+      "authors": "S Duchesne; F Vitaro; S Larose; R E Tremblay"
+    },
+    {
+      "title": "School and community influences on human development",
+      "journal": "Psychology Press",
+      "year": "2011",
+      "authors": "J S Eccles; R W Roeser"
+    },
+    {
+      "title": "Selfconcepts, domain values, and self-esteem: Relations and changes at early adolescence",
+      "journal": "Journal of Personality",
+      "year": "1989",
+      "authors": "J Eccles; A Wigfield; C Flanagan; C Miller; D Reuman; D Yee"
+    },
+    {
+      "title": "A conceptual history of the achievement goal construct",
+      "journal": "Guilford Press",
+      "year": "2005",
+      "authors": "A J Elliot"
+    },
+    {
+      "title": "A hierarchical model of approach and avoidance achievement motivation",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1997",
+      "authors": "A J Elliot; M A Church"
+    },
+    {
+      "title": "Family structures and student motivation: A developmental perspective",
+      "journal": "",
+      "year": "1989",
+      "authors": "J L Epstein"
+    },
+    {
+      "title": "Student, teacher, and observer perceptions of the classroom environment before and after the transition to junior high school",
+      "journal": "Journal of Early Adolescence",
+      "year": "1988",
+      "authors": "H Feldlaufer; C Midgley; J S Eccles"
+    },
+    {
+      "title": "Competence beliefs and perceived ability evaluations: How do they contribute to students' intrinsic motivation and achievement?",
+      "journal": "Learning and Individual Differences",
+      "year": "2012",
+      "authors": "V Freiberger; R Steinmayr; B Spinath"
+    },
+    {
+      "title": "Achievement goals, efficacy beliefs and coping strategies in mathematics: The roles of perceived parent and teacher goal emphases",
+      "journal": "Contemporary Educational Psychology",
+      "year": "2007",
+      "authors": "J M Friedel; K S Cortina; J C Turner; C Midlgley"
+    },
+    {
+      "title": "Synthesizing the evidence on classroom goal structures in middle and secondary schools. A meta-analysis and narrative review",
+      "journal": "Review of Educational Research",
+      "year": "2012",
+      "authors": "R Givens Rolland"
+    },
+    {
+      "title": "Students' achievement goal orientations and their behavioral and emotional engagement: Co-examining the role of perceived school goal structures and parent goals during adolescence",
+      "journal": "Learning and Individual Differences",
+      "year": "2009",
+      "authors": "E N Gonida; K Voulala; G Kiosseoglou"
+    },
+    {
+      "title": "Parental resources and the transition to junior high",
+      "journal": "Journal of Research on Adolescence",
+      "year": "2001",
+      "authors": "W S Grolnick; C O Kurowski; K G Dunlap; C Hevey"
+    },
+    {
+      "title": "Academic self-concept and achievement: Developmental perspective on their causal ordering",
+      "journal": "Journal of Educational Psychology",
+      "year": "2003",
+      "authors": "F Guay; H W Marsh; M Boivin"
+    },
+    {
+      "title": "Developmental trajectories of adolescent anxiety disorder symptoms: A 5-year prospective community study",
+      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "year": "2008",
+      "authors": "W W Hale; Q Raaijmakers; P Muris; A Van Hoof; W Meeus"
+    },
+    {
+      "title": "The joint effects of target and purpose goals on intrinsic motivation: A mediational analysis",
+      "journal": "Personality and Social Psychology Bulletin",
+      "year": "1998",
+      "authors": "J M Harackiewicz; A J Elliot"
+    },
+    {
+      "title": "Gender, competence, and motivation",
+      "journal": "Guilford",
+      "year": "2005",
+      "authors": "J S Hyde; A M Durik"
+    },
+    {
+      "title": "Children's attachment representations: Longitudinal relations to school behavior and academic competency in middle childhood and adolescence",
+      "journal": "Developmental Psychology",
+      "year": "1997",
+      "authors": "T Jacobsen; V Hofmann"
+    },
+    {
+      "title": "Adult mental health disorders and their age at onset",
+      "journal": "The British Journal of Psychiatry",
+      "year": "2013",
+      "authors": "P B Jones"
+    },
+    {
+      "title": "Advanced nonlinear latent variable modeling: Distribution analytic LMS and QML estimators of interaction and quadratic effects",
+      "journal": "Structural Equation Modeling",
+      "year": "2011",
+      "authors": "A Kelava; C S Werner; K Schermelleh-Engel; H Moosbrugger; D Zapf; Y Ma"
+    },
+    {
+      "title": "Longitudinal pathways linking adolescent reports of maternal and paternal attachments to psychological wellbeing",
+      "journal": "Journal of Early Adolescence",
+      "year": "1998",
+      "authors": "M E Kenny; R Lomax; M Brabeck; J Fife"
+    },
+    {
+      "title": "Peer Relationship and preadolescents' perceptions of security in the child-mother relationship",
+      "journal": "Developmental Psychology",
+      "year": "1996",
+      "authors": "K A Kerns; L Klepac; A Cole"
+    },
+    {
+      "title": "Maximum likelihood estimation of latent interaction effects with the LMS method",
+      "journal": "Psychometrika",
+      "year": "2000",
+      "authors": "A G Klein; H Moosbrugger"
+    },
+    {
+      "title": "Instructional principles for self-regulation",
+      "journal": "Educational Technology Research and Development",
+      "year": "2001",
+      "authors": "K Ley; D B Young"
+    },
+    {
+      "title": "The dilemma of performance-approach goals: The use of multiple goal contexts to promote students' motivation and learning",
+      "journal": "Journal of Educational Psychology",
+      "year": "2005",
+      "authors": "E A Linnenbrink"
+    },
+    {
+      "title": "Construction et validation de l'\u00c9chelle des perceptions de comp\u00e9tence dans les domaines de vie",
+      "journal": "",
+      "year": "1993",
+      "authors": "G F Losier; R J Vallerand; M R Blais"
+    },
+    { "title": "", "journal": "Science et comportement", "year": "", "authors": "" },
+    {
+      "title": "A longitudinal analysis of gender differences in affective outcomes in mathematics during middle and high school. Effectiveness and School Improvement",
+      "journal": "",
+      "year": "2003",
+      "authors": "X Ma; F Cartwright"
+    },
+    {
+      "title": "Attachment state of mind and perceptual processing of emotional stimuli",
+      "journal": "Attachment and Human Development",
+      "year": "2005",
+      "authors": "M A Maier; A Bernier; R Pekrun; P Zimmermann; K Strasser; K E Grossmann"
+    },
+    {
+      "title": "Attachment to the mother and achievement goal orientations at the beginning of middle school: The mediating role of academic competence and anxiety",
+      "journal": "Learning and Individual Differences",
+      "year": "2015",
+      "authors": "C Maltais; S Duchesne; C F Ratelle; B Feng"
+    },
+    {
+      "title": "Academic self-concept, interest, grades, and standardized test scores: Reciprocal effects model of causal ordering",
+      "journal": "Child Development",
+      "year": "2005",
+      "authors": "H W Marsh; U Trautwein; O L\u00fcdtke; O K\u00f6ller; J Baumert"
+    },
+    {
+      "title": "Top-down, bottom-up, and horizontal models: The direction of causality in multidimensional, hierarchical selfconcept models",
+      "journal": "Journal of Personality and Social Psychology",
+      "year": "1998",
+      "authors": "H W Marsh; A S Yeung"
+    },
+    {
+      "title": "Research on affect in mathematics education: A reconceptualization",
+      "journal": "Macmillan",
+      "year": "1992",
+      "authors": "D B Mcleod"
+    },
+    {
+      "title": "Classroom goal structure, student, motivation, and academic achievement",
+      "journal": "Annual Review of Psychology",
+      "year": "2006",
+      "authors": "J L Meece; E M Anderman; L H Anderman"
+    },
+    {
+      "title": "Manual for the Patterns of Adaptive Learning Scales (PALS)",
+      "journal": "",
+      "year": "2000",
+      "authors": "C Midgley; M L Maehr; L Z Hruda; E Anderman; L Anderman; K E Freeman"
+    },
+    {
+      "title": "Assessing spurious interaction effects",
+      "journal": "Sense Publishers",
+      "year": "2009",
+      "authors": "H Moosbrugger; K Schermelleh-Engel; A Kelava; A G Klein"
+    },
+    { "title": "", "journal": "", "year": "2008", "authors": "L K Muth\u00e9n; B O Muth\u00e9n" },
+    {
+      "title": "Perceived attachment to parents and peers and psychological well-being in adolescence",
+      "journal": "Journal of Youth and Adolescence",
+      "year": "1992",
+      "authors": "Nada Raja; S Mcgee; R Stanton; W R "
+    },
+    {
+      "title": "The emergence of gender differences in depression during adolescence",
+      "journal": "Psychological Bulletin",
+      "year": "1994",
+      "authors": "S Nolen-Hoeksema; J S Girgus"
+    },
+    {
+      "title": "The effects of task structure, perceived motivational climate and goal orientations on students task involvement and anxiety",
+      "journal": "Journal of Applied Sport Psychology",
+      "year": "1999",
+      "authors": "A Papaioannou; O Kouli"
+    },
+    {
+      "title": "Adolescent perceived attachment to parents in relation to competence, depression, and anxiety: A longitudinal study",
+      "journal": "Journal of Early Adolescence",
+      "year": "1992",
+      "authors": "D R Papini; L A Roggman"
+    },
+    {
+      "title": "Early Adolescents' perceptions of the classroom social environment, motivational beliefs, and engagement",
+      "journal": "Journal of Educational Psychology",
+      "year": "2007",
+      "authors": "H Patrick; A M Ryan; A Kaplan"
+    },
+    {
+      "title": "Profils de buts d'apprentissage et caract\u00e9ristiques personnelles des \u00e9l\u00e8ves au d\u00e9but du Secondaire [Profile of learning goals and personal characteristics of students at the beginning of secondary school",
+      "journal": "",
+      "year": "2010",
+      "authors": "R Poulin; S Duchesne; C F Ratelle"
+    },
+    {
+      "title": "Adolescents' perceptions of middle school: Relation to longitudinal changes in academic and psychological adjustment",
+      "journal": "Journal of Research on Adolescence",
+      "year": "1998",
+      "authors": "R W Roeser; J S Eccles"
+    },
+    {
+      "title": "The classroom social environment and changes in adolescents' motivation and engagement during middle school",
+      "journal": "Educational Research Journal",
+      "year": "2001",
+      "authors": "A M Ryan; H Patrick"
+    },
+    {
+      "title": "The paradoxical relationship between student achievement and self-perception: A cross-national analysis based on three waves on TIMSS data",
+      "journal": "Educational Research and Evaluation",
+      "year": "2008",
+      "authors": "C Shen; H P Tam"
+    },
+    {
+      "title": "Self-enhancing and self-defeating ego orientation: relations with task and avoidance orientation, achievement, self-perceptions, and anxiety",
+      "journal": "Journal of Educational Psychology",
+      "year": "1997",
+      "authors": "E M Skaalvik"
+    },
+    {
+      "title": "Insecure attachment as a risk factor for future depressive symptoms in early adolescence",
+      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "year": "2002",
+      "authors": "A M Sund; L Wichstr\u00f8m"
+    },
+    {
+      "title": "Using multivariate statistics",
+      "journal": "Allyn and Bacon",
+      "year": "2013",
+      "authors": "B G Tabachnick; L S Fidell"
+    },
+    {
+      "title": "Reliability and validity of the Revised Children's Manifest Anxiety Scale in a French-Canadian sample",
+      "journal": "Psychological Assessment",
+      "year": "2003",
+      "authors": "L Turgeon; E Chartrand"
+    },
+    {
+      "title": "Changes in the perceived classroom goal structure and pattern of adaptive learning during early adolescence. Contemporary Educational Psychology",
+      "journal": "",
+      "year": "2003",
+      "authors": "T Urdan; C Midgley"
+    },
+    {
+      "title": "Underperformance in primary schools",
+      "journal": "School Effectiveness and School Improvement",
+      "year": "2006",
+      "authors": "W Van De Grift; A A M Houtveen"
+    },
+    {
+      "title": "Validity evidence for the security scale as a measure of perceived attachment security in adolescence",
+      "journal": "Journal of Adolescence",
+      "year": "2012",
+      "authors": "M J Van Ryzin; L D Leve"
+    },
+    {
+      "title": "Cognitive-behavioral therapy for anxious youth in school settings",
+      "journal": "The Guilford Press",
+      "year": "2009",
+      "authors": "A S Weissman; D Antinoro; B C Chu"
+    },
+    {
+      "title": "Adolescent development",
+      "journal": "Erlbaum",
+      "year": "2006",
+      "authors": "A Wigfield; J B Byrnes; J S Eccles"
+    },
+    {
+      "title": "Transitions during early adolescence: Changes in children's domain specific self-perceptions and general self-esteem across the transition to junior high school",
+      "journal": "Developmental Psychology",
+      "year": "1991",
+      "authors": "A Wigfield; J Eccles; D Maciver; D Reuman; C Midgley"
+    },
+    {
+      "title": "Advancing achievement goal theory: Using goal structure and goal orientation to predict students' motivation, cognition, and achievement",
+      "journal": "Journal of Educational Psychology",
+      "year": "2004",
+      "authors": "C Wolters"
+    },
+    {
+      "title": "Examining reciprocal influences among family climate, school attachment, and academic selfregulation: Implications for success",
+      "journal": "Journal of Family Psychology",
+      "year": "2016",
+      "authors": "M Xia; G M Fosco; M E Feinberg"
+    },
+    {
+      "title": "Disorders of childhood and adolescence: Gender and psychopathology",
+      "journal": "Annual Review of Clinical Psychology",
+      "year": "2008",
+      "authors": "C Zahn-Waxler; E A Shirtcliff; K Marceau"
+    }
+  ],
+  "figures": [
+    {
+      "figure_label": "1",
+      "figure_type": "",
+      "figure_id": "fig_0",
+      "figure_caption": "Fig. 1 .1Fig. 1. Probability of manifest anxiety symptoms as a function of standardized coefficient of performance classroom climate (math class) and attachment security.",
+      "figure_data": ""
+    },
+    {
+      "figure_label": "1",
+      "figure_type": "table",
+      "figure_id": "tab_0",
+      "figure_caption": "Descriptive statistics and correlations among latent factors (n = 627).",
+      "figure_data": "Latent factorsGrade 6First year of middle schoolMeans (SD)(Grade 7)12345671Gender-1.54 (.50)2Attachment security a (T1).10 *-3.31 (.49)3Perceived academic competence b (T1)\u2212.14 **.34 ***-5.66 (1.12)4Anxiety symptoms c (T1).21 ***\u2212.27 ***\u2212.23 ***-16.52 (2.95)5Mastery classroom climate d (T2)\u2212.05.06.13\u2212.08-3.76 (.90)6Performance classroom climate d (T2)\u2212.16 **\u2212.17 **\u2212.06.11.12-2.14 (.89)7Perceived academic competence b (T2)\u2212.11 *.28 **.49 ***\u2212.08.26 ***\u2212.12-5.46 (1.08)8Anxiety symptoms c (T2).19 ***\u2212.25 ***\u2212.22 ***.69 ***\u2212.13.15 *\u2212.17 **16.57 (3.13)Girls serve as the reference group. T1: Grade 6; T2: First year of middle school = Grade 7. *p < .05; **p < .01; ***p < .001.a Rated on 4-point scale.b Rated on 7-point scale.c Rated using a Yes (1)/No (2) format."
+    },
+    {
+      "figure_label": "2",
+      "figure_type": "table",
+      "figure_id": "tab_1",
+      "figure_caption": "Factor Loadings for Indicators of the Model (n = 627).",
+      "figure_data": "ItemsGrade 6First year of middle school (Grade 7)AttachmentPerceivedAnxietyMasteryPerformancePerceivedAnxietysecurity aacademicsymptoms cclassroomclassroomacademicsymptoms ccompetence bclimate dclimate dcompetence b1.58.40.66.68.66.51.712.66.79.63.65.64.81.703.71.75.61.78.56.82.624.59-.59.70.44-.655.70------For all items, p < .01."
+    },
+    {
+      "figure_label": "3",
+      "figure_type": "table",
+      "figure_id": "tab_2",
+      "figure_caption": "Latent structural moderating analysis results (n = 627).",
+      "figure_data": "Factors"
+    }
+  ],
+  "doi": "10.1016/j.erap.2017.01.002"
+}
