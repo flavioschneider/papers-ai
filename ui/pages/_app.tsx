@@ -1,6 +1,8 @@
 import { globalStyles } from '@styles/global';
 import { darkTheme } from '@styles/config';
+import { Box } from '@styles/components'
 import { ThemeProvider } from 'next-themes';
+import ThemeSwitch from '@components/ThemeSwitch';
 
 function MyApp({ Component, pageProps }) {
   globalStyles();
@@ -17,6 +19,10 @@ function MyApp({ Component, pageProps }) {
         }}
       >
         <Component {...pageProps} />
+        
+        <Box css={{ position: 'fixed', bottom: '$3', right: '$3' }}>
+          <ThemeSwitch />
+        </Box>
       </ThemeProvider>
     </>
   );

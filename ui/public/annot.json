@@ -4,277 +4,42 @@
     "file": "anderman 1997.json",
     "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
     "country": {
-      "score": 0.3389052152633667,
+      "score": 0.3389057517051697,
       "start": 6520,
       "end": 6525,
       "answer": "China",
       "question": "In what country is the study?"
     },
     "sample_size": {
-      "score": 0.49714770913124084,
+      "score": 0.4971480369567871,
       "start": 152,
       "end": 155,
       "answer": "341",
       "question": "How many people are in the study?"
     },
     "effect_size": {
-      "score": 0.3438107669353485,
+      "score": 0.34381043910980225,
       "start": 8696,
       "end": 8701,
       "answer": "small",
       "question": "What is the affect size?"
     },
     "grade": {
-      "score": 0.33917754888534546,
+      "score": 0.3391774892807007,
       "start": 51,
       "end": 56,
       "answer": "sixth",
       "question": "What grade is it? (6th, 5th)"
     },
     "school": {
-      "score": 0.16789540648460388,
+      "score": 0.16789522767066956,
       "start": 1052,
       "end": 1078,
       "answer": "elementary to middle level",
       "question": "What school? (elementary, middle, or high school)"
     },
     "subject": {
-      "score": 0.7697399258613586,
-      "start": 828,
-      "end": 841,
-      "answer": "math, English",
-      "question": "What is the subject?"
-    }
-  },
-  {
-    "id": 0,
-    "file": "anderman 1997.json",
-    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
-    "country": {
-      "score": 0.3389052152633667,
-      "start": 6520,
-      "end": 6525,
-      "answer": "China",
-      "question": "In what country is the study?"
-    },
-    "sample_size": {
-      "score": 0.49714770913124084,
-      "start": 152,
-      "end": 155,
-      "answer": "341",
-      "question": "How many people are in the study?"
-    },
-    "effect_size": {
-      "score": 0.3438107669353485,
-      "start": 8696,
-      "end": 8701,
-      "answer": "small",
-      "question": "What is the affect size?"
-    },
-    "grade": {
-      "score": 0.33917754888534546,
-      "start": 51,
-      "end": 56,
-      "answer": "sixth",
-      "question": "What grade is it? (6th, 5th)"
-    },
-    "school": {
-      "score": 0.16789540648460388,
-      "start": 1052,
-      "end": 1078,
-      "answer": "elementary to middle level",
-      "question": "What school? (elementary, middle, or high school)"
-    },
-    "subject": {
-      "score": 0.7697399258613586,
-      "start": 828,
-      "end": 841,
-      "answer": "math, English",
-      "question": "What is the subject?"
-    }
-  },
-  {
-    "id": 0,
-    "file": "anderman 1997.json",
-    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
-    "country": {
-      "score": 0.3389052152633667,
-      "start": 6520,
-      "end": 6525,
-      "answer": "China",
-      "question": "In what country is the study?"
-    },
-    "sample_size": {
-      "score": 0.49714770913124084,
-      "start": 152,
-      "end": 155,
-      "answer": "341",
-      "question": "How many people are in the study?"
-    },
-    "effect_size": {
-      "score": 0.3438107669353485,
-      "start": 8696,
-      "end": 8701,
-      "answer": "small",
-      "question": "What is the affect size?"
-    },
-    "grade": {
-      "score": 0.33917754888534546,
-      "start": 51,
-      "end": 56,
-      "answer": "sixth",
-      "question": "What grade is it? (6th, 5th)"
-    },
-    "school": {
-      "score": 0.16789540648460388,
-      "start": 1052,
-      "end": 1078,
-      "answer": "elementary to middle level",
-      "question": "What school? (elementary, middle, or high school)"
-    },
-    "subject": {
-      "score": 0.7697399258613586,
-      "start": 828,
-      "end": 841,
-      "answer": "math, English",
-      "question": "What is the subject?"
-    }
-  },
-  {
-    "id": 0,
-    "file": "anderman 1997.json",
-    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
-    "country": {
-      "score": 0.3389052152633667,
-      "start": 6520,
-      "end": 6525,
-      "answer": "China",
-      "question": "In what country is the study?"
-    },
-    "sample_size": {
-      "score": 0.49714770913124084,
-      "start": 152,
-      "end": 155,
-      "answer": "341",
-      "question": "How many people are in the study?"
-    },
-    "effect_size": {
-      "score": 0.3438107669353485,
-      "start": 8696,
-      "end": 8701,
-      "answer": "small",
-      "question": "What is the affect size?"
-    },
-    "grade": {
-      "score": 0.33917754888534546,
-      "start": 51,
-      "end": 56,
-      "answer": "sixth",
-      "question": "What grade is it? (6th, 5th)"
-    },
-    "school": {
-      "score": 0.16789540648460388,
-      "start": 1052,
-      "end": 1078,
-      "answer": "elementary to middle level",
-      "question": "What school? (elementary, middle, or high school)"
-    },
-    "subject": {
-      "score": 0.7697399258613586,
-      "start": 828,
-      "end": 841,
-      "answer": "math, English",
-      "question": "What is the subject?"
-    }
-  },
-  {
-    "id": 0,
-    "file": "anderman 1997.json",
-    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
-    "country": {
-      "score": 0.3389052152633667,
-      "start": 6520,
-      "end": 6525,
-      "answer": "China",
-      "question": "In what country is the study?"
-    },
-    "sample_size": {
-      "score": 0.49714770913124084,
-      "start": 152,
-      "end": 155,
-      "answer": "341",
-      "question": "How many people are in the study?"
-    },
-    "effect_size": {
-      "score": 0.3438107669353485,
-      "start": 8696,
-      "end": 8701,
-      "answer": "small",
-      "question": "What is the affect size?"
-    },
-    "grade": {
-      "score": 0.33917754888534546,
-      "start": 51,
-      "end": 56,
-      "answer": "sixth",
-      "question": "What grade is it? (6th, 5th)"
-    },
-    "school": {
-      "score": 0.16789540648460388,
-      "start": 1052,
-      "end": 1078,
-      "answer": "elementary to middle level",
-      "question": "What school? (elementary, middle, or high school)"
-    },
-    "subject": {
-      "score": 0.7697399258613586,
-      "start": 828,
-      "end": 841,
-      "answer": "math, English",
-      "question": "What is the subject?"
-    }
-  },
-  {
-    "id": 0,
-    "file": "anderman 1997.json",
-    "title": "Changes in Achievement Goal Orientations, Perceived Academic Competence, and Grades across the Transition to Middle-Level Schools",
-    "country": {
-      "score": 0.3389052152633667,
-      "start": 6520,
-      "end": 6525,
-      "answer": "China",
-      "question": "In what country is the study?"
-    },
-    "sample_size": {
-      "score": 0.49714770913124084,
-      "start": 152,
-      "end": 155,
-      "answer": "341",
-      "question": "How many people are in the study?"
-    },
-    "effect_size": {
-      "score": 0.3438107669353485,
-      "start": 8696,
-      "end": 8701,
-      "answer": "small",
-      "question": "What is the affect size?"
-    },
-    "grade": {
-      "score": 0.33917754888534546,
-      "start": 51,
-      "end": 56,
-      "answer": "sixth",
-      "question": "What grade is it? (6th, 5th)"
-    },
-    "school": {
-      "score": 0.16789540648460388,
-      "start": 1052,
-      "end": 1078,
-      "answer": "elementary to middle level",
-      "question": "What school? (elementary, middle, or high school)"
-    },
-    "subject": {
-      "score": 0.7697399258613586,
+      "score": 0.7697417140007019,
       "start": 828,
       "end": 841,
       "answer": "math, English",
@@ -286,42 +51,42 @@
     "file": "Anderman _ Anderman 1999.json",
     "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
     "country": {
-      "score": 0.0004442651115823537,
+      "score": 0.0004442784411367029,
       "start": 140,
       "end": 144,
       "answer": "1994",
       "question": "In what country is the study?"
     },
     "sample_size": {
-      "score": 0.5267519354820251,
+      "score": 0.526750922203064,
       "start": 479,
       "end": 482,
       "answer": "660",
       "question": "What is the sample size?"
     },
     "effect_size": {
-      "score": 0.10734914243221283,
+      "score": 0.10734915733337402,
       "start": 169,
       "end": 188,
       "answer": "1 \u03ed not at all true",
       "question": "What is the affect size?"
     },
     "grade": {
-      "score": 0.4182244837284088,
+      "score": 0.41822510957717896,
       "start": 85,
       "end": 94,
       "answer": "6th grade",
       "question": "What grade is it? (6th, 5th)"
     },
     "school": {
-      "score": 0.10195069015026093,
+      "score": 0.10195110738277435,
       "start": 106,
       "end": 112,
       "answer": "middle",
       "question": "What school? (elementary, middle, or high school)"
     },
     "subject": {
-      "score": 0.37978893518447876,
+      "score": 0.379787415266037,
       "start": 25,
       "end": 38,
       "answer": "academic core",
@@ -329,237 +94,4157 @@
     }
   },
   {
-    "id": 1,
-    "file": "Anderman _ Anderman 1999.json",
-    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "id": 2,
+    "file": "arens 2017.json",
+    "title": "Math Self-Concept, Grades, and Achievement Test Scores: Long-Term Reciprocal Effects Across Five Waves and Three Achievement Tracks",
     "country": {
-      "score": 0.0004442651115823537,
-      "start": 140,
-      "end": 144,
-      "answer": "1994",
+      "score": 0.6874646544456482,
+      "start": 39,
+      "end": 45,
+      "answer": "German",
       "question": "In what country is the study?"
     },
     "sample_size": {
-      "score": 0.5267519354820251,
-      "start": 479,
-      "end": 482,
-      "answer": "660",
+      "score": 0.43817198276519775,
+      "start": 740,
+      "end": 761,
+      "answer": "3,425 German students",
       "question": "What is the sample size?"
     },
     "effect_size": {
-      "score": 0.10734914243221283,
-      "start": 169,
-      "end": 188,
-      "answer": "1 \u03ed not at all true",
+      "score": 0.2955293655395508,
+      "start": 707,
+      "end": 719,
+      "answer": "similar size",
       "question": "What is the affect size?"
     },
     "grade": {
-      "score": 0.4182244837284088,
-      "start": 85,
-      "end": 94,
-      "answer": "6th grade",
+      "score": 0.30506858229637146,
+      "start": 3325,
+      "end": 3331,
+      "answer": "5 to 9",
       "question": "What grade is it? (6th, 5th)"
     },
     "school": {
-      "score": 0.10195069015026093,
-      "start": 106,
-      "end": 112,
-      "answer": "middle",
+      "score": 0.07024846225976944,
+      "start": 2159,
+      "end": 2174,
+      "answer": "low-achievement",
       "question": "What school? (elementary, middle, or high school)"
     },
     "subject": {
-      "score": 0.37978893518447876,
-      "start": 25,
-      "end": 38,
-      "answer": "academic core",
+      "score": 0.2812461853027344,
+      "start": 9159,
+      "end": 9216,
+      "answer": "reciprocal relations between self-concept and achievement",
       "question": "What is the subject?"
     }
   },
   {
-    "id": 1,
-    "file": "Anderman _ Anderman 1999.json",
-    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "id": 3,
+    "file": "Arunkumar_Longitudinal  home-school dissonance_1999.json",
+    "title": "",
+    "country": null,
+    "sample_size": null,
+    "effect_size": null,
+    "grade": null,
+    "school": null,
+    "subject": null
+  },
+  {
+    "id": 4,
+    "file": "benner Graham 2007.json",
+    "title": "Navigating the Transition to Multi-Ethnic Urban High Schools: Changing Ethnic Congruence and Adolescents' School-Related Affect",
     "country": {
-      "score": 0.0004442651115823537,
-      "start": 140,
-      "end": 144,
-      "answer": "1994",
+      "score": 0.0836813747882843,
+      "start": 616,
+      "end": 632,
+      "answer": "African American",
       "question": "In what country is the study?"
     },
     "sample_size": {
-      "score": 0.5267519354820251,
-      "start": 479,
-      "end": 482,
-      "answer": "660",
-      "question": "What is the sample size?"
+      "score": 0.762800931930542,
+      "start": 48,
+      "end": 51,
+      "answer": "918",
+      "question": "How many people are in the study?"
     },
     "effect_size": {
-      "score": 0.10734914243221283,
-      "start": 169,
-      "end": 188,
-      "answer": "1 \u03ed not at all true",
+      "score": 0.2169089913368225,
+      "start": 5646,
+      "end": 5698,
+      "answer": "feelings of belonging, school liking, school worries",
       "question": "What is the affect size?"
     },
     "grade": {
-      "score": 0.4182244837284088,
-      "start": 85,
-      "end": 94,
-      "answer": "6th grade",
+      "score": 0.4094581604003906,
+      "start": 22,
+      "end": 28,
+      "answer": "eighth",
       "question": "What grade is it? (6th, 5th)"
     },
     "school": {
-      "score": 0.10195069015026093,
-      "start": 106,
-      "end": 112,
-      "answer": "middle",
+      "score": 0.15055136382579803,
+      "start": 1829,
+      "end": 1833,
+      "answer": "high",
       "question": "What school? (elementary, middle, or high school)"
     },
     "subject": {
-      "score": 0.37978893518447876,
-      "start": 25,
-      "end": 38,
-      "answer": "academic core",
+      "score": 0.660553514957428,
+      "start": 144,
+      "end": 161,
+      "answer": "social adjustment",
       "question": "What is the subject?"
     }
   },
   {
-    "id": 1,
-    "file": "Anderman _ Anderman 1999.json",
-    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "id": 5,
+    "file": "Birkeland 2012 Trajectories of global self-esteem development during adolescence.json",
+    "title": "Trajectories of global self-esteem development during adolescence",
     "country": {
-      "score": 0.0004442651115823537,
-      "start": 140,
-      "end": 144,
-      "answer": "1994",
+      "score": 0.9460399746894836,
+      "start": 289,
+      "end": 295,
+      "answer": "Norway",
       "question": "In what country is the study?"
     },
     "sample_size": {
-      "score": 0.5267519354820251,
-      "start": 479,
-      "end": 482,
-      "answer": "660",
-      "question": "What is the sample size?"
+      "score": 0.6925119161605835,
+      "start": 51,
+      "end": 55,
+      "answer": "1083",
+      "question": "How many people are in the study?"
     },
     "effect_size": {
-      "score": 0.10734914243221283,
-      "start": 169,
-      "end": 188,
-      "answer": "1 \u03ed not at all true",
+      "score": 0.1856175661087036,
+      "start": 261,
+      "end": 289,
+      "answer": "age 14 years to age 23 years",
       "question": "What is the affect size?"
     },
     "grade": {
-      "score": 0.4182244837284088,
-      "start": 85,
-      "end": 94,
-      "answer": "6th grade",
+      "score": 0.3491179645061493,
+      "start": 372,
+      "end": 373,
+      "answer": "6",
       "question": "What grade is it? (6th, 5th)"
     },
     "school": {
-      "score": 0.10195069015026093,
-      "start": 106,
-      "end": 112,
-      "answer": "middle",
+      "score": 0.02729002945125103,
+      "start": 151,
+      "end": 160,
+      "answer": "secondary",
       "question": "What school? (elementary, middle, or high school)"
     },
     "subject": {
-      "score": 0.37978893518447876,
-      "start": 25,
-      "end": 38,
-      "answer": "academic core",
+      "score": 0.6698158979415894,
+      "start": 78,
+      "end": 96,
+      "answer": "global self-esteem",
       "question": "What is the subject?"
     }
   },
   {
-    "id": 1,
-    "file": "Anderman _ Anderman 1999.json",
-    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "id": 6,
+    "file": "bong 2005.json",
+    "title": "Within-Grade Changes in Korean Girls' Motivation and Perceptions of the Learning Environment Across Domains and Achievement Levels",
     "country": {
-      "score": 0.0004442651115823537,
-      "start": 140,
-      "end": 144,
-      "answer": "1994",
+      "score": 0.9091806411743164,
+      "start": 137,
+      "end": 143,
+      "answer": "Korean",
       "question": "In what country is the study?"
     },
     "sample_size": {
-      "score": 0.5267519354820251,
-      "start": 479,
-      "end": 482,
-      "answer": "660",
-      "question": "What is the sample size?"
+      "score": 0.7000464797019958,
+      "start": 18,
+      "end": 21,
+      "answer": "389",
+      "question": "How many people are in the study?"
     },
     "effect_size": {
-      "score": 0.10734914243221283,
-      "start": 169,
-      "end": 188,
-      "answer": "1 \u03ed not at all true",
+      "score": 0.42231640219688416,
+      "start": 299,
+      "end": 306,
+      "answer": "N \u03ed 375",
       "question": "What is the affect size?"
     },
     "grade": {
-      "score": 0.4182244837284088,
-      "start": 85,
-      "end": 94,
-      "answer": "6th grade",
+      "score": 0.15879015624523163,
+      "start": 164,
+      "end": 171,
+      "answer": "N \u03ed 375",
       "question": "What grade is it? (6th, 5th)"
     },
     "school": {
-      "score": 0.10195069015026093,
-      "start": 106,
-      "end": 112,
+      "score": 0.09744066745042801,
+      "start": 484,
+      "end": 490,
       "answer": "middle",
       "question": "What school? (elementary, middle, or high school)"
     },
     "subject": {
-      "score": 0.37978893518447876,
-      "start": 25,
-      "end": 38,
-      "answer": "academic core",
+      "score": 0.22211410105228424,
+      "start": 119,
+      "end": 139,
+      "answer": "learning environment",
       "question": "What is the subject?"
     }
   },
   {
-    "id": 1,
-    "file": "Anderman _ Anderman 1999.json",
-    "title": "Social Predictors of Changes in Students' Achievement Goal Orientations",
+    "id": 7,
+    "file": "Bouffard et al 2001.json",
+    "title": "Students' transition from elementary to high school and changes of the relationship between motivation and academic performance",
     "country": {
-      "score": 0.0004442651115823537,
-      "start": 140,
-      "end": 144,
-      "answer": "1994",
+      "score": 0.6987605690956116,
+      "start": 192,
+      "end": 200,
+      "answer": "Montreal",
       "question": "In what country is the study?"
     },
     "sample_size": {
-      "score": 0.5267519354820251,
-      "start": 479,
-      "end": 482,
-      "answer": "660",
-      "question": "What is the sample size?"
+      "score": 0.5459064841270447,
+      "start": 20,
+      "end": 23,
+      "answer": "336",
+      "question": "How many people are in the study?"
     },
     "effect_size": {
-      "score": 0.10734914243221283,
-      "start": 169,
-      "end": 188,
-      "answer": "1 \u03ed not at all true",
+      "score": 0.11787725985050201,
+      "start": 1562,
+      "end": 1576,
+      "answer": "F(l,334)=36.20",
       "question": "What is the affect size?"
     },
     "grade": {
-      "score": 0.4182244837284088,
-      "start": 85,
-      "end": 94,
-      "answer": "6th grade",
+      "score": 0.5963870882987976,
+      "start": 6320,
+      "end": 6323,
+      "answer": "six",
       "question": "What grade is it? (6th, 5th)"
     },
     "school": {
-      "score": 0.10195069015026093,
-      "start": 106,
-      "end": 112,
+      "score": 0.29612043499946594,
+      "start": 101,
+      "end": 110,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4942827522754669,
+      "start": 10940,
+      "end": 10946,
+      "answer": "French",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 8,
+    "file": "Bouffard_et_al-2003-British_Journal_of_Educational_Psychology.json",
+    "title": "Changes in self-perceptions of competence and intrinsic motivation among elementary schoolchildren",
+    "country": {
+      "score": 0.4830922484397888,
+      "start": 33,
+      "end": 39,
+      "answer": "French",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7514609694480896,
+      "start": 21,
+      "end": 24,
+      "answer": "115",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.21756161749362946,
+      "start": 92,
+      "end": 103,
+      "answer": "84,5 months",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.044381286948919296,
+      "start": 4410,
+      "end": 4415,
+      "answer": "three",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.027264047414064407,
+      "start": 44,
+      "end": 54,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.3552781343460083,
+      "start": 41,
+      "end": 52,
+      "answer": "mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 9,
+    "file": "Bronstein 2005.json",
+    "title": "Parental Predictors of Motivational Orientation in Early Adolescence: A Longitudinal Study",
+    "country": {
+      "score": 0.545812726020813,
+      "start": 88,
+      "end": 99,
+      "answer": "New England",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.33423641324043274,
+      "start": 3449,
+      "end": 3451,
+      "answer": "31",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.05720486864447594,
+      "start": 1066,
+      "end": 1078,
+      "answer": "0.56 to 0.22",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.2613860070705414,
+      "start": 148,
+      "end": 151,
+      "answer": "7th",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.12614211440086365,
+      "start": 302,
+      "end": 308,
       "answer": "middle",
       "question": "What school? (elementary, middle, or high school)"
     },
     "subject": {
-      "score": 0.37978893518447876,
-      "start": 25,
-      "end": 38,
-      "answer": "academic core",
+      "score": 0.4118712544441223,
+      "start": 178,
+      "end": 221,
+      "answer": "math, language, social studies, and science",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 10,
+    "file": "brown 1998.json",
+    "title": "Changes in Self-esteem in Black and White Girls Between the Ages of 9 and 14 Years",
+    "country": {
+      "score": 0.24057814478874207,
+      "start": 281,
+      "end": 289,
+      "answer": "Maryland",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.3790006935596466,
+      "start": 3012,
+      "end": 3021,
+      "answer": "63% black",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.16710884869098663,
+      "start": 223,
+      "end": 232,
+      "answer": "adiposity",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.02270583249628544,
+      "start": 254,
+      "end": 256,
+      "answer": "15",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.011159282177686691,
+      "start": 599,
+      "end": 609,
+      "answer": "Grades 3-8",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.19266021251678467,
+      "start": 52,
+      "end": 71,
+      "answer": "Adolescent Medicine",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 11,
+    "file": "chapman_et_al-1997-British_Journal_of_Educational_Psychology.json",
+    "title": "A longitudinal study of beginning reading achievement and reading self-concept",
+    "country": {
+      "score": 0.6490004062652588,
+      "start": 201,
+      "end": 212,
+      "answer": "New Zealand",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.48516178131103516,
+      "start": 365,
+      "end": 387,
+      "answer": "One hundred and twelve",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.03185877948999405,
+      "start": 101,
+      "end": 131,
+      "answer": "M age = 5.1 1 years; SD = 0.07",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.2443622201681137,
+      "start": 1199,
+      "end": 1204,
+      "answer": "ad.84",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.01727989874780178,
+      "start": 4416,
+      "end": 4422,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.3729066848754883,
+      "start": 0,
+      "end": 16,
+      "answer": "Learning to read",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 12,
+    "file": "chubb 1997.json",
+    "title": "",
+    "country": null,
+    "sample_size": null,
+    "effect_size": null,
+    "grade": null,
+    "school": null,
+    "subject": null
+  },
+  {
+    "id": 13,
+    "file": "chung 1998.json",
+    "title": "Patterns of Individual Adjustment Changes During Middle School Transition",
+    "country": {
+      "score": 0.282647043466568,
+      "start": 185,
+      "end": 195,
+      "answer": "New Jersey",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8616120219230652,
+      "start": 88,
+      "end": 90,
+      "answer": "99",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.20370471477508545,
+      "start": 413,
+      "end": 446,
+      "answer": "The middle school was much larger",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.3164152204990387,
+      "start": 4387,
+      "end": 4392,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.13998618721961975,
+      "start": 417,
+      "end": 423,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4631521701812744,
+      "start": 0,
+      "end": 24,
+      "answer": "Middle school transition",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 14,
+    "file": "daniels 2006.json",
+    "title": "A Longitudinal Investigation of Sport Participation, Peer Acceptance, and Self-esteem among Adolescent Girls and Boys",
+    "country": {
+      "score": 0.5702744126319885,
+      "start": 472,
+      "end": 485,
+      "answer": "United States",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5651527643203735,
+      "start": 289,
+      "end": 294,
+      "answer": "4,689",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.33422529697418213,
+      "start": 592,
+      "end": 610,
+      "answer": "small in magnitude",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.0015811164630576968,
+      "start": 287,
+      "end": 294,
+      "answer": "N=4,689",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0024992183316498995,
+      "start": 421,
+      "end": 460,
+      "answer": "high schools and 52 junior high schools",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.44445332884788513,
+      "start": 0,
+      "end": 18,
+      "answer": "Global self-esteem",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 15,
+    "file": "DesRoches 2014.json",
+    "title": "Bidirectional Associations Between Valued Activities and Adolescent Positive Adjustment in a Longitudinal Study: Positive Mood as a Mediator",
+    "country": {
+      "score": 0.7862290740013123,
+      "start": 591,
+      "end": 597,
+      "answer": "Canada",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8650417923927307,
+      "start": 555,
+      "end": 560,
+      "answer": "2,270",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.3555154800415039,
+      "start": 551,
+      "end": 575,
+      "answer": "N = 2,270, 48.7 % female",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.08291499316692352,
+      "start": 377,
+      "end": 379,
+      "answer": "12",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.022357460111379623,
+      "start": 322,
+      "end": 326,
+      "answer": "high",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.6101024746894836,
+      "start": 165,
+      "end": 203,
+      "answer": "youth lifestyle choices in adolescence",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 16,
+    "file": "dickh\u0084user2017.json",
+    "title": "The Effects of Teachers' Reference Norm Orientations on Students' Implicit Theories and Academic Self-Concepts",
+    "country": {
+      "score": 0.6320037245750427,
+      "start": 147,
+      "end": 153,
+      "answer": "German",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6343221664428711,
+      "start": 303,
+      "end": 308,
+      "answer": "1 641",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.4551192820072174,
+      "start": 455,
+      "end": 516,
+      "answer": "one-third to one-half of a standard deviation per school year",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.5129030346870422,
+      "start": 412,
+      "end": 413,
+      "answer": "6",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.017268888652324677,
+      "start": 2339,
+      "end": 2348,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.9235888123512268,
+      "start": 64,
+      "end": 75,
+      "answer": "mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 17,
+    "file": "domrong 2009.json",
+    "title": "The study of growth between academic self-concept, nonacademic self-concept, and academic achievement of ninth-grade students: a multiple group analysis",
+    "country": {
+      "score": 0.97304767370224,
+      "start": 199,
+      "end": 207,
+      "answer": "Thailand",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7924985885620117,
+      "start": 303,
+      "end": 306,
+      "answer": "820",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.08194499462842941,
+      "start": 114,
+      "end": 132,
+      "answer": "nine-grad students",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.3909919559955597,
+      "start": 30,
+      "end": 34,
+      "answer": "nine",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.13816140592098236,
+      "start": 77,
+      "end": 90,
+      "answer": "public school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.35594117641448975,
+      "start": 586,
+      "end": 609,
+      "answer": "English and Mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 18,
+    "file": "Duchesne 2013.json",
+    "title": "Developmental Trajectories of Achievement Goal Orientations During the Middle School Transition: The Contribution of Emotional and Behavioral Dispositions",
+    "country": {
+      "score": 0.9037504196166992,
+      "start": 626,
+      "end": 632,
+      "answer": "Quebec",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8443146347999573,
+      "start": 576,
+      "end": 579,
+      "answer": "378",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.07888766378164291,
+      "start": 1511,
+      "end": 1532,
+      "answer": "one in eight students",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.47722309827804565,
+      "start": 1849,
+      "end": 1856,
+      "answer": "Grade 6",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.12111885100603104,
+      "start": 1894,
+      "end": 1901,
+      "answer": "Grade 9",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4965655207633972,
+      "start": 16,
+      "end": 36,
+      "answer": "education psychology",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 19,
+    "file": "Duchesne_2017.json",
+    "title": "Learning climate, academic competence, and anxiety during the transition to middle school: Parental attachment as a protective factor",
+    "country": {
+      "score": 0.8395705223083496,
+      "start": 347,
+      "end": 353,
+      "answer": "Canada",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6191537380218506,
+      "start": 574,
+      "end": 577,
+      "answer": "627",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.16215845942497253,
+      "start": 599,
+      "end": 608,
+      "answer": "54% girls",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.45826002955436707,
+      "start": 765,
+      "end": 772,
+      "answer": "Grade 6",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.09775605797767639,
+      "start": 183,
+      "end": 189,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4938783049583435,
+      "start": 168,
+      "end": 175,
+      "answer": "anxiety",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 20,
+    "file": "FriedelCortinaTurnerMidgley2010.json",
+    "title": "Changes in Efficacy Beliefs in Mathematics Across the Transition to Middle School: Examining the Effects of Perceived Teacher and Parent Goal Emphases",
+    "country": {
+      "score": 0.10401690006256104,
+      "start": 569,
+      "end": 586,
+      "answer": "Midwestern states",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6592548489570618,
+      "start": 164,
+      "end": 171,
+      "answer": "N \u03ed 929",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.33797284960746765,
+      "start": 2081,
+      "end": 2086,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.43548426032066345,
+      "start": 373,
+      "end": 380,
+      "answer": "seventh",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.05076993256807327,
+      "start": 927,
+      "end": 933,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.6137922406196594,
+      "start": 100,
+      "end": 111,
+      "answer": "mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 21,
+    "file": "Garon-Carrier_et_al-2016-Child_Development.json",
+    "title": "Intrinsic Motivation and Achievement in Mathematics in Elementary School: A Longitudinal Investigation of Their Association",
+    "country": {
+      "score": 0.9563265442848206,
+      "start": 118,
+      "end": 126,
+      "answer": "Canadian",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8552976250648499,
+      "start": 112,
+      "end": 117,
+      "answer": "1,478",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.07511343061923981,
+      "start": 878,
+      "end": 940,
+      "answer": "sex differences account for a small percentage of the variance",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.15943643450737,
+      "start": 0,
+      "end": 7,
+      "answer": "Grade 2",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.2794147729873657,
+      "start": 7236,
+      "end": 7246,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.7150358557701111,
+      "start": 85,
+      "end": 96,
+      "answer": "mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 22,
+    "file": "Gillen-O Neel _ Fuligni, 2013.json",
+    "title": "A Longitudinal Study of School Belonging and Academic Motivation Across High School",
+    "country": {
+      "score": 0.1912958323955536,
+      "start": 1888,
+      "end": 1893,
+      "answer": "rural",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.9226833581924438,
+      "start": 240,
+      "end": 243,
+      "answer": "572",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.2548026144504547,
+      "start": 1955,
+      "end": 1979,
+      "answer": "7% of ninth-grade values",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.17137008905410767,
+      "start": 279,
+      "end": 284,
+      "answer": "ninth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.15791070461273193,
+      "start": 984,
+      "end": 1001,
+      "answer": "early high school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.1158829927444458,
+      "start": 33,
+      "end": 91,
+      "answer": "how school belonging changes over the years of high school",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 23,
+    "file": "Gniewosz 2011.json",
+    "title": "Secondary School Transition and the Use of Different Sources of Information for the Construction of the Academic Self-concepts ode_635 537..557",
+    "country": {
+      "score": 0.5873739719390869,
+      "start": 45,
+      "end": 53,
+      "answer": "Michigan",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8300496339797974,
+      "start": 205,
+      "end": 209,
+      "answer": "1953",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.03478076681494713,
+      "start": 2483,
+      "end": 2491,
+      "answer": "N = 1920",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.15180271863937378,
+      "start": 1492,
+      "end": 1528,
+      "answer": "sixth grade at T1 was used (N = 1953",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.17438091337680817,
+      "start": 631,
+      "end": 640,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.5583861470222473,
+      "start": 66,
+      "end": 91,
+      "answer": "adolescents' self-concept",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 24,
+    "file": "gottfried 2001.json",
+    "title": "",
+    "country": null,
+    "sample_size": null,
+    "effect_size": null,
+    "grade": null,
+    "school": null,
+    "subject": null
+  },
+  {
+    "id": 25,
+    "file": "Granlesse, Joseph, 1994.json",
+    "title": "",
+    "country": null,
+    "sample_size": null,
+    "effect_size": null,
+    "grade": null,
+    "school": null,
+    "subject": null
+  },
+  {
+    "id": 26,
+    "file": "green 2006.json",
+    "title": "Trajectories of Perceived Adult and Peer Discrimination Among Black, Latino, and Asian American Adolescents: Patterns and Psychological Correlates",
+    "country": {
+      "score": 0.18275554478168488,
+      "start": 86,
+      "end": 99,
+      "answer": "New York City",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6099561452865601,
+      "start": 2442,
+      "end": 2487,
+      "answer": "Black, Latino, and Asian American adolescents",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.25471335649490356,
+      "start": 506,
+      "end": 517,
+      "answer": "less severe",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.129855215549469,
+      "start": 350,
+      "end": 369,
+      "answer": "Grade 9 or Grade 10",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.048577092587947845,
+      "start": 56,
+      "end": 74,
+      "answer": "public high school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.5079538822174072,
+      "start": 68,
+      "end": 100,
+      "answer": "social and emotional development",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 27,
+    "file": "Gruenenfelder-Steiger 2016.json",
+    "title": "Subjective and Objective Peer Approval Evaluations and Self-Esteem Development: A Test of Reciprocal, Prospective, and Long-Term Effects",
+    "country": {
+      "score": 0.5890340209007263,
+      "start": 2485,
+      "end": 2491,
+      "answer": "German",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.40139544010162354,
+      "start": 2021,
+      "end": 2026,
+      "answer": "1,527",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.4586215019226074,
+      "start": 1146,
+      "end": 1151,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.008127772249281406,
+      "start": 215,
+      "end": 217,
+      "answer": "12",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.060185469686985016,
+      "start": 126,
+      "end": 135,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.22793085873126984,
+      "start": 0,
+      "end": 17,
+      "answer": "Sociometer theory",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 28,
+    "file": "gutman07.json",
+    "title": "Stage-Environment Fit During Adolescence: Trajectories of Family Relations and Adolescent Outcomes",
+    "country": {
+      "score": 0.2441207468509674,
+      "start": 185,
+      "end": 193,
+      "answer": "Maryland",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.4116697907447815,
+      "start": 840,
+      "end": 845,
+      "answer": "1,472",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.41216930747032166,
+      "start": 586,
+      "end": 596,
+      "answer": "at least 1",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.041795797646045685,
+      "start": 1114,
+      "end": 1127,
+      "answer": "seventh grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0006071240641176701,
+      "start": 1008,
+      "end": 1014,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.5695573687553406,
+      "start": 24,
+      "end": 52,
+      "answer": "stage-environment fit theory",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 29,
+    "file": "harris 2015.json",
+    "title": "Do Parents Foster Self-Esteem? Testing the Prospective Impact of Parent Closeness on Adolescent Self-Esteem",
+    "country": {
+      "score": 0.5482984781265259,
+      "start": 251,
+      "end": 258,
+      "answer": "Germany",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7110638618469238,
+      "start": 3597,
+      "end": 3622,
+      "answer": "relationships with others",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.43696320056915283,
+      "start": 3597,
+      "end": 3622,
+      "answer": "relationships with others",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.5211853981018066,
+      "start": 3597,
+      "end": 3622,
+      "answer": "relationships with others",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.8131186366081238,
+      "start": 3597,
+      "end": 3622,
+      "answer": "relationships with others",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.5650724172592163,
+      "start": 3597,
+      "end": 3622,
+      "answer": "relationships with others",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 30,
+    "file": "Heinonen_et_al-2002-European_Journal_of_Personality.json",
+    "title": "Difficult Temperament Predicts Self-Esteem in Adolescence",
+    "country": {
+      "score": 0.7694555521011353,
+      "start": 442,
+      "end": 449,
+      "answer": "Finland",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6752243041992188,
+      "start": 316,
+      "end": 321,
+      "answer": "\u00bc 313",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.36415818333625793,
+      "start": 316,
+      "end": 321,
+      "answer": "\u00bc 313",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.23673762381076813,
+      "start": 251,
+      "end": 253,
+      "answer": "18",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.11223411560058594,
+      "start": 1585,
+      "end": 1596,
+      "answer": "junior high",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.281439870595932,
+      "start": 35,
+      "end": 75,
+      "answer": "maternal hostile child-rearing attitudes",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 31,
+    "file": "helmke 1995.json",
+    "title": "The Causal Ordering of Academic Achievement and Self-Concept of Ability During Elementary School: A Longitudinal Study",
+    "country": {
+      "score": 0.8671391606330872,
+      "start": 347,
+      "end": 353,
+      "answer": "German",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.4758945405483246,
+      "start": 326,
+      "end": 329,
+      "answer": "697",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.16042697429656982,
+      "start": 894,
+      "end": 905,
+      "answer": ".12 .68 .24",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.04709498584270477,
+      "start": 4805,
+      "end": 4815,
+      "answer": "12th grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0198488961905241,
+      "start": 47,
+      "end": 57,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.5335986614227295,
+      "start": 5124,
+      "end": 5146,
+      "answer": "mathematics or reading",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 32,
+    "file": "Heo 2015.json",
+    "title": "Autoregressive Cross-Lagged Modeling of the Reciprocal Longitudinal Relationship Between Self-Esteem and Career Maturity",
+    "country": {
+      "score": 0.8250342011451721,
+      "start": 385,
+      "end": 396,
+      "answer": "South Korea",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6283072233200073,
+      "start": 1643,
+      "end": 1646,
+      "answer": "890",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.07557845860719681,
+      "start": 1225,
+      "end": 1236,
+      "answer": "sample size",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.09889542311429977,
+      "start": 217,
+      "end": 220,
+      "answer": "4-7",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.028408966958522797,
+      "start": 1618,
+      "end": 1633,
+      "answer": "academic school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.6447261571884155,
+      "start": 2592,
+      "end": 2606,
+      "answer": "not-yet adults",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 33,
+    "file": "Hyunjoo 2014.json",
+    "title": "Korean adolescents' longitudinal change of intrinsic motivation in learning English and mathematics during secondary school years: Focusing on gender difference and school characteristics",
+    "country": {
+      "score": 0.9471133351325989,
+      "start": 241,
+      "end": 246,
+      "answer": "Korea",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5953095555305481,
+      "start": 329,
+      "end": 333,
+      "answer": "6908",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.0686412826180458,
+      "start": 1449,
+      "end": 1479,
+      "answer": "smaller for single-sex schools",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.06808853149414062,
+      "start": 327,
+      "end": 331,
+      "answer": "11th",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.19505080580711365,
+      "start": 175,
+      "end": 184,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.3617069721221924,
+      "start": 55,
+      "end": 90,
+      "answer": "Korean Education Longitudinal Study",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 34,
+    "file": "Impett 2008.json",
+    "title": "Girls' Relationship Authenticity and Self-Esteem Across Adolescence",
+    "country": {
+      "score": 0.015018021687865257,
+      "start": 55,
+      "end": 67,
+      "answer": "northeastern",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7992960214614868,
+      "start": 561,
+      "end": 564,
+      "answer": "183",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.14400418102741241,
+      "start": 80,
+      "end": 87,
+      "answer": "10-item",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.06285019218921661,
+      "start": 279,
+      "end": 285,
+      "answer": "eighth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.006482186261564493,
+      "start": 55,
+      "end": 87,
+      "answer": "northeastern urban middle school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.334238201379776,
+      "start": 145,
+      "end": 173,
+      "answer": "gender and adolescent health",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 35,
+    "file": "Impett 2011-PWQ-Impett-et-al.json",
+    "title": "Embodiment Feels Better: Girls' Body Objectification and Well-Being Across Adolescence",
+    "country": {
+      "score": 0.7398563027381897,
+      "start": 139,
+      "end": 148,
+      "answer": "Dominican",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.41596055030822754,
+      "start": 534,
+      "end": 537,
+      "answer": "587",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.03593602776527405,
+      "start": 770,
+      "end": 791,
+      "answer": "8th to the 12th grade",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.09100222587585449,
+      "start": 951,
+      "end": 963,
+      "answer": "eighth grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.012262609787285328,
+      "start": 2622,
+      "end": 2634,
+      "answer": "eighth grade",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.38627874851226807,
+      "start": 41,
+      "end": 57,
+      "answer": "adolescent girls",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 36,
+    "file": "jogi 2015.json",
+    "title": "Cross-lagged relations between math-related interest, performance goals and skills in groups of children with different general abilities \u2606",
+    "country": {
+      "score": 0.8495846390724182,
+      "start": 166,
+      "end": 174,
+      "answer": "Estonian",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7725256681442261,
+      "start": 162,
+      "end": 165,
+      "answer": "790",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.1022171750664711,
+      "start": 489,
+      "end": 501,
+      "answer": "five circles",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.06014178693294525,
+      "start": 5212,
+      "end": 5219,
+      "answer": "Grade 3",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.06392575800418854,
+      "start": 687,
+      "end": 693,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.15756097435951233,
+      "start": 37,
+      "end": 41,
+      "answer": "math",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 37,
+    "file": "Juang, Syed, Cookston, 2013 acculturation based and everyday parent adol conflict.json",
+    "title": "Acculturation-Based and Everyday Parent-Adolescent Conflict Among Chinese American Adolescents: Longitudinal Trajectories and Implications for Mental Health",
+    "country": {
+      "score": 0.6836773157119751,
+      "start": 64,
+      "end": 80,
+      "answer": "Chinese American",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.847093939781189,
+      "start": 417,
+      "end": 420,
+      "answer": "316",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.12205468863248825,
+      "start": 129,
+      "end": 134,
+      "answer": "66%),",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.056608039885759354,
+      "start": 1170,
+      "end": 1175,
+      "answer": "tenth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0106579614803195,
+      "start": 37,
+      "end": 53,
+      "answer": "two high schools",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.19111467897891998,
+      "start": 261,
+      "end": 287,
+      "answer": "parent-adolescent conflict",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 38,
+    "file": "kolic-vehovec, 2014.json",
+    "title": "Development of Metacognitive Knowledge of Reading Strategies and Attitudes Toward Reading in Early Adolescence: The Effect on Reading Comprehension",
+    "country": {
+      "score": 0.5799281597137451,
+      "start": 1208,
+      "end": 1215,
+      "answer": "Croatia",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6285772323608398,
+      "start": 448,
+      "end": 451,
+      "answer": "175",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.7167908549308777,
+      "start": 1682,
+      "end": 1687,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.5013830065727234,
+      "start": 300,
+      "end": 301,
+      "answer": "8",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.04205573722720146,
+      "start": 471,
+      "end": 481,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.5499017834663391,
+      "start": 145,
+      "end": 166,
+      "answer": "reading comprehension",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 39,
+    "file": "lazarides 2017.json",
+    "title": "Longitudinal Effects of Student-Perceived Classroom Support on Motivation -A Latent Change Model",
+    "country": {
+      "score": 0.9676502346992493,
+      "start": 153,
+      "end": 160,
+      "answer": "Germany",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6008453965187073,
+      "start": 42,
+      "end": 47,
+      "answer": "1,088",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.05850899964570999,
+      "start": 439,
+      "end": 459,
+      "answer": "5-point Likert scale",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.13505002856254578,
+      "start": 153,
+      "end": 154,
+      "answer": "9",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0858183428645134,
+      "start": 101,
+      "end": 110,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.12018860131502151,
+      "start": 166,
+      "end": 186,
+      "answer": "motivational decline",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 40,
+    "file": "Lazarides Rubach Ittel2017-1.json",
+    "title": "PARENTS AND MATHEMATICS CAREER PLANS 1 NOTE: This is the author's version of a work that was accepted for publication in Developmental Psychology. Changes resulting from the publishing process, such as peer review, editing, corrections, structural formatting, and other quality control mechanisms may not be reflected in this document. Changes may have been made to this work since it was submitted for publication. A definitive version was subsequently published in Developmental Psychology",
+    "country": {
+      "score": 0.8378615975379944,
+      "start": 3892,
+      "end": 3899,
+      "answer": "Germany",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6031712889671326,
+      "start": 607,
+      "end": 610,
+      "answer": "475",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.23444440960884094,
+      "start": 477,
+      "end": 490,
+      "answer": "bidirectional",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.020192136988043785,
+      "start": 633,
+      "end": 638,
+      "answer": "12 th",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.07848703116178513,
+      "start": 659,
+      "end": 697,
+      "answer": "lateelementary and early-middle school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.3193839192390442,
+      "start": 69,
+      "end": 106,
+      "answer": "parental value transmission processes",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 41,
+    "file": "liew 2008.json",
+    "title": "Adaptive and Effortful Control and Academic Self-efficacy Beliefs on Achievement: A Longitudinal Study of 1 st through 3 rd Graders",
+    "country": {
+      "score": 0.7961679100990295,
+      "start": 239,
+      "end": 244,
+      "answer": "Texas",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5765101909637451,
+      "start": 99,
+      "end": 102,
+      "answer": "733",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.19346532225608826,
+      "start": 114,
+      "end": 125,
+      "answer": ".77 and .71",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.00992543064057827,
+      "start": 245,
+      "end": 255,
+      "answer": "1 st grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0242188461124897,
+      "start": 2137,
+      "end": 2154,
+      "answer": "elementary grades",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.44377535581588745,
+      "start": 1188,
+      "end": 1206,
+      "answer": "early grade school",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 42,
+    "file": "Lintunen et al. 1995.json",
+    "title": "",
+    "country": null,
+    "sample_size": null,
+    "effect_size": null,
+    "grade": null,
+    "school": null,
+    "subject": null
+  },
+  {
+    "id": 43,
+    "file": "Madjar and Chohat 2016 self-efficacy in school transition.json",
+    "title": "Will I succeed in middle school? A longitudinal analysis of self-efficacy in school transitions in relation to goal structures and engagement",
+    "country": {
+      "score": 0.9423311352729797,
+      "start": 4330,
+      "end": 4339,
+      "answer": "Hong Kong",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.800768256187439,
+      "start": 273,
+      "end": 276,
+      "answer": "128",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.5293342471122742,
+      "start": 392,
+      "end": 398,
+      "answer": "1 to 5",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.4090840816497803,
+      "start": 277,
+      "end": 282,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.11203790456056595,
+      "start": 132,
+      "end": 142,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.24831229448318481,
+      "start": 50,
+      "end": 74,
+      "answer": "transition self-efficacy",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 44,
+    "file": "mailtais_2017.json",
+    "title": "Learning climate, academic competence, and anxiety during the transition to middle school: Parental attachment as a protective factor",
+    "country": {
+      "score": 0.8395705223083496,
+      "start": 347,
+      "end": 353,
+      "answer": "Canada",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6191537380218506,
+      "start": 574,
+      "end": 577,
+      "answer": "627",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.16215845942497253,
+      "start": 599,
+      "end": 608,
+      "answer": "54% girls",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.45826002955436707,
+      "start": 765,
+      "end": 772,
+      "answer": "Grade 6",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.09775605797767639,
+      "start": 183,
+      "end": 189,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4938783049583435,
+      "start": 168,
+      "end": 175,
+      "answer": "anxiety",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 45,
+    "file": "Marsh _ Grayson, 1994.json",
+    "title": "Longitudinal Stability of Latent Means and Individual Differences: A Unified Approach",
+    "country": {
+      "score": 0.5739153027534485,
+      "start": 26,
+      "end": 36,
+      "answer": "nationally",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.23213601112365723,
+      "start": 287,
+      "end": 289,
+      "answer": "25",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.14529819786548615,
+      "start": 191,
+      "end": 203,
+      "answer": "latent means",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.004336331970989704,
+      "start": 3022,
+      "end": 3027,
+      "answer": "1 lth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0006718327640555799,
+      "start": 104,
+      "end": 123,
+      "answer": "public high schools",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.30356621742248535,
+      "start": 92,
+      "end": 123,
+      "answer": "individual difference stability",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 46,
+    "file": "Marsh_et_al-1998-Child_Development.json",
+    "title": "Structure, Stability, and Development of Young Children's Self-Concepts: A Multicohort-Multioccasion Study",
+    "country": {
+      "score": 0.9519047141075134,
+      "start": 350,
+      "end": 359,
+      "answer": "Australia",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7354954481124878,
+      "start": 50,
+      "end": 53,
+      "answer": "396",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.5814836025238037,
+      "start": 399,
+      "end": 409,
+      "answer": ".10 to .16",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.051650673151016235,
+      "start": 2934,
+      "end": 2937,
+      "answer": "5-8",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.01547160092741251,
+      "start": 7711,
+      "end": 7718,
+      "answer": "Reading",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.522952139377594,
+      "start": 587,
+      "end": 611,
+      "answer": "longitudinal comparisons",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 47,
+    "file": "mcGrath 2002.json",
+    "title": "A Longitudinal Study of Children's Depressive Symptoms, Self-Perceptions, and Cognitive Distortions about the Self",
+    "country": {
+      "score": 0.14308126270771027,
+      "start": 1237,
+      "end": 1246,
+      "answer": "Caucasian",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5015925168991089,
+      "start": 106,
+      "end": 109,
+      "answer": "677",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.15073296427726746,
+      "start": 510,
+      "end": 513,
+      "answer": "3x3",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.39723140001296997,
+      "start": 142,
+      "end": 153,
+      "answer": "sixth-grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.00820310041308403,
+      "start": 241,
+      "end": 280,
+      "answer": "fourth-grade (n=248) through sixthgrade",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.6321749091148376,
+      "start": 89,
+      "end": 118,
+      "answer": "stress and family development",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 48,
+    "file": "Meece _ Miller, 2001.json",
+    "title": "A Longitudinal Analysis of Elementary School Students' Achievement Goals in Literacy Activities",
+    "country": {
+      "score": 0.05215446650981903,
+      "start": 1061,
+      "end": 1075,
+      "answer": "North Carolina",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.621688961982727,
+      "start": 78,
+      "end": 83,
+      "answer": "\u03ed 432",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.4402833580970764,
+      "start": 902,
+      "end": 907,
+      "answer": "\u03ed .71",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.20492257177829742,
+      "start": 4633,
+      "end": 4644,
+      "answer": "sixth-grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.07111410796642303,
+      "start": 1122,
+      "end": 1132,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.36203575134277344,
+      "start": 56,
+      "end": 106,
+      "answer": "temporal stability of students' motivational goals",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 49,
+    "file": "MIDDLETON 2004.json",
+    "title": "The change in middle school students' achievement goals in mathematics over time",
+    "country": {
+      "score": 0.6918391585350037,
+      "start": 302,
+      "end": 310,
+      "answer": "Michigan",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.702257513999939,
+      "start": 643,
+      "end": 646,
+      "answer": "475",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.06479428708553314,
+      "start": 727,
+      "end": 747,
+      "answer": "51% female, 49% male",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.21893927454948425,
+      "start": 180,
+      "end": 187,
+      "answer": "seventh",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.021666957065463066,
+      "start": 490,
+      "end": 503,
+      "answer": "middle school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.6235268115997314,
+      "start": 140,
+      "end": 151,
+      "answer": "mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 50,
+    "file": "Molloy et al. 2011.json",
+    "title": "The Storm and Stress (or Calm) of Early Adolescent Self-Concepts: Within-and Between-Subjects Variability",
+    "country": {
+      "score": 0.9370085000991821,
+      "start": 266,
+      "end": 278,
+      "answer": "Pennsylvania",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.807129979133606,
+      "start": 244,
+      "end": 247,
+      "answer": "541",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.08047299087047577,
+      "start": 5727,
+      "end": 5740,
+      "answer": "-3.15 to 7.71",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.31806671619415283,
+      "start": 1307,
+      "end": 1318,
+      "answer": "sixth grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.12785255908966064,
+      "start": 1338,
+      "end": 1348,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.40974608063697815,
+      "start": 70,
+      "end": 111,
+      "answer": "early adolescent self-concept development",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 51,
+    "file": "Muldoon, 2000.json",
+    "title": "Social group membership and self-perceptions in Northern Irish children: A longitudinal study",
+    "country": {
+      "score": 0.8074151873588562,
+      "start": 2269,
+      "end": 2285,
+      "answer": "Northern Ireland",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5163910388946533,
+      "start": 476,
+      "end": 479,
+      "answer": "110",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.5827644467353821,
+      "start": 416,
+      "end": 431,
+      "answer": "15 to 30 pupils",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.012683198787271976,
+      "start": 550,
+      "end": 552,
+      "answer": "11",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.013863634318113327,
+      "start": 283,
+      "end": 290,
+      "answer": "primary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.23113125562667847,
+      "start": 639,
+      "end": 654,
+      "answer": "selfperceptions",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 52,
+    "file": "Musu-Gillette 2015.json",
+    "title": "Trajectories of change in students' self-concepts of ability and values in math and college major choice",
+    "country": {
+      "score": 0.6340493559837341,
+      "start": 271,
+      "end": 281,
+      "answer": "Australian",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6614136099815369,
+      "start": 220,
+      "end": 223,
+      "answer": "421",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.09919895231723785,
+      "start": 113,
+      "end": 119,
+      "answer": "1 to 4",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.12431324273347855,
+      "start": 1724,
+      "end": 1747,
+      "answer": "4th through 6th graders",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0909484401345253,
+      "start": 6229,
+      "end": 6235,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.34792885184288025,
+      "start": 78,
+      "end": 82,
+      "answer": "math",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 53,
+    "file": "nagy 2010.json",
+    "title": "The Development of Students' Mathematics Self-Concept in Relation to Gender: Different Countries, Different Trajectories?",
+    "country": {
+      "score": 0.7731252312660217,
+      "start": 1529,
+      "end": 1538,
+      "answer": "Australia",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.4827956259250641,
+      "start": 2262,
+      "end": 2266,
+      "answer": "87%)",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.05566558614373207,
+      "start": 815,
+      "end": 835,
+      "answer": "significantly larger",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.32921814918518066,
+      "start": 2485,
+      "end": 2498,
+      "answer": "7, 10, and 12",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0652439221739769,
+      "start": 455,
+      "end": 471,
+      "answer": "German Gymnasium",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.38377758860588074,
+      "start": 2301,
+      "end": 2312,
+      "answer": "mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 54,
+    "file": "NiepelBrunnerPreckel2014.json",
+    "title": "The Longitudinal Interplay of Students' Academic Self-Concepts and Achievements Within and Across Domains: Replicating and Extending the Reciprocal Internal/External Frame of Reference Model",
+    "country": {
+      "score": 0.9405615329742432,
+      "start": 4404,
+      "end": 4410,
+      "answer": "German",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7322134375572205,
+      "start": 4398,
+      "end": 4403,
+      "answer": "1,508",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.5670332908630371,
+      "start": 5119,
+      "end": 5127,
+      "answer": "d \u03ed 1.13",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.22826001048088074,
+      "start": 4721,
+      "end": 4732,
+      "answer": "sixth grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.01475740596652031,
+      "start": 511,
+      "end": 520,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.7194865942001343,
+      "start": 79,
+      "end": 85,
+      "answer": "German",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 55,
+    "file": "ohannessian_1999.json",
+    "title": "Does self-competence predict gender differences in adolescent depression and anxiety?",
+    "country": {
+      "score": 0.5182819962501526,
+      "start": 169,
+      "end": 181,
+      "answer": "Pennsylvania",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8462882041931152,
+      "start": 33,
+      "end": 35,
+      "answer": "75",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.08217553794384003,
+      "start": 425,
+      "end": 456,
+      "answer": "higher levels of selfcompetence",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.5863210558891296,
+      "start": 110,
+      "end": 113,
+      "answer": "6th",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.03817976638674736,
+      "start": 2398,
+      "end": 2420,
+      "answer": "psychosocial variables",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.1870504766702652,
+      "start": 166,
+      "end": 186,
+      "answer": "emotional adjustment",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 56,
+    "file": "OtisGrouzetPelletier2005-JEP.json",
+    "title": "Latent Motivational Change in an Academic Setting: A 3-Year Longitudinal Study",
+    "country": {
+      "score": 0.9273796677589417,
+      "start": 115,
+      "end": 121,
+      "answer": "Canada",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8244408965110779,
+      "start": 308,
+      "end": 311,
+      "answer": "646",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.17994114756584167,
+      "start": 467,
+      "end": 487,
+      "answer": "13, 14, and 15 years",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.13330970704555511,
+      "start": 276,
+      "end": 297,
+      "answer": "3rd through 9th grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.10443244129419327,
+      "start": 126,
+      "end": 136,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4032679498195648,
+      "start": 44,
+      "end": 66,
+      "answer": "educational motivation",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 57,
+    "file": "Pajares _ Graham, 1999.json",
+    "title": "Self-Efficacy, Motivation Constructs, and Mathematics Performance of Entering Middle School Students",
+    "country": {
+      "score": 0.43925419449806213,
+      "start": 89,
+      "end": 94,
+      "answer": "South",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6879141926765442,
+      "start": 222,
+      "end": 227,
+      "answer": "\u03ed 273",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.09603306651115417,
+      "start": 220,
+      "end": 227,
+      "answer": "N \u03ed 273",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.30329424142837524,
+      "start": 4085,
+      "end": 4088,
+      "answer": "6th",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.04221003130078316,
+      "start": 1520,
+      "end": 1530,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4403282701969147,
+      "start": 4684,
+      "end": 4695,
+      "answer": "mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 58,
+    "file": "parker 2010.json",
+    "title": "",
+    "country": {
+      "score": 0.1699729710817337,
+      "start": 423,
+      "end": 432,
+      "answer": "Caucasian",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5072668194770813,
+      "start": 368,
+      "end": 370,
+      "answer": "78",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.5477122068405151,
+      "start": 742,
+      "end": 745,
+      "answer": ".20",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.36336037516593933,
+      "start": 43,
+      "end": 48,
+      "answer": "fifth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.44533616304397583,
+      "start": 254,
+      "end": 275,
+      "answer": "Windsor Middle School",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.377015084028244,
+      "start": 64,
+      "end": 88,
+      "answer": "adolescents' perceptions",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 59,
+    "file": "Paulick, Watermann, _ N\u0081ckles, 2012.json",
+    "title": "Achievement goals and school achievement: The transition to different school tracks in secondary school",
+    "country": {
+      "score": 0.47337451577186584,
+      "start": 420,
+      "end": 427,
+      "answer": "Germany",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.44558486342430115,
+      "start": 14,
+      "end": 18,
+      "answer": "1646",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.2592500150203705,
+      "start": 758,
+      "end": 763,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.09495806694030762,
+      "start": 676,
+      "end": 683,
+      "answer": "Grade 5",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.14145399630069733,
+      "start": 1766,
+      "end": 1775,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.43645474314689636,
+      "start": 1425,
+      "end": 1436,
+      "answer": "mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 60,
+    "file": "pesu 2016.json",
+    "title": "The Development of Adolescents' Self-concept of Ability through Grades 7-9 and the Role of Parental Beliefs",
+    "country": {
+      "score": 0.9751837849617004,
+      "start": 1122,
+      "end": 1129,
+      "answer": "Finnish",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8564109206199646,
+      "start": 1118,
+      "end": 1121,
+      "answer": "231",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.3027797043323517,
+      "start": 473,
+      "end": 480,
+      "answer": "5-point",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.32442107796669006,
+      "start": 1014,
+      "end": 1019,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.15220507979393005,
+      "start": 158,
+      "end": 167,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.6255927085876465,
+      "start": 59,
+      "end": 92,
+      "answer": "students' self-concept of ability",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 61,
+    "file": "Pinxten, 2013HM, BDF, WVDN, JVD.json",
+    "title": "Enjoying mathematics or feeling competent in mathematics? Reciprocal effects on mathematics achievement and perceived math effort expenditure",
+    "country": {
+      "score": 0.9183632731437683,
+      "start": 220,
+      "end": 227,
+      "answer": "Belgium",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.42872217297554016,
+      "start": 709,
+      "end": 714,
+      "answer": "4,724",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.22328956425189972,
+      "start": 79,
+      "end": 88,
+      "answer": "enjoyment",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.24228793382644653,
+      "start": 5552,
+      "end": 5559,
+      "answer": "Grade 5",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0401175282895565,
+      "start": 69,
+      "end": 76,
+      "answer": "primary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.2856111526489258,
+      "start": 93,
+      "end": 135,
+      "answer": "Longitudinal Research in Primary Education",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 62,
+    "file": "reddy 2003.json",
+    "title": "The influence of teacher support on student adjustment in the middle school years: A latent growth curve study",
+    "country": {
+      "score": 0.007687773089855909,
+      "start": 32348,
+      "end": 32354,
+      "answer": "global",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.686078667640686,
+      "start": 196,
+      "end": 201,
+      "answer": "2,585",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.062312886118888855,
+      "start": 22725,
+      "end": 22744,
+      "answer": "1 SD below the mean",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.6615385413169861,
+      "start": 251,
+      "end": 257,
+      "answer": "eighth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.008500797674059868,
+      "start": 17648,
+      "end": 17654,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.07484161108732224,
+      "start": 24084,
+      "end": 24094,
+      "answer": "depression",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 63,
+    "file": "reyes 2000.json",
+    "title": "A Longitudinal Examination of the Transition into Senior High School for Adolescents from Urban, Low-Income Status, and Predominantly Minority Backgrounds 1",
+    "country": {
+      "score": 0.20312096178531647,
+      "start": 1305,
+      "end": 1312,
+      "answer": "Chicago",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7686945199966431,
+      "start": 142,
+      "end": 145,
+      "answer": "107",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.30632495880126953,
+      "start": 449,
+      "end": 453,
+      "answer": "44%,",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.1750682294368744,
+      "start": 88,
+      "end": 92,
+      "answer": "9-12",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.06173166632652283,
+      "start": 68,
+      "end": 86,
+      "answer": "K-8)-tohigh school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.16566883027553558,
+      "start": 15,
+      "end": 60,
+      "answer": "academic failure and dropout from high school",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 64,
+    "file": "Riglin, 2013.json",
+    "title": "A longitudinal study of psychological functioning and academic attainment at the transition to secondary school",
+    "country": {
+      "score": 0.2778172492980957,
+      "start": 105,
+      "end": 116,
+      "answer": "England, UK",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.05973632261157036,
+      "start": 1292,
+      "end": 1294,
+      "answer": "16",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.19787542521953583,
+      "start": 217,
+      "end": 290,
+      "answer": "proportion of classmates nominating each child as fitting the descriptors",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.013671270571649075,
+      "start": 491,
+      "end": 492,
+      "answer": "6",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.10405576974153519,
+      "start": 1152,
+      "end": 1161,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.3971671462059021,
+      "start": 597,
+      "end": 607,
+      "answer": "depression",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 65,
+    "file": "Salmela-Arp, 2016.json",
+    "title": "The Dark Side of Internet Use: Two Longitudinal Studies of Excessive Internet Use, Depressive Symptoms, School Burnout and Engagement Among Finnish Early and Late Adolescents",
+    "country": {
+      "score": 0.9439220428466797,
+      "start": 563,
+      "end": 570,
+      "answer": "Finnish",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5048143267631531,
+      "start": 342,
+      "end": 345,
+      "answer": "580",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.21056818962097168,
+      "start": 132,
+      "end": 136,
+      "answer": "4-10",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.13998878002166748,
+      "start": 86,
+      "end": 96,
+      "answer": "6th public",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.00821262039244175,
+      "start": 118,
+      "end": 133,
+      "answer": "lower secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.29144731163978577,
+      "start": 4,
+      "end": 23,
+      "answer": "Mind-the-Gap Survey",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 66,
+    "file": "Schmalz, 2007.json",
+    "title": "A Longitudinal Assessment of the Links Between Physical Activity and Self-Esteem in Early Adolescent Non-Hispanic Females",
+    "country": {
+      "score": 0.1321100890636444,
+      "start": 6146,
+      "end": 6151,
+      "answer": "white",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8270047903060913,
+      "start": 549,
+      "end": 552,
+      "answer": "197",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.1330939680337906,
+      "start": 3150,
+      "end": 3167,
+      "answer": "above-average BMI",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.05442574620246887,
+      "start": 680,
+      "end": 690,
+      "answer": "9-13 years",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.0026504716370254755,
+      "start": 1597,
+      "end": 1617,
+      "answer": "Youth in rural areas",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.490508496761322,
+      "start": 107,
+      "end": 163,
+      "answer": "girls' nutrition, dieting, physical activity, and health",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 67,
+    "file": "Shapka Self-Concept 2005.json",
+    "title": "",
+    "country": null,
+    "sample_size": null,
+    "effect_size": null,
+    "grade": null,
+    "school": null,
+    "subject": null
+  },
+  {
+    "id": 68,
+    "file": "shell et al 1995.json",
+    "title": "Self-Efficacy, Attribution, and Outcome Expectancy Mechanisms in Reading and Writing Achievement: Grade-Level and Achievement-Level Differences",
+    "country": {
+      "score": 0.20160050690174103,
+      "start": 441,
+      "end": 446,
+      "answer": "White",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.4772319197654724,
+      "start": 18,
+      "end": 21,
+      "answer": "364",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.3045983612537384,
+      "start": 1934,
+      "end": 1948,
+      "answer": ".25 or greater",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.023206783458590508,
+      "start": 268,
+      "end": 293,
+      "answer": "70th and 30th percentiles",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.11106374859809875,
+      "start": 4883,
+      "end": 4893,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.07012004405260086,
+      "start": 1553,
+      "end": 1584,
+      "answer": "children's motivational beliefs",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 69,
+    "file": "shim ryan _ anderson 2008.json",
+    "title": "Achievement Goals and Achievement During Early Adolescence: Examining Time-Varying Predictor and Outcome Variables in Growth-Curve Analysis",
+    "country": {
+      "score": 0.354857861995697,
+      "start": 53,
+      "end": 61,
+      "answer": "Illinois",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7481586933135986,
+      "start": 313,
+      "end": 318,
+      "answer": "\u03ed 588",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.13122397661209106,
+      "start": 368,
+      "end": 414,
+      "answer": "within-year rather than between-year decreases",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.49894392490386963,
+      "start": 2635,
+      "end": 2640,
+      "answer": "fifth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.22989226877689362,
+      "start": 940,
+      "end": 946,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.28450101613998413,
+      "start": 121,
+      "end": 165,
+      "answer": "intraindividual changes in achievement goals",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 70,
+    "file": "Simpkins06.json",
+    "title": "Math and Science Motivation: A Longitudinal Examination of the Links Between Choices and Beliefs",
+    "country": {
+      "score": 0.8541287183761597,
+      "start": 4,
+      "end": 12,
+      "answer": "Michigan",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7139512896537781,
+      "start": 207,
+      "end": 210,
+      "answer": "227",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.3242746591567993,
+      "start": 3456,
+      "end": 3461,
+      "answer": "\u03ed .78",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.8258680105209351,
+      "start": 1351,
+      "end": 1367,
+      "answer": "middle childhood",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.12814949452877045,
+      "start": 488,
+      "end": 498,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.3861306607723236,
+      "start": 166,
+      "end": 182,
+      "answer": "math and science",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 71,
+    "file": "song 2015.json",
+    "title": "Longitudinal Investigation Into the Role of Perceived Social Support in Adolescents' Academic Motivation and Achievement",
+    "country": {
+      "score": 0.9338740110397339,
+      "start": 341,
+      "end": 347,
+      "answer": "Korean",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6948568224906921,
+      "start": 3334,
+      "end": 3343,
+      "answer": "N \u03ed 6,089",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.11358293890953064,
+      "start": 578,
+      "end": 584,
+      "answer": "6 -3-3",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.07261665910482407,
+      "start": 700,
+      "end": 707,
+      "answer": "seventh",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.07574289292097092,
+      "start": 2966,
+      "end": 2972,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.42873072624206543,
+      "start": 3391,
+      "end": 3402,
+      "answer": "mathematics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 72,
+    "file": "Spinath,+2012,+The+roles+of+competence+beliefs+and+goal+orientations+for....json",
+    "title": "The Roles of Competence Beliefs and Goal Orientations for Change in Intrinsic Motivation",
+    "country": {
+      "score": 0.854498028755188,
+      "start": 138,
+      "end": 144,
+      "answer": "German",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7913036346435547,
+      "start": 134,
+      "end": 137,
+      "answer": "348",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.5757426619529724,
+      "start": 197,
+      "end": 198,
+      "answer": "2",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.22127628326416016,
+      "start": 145,
+      "end": 149,
+      "answer": "11th",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.05237583443522453,
+      "start": 107,
+      "end": 116,
+      "answer": "Gymnasium",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.5136030316352844,
+      "start": 5272,
+      "end": 5282,
+      "answer": "psychology",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 73,
+    "file": "Spinath,B_etal_(2005)_LI.json",
+    "title": "Longitudinal analysis of the link between learning motivation and competence beliefs among elementary school children",
+    "country": {
+      "score": 0.7568461894989014,
+      "start": 195,
+      "end": 201,
+      "answer": "German",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.49478304386138916,
+      "start": 2775,
+      "end": 2776,
+      "answer": "N",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.8818881511688232,
+      "start": 232,
+      "end": 235,
+      "answer": "h 2",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.10317719727754593,
+      "start": 2659,
+      "end": 2660,
+      "answer": "7",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.08123443275690079,
+      "start": 903,
+      "end": 913,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.5966736674308777,
+      "start": 64,
+      "end": 127,
+      "answer": "motivational prerequisites of learning and achievement behavior",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 74,
+    "file": "Spinath_et_al-2008-Child_Development.json",
+    "title": "Longitudinal Analysis of Intrinsic Motivation and Competence Beliefs: Is There a Relation Over Time?",
+    "country": {
+      "score": 0.854843258857727,
+      "start": 159,
+      "end": 165,
+      "answer": "German",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7049968242645264,
+      "start": 155,
+      "end": 158,
+      "answer": "670",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.48183923959732056,
+      "start": 208,
+      "end": 228,
+      "answer": "negligible magnitude",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.1249183714389801,
+      "start": 2144,
+      "end": 2150,
+      "answer": "eighth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.18690992891788483,
+      "start": 1763,
+      "end": 1773,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.17906436324119568,
+      "start": 2954,
+      "end": 2971,
+      "answer": "school in general",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 75,
+    "file": "steiger 2014.json",
+    "title": "Low and Decreasing Self-Esteem During Adolescence Predict Adult Depression Two Decades Later",
+    "country": {
+      "score": 0.8115603923797607,
+      "start": 19,
+      "end": 25,
+      "answer": "German",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6305357813835144,
+      "start": 288,
+      "end": 295,
+      "answer": "\u03ed 1,527",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.5570639967918396,
+      "start": 5954,
+      "end": 5975,
+      "answer": "small to medium-sized",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.027689415961503983,
+      "start": 158,
+      "end": 160,
+      "answer": "T6",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.24226120114326477,
+      "start": 894,
+      "end": 903,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.1759442538022995,
+      "start": 80,
+      "end": 90,
+      "answer": "depression",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 76,
+    "file": "Stroet 2014.json",
+    "title": "Educational Psychology: An International Journal of Experimental Educational Psychology",
+    "country": {
+      "score": 0.5130565762519836,
+      "start": 122,
+      "end": 127,
+      "answer": "Dutch",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.1412554234266281,
+      "start": 148,
+      "end": 153,
+      "answer": "eight",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.5867598056793213,
+      "start": 2018,
+      "end": 2023,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.14278529584407806,
+      "start": 578,
+      "end": 585,
+      "answer": "grade 7",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.06905610114336014,
+      "start": 570,
+      "end": 613,
+      "answer": "A prototypical social constructivist school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.3707292079925537,
+      "start": 845,
+      "end": 865,
+      "answer": "intrinsic motivation",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 77,
+    "file": "Tetzner_et_al-2017-Journal_of_Personality.json",
+    "title": "Think Positive? Examining the Impact of Optimism on Academic Achievement in Early Adolescents",
+    "country": {
+      "score": 0.7135295867919922,
+      "start": 487,
+      "end": 493,
+      "answer": "German",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.682362973690033,
+      "start": 504,
+      "end": 511,
+      "answer": "5 6,010",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.47845935821533203,
+      "start": 4236,
+      "end": 4241,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.10707074403762817,
+      "start": 624,
+      "end": 627,
+      "answer": "7th",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.026911644265055656,
+      "start": 606,
+      "end": 633,
+      "answer": "middle and end of 7th grade",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.3797808587551117,
+      "start": 105,
+      "end": 164,
+      "answer": "Psychosocial Development in Adolescence and Young Adulthood",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 78,
+    "file": "van de gaer 2009.json",
+    "title": "School Engagement and Language Achievement A Longitudinal Study of Gender Differences across Secondary School",
+    "country": {
+      "score": 0.8197078704833984,
+      "start": 545,
+      "end": 552,
+      "answer": "Belgium",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.6587746143341064,
+      "start": 494,
+      "end": 499,
+      "answer": "2,270",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.2939276099205017,
+      "start": 1740,
+      "end": 1763,
+      "answer": "linear versus quadratic",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.20999842882156372,
+      "start": 284,
+      "end": 288,
+      "answer": "7-12",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.052895814180374146,
+      "start": 234,
+      "end": 243,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4024920165538788,
+      "start": 67,
+      "end": 85,
+      "answer": "gender differences",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 79,
+    "file": "van Schooten 2004.json",
+    "title": "Development of attitude toward reading adolescent literature and literary reading behavior",
+    "country": {
+      "score": 0.2235555797815323,
+      "start": 1632,
+      "end": 1643,
+      "answer": "Netherlands",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.4993453919887543,
+      "start": 142,
+      "end": 205,
+      "answer": "students in higher general and pre-academic secondary education",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.4880915880203247,
+      "start": 3656,
+      "end": 3658,
+      "answer": "5%",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.10715516656637192,
+      "start": 3237,
+      "end": 3241,
+      "answer": "7-11",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.02766408771276474,
+      "start": 418,
+      "end": 427,
+      "answer": "secondary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.26583778858184814,
+      "start": 17550,
+      "end": 17566,
+      "answer": "math and science",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 80,
+    "file": "vasalampi 2010.json",
+    "title": "Education-related goal appraisals and self-esteem during the transition to secondary education: A longitudinal study",
+    "country": {
+      "score": 0.9103341102600098,
+      "start": 6141,
+      "end": 6148,
+      "answer": "Finnish",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7149162888526917,
+      "start": 273,
+      "end": 294,
+      "answer": "Six hundred and seven",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.18876434862613678,
+      "start": 386,
+      "end": 394,
+      "answer": "\u00bc 88,000",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.19281005859375,
+      "start": 259,
+      "end": 264,
+      "answer": "ninth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.07116997987031937,
+      "start": 111,
+      "end": 131,
+      "answer": "comprehensive school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.2858593463897705,
+      "start": 124,
+      "end": 196,
+      "answer": "adolescents' life-planning and well-being in middle and late adolescence",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 81,
+    "file": "Viljaranta 2014.json",
+    "title": "The Developmental Dynamics between Interest, Self-concept of Ability, and Academic Performance",
+    "country": {
+      "score": 0.9769799113273621,
+      "start": 4002,
+      "end": 4009,
+      "answer": "Germany",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.538911759853363,
+      "start": 423,
+      "end": 426,
+      "answer": "216",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.21864239871501923,
+      "start": 12094,
+      "end": 12099,
+      "answer": "small",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.3552190959453583,
+      "start": 226,
+      "end": 229,
+      "answer": "1-6",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.06275219470262527,
+      "start": 279,
+      "end": 292,
+      "answer": "comprehensive",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.37562403082847595,
+      "start": 48,
+      "end": 70,
+      "answer": "developmental dynamics",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 82,
+    "file": "Viljaranta 2015.json",
+    "title": "The Different Role of Mothers' and Fathers' Beliefs in the Development of Adolescents' Mathematics and Literacy Task Values",
+    "country": {
+      "score": 0.8300700783729553,
+      "start": 329,
+      "end": 336,
+      "answer": "Finnish",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5503905415534973,
+      "start": 325,
+      "end": 328,
+      "answer": "206",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.14365613460540771,
+      "start": 299,
+      "end": 305,
+      "answer": "medium",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.31545209884643555,
+      "start": 576,
+      "end": 577,
+      "answer": "7",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.09340576827526093,
+      "start": 262,
+      "end": 275,
+      "answer": "comprehensive",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.49397215247154236,
+      "start": 3969,
+      "end": 4011,
+      "answer": "planning and applying for future education",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 83,
+    "file": "wang 2012.json",
+    "title": "Social Support Matters: Longitudinal Effects of Social Support on Three Dimensions of School Engagement From Middle to High School",
+    "country": {
+      "score": 0.08826784789562225,
+      "start": 2559,
+      "end": 2596,
+      "answer": "National Education Longitudinal Study",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7148630023002625,
+      "start": 299,
+      "end": 304,
+      "answer": "1,479",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.16328512132167816,
+      "start": 5103,
+      "end": 5116,
+      "answer": ".78, .82, .80",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.09129049628973007,
+      "start": 952,
+      "end": 968,
+      "answer": "7th through 11th",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.11278244107961655,
+      "start": 428,
+      "end": 438,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.2749204933643341,
+      "start": 89,
+      "end": 106,
+      "answer": "school engagement",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 84,
+    "file": "wang 2012b.json",
+    "title": "Educational and Career Interests in Math: A Longitudinal Examination of the Links Between Classroom Environment, Motivational Beliefs, and Interests",
+    "country": {
+      "score": 0.5528260469436646,
+      "start": 1859,
+      "end": 1867,
+      "answer": "Michigan",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8597778677940369,
+      "start": 306,
+      "end": 311,
+      "answer": "3,048",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.10036639869213104,
+      "start": 319,
+      "end": 383,
+      "answer": "less expectation for girls to perform well in math than for boys",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.2705863118171692,
+      "start": 640,
+      "end": 649,
+      "answer": "N \u03ed 3,048",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.11270441859960556,
+      "start": 186,
+      "end": 207,
+      "answer": "middle to high school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.47460347414016724,
+      "start": 277,
+      "end": 281,
+      "answer": "math",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 85,
+    "file": "Wang_et_al-2009-Child_Development.json",
+    "title": "The Motivational Landscape of Early Adolescence in the United States and China: A Longitudinal Investigation",
+    "country": {
+      "score": 0.67528235912323,
+      "start": 226,
+      "end": 231,
+      "answer": "China",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.465450257062912,
+      "start": 213,
+      "end": 216,
+      "answer": "825",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.1855238676071167,
+      "start": 1302,
+      "end": 1308,
+      "answer": "M = 26",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.1266413778066635,
+      "start": 404,
+      "end": 422,
+      "answer": "seventh and eighth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.19135135412216187,
+      "start": 1566,
+      "end": 1572,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4094765782356262,
+      "start": 270,
+      "end": 292,
+      "answer": "language arts and math",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 86,
+    "file": "Way 2003.json",
+    "title": "A Longitudinal Study of the Effects of Family, Friends, and School Experiences on the Psychological Adjustment of Ethnic Minority, Low-SES Adolescents",
+    "country": {
+      "score": 0.15125082433223724,
+      "start": 3278,
+      "end": 3283,
+      "answer": "White",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.658139169216156,
+      "start": 309,
+      "end": 312,
+      "answer": "100",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.10566926747560501,
+      "start": 5478,
+      "end": 5495,
+      "answer": "small sample size",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.002959742909297347,
+      "start": 657,
+      "end": 670,
+      "answer": "Middle school",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.09030178189277649,
+      "start": 657,
+      "end": 663,
+      "answer": "Middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.35563889145851135,
+      "start": 157,
+      "end": 179,
+      "answer": "adolescent development",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 87,
+    "file": "way 2007.json",
+    "title": "Students' Perceptions of School Climate During the Middle School Years: Associations with Trajectories of Psychological and Behavioral Adjustment",
+    "country": {
+      "score": 0.46830371022224426,
+      "start": 1871,
+      "end": 1874,
+      "answer": "one",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.7997974157333374,
+      "start": 297,
+      "end": 302,
+      "answer": "1,451",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.6827700734138489,
+      "start": 594,
+      "end": 609,
+      "answer": "small to medium",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.506260871887207,
+      "start": 368,
+      "end": 374,
+      "answer": "eighth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.06577691435813904,
+      "start": 56,
+      "end": 62,
+      "answer": "middle",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4424728751182556,
+      "start": 20,
+      "end": 34,
+      "answer": "school climate",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 88,
+    "file": "Weidinger et al., 2017.json",
+    "title": "Math grades and intrinsic motivation in elementary school: A longitudinal investigation of their association",
+    "country": {
+      "score": 0.6541739106178284,
+      "start": 593,
+      "end": 600,
+      "answer": "Germany",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.31384462118148804,
+      "start": 50,
+      "end": 56,
+      "answer": "45 min",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.4775814712047577,
+      "start": 6260,
+      "end": 6273,
+      "answer": "within-person",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.13208596408367157,
+      "start": 367,
+      "end": 370,
+      "answer": "1-6",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.3020001947879791,
+      "start": 287,
+      "end": 297,
+      "answer": "elementary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.42302170395851135,
+      "start": 97,
+      "end": 101,
+      "answer": "math",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 89,
+    "file": "Whitesell, 2009.json",
+    "title": "A longitudinal study of self-esteem, cultural identity, and academic success among American Indian adolescents",
+    "country": {
+      "score": 0.6102017164230347,
+      "start": 7476,
+      "end": 7485,
+      "answer": "Southwest",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8270643353462219,
+      "start": 326,
+      "end": 331,
+      "answer": "1,611",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.19276754558086395,
+      "start": 386,
+      "end": 405,
+      "answer": "High school or less",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.11553238332271576,
+      "start": 146,
+      "end": 147,
+      "answer": "4",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.04169353470206261,
+      "start": 386,
+      "end": 405,
+      "answer": "High school or less",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.17117026448249817,
+      "start": 2248,
+      "end": 2256,
+      "answer": "Drug use",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 90,
+    "file": "wigfield 1994.json",
+    "title": "Children's Competence Beliefs, Achievement Values, and General Self-Esteem Change Across Elementary and Middle School",
+    "country": {
+      "score": 0.5301751494407654,
+      "start": 105,
+      "end": 110,
+      "answer": "White",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.2494400590658188,
+      "start": 279,
+      "end": 313,
+      "answer": "third-through ninth-grade children",
+      "question": "What is the sample size?"
+    },
+    "effect_size": {
+      "score": 0.21839988231658936,
+      "start": 3211,
+      "end": 3244,
+      "answer": ".01 level of probability or above",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.3861243724822998,
+      "start": 445,
+      "end": 450,
+      "answer": "sixth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.3358655273914337,
+      "start": 947,
+      "end": 965,
+      "answer": "junior high school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.40078532695770264,
+      "start": 793,
+      "end": 823,
+      "answer": "early adolescents' self-esteem",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 91,
+    "file": "young 1997.json",
+    "title": "I THINK, THEREFORE I'M MOTIVATED: THE RELATIONS AMONG COGNITIVE STRATEGY USE, MOTIVATIONAL ORIENTATION AND CLASSROOM PERCEPTIONS OVER TIME",
+    "country": {
+      "score": 0.5202269554138184,
+      "start": 130,
+      "end": 138,
+      "answer": "Michigan",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8312370777130127,
+      "start": 492,
+      "end": 495,
+      "answer": "306",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.3045363426208496,
+      "start": 235,
+      "end": 242,
+      "answer": "r = .48",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.16804413497447968,
+      "start": 495,
+      "end": 506,
+      "answer": "sixth grade",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.10600192844867706,
+      "start": 5015,
+      "end": 5044,
+      "answer": "middle level and high schools",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.43635067343711853,
+      "start": 3946,
+      "end": 3959,
+      "answer": "English, math",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 92,
+    "file": "Zanobini_Usai2002.json",
+    "title": "Domain-specific Self-concept and Achieaement Motizsation in the Transition from Primary to Low Middle School",
+    "country": {
+      "score": 0.7387850880622864,
+      "start": 50,
+      "end": 57,
+      "answer": "Italian",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.5166819095611572,
+      "start": 337,
+      "end": 347,
+      "answer": "Ninetg-two",
+      "question": "How many people are in the study?"
+    },
+    "effect_size": {
+      "score": 0.0658145323395729,
+      "start": 26,
+      "end": 66,
+      "answer": "decline in students' grade-point average",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.5577885508537292,
+      "start": 38,
+      "end": 43,
+      "answer": "fifth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.08958549797534943,
+      "start": 7795,
+      "end": 7802,
+      "answer": "primary",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.07443094253540039,
+      "start": 88,
+      "end": 102,
+      "answer": "self-processes",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 93,
+    "file": "Zeiders, 2013.json",
+    "title": "Trajectories of Depressive Symptoms and Self-Esteem in Latino Youths: Examining the Role of Gender and Perceived Discrimination",
+    "country": {
+      "score": 0.8665938377380371,
+      "start": 51,
+      "end": 57,
+      "answer": "Latino",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.46028608083724976,
+      "start": 74,
+      "end": 79,
+      "answer": "\u03ed 323",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.36032938957214355,
+      "start": 72,
+      "end": 100,
+      "answer": "N \u03ed 323, M age \u03ed 15.31 years",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.039298538118600845,
+      "start": 685,
+      "end": 689,
+      "answer": "10th",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.010149022564291954,
+      "start": 4542,
+      "end": 4555,
+      "answer": "seventh grade",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.4728262722492218,
+      "start": 2940,
+      "end": 2951,
+      "answer": "self-esteem",
+      "question": "What is the subject?"
+    }
+  },
+  {
+    "id": 94,
+    "file": "zimmermann 1997.json",
+    "title": "A Longitudinal Study of Self-Esteem: Implications for Adolescent Development",
+    "country": {
+      "score": 0.5144343972206116,
+      "start": 285,
+      "end": 293,
+      "answer": "Michigan",
+      "question": "In what country is the study?"
+    },
+    "sample_size": {
+      "score": 0.8713750243186951,
+      "start": 155,
+      "end": 160,
+      "answer": "1,160",
+      "question": "What is the number N?"
+    },
+    "effect_size": {
+      "score": 0.15299837291240692,
+      "start": 457,
+      "end": 479,
+      "answer": ".79, .84, .82, and .79",
+      "question": "What is the affect size?"
+    },
+    "grade": {
+      "score": 0.4887515604496002,
+      "start": 137,
+      "end": 142,
+      "answer": "tenth",
+      "question": "What grade is it? (6th, 5th)"
+    },
+    "school": {
+      "score": 0.11834738403558731,
+      "start": 1716,
+      "end": 1734,
+      "answer": "junior high school",
+      "question": "What school? (elementary, middle, or high school)"
+    },
+    "subject": {
+      "score": 0.2474461942911148,
+      "start": 0,
+      "end": 11,
+      "answer": "Self-esteem",
       "question": "What is the subject?"
     }
   }
