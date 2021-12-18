@@ -1,0 +1,4 @@
+requests==2.26.0
+requests-futures==1.0.0 
+tqdm==4.62.3  
+bibtexparser==1.2.0
