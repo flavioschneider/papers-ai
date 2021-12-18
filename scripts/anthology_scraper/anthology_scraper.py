@@ -59,14 +59,14 @@ class AnthologyScraper:
         return self._save_to_json(metadata, out_meta_file) 
         
         
-    def get_papers_pdfs(self, out_pdfs_path='./', in_meta_file=None, in_meta=None, limit=None):
+    def get_papers_pdfs(self, out_path='./', in_meta_file=None, in_meta=None, start=0, end=None):
         # Get metadata 
         if in_meta_file is not None: metadata_list = self._load_from_json(in_meta_file)
         elif in_meta is not None: metadata_list = in_meta
         else: metadata_list = self.get_papers_meta()
         # Extract urls and ids 
-        pdf_urls = [paper['url']+'.pdf' for paper in metadata_list][0:limit]
-        pdf_names = [paper['ID'] for paper in metadata_list][0:limit]
+        pdf_urls = [paper['url']+'.pdf' for paper in metadata_list][start:end]
+        pdf_names = [paper['ID'] for paper in metadata_list][start:end]
         # Request all pdfs 
         if not os.path.exists(out_path): os.mkdir(out_path) 
         pdf_data = self._request_many(pdf_urls)
